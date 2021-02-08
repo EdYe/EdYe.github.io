@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EdYe.github.io</id>
     <title>Edward&apos;s Blog</title>
-    <updated>2021-01-23T22:17:23.720Z</updated>
+    <updated>2021-02-08T00:53:59.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EdYe.github.io"/>
     <link rel="self" href="https://EdYe.github.io/atom.xml"/>
@@ -10,6 +10,57 @@
     <logo>https://EdYe.github.io/images/avatar.png</logo>
     <icon>https://EdYe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Edward&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[高績效團隊的指標]]></title>
+        <id>https://EdYe.github.io/post/gao-ji-xiao-tuan-dui-de-zhi-biao/</id>
+        <link href="https://EdYe.github.io/post/gao-ji-xiao-tuan-dui-de-zhi-biao/">
+        </link>
+        <updated>2021-02-08T00:04:13.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://EdYe.github.io/post-images/1612745586715.png" alt="" loading="lazy"><br>
+Indicators of High-Performing Teams:</p>
+<ul>
+<li>When good teams finish a task, they check if they can help someone else finish theirs.</li>
+<li>Good teams talk about problems but focus on those that are within their sphere of influence.</li>
+<li>Good teams ask “why” a lot.</li>
+<li>Good teams have lunch together, or some other time within work hours where they talk about other things than work.</li>
+<li>In good teams, it’s not ok to notice a problem, and not do something about it, even if it’s not in an individual’s scope of responsibility.</li>
+<li>Good teams have quiet time. In whatever amount is valuable to them.</li>
+<li>Good teams get each other tea/coffee/water.</li>
+<li>Good teams thank each other for favors, for tea, for good ideas, for bad ideas, for observations…</li>
+<li>Good teams regularly talk about how they work together, and try to improve that.</li>
+<li>Good teams care that other team members and stakeholders understand the work they’re doing.</li>
+<li>Good teams talk about “we built” or “we failed”, rather than “I built” or “I failed”.</li>
+<li>Good teams respect agreed decision making structures, but they often fight for independence to make their own decisions.</li>
+<li>Good teams encourage each other to share work early, rather than wait for it to be “perfect”.</li>
+<li>Good teams encourage each other to leave on time.</li>
+<li>Good teams start their daily stand-ups on time.</li>
+<li>Good teams welcome more junior members of the team, and enjoy mentoring them.</li>
+<li>Good teams often don't care very much if it looks like they’re working hard.</li>
+<li>Good teams are interested in each other personally.</li>
+</ul>
+<p>高績效團隊的指標：</p>
+<ul>
+<li>優秀的團隊完成一項任務時，他們會檢查是否可以幫助別人完成任務。</li>
+<li>優秀的團隊談論問題，但專注於影響力範圍內的問題。</li>
+<li>優秀的團隊經常問“為什麼”。</li>
+<li>優秀的團隊一起吃午飯，或在工作時間談論工作以外的其他事情。</li>
+<li>優秀的團隊中，發現問題卻不去處理是無法被接受的，即使問題不屬於個人職責範圍。</li>
+<li>優秀的團隊有安靜的時間。對他們而言，無論時間長短都是有價值的。</li>
+<li>優秀的團隊會自然地幫對方倒茶/咖啡/水。</li>
+<li>優秀的團隊互相感謝，感謝對方的幫助：倒茶、提供好主意、提供壞主意、分享觀察到情形……等等</li>
+<li>優秀的團隊會定期談論他們如何一起共事，並持續改善公事的方法。</li>
+<li>優秀的團隊關心其他團隊成員和利益相關者，主動了解他們正在處理的工作。</li>
+<li>優秀的團隊談論的是“我們”建立了或“我們”失敗了，而不是“我”建立了或“我”失敗了。</li>
+<li>優秀的團隊尊重達成共識後的決策，但做出決策前，他們會主動表達並爭取各自的看法。</li>
+<li>優秀的團隊會互相鼓勵分享彼此的工作心得，而不是等到工作做到“完美”之後才願意分享。</li>
+<li>優秀的團隊會互相鼓勵準時下班。</li>
+<li>優秀的團隊會準時開始參與站立會議。</li>
+<li>優秀的團隊歡迎更多的初級成員，並樂於指導他們。</li>
+<li>優秀的團隊不在意彼此是否“看起來”在努力工作。</li>
+<li>優秀的團隊對彼此感興趣。</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://EdYe.github.io/post/about/</id>
