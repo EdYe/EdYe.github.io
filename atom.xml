@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EdYe.github.io</id>
     <title>Edward&apos;s Blog</title>
-    <updated>2022-01-13T13:37:29.732Z</updated>
+    <updated>2022-01-13T13:41:18.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EdYe.github.io"/>
     <link rel="self" href="https://EdYe.github.io/atom.xml"/>
@@ -111,24 +111,24 @@ Indicators of High-Performing Teams:</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于]]></title>
+        <title type="html"><![CDATA[關於]]></title>
         <id>https://EdYe.github.io/post/about/</id>
         <link href="https://EdYe.github.io/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+<p>歡迎來到我的小站，很高興遇見你！🤝</p>
 </blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<p>陈述自己的学习心得</p>
+<h2 id="關於本站">🏠 關於本站</h2>
+<p>陳述自己的學習心得</p>
 <h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<p>我是叶承翊，英文名是 Edward。</p>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>我是葉承翊，也可以叫我 Edward。</p>
+<h2 id="興趣愛好">⛹ 興趣愛好</h2>
 <ul>
-<li>阅读商业类书籍</li>
+<li>閱讀商管類書</li>
 <li>玩 Switch 游戏</li>
 </ul>
-<h2 id="联系我呀">📬 联系我呀</h2>
+<h2 id="聯繫我呀">📬 聯繫我呀</h2>
 <p>yehwh0222@gmail.com</p>
 ]]></content>
     </entry>
