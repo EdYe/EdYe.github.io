@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EdYe.github.io</id>
     <title>Edward&apos;s Blog</title>
-    <updated>2022-01-13T13:41:18.452Z</updated>
+    <updated>2022-01-17T15:31:57.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EdYe.github.io"/>
     <link rel="self" href="https://EdYe.github.io/atom.xml"/>
@@ -10,6 +10,107 @@
     <logo>https://EdYe.github.io/images/avatar.png</logo>
     <icon>https://EdYe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Edward&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[The Five Dysfunctions of A Team]]></title>
+        <id>https://EdYe.github.io/post/the-five-dysfunctions-of-a-team/</id>
+        <link href="https://EdYe.github.io/post/the-five-dysfunctions-of-a-team/">
+        </link>
+        <updated>2022-01-17T14:44:22.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://EdYe.github.io/post-images/1642430820810.png" alt="" loading="lazy"><br>
+中文版：克服團隊領導的5大障礙</p>
+<h1 id="5-大障礙">5 大障礙</h1>
+<ol>
+<li>第一個障礙，團隊成員之間喪失信賴。<br>
+基本上，這源自於成員不願意在團隊面前暴露個人的弱點。如果團隊成員無法真誠溝通彼此的錯誤和弱點，就根本不可能建立信任關係。</li>
+<li>無法建立信任，就會衍生出第二個障礙：害怕衝突。<br>
+喪失信賴的團隊，無法針對理念，進行毫不保留且激烈的辯論，只會拐彎抹角，避重就輕。</li>
+<li>一旦缺乏建設性衝突，團隊勢必因此出現第三個障礙：缺乏承諾。<br>
+團隊成員無法以激烈且公開的辯論方式表達意見，因此也很難對決策形成真正的共識、進而全力執行。相反地，成員有可能只是在會議中陽奉陰違。</li>
+<li>缺乏真正的承諾與共識，會導致團隊成員間形成第四個障礙：規避問責。<br>
+如果團隊成員對明確的行動計畫缺乏承諾，當發現同僚出現有損團隊利益、必須糾正的行為舉止時，往往躊躇不前；即使是目標焦點最清楚、急迫感最強烈的人也不例外。</li>
+<li>當團隊成員無法互相問責，將製造有利於第五個障礙「忽視成果」發展的環境。<br>
+當團隊成員把個人的需要，甚至所屬部門的需要，置於團隊的整體目標之上時，忽視成果的團隊障礙於焉而生。</li>
+</ol>
+<p>將上述障礙反推，真正同心協力的團隊，成員的行為表現：</p>
+<ol>
+<li>團隊成員互相信任。</li>
+<li>團隊成員毫不保留地投入有關理念的衝突。</li>
+<li>團隊成員承諾達成決策和行動計畫。</li>
+<li>團隊成員互相問責要求，為消除計畫中的障礙負起責任。</li>
+<li>團隊成員將重點放在達成集體成果。</li>
+</ol>
+<h1 id="團隊評估">團隊評估</h1>
+<p>利用下列記分方式，標示出團隊符合每項敘述的程度。1 = 很少，2 = 有時，3 = 經常。</p>
+<ol>
+<li>團隊成員毫不保留且熱烈地討論議題。</li>
+<li>團隊成員指陳彼此的效率不彰或非建設性行為。</li>
+<li>團隊成員清楚其他同事正在進行的工作內容，以及他們對團隊整體的利益貢獻。</li>
+<li>當團隊成員言行不當或可能對團隊造成傷害時，會很快且真心的道歉。</li>
+<li>團隊成員願意為了團隊利益，犧牲自身部門的好處。</li>
+<li>團隊成員公開承認自己的弱點和錯誤。</li>
+<li>團隊會議引人興趣，且不枯燥。</li>
+<li>會議結束後，團隊成員相信，同時即使一開始有歧見，仍會全力達成決議。</li>
+<li>無法達成團隊目標，明顯影響士氣。</li>
+<li>團隊會議中，最重要也最棘手的問題，會照樣被提出來討論，尋求解決之道。</li>
+<li>團隊成員非常在意有可能使同事失望。</li>
+<li>團隊成員了解彼此的個人生活，談論這類話題是也很自在。</li>
+<li>會議結束時，對於討論的內容有明確具體的解決方案，並會付諸執行。</li>
+<li>團隊成員挑戰彼此的計畫與作法。</li>
+<li>團隊成員不急於為自身的貢獻爭功，但能很快指出別人的功勞。</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>障礙1</th>
+<th>障礙2</th>
+<th>障礙3</th>
+<th>障礙4</th>
+<th>障礙5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>喪失信賴</td>
+<td>害怕衝突</td>
+<td>缺乏承諾</td>
+<td>規避問責</td>
+<td>忽視成果</td>
+</tr>
+<tr>
+<td>敘述4</td>
+<td>敘述1</td>
+<td>敘述3</td>
+<td>敘述2</td>
+<td>敘述5</td>
+</tr>
+<tr>
+<td>敘述6</td>
+<td>敘述7</td>
+<td>敘述8</td>
+<td>敘述11</td>
+<td>敘述9</td>
+</tr>
+<tr>
+<td>敘述12</td>
+<td>敘述10</td>
+<td>敘述13</td>
+<td>敘述14</td>
+<td>敘述15</td>
+</tr>
+<tr>
+<td>合計得分</td>
+<td>合計得分</td>
+<td>合計得分</td>
+<td>合計得分</td>
+<td>合計得分</td>
+</tr>
+</tbody>
+</table>
+<p>8 或 9 分表示，團隊可能沒有該項障礙。<br>
+6 或 7 分表示，團隊可能有該項障礙。<br>
+3 至 5 分表示，該項團隊障礙可能亟需處理。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leadership and Self-Deception]]></title>
         <id>https://EdYe.github.io/post/leadership-and-self-deception/</id>
