@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EdYe.github.io</id>
     <title>Edward&apos;s Blog</title>
-    <updated>2022-01-24T21:28:19.775Z</updated>
+    <updated>2022-01-24T22:28:26.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EdYe.github.io"/>
     <link rel="self" href="https://EdYe.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://EdYe.github.io/post/min-jie-yu-ling-dao-li-ceng-ji-de-guan-xi/">
         </link>
         <updated>2022-01-24T21:24:48.000Z</updated>
-        <content type="html"><![CDATA[<p>先說結論，敏捷(Agile)或精益(Lean)的落地與實踐的成功與否，端看領導階層裡的人，他/她的 leadership level.</p>
+        <content type="html"><![CDATA[<p><img src="https://EdYe.github.io/post-images/1643063299801.png" alt="" loading="lazy"><br>
+先說結論，敏捷(Agile)或精益(Lean)的落地與實踐的成功與否，端看領導階層裡的人，他/她的 leadership level.</p>
 <p>我從 2001 年開始實踐極限編程、2010年首次接觸 Scrum，到 2018 年學習 Agile Leadership；至此，我都沒有領悟到為何敏捷實踐被某些人使用出來，就是會「歪樓」。</p>
 <p>看了 Scrum Alliance 的主席 Evelyn 給我開的20幾本書，其中這幾本《Leadership Agility》《部落領導力》、《重塑組織》、《領導者的意識進化》讓我慢慢領悟到，原來，如果世界觀或思維沒有提升到書中談到的層級，對方只會用他/她自己的世界觀來落實敏捷，當然「歪樓」。</p>
 <p>用一個 metaphor 來解釋，也許更可以具像。一個習慣「預測-控制」管理模式的經理，你告訴對方可以透過「感知-回應」的方式來管理團隊，他/她只會認為你在胡扯，或是把你所謂的「sense-respond」想辦法轉成他/她自己理解的「predict-control」</p>
