@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EdYe.github.io</id>
     <title>Edward&apos;s Blog</title>
-    <updated>2022-01-25T23:46:59.483Z</updated>
+    <updated>2022-01-25T23:50:35.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EdYe.github.io"/>
     <link rel="self" href="https://EdYe.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://EdYe.github.io/images/avatar.png</logo>
     <icon>https://EdYe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Edward&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Thinking in Go]]></title>
+        <id>https://EdYe.github.io/post/thinking-in-go/</id>
+        <link href="https://EdYe.github.io/post/thinking-in-go/">
+        </link>
+        <updated>2022-01-25T23:49:33.000Z</updated>
+        <content type="html"><![CDATA[<p>Go 語言打破了我對程式語言的認知，它返璞歸真，卻依舊強大。</p>
+<p>沒接觸 Go 之前，我以為它會比 Java 或 Scala 還要複雜，以為它像 C++ 一樣，是一種支援各種 programming paradigms 的語言。接觸它之後，沒想到它把 OOP 拿掉了！沒想到它有 C 的影子！不免讓我懷疑，這個「走回頭路」的「新」語言，怎麼有辦法拿來開發 Kubernetes 這樣優異的容器管理系統？</p>
+<p>接觸的越深，就越覺得自己回不去 Java 了，更別提那語法「靈活」的 Scala。連 Go 的 multiple threading 機制：Go routine &amp; channel，都讓我驚嘆不已！</p>
+<p>Go 讓我明白，不是越多的 key words，不是越複雜語法，不是越隱晦難懂的 pattern matching，才能寫出強大的應用。這讓我想起一句話：「越是聰明的人，越懂得用簡單的方式來完成事情；反之，則是把事情弄得很複雜，來掩飾自己的無知，以及突顯自己的聰明。」</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thinking in Functional Programming]]></title>
         <id>https://EdYe.github.io/post/thinking-in-functional-programming/</id>
