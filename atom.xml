@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EdYe.github.io</id>
     <title>Edward&apos;s Blog</title>
-    <updated>2022-01-24T22:28:26.300Z</updated>
+    <updated>2022-01-25T23:46:59.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EdYe.github.io"/>
     <link rel="self" href="https://EdYe.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://EdYe.github.io/images/avatar.png</logo>
     <icon>https://EdYe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Edward&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Thinking in Functional Programming]]></title>
+        <id>https://EdYe.github.io/post/thinking-in-functional-programming/</id>
+        <link href="https://EdYe.github.io/post/thinking-in-functional-programming/">
+        </link>
+        <updated>2022-01-25T23:38:29.000Z</updated>
+        <content type="html"><![CDATA[<p>Functional Programming (FP) 是一個全新的 programming paradigm，OOP 是一種 programming paradigm，procedural language 也是一種。</p>
+<p>想精通 FP，必須理解數學的 Category Theory。這樣就會了解，為什麼會有 map, flapMap 等這些 functions。它們各自對應到 Category Theory 裡面的數學詞彙。</p>
+<p>大家有看過有人寫出來的 Java 程式，跟 C 沒什麼兩樣嗎？因為寫的人不了解 OOP 背後的精神。同理，很多人寫出來的 Scala 程式，充滿了 OOP 的風格，因為寫的人不明白 FP 背後的原理。</p>
+<p>總結，FP 不好學，因為要從 OOP 的 paradigm 轉換到 FP 的 paradigm，那是 mental model 的轉變，不僅止於「語法」的轉換而已。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[敏捷與領導力層級的關係]]></title>
         <id>https://EdYe.github.io/post/min-jie-yu-ling-dao-li-ceng-ji-de-guan-xi/</id>
