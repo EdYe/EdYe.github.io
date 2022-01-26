@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EdYe.github.io</id>
     <title>Edward&apos;s Blog</title>
-    <updated>2022-01-25T23:50:35.471Z</updated>
+    <updated>2022-01-26T11:28:36.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EdYe.github.io"/>
     <link rel="self" href="https://EdYe.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://EdYe.github.io/post/thinking-in-go/">
         </link>
         <updated>2022-01-25T23:49:33.000Z</updated>
-        <content type="html"><![CDATA[<p>Go 語言打破了我對程式語言的認知，它返璞歸真，卻依舊強大。</p>
+        <content type="html"><![CDATA[<p><img src="https://EdYe.github.io/post-images/1643196364925.png" alt="" loading="lazy"><br>
+Go 語言打破了我對程式語言的認知，它返璞歸真，卻依舊強大。</p>
 <p>沒接觸 Go 之前，我以為它會比 Java 或 Scala 還要複雜，以為它像 C++ 一樣，是一種支援各種 programming paradigms 的語言。接觸它之後，沒想到它把 OOP 拿掉了！沒想到它有 C 的影子！不免讓我懷疑，這個「走回頭路」的「新」語言，怎麼有辦法拿來開發 Kubernetes 這樣優異的容器管理系統？</p>
 <p>接觸的越深，就越覺得自己回不去 Java 了，更別提那語法「靈活」的 Scala。連 Go 的 multiple threading 機制：Go routine &amp; channel，都讓我驚嘆不已！</p>
 <p>Go 讓我明白，不是越多的 key words，不是越複雜語法，不是越隱晦難懂的 pattern matching，才能寫出強大的應用。這讓我想起一句話：「越是聰明的人，越懂得用簡單的方式來完成事情；反之，則是把事情弄得很複雜，來掩飾自己的無知，以及突顯自己的聰明。」</p>
@@ -28,7 +29,8 @@
         <link href="https://EdYe.github.io/post/thinking-in-functional-programming/">
         </link>
         <updated>2022-01-25T23:38:29.000Z</updated>
-        <content type="html"><![CDATA[<p>Functional Programming (FP) 是一個全新的 programming paradigm，OOP 是一種 programming paradigm，procedural language 也是一種。</p>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://EdYe.github.io/post-images/1643196505284.png" alt="" loading="lazy"></figure>
+<p>Functional Programming (FP) 是一個全新的 programming paradigm，OOP 是一種 programming paradigm，procedural language 也是一種。</p>
 <p>想精通 FP，必須理解數學的 Category Theory。這樣就會了解，為什麼會有 map, flapMap 等這些 functions。它們各自對應到 Category Theory 裡面的數學詞彙。</p>
 <p>大家有看過有人寫出來的 Java 程式，跟 C 沒什麼兩樣嗎？因為寫的人不了解 OOP 背後的精神。同理，很多人寫出來的 Scala 程式，充滿了 OOP 的風格，因為寫的人不明白 FP 背後的原理。</p>
 <p>總結，FP 不好學，因為要從 OOP 的 paradigm 轉換到 FP 的 paradigm，那是 mental model 的轉變，不僅止於「語法」的轉換而已。</p>
