@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EdYe.github.io</id>
     <title>Edward&apos;s Blog</title>
-    <updated>2022-01-26T11:28:36.982Z</updated>
+    <updated>2022-03-06T21:07:35.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EdYe.github.io"/>
     <link rel="self" href="https://EdYe.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://EdYe.github.io/images/avatar.png</logo>
     <icon>https://EdYe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Edward&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Drive]]></title>
+        <id>https://EdYe.github.io/post/drive/</id>
+        <link href="https://EdYe.github.io/post/drive/">
+        </link>
+        <updated>2022-03-06T20:04:41.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://EdYe.github.io/post-images/1646597433863.jpeg" alt="" loading="lazy"></figure>
+<p>中譯本：動機，單純的力量</p>
+<h1 id="內在驅動力">內在驅動力</h1>
+<h2 id="自主-automacy">自主 (Automacy)</h2>
+<p>主導我們自己人生的慾望。</p>
+<p>員工必須擁有四個面向的自主</p>
+<ol>
+<li>工作內容 (做什麼工作)</li>
+<li>工作時間 (什麼時候做)</li>
+<li>工作方式 (用什麼方法做到)</li>
+<li>團隊夥伴 (與哪些人合作)</li>
+</ol>
+<h2 id="專精-mastery">專精 (Mastery)</h2>
+<p>對自己念茲在茲的事情精益求精的衝動。</p>
+<p>要達到專精，<strong>心流</strong>是不可或缺的條件；但是，產生心流並不能保證專精。</p>
+<p>專精三法則</p>
+<ol>
+<li>專精是一種具備<strong>成長型思維</strong>的心態。</li>
+<li>專精是一種<strong>艱苦</strong>。具備<strong>堅忍</strong>特質的人，才能度過邁向專精過程中的艱苦。堅忍的定義是：對<strong>長遠目標</strong>所抱持的熱情與堅毅。</li>
+<li>專精是一條漸近線。我們可以趨近它，可以瞄準它，可以離它非常、非常近。但是，永遠觸摸不到它。雖然，這會帶來挫折。同時，追求的快樂勝過實現。</li>
+</ol>
+<figure data-type="image" tabindex="2"><img src="https://EdYe.github.io/post-images/1646600144493.png" alt="" loading="lazy"></figure>
+<h2 id="目的-sense-of-purpose">目的 (Sense of Purpose)</h2>
+<p>從事一個超越小我的遠大目標的渴望。</p>
+<blockquote>
+<p>除非你感覺到自己歸屬於一種比你更恆久、更偉大的東西，否則你不可能過一種真正優質的生活。</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thinking in Go]]></title>
         <id>https://EdYe.github.io/post/thinking-in-go/</id>
@@ -269,7 +304,8 @@ Indicators of High-Performing Teams:</p>
 <h2 id="興趣愛好">⛹ 興趣愛好</h2>
 <ul>
 <li>閱讀商管類書</li>
-<li>玩 Switch 游戏</li>
+<li>健身</li>
+<li>玩 Switch 遊戲</li>
 </ul>
 <h2 id="聯繫我呀">📬 聯繫我呀</h2>
 <p>yehwh0222@gmail.com</p>
