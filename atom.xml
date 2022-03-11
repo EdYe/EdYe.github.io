@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EdYe.github.io</id>
     <title>Edward&apos;s Blog</title>
-    <updated>2022-03-06T21:07:35.404Z</updated>
+    <updated>2022-03-11T20:42:25.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EdYe.github.io"/>
     <link rel="self" href="https://EdYe.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://EdYe.github.io/images/avatar.png</logo>
     <icon>https://EdYe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Edward&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[何謂敏捷]]></title>
+        <id>https://EdYe.github.io/post/he-wei-min-jie/</id>
+        <link href="https://EdYe.github.io/post/he-wei-min-jie/">
+        </link>
+        <updated>2022-03-11T20:36:33.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://EdYe.github.io/post-images/1647031324472.png" alt="" loading="lazy"></figure>
+<blockquote>
+<p>敏捷意味著敏捷，即適應，擁抱變化和學習。</p>
+</blockquote>
+<p>Agile means agile—adaptive, embracing change, and learning.</p>
+<blockquote>
+<p>敏捷一詞並不是隨機選擇的。在2001年的猶他州研討會上，一群現代方法學的領導人召集了會議，他們考慮了兩個替代名稱：自適應或敏捷。兩者都強調靈活性。</p>
+</blockquote>
+<p>The term agile was not chosen at random; at the Utah workshop in 2001 where a group of modern methodology leaders convened, two alternative names were considered: adaptive or agile. Both emphasize flexibility.</p>
+<blockquote>
+<p>敏捷並不意味著交付速度更快。敏捷並不意味著更少的缺陷或更高的質量。敏捷並不意味著更高的生產率。敏捷意味著敏捷—優雅快速地移動，機敏和適應能力強。擁抱變化並成為變化的主人-通過適應能力比競爭對手有更快的變化來競爭。精益和敏捷實踐都支持這種敏捷性。</p>
+</blockquote>
+<p>Agile does not mean delivering faster. Agile does not mean fewer defects or higher quality. Agile does not mean higher productivity. Agile means agile—the ability to move with quick easy grace, to be nimble and adaptable. To embrace change and become masters of change—to compete through adaptability by being able to change faster than your competition can. This agility is supported by both lean and agile practices.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drive]]></title>
         <id>https://EdYe.github.io/post/drive/</id>
