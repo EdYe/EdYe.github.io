@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EdYe.github.io</id>
     <title>Edward&apos;s Blog</title>
-    <updated>2022-03-14T20:27:21.505Z</updated>
+    <updated>2022-03-19T10:40:30.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EdYe.github.io"/>
     <link rel="self" href="https://EdYe.github.io/atom.xml"/>
@@ -59,6 +59,14 @@
 <p>敏捷並不意味著交付速度更快。敏捷並不意味著更少的缺陷或更高的質量。敏捷並不意味著更高的生產率。敏捷意味著敏捷—優雅快速地移動，機敏和適應能力強。擁抱變化並成為變化的主人-通過適應能力比競爭對手有更快的變化來競爭。精益和敏捷實踐都支持這種敏捷性。</p>
 </blockquote>
 <p>Agile does not mean delivering faster. Agile does not mean fewer defects or higher quality. Agile does not mean higher productivity. Agile means agile—the ability to move with quick easy grace, to be nimble and adaptable. To embrace change and become masters of change—to compete through adaptability by being able to change faster than your competition can. This agility is supported by both lean and agile practices.</p>
+<p>敏捷的誕生是具有時代背景的，主要是兩個方面：</p>
+<ol>
+<li>從「事」的角度來講，我們生活的世界從因果世界，變成了複雜的世界。</li>
+<li>從「人」的角度來講，傳統的管理相信X理論，而新時代的年輕人更適用Y理論。</li>
+</ol>
+<p>敏捷就是我們在複雜世界加上Y理論的情況下，如何改變我們的思維模式和行為模式。所謂的Being Agile，就是在這種情況下所需的思維模式。所謂的Doing Agile，就是在這種情況下所需的行為模式。</p>
+<p>敏捷是一種以高速、高頻率PDCA循環的角度，處理複雜問題的態度及方法。</p>
+<p>敏捷就是需求不明確、技術手段不明確下的產出成果的方法論。透過不斷的迭代，透過不斷的聚焦需求的真實性，技術可行性，不斷修正目標前進。</p>
 ]]></content>
     </entry>
     <entry>
