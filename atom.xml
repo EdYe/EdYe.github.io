@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EdYe.github.io</id>
     <title>Edward&apos;s Blog</title>
-    <updated>2022-03-19T10:40:30.490Z</updated>
+    <updated>2022-03-25T22:38:32.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EdYe.github.io"/>
     <link rel="self" href="https://EdYe.github.io/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://EdYe.github.io/images/avatar.png</logo>
     <icon>https://EdYe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Edward&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[目標 - 簡單有效的常識管理]]></title>
+        <id>https://EdYe.github.io/post/mu-biao-jian-dan-you-xiao-de-chang-shi-guan-li/</id>
+        <link href="https://EdYe.github.io/post/mu-biao-jian-dan-you-xiao-de-chang-shi-guan-li/">
+        </link>
+        <updated>2022-03-25T22:24:56.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://EdYe.github.io/post-images/1648247129390.jpeg" alt="" loading="lazy"></figure>
+<h1 id="管理者要具備的其實就是能回答以下三個問題的能力">管理者要具備的，其實就是能回答以下三個問題的能力。</h1>
+<blockquote>
+<p>應該改變哪些事情？</p>
+</blockquote>
+<p>你能想像即使在非常複雜的環境裡，都有能力一針見血地找出核心問題，代表什麼意義嗎？</p>
+<blockquote>
+<p>要朝什麼方向改變？</p>
+</blockquote>
+<p>能夠擬訂和檢討能真正解決所有問題的解決方案，而不會製造出新的問題，代表什麼意義？</p>
+<blockquote>
+<p>要如何改變？</p>
+</blockquote>
+<p>更重要的是，能平穩地進行像這樣的重大改革，而且不會引起抗拒，反而激發改革的熱情。你能想像擁有這種能力，會是什麼景象嗎？</p>
+<h1 id="達成持續改善的步驟">達成持續改善的步驟</h1>
+<ol>
+<li>找出系統的制約因素。</li>
+<li>決定如何利用系統的制約因素。</li>
+<li>根據上述的決定，調整其他的一切。</li>
+<li>把系統的制約因素鬆綁。</li>
+<li>警告！假如步驟4打破了原有的制約因素，那就回到步驟1。千萬不要讓組織的慣性引發系統的制約因素。</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SCARF 模型]]></title>
         <id>https://EdYe.github.io/post/scarf-mo-xing/</id>
@@ -345,29 +375,6 @@ Indicators of High-Performing Teams:</p>
 <li>優秀的團隊不在意彼此是否“看起來”在努力工作。</li>
 <li>優秀的團隊對彼此感興趣。</li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於]]></title>
-        <id>https://EdYe.github.io/post/about/</id>
-        <link href="https://EdYe.github.io/post/about/">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>歡迎來到我的小站，很高興遇見你！🤝</p>
-</blockquote>
-<h2 id="關於本站">🏠 關於本站</h2>
-<p>陳述自己的學習心得</p>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<p>我是葉承翊，也可以叫我 Edward。</p>
-<h2 id="興趣愛好">⛹ 興趣愛好</h2>
-<ul>
-<li>閱讀商管類書</li>
-<li>健身</li>
-<li>玩 Switch 遊戲</li>
-</ul>
-<h2 id="聯繫我呀">📬 聯繫我呀</h2>
-<p>yehwh0222@gmail.com</p>
 ]]></content>
     </entry>
 </feed>
