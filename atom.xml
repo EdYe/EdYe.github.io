@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EdYe.github.io</id>
     <title>Edward&apos;s Blog</title>
-    <updated>2022-03-25T22:38:32.674Z</updated>
+    <updated>2022-04-03T00:16:24.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EdYe.github.io"/>
     <link rel="self" href="https://EdYe.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://EdYe.github.io/images/avatar.png</logo>
     <icon>https://EdYe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Edward&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Quiet Leadership]]></title>
+        <id>https://EdYe.github.io/post/quiet-leadership/</id>
+        <link href="https://EdYe.github.io/post/quiet-leadership/">
+        </link>
+        <updated>2022-04-02T12:51:09.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://EdYe.github.io/post-images/1648903956524.png" alt="" loading="lazy"><br>
+中譯本：沈靜領導六步法</p>
+<h1 id="人類做事的特性">人類做事的特性</h1>
+<ol>
+<li>在全新全意地做出某種行為之前，人們需要自己先想通。</li>
+<li>由於能量的需要，人們的思維有一定程度的慣性。</li>
+<li>頭腦中靈光一閃時會釋放一種能激勵人想要做事情的能量。</li>
+</ol>
+<p>因此，不要告訴對方應該怎麼做；而是引導對方自己找出做事的方法。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[目標 - 簡單有效的常識管理]]></title>
         <id>https://EdYe.github.io/post/mu-biao-jian-dan-you-xiao-de-chang-shi-guan-li/</id>
@@ -323,57 +340,6 @@ Go 語言打破了我對程式語言的認知，它返璞歸真，卻依舊強�
 <li>如果自己曾經掉進框框，不要否認發生過這件事。坦承地道歉，然後繼續向前走，想辦法在未來給人更多的幫助。</li>
 <li>不要把焦點放在別人做錯什麼，要把焦點放在你能夠做對、且可以幫助別人的事。</li>
 <li>不要去想他人是不是在幫你，要想自己是不是在幫別人。</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高績效團隊的指標]]></title>
-        <id>https://EdYe.github.io/post/gao-ji-xiao-tuan-dui-de-zhi-biao/</id>
-        <link href="https://EdYe.github.io/post/gao-ji-xiao-tuan-dui-de-zhi-biao/">
-        </link>
-        <updated>2021-02-08T00:04:13.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://EdYe.github.io/post-images/1612745586715.png" alt="" loading="lazy"><br>
-Indicators of High-Performing Teams:</p>
-<ul>
-<li>When good teams finish a task, they check if they can help someone else finish theirs.</li>
-<li>Good teams talk about problems but focus on those that are within their sphere of influence.</li>
-<li>Good teams ask “why” a lot.</li>
-<li>Good teams have lunch together, or some other time within work hours where they talk about other things than work.</li>
-<li>In good teams, it’s not ok to notice a problem, and not do something about it, even if it’s not in an individual’s scope of responsibility.</li>
-<li>Good teams have quiet time. In whatever amount is valuable to them.</li>
-<li>Good teams get each other tea/coffee/water.</li>
-<li>Good teams thank each other for favors, for tea, for good ideas, for bad ideas, for observations…</li>
-<li>Good teams regularly talk about how they work together, and try to improve that.</li>
-<li>Good teams care that other team members and stakeholders understand the work they’re doing.</li>
-<li>Good teams talk about “we built” or “we failed”, rather than “I built” or “I failed”.</li>
-<li>Good teams respect agreed decision making structures, but they often fight for independence to make their own decisions.</li>
-<li>Good teams encourage each other to share work early, rather than wait for it to be “perfect”.</li>
-<li>Good teams encourage each other to leave on time.</li>
-<li>Good teams start their daily stand-ups on time.</li>
-<li>Good teams welcome more junior members of the team, and enjoy mentoring them.</li>
-<li>Good teams often don't care very much if it looks like they’re working hard.</li>
-<li>Good teams are interested in each other personally.</li>
-</ul>
-<p>高績效團隊的指標：</p>
-<ul>
-<li>優秀的團隊完成一項任務時，他們會檢查是否可以幫助別人完成任務。</li>
-<li>優秀的團隊談論問題，但專注於影響力範圍內的問題。</li>
-<li>優秀的團隊經常問“為什麼”。</li>
-<li>優秀的團隊一起吃午飯，或在工作時間談論工作以外的其他事情。</li>
-<li>優秀的團隊中，發現問題卻不去處理是無法被接受的，即使問題不屬於個人職責範圍。</li>
-<li>優秀的團隊有安靜的時間。對他們而言，無論時間長短都是有價值的。</li>
-<li>優秀的團隊會自然地幫對方倒茶/咖啡/水。</li>
-<li>優秀的團隊互相感謝，感謝對方的幫助：倒茶、提供好主意、提供壞主意、分享觀察到情形……等等</li>
-<li>優秀的團隊會定期談論他們如何一起共事，並持續改善公事的方法。</li>
-<li>優秀的團隊關心其他團隊成員和利益相關者，主動了解他們正在處理的工作。</li>
-<li>優秀的團隊談論的是“我們”建立了或“我們”失敗了，而不是“我”建立了或“我”失敗了。</li>
-<li>優秀的團隊尊重達成共識後的決策，但做出決策前，他們會主動表達並爭取各自的看法。</li>
-<li>優秀的團隊會互相鼓勵分享彼此的工作心得，而不是等到工作做到“完美”之後才願意分享。</li>
-<li>優秀的團隊會互相鼓勵準時下班。</li>
-<li>優秀的團隊會準時開始參與站立會議。</li>
-<li>優秀的團隊歡迎更多的初級成員，並樂於指導他們。</li>
-<li>優秀的團隊不在意彼此是否“看起來”在努力工作。</li>
-<li>優秀的團隊對彼此感興趣。</li>
 </ul>
 ]]></content>
     </entry>
