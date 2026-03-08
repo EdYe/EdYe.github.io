@@ -39,6 +39,26 @@
     "url": "/notes/startup-embrace-trouble"
   },
   {
+    "id": "modern-architecture-101",
+    "title": "現代架構101：簡單即是最好的架構",
+    "category": "影片筆記",
+    "tags": [
+      "架構師",
+      "API設計",
+      "CQRS",
+      "快取",
+      "訊息佇列"
+    ],
+    "description": "由 Jerry Nixon 在 NDC Copenhagen 2025 演講，逐步構建現代化軟體架構並解釋每個組件的存在理由，核心理念是「簡單即是最好的架構」。",
+    "quote": "簡單即是最好的架構。",
+    "action": "延遲決策，根據需求選擇合適的組件，不在專案初期堆疊所有技術。",
+    "image": "/images/影片筆記/modern-architecture-101.png",
+    "date": "2026-03-08",
+    "source_has_timestamps": true,
+    "body": "這部影片是由 Jerry Nixon 在 NDC Copenhagen 2025 發表的演講，主題為「現代架構 101：給新工程師與健忘專家的指南」 (Modern Architecture 101 for New Engineers & Forgetful Experts)。 講者以深入淺出的方式，逐步構建一個現代化的軟體架構，並解釋了每個組件存在的理由。核心理念是「簡單即是最好的架構」(Simplicity is the best architecture)。 以下是影片的重點摘要： 1. 架構師的角色 [(http://www.youtube.com/watch?v=WRg13ZeUpY&t=544)]  架構師是負責做出「最昂貴決定」的人，也就是那些日後最難以更改的決定。  架構師的主要工作往往是說「不」，或者是「晚點再做」，以防止解決方案變得過於複雜。  目標是成為「簡單性」的守護者。 2. 基礎架構演進：從客戶端到 API [(http://www.youtube.com/watch?v=WRg13ZeUpY&t=993)]  資料庫分離：應用程式（Client）不應直接連",
+    "url": "/notes/modern-architecture-101"
+  },
+  {
     "id": "grey-rock-effect",
     "title": "灰岩效應：讓惡意者無從攻擊的心理策略",
     "category": "心理學",
