@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} - 視覺筆記</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <style>
+    .note-page { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+    .note-image img { width: 100%; border-radius: 12px; margin-bottom: 1.5rem; }
+    .note-meta { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem; align-items: center; }
+    .note-body { line-height: 1.8; color: #444; }
+    .note-body h2 { margin: 1.5rem 0 0.5rem; color: #2c2c2c; }
+    .note-body ul, .note-body ol { padding-left: 1.5rem; }
+    .note-body li { margin-bottom: 0.3rem; }
+    .note-quote { background: #fffbec; border-left: 4px solid #f0c040;
+      padding: 1rem 1.2rem; border-radius: 0 8px 8px 0; margin: 1.5rem 0; }
+    .back-link { display: inline-block; margin-bottom: 1.5rem; color: #6c9bd2; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="note-page">
+    <a href="/" class="back-link">← 返回 Gallery</a>
+
+    <h1>{{ page.title }}</h1>
+    <div class="note-meta">
+      <span class="cat-label">{{ page.category }}</span>
+      <span style="color:#aaa;font-size:.85rem">{{ page.date | date: "%Y-%m-%d" }}</span>
+      {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+
+    {% if page.image %}
+    <div class="note-image">
+      <img src="{{ page.image }}" alt="{{ page.title }}">
+    </div>
+    {% endif %}
+
+    {% if page.quote %}
+    <blockquote class="note-quote">💡 {{ page.quote }}</blockquote>
+    {% endif %}
+
+    <div class="note-body">
+      {{ content }}
+    </div>
+  </div>
+</body>
+</html>

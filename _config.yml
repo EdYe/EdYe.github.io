@@ -1,0 +1,32 @@
+# _config.yml - Jekyll 設定
+
+title: 視覺筆記 Gallery
+description: 我的視覺化學習筆記收藏
+baseurl: ""   # 若是 username.github.io 留空；若是子目錄填 /repo-name
+url: "https://EdYe.github.io"
+
+# 啟用 _notes 集合
+collections:
+  notes:
+    output: true
+    permalink: /notes/:name
+
+# 預設值
+defaults:
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: note
+
+# Jekyll 外掛（GitHub Pages 原生支援）
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 排除不需要部署的檔案
+exclude:
+  - raw-notes/
+  - scripts/
+  - README.md
+  - "*.sh"

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>視覺筆記 Gallery</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <!-- GLightbox：圖片放大查看 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>📓 視覺筆記 Gallery</h1>
+    <p class="subtitle">共 <span id="total-count">0</span> 篇筆記</p>
+  </header>
+
+  <!-- 搜尋框 -->
+  <div class="search-bar">
+    <input id="search-box" type="text" placeholder="🔍 搜尋標題、標籤、摘要...（支援中文模糊搜尋）">
+    <span id="result-count"></span>
+  </div>
+
+  <!-- 分類篩選 -->
+  <div class="filter-bar">
+    <span class="filter-label">分類：</span>
+    <button class="cat-btn active" data-cat="all">全部</button>
+    <button class="cat-btn" data-cat="影片筆記">📹 影片筆記</button>
+    <button class="cat-btn" data-cat="AI筆記">🤖 AI筆記</button>
+    <button class="cat-btn" data-cat="學習筆記">📚 學習筆記</button>
+    <button class="cat-btn" data-cat="閱讀筆記">📖 閱讀筆記</button>
+    <button class="cat-btn" data-cat="生產力">⚡ 生產力</button>
+    <button class="cat-btn" data-cat="心理學">🧠 心理學</button>
+  </div>
+
+  <!-- 標籤雲 -->
+  <div id="tag-cloud" class="tag-cloud"></div>
+
+  <!-- Gallery Grid -->
+  <main id="gallery" class="gallery-grid"></main>
+
+  <!-- 無結果提示 -->
+  <div id="no-result" class="no-result" style="display:none">
+    <p>😕 找不到符合的筆記</p>
+    <button onclick="resetFilters()">清除篩選</button>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+
+  <script>
+    let allNotes = [];
+    let fuse;
+    let activeCategory = 'all';
+    let activeTag = null;
+    let lightbox;
+
+    // 載入搜尋索引
+    fetch('/search-index.json')
+      .then(res => res.json())
+      .then(data => {
+        allNotes = data;
+        fuse = new Fuse(data, {
+          keys: [
+            { name: 'title',       weight: 0.4 },
+            { name: 'tags',        weight: 0.3 },
+            { name: 'description', weight: 0.2 },
+            { name: 'body',        weight: 0.1 }
+          ],
+          threshold: 0.35,
+          includeScore: true
+        });
+
+        document.getElementById('total-count').textContent = data.length;
+        renderTagCloud(data);
+        renderGallery(data);
+        initLightbox();
+      });
+
+    // 搜尋事件
+    document.getElementById('search-box').addEventListener('input', e => {
+      applyFilters();
+    });
+
+    // 分類按鈕
+    document.querySelectorAll('.cat-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeCategory = btn.dataset.cat;
+        activeTag = null;
+        document.querySelectorAll('.tag-chip').forEach(t => t.classList.remove('active'));
+        applyFilters();
+      });
+    });
+
+    // 套用所有篩選條件
+    function applyFilters() {
+      const query = document.getElementById('search-box').value.trim();
+      let results = query
+        ? fuse.search(query).map(r => r.item)
+        : allNotes;
+
+      if (activeCategory !== 'all') {
+        results = results.filter(n => n.category === activeCategory);
+      }
+      if (activeTag) {
+        results = results.filter(n => n.tags.includes(activeTag));
+      }
+
+      renderGallery(results);
+    }
+
+    // 標籤點擊過濾
+    function filterByTag(tag) {
+      if (activeTag === tag) {
+        activeTag = null;
+        document.querySelectorAll('.tag-chip').forEach(t => t.classList.remove('active'));
+      } else {
+        activeTag = tag;
+        document.querySelectorAll('.tag-chip').forEach(t => {
+          t.classList.toggle('active', t.dataset.tag === tag);
+        });
+      }
+      applyFilters();
+    }
+
+    // 渲染標籤雲
+    function renderTagCloud(notes) {
+      const tagCount = {};
+      notes.forEach(n => {
+        (n.tags || []).forEach(t => { tagCount[t] = (tagCount[t] || 0) + 1; });
+      });
+      const sorted = Object.entries(tagCount).sort((a, b) => b[1] - a[1]).slice(0, 20);
+      const cloud = document.getElementById('tag-cloud');
+      cloud.innerHTML = sorted.map(([tag, count]) =>
+        `<span class="tag-chip" data-tag="${tag}" onclick="filterByTag('${tag}')">${tag} <small>${count}</small></span>`
+      ).join('');
+    }
+
+    // 渲染 Gallery
+    function renderGallery(notes) {
+      const gallery = document.getElementById('gallery');
+      const noResult = document.getElementById('no-result');
+      const resultCount = document.getElementById('result-count');
+
+      if (notes.length === 0) {
+        gallery.innerHTML = '';
+        noResult.style.display = 'block';
+        resultCount.textContent = '';
+        return;
+      }
+
+      noResult.style.display = 'none';
+      const total = document.getElementById('search-box').value || activeCategory !== 'all' || activeTag
+        ? `找到 ${notes.length} 筆` : '';
+      resultCount.textContent = total;
+
+      gallery.innerHTML = notes.map(n => `
+        <div class="card">
+          <a class="glightbox" href="${n.image}" data-title="${n.title}" data-description="${n.description}">
+            <img src="${n.image}" alt="${n.title}" loading="lazy">
+            ${n.source_has_timestamps ? '<span class="badge badge-video">📹</span>' : ''}
+          </a>
+          <div class="card-body">
+            <h3 class="card-title">${n.title}</h3>
+            <p class="card-desc">${n.description}</p>
+            ${n.quote ? `<blockquote class="card-quote">💡 ${n.quote}</blockquote>` : ''}
+            <div class="card-tags">
+              ${(n.tags || []).map(t =>
+                `<span class="tag" onclick="filterByTag('${t}')">${t}</span>`
+              ).join('')}
+            </div>
+            <div class="card-footer">
+              <span class="cat-label">${n.category}</span>
+              <span class="date">${n.date}</span>
+              <a href="${n.url}" class="read-more">閱讀全文 →</a>
+            </div>
+          </div>
+        </div>
+      `).join('');
+
+      // 重新初始化 Lightbox
+      if (lightbox) lightbox.destroy();
+      initLightbox();
+    }
+
+    function initLightbox() {
+      lightbox = GLightbox({ selector: '.glightbox', touchNavigation: true, loop: true });
+    }
+
+    function resetFilters() {
+      document.getElementById('search-box').value = '';
+      activeCategory = 'all';
+      activeTag = null;
+      document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+      document.querySelector('[data-cat="all"]').classList.add('active');
+      document.querySelectorAll('.tag-chip').forEach(t => t.classList.remove('active'));
+      renderGallery(allNotes);
+    }
+  </script>
+</body>
+</html>
