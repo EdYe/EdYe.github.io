@@ -47,7 +47,7 @@ for md_file in "$RAW_DIR"/*.md; do
   fi
 
   # 檢查是否已處理過（以 source_raw 欄位比對英文檔名）
-  if [ "$1" != "--force" ] && grep -rl "source_raw: ${base}" "$NOTES_DIR/" 2>/dev/null | grep -q .; then
+  if [ "$1" != "--force" ] && grep -rl "source_raw: ${base}$" "$NOTES_DIR/" 2>/dev/null | grep -q .; then
     echo "⏭️  已處理，略過：$base（加 --force 可強制重新處理）"
     SKIP=$((SKIP + 1))
     continue
@@ -58,6 +58,8 @@ for md_file in "$RAW_DIR"/*.md; do
 
   # ── 修正重點：用 temp file 建立 prompt，避免引號衝突 ──
   TMPFILE=$(mktemp -t claude_prompt)
+  STDERR_TMP=$(mktemp -t claude_stderr)
+  trap 'rm -f "$TMPFILE" "$STDERR_TMP"' EXIT
 
   {
     printf "請讀取 CLAUDE.md 的格式規範，然後處理以下說明文件。\n\n"
@@ -73,8 +75,7 @@ for md_file in "$RAW_DIR"/*.md; do
     printf "3. 原始說明文件完整正文（不修改任何文字）\n"
   } > "$TMPFILE"
 
-  # 傳入 temp file 內容給 claude（Bug 修正：stderr 分開捕捉，避免污染輸出）
-  STDERR_TMP=$(mktemp -t claude_stderr)
+  # 傳入 temp file 內容給 claude（stderr 分開捕捉，避免污染輸出）
   OUTPUT=$(claude -p "$(cat "$TMPFILE")" 2>"$STDERR_TMP")
   EXIT_CODE=$?
   rm -f "$TMPFILE"
@@ -83,10 +84,12 @@ for md_file in "$RAW_DIR"/*.md; do
     echo "❌ 處理失敗：$base"
     cat "$STDERR_TMP"
     rm -f "$STDERR_TMP"
+    trap - EXIT
     FAIL=$((FAIL + 1))
     continue
   fi
   rm -f "$STDERR_TMP"
+  trap - EXIT
 
   # 從輸出提取 category
   CATEGORY=$(echo "$OUTPUT" | grep '^category:' | head -1 \

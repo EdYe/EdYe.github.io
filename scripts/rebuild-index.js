@@ -59,15 +59,14 @@ function buildIndex() {
 
     // 從正文提取純文字（移除 Markdown 符號）
     const plainBody = body
-      .replace(/#{1,6}\s/g, '')
-      .replace(/[*_`>•]/g, '')
-      .replace(/\[\d+:\d+\]/g, '')
+      .replace(/#{1,6}\s|[*_`>•]|\[\d+:\d+\]/g, '')
       .replace(/\n+/g, ' ')
       .trim()
       .slice(0, 500);
 
+    const id = file.slice(0, -3);
     index.push({
-      id: file.replace('.md', ''),
+      id,
       title: meta.title || '',
       category: meta.category || '',
       tags: Array.isArray(meta.tags) ? meta.tags : [],
@@ -78,7 +77,7 @@ function buildIndex() {
       date: meta.date || '',
       source_has_timestamps: meta.source_has_timestamps || false,
       body: plainBody,
-      url: `/notes/${file.replace('.md', '')}`
+      url: `/notes/${id}`
     });
   }
 
