@@ -1,10 +1,11 @@
 # macOS
 .DS_Store
 
-# 原始大圖（已複製到 images/，不需進 git）
+# 原始檔案（已處理到 _notes/ 和 images/，不需進 git）
 raw-notes/*.png
 raw-notes/*.jpg
 raw-notes/*.jpeg
+raw-notes/*.md
 
 # Claude 本機權限快取（session 專屬）
 .claude/settings.local.json
