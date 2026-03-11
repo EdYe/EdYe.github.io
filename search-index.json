@@ -1,5 +1,25 @@
 [
   {
+    "id": "claude-code-btw-sidebar-rewind",
+    "title": "Claude Code /btw 側邊頻道與回溯指令",
+    "category": "影片筆記",
+    "tags": [
+      "Claude Code",
+      "側邊頻道",
+      "對話污染",
+      "回溯",
+      "工作流"
+    ],
+    "description": "這部影片介紹了 Claude Code 的全新指令 `/btw`，讓使用者在不中斷 AI 編碼任務且不污染對話上下文的情況下，即時進行詢問與溝通，極大化開發效率。",
+    "quote": "不要讓無關的解釋污染了 AI 的上下文視窗，因為那對 AI 完成目標毫無幫助，只有你需要那些答案。",
+    "action": "善用 /btw 分離詢問與編碼任務，走偏時用 /re 回溯而非爭論。",
+    "image": "/images/影片筆記/claude-code-btw-sidebar-rewind.jpg",
+    "date": "2026-03-12",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片介紹了 Claude Code 的全新指令 /btw，讓使用者在不中斷 AI 編碼任務且不污染對話上下文的情況下，即時進行詢問與溝通，極大化開發效率。 --- 詳細重點整理 1. 解決「對話污染」與中斷問題 [(http://www.youtube.com/watch?v=DqjBbAr3oTo&t=50)]  痛點： 過去在 Claude 編寫代碼時，若中斷它（按 Escape 或 Ctrl+C）提問，會導致對話歷史充斥著無關的問答（Q&A），降低 AI 後續輸出的品質。  類比： 這就像在人類進入「深度工作」狀態時拍肩膀打斷他，會破壞專注力並增加恢復成本 [(http://www.youtube.com/watch?v=DqjBbAr3oTo&t=79)]。 2. 全新 /btw 指令：內建的側邊頻道 [(http://www.youtube.com/watch?v=DqjBbAr3oTo&t=138)]  功能： 允許在 AI 執行任務期間輸入 /btw 並提問（例如：詢問為何使用特定函式庫）。  優勢：  並行處理： AI 會在彈出視窗回答你的問題，而背景的編",
+    "url": "/notes/claude-code-btw-sidebar-rewind"
+  },
+  {
     "id": "your-estimation-model-is-lying-to-you",
     "title": "你的估算模型正在對你說謊",
     "category": "AI筆記",
