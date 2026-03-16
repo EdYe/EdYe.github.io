@@ -1,5 +1,85 @@
 [
   {
+    "id": "nvidia-gtc-2026",
+    "title": "NVIDIA GTC 2026：AI 工廠與物理 AI",
+    "category": "AI筆記",
+    "tags": [
+      "NVIDIA",
+      "GTC",
+      "物理AI",
+      "代幣生成",
+      "CUDA"
+    ],
+    "description": "從傳統運算向「代幣生成」時代轉移，透過全新 AI 平台與物理人工智慧技術，將數據轉化為生產力，開啟 AI 驅動的工業革命。",
+    "quote": "這不是電影，這一切已經開始了。AI 已從虛擬的聊天機器人，進化到能與現實物理世界互動的實體。",
+    "action": "關注 Physical AI 與具身智能領域，利用 Isaac Lab 等平台進行模擬訓練",
+    "image": "/images/AI筆記/nvidia-gtc-2026.jpg",
+    "date": "2026-03-17",
+    "source_has_timestamps": false,
+    "body": "📝 NVIDIA GTC 2026 主題演講：AI 工廠與物理 AI 的新紀元 核心摘要 本次大會標誌著從傳統運算向「代幣生成（Token Generation）」時代的轉移，透過全新 AI 平台與物理人工智慧（Physical AI）技術，將數據轉化為生產力，並正式開啟 AI 驅動的工業革命。 --- 詳細重點整理 1. 代幣（Tokens）的工業革命：新型態工廠的誕生  概念轉向：黃仁勳強調，現在的資料中心不再只是儲存數據，而是「AI 工廠」。其核心產品是「代幣 (Tokens)」，這些代幣可以是文字、影像、蛋白質結構或甚至是機器人的動作指令。  推論轉捩點：過去 20 年在訓練模型（Training），現在正式進入「推論（Inference）」大爆發階段。透過加速運算，推論成本已大幅降低 35 倍。 2. CUDA 20 週年：最強大的生態系統護城河  飛輪效應：CUDA 已發展 20 年，擁有數億個安裝基數。這吸引了開發者創造新算法（如深度學習），進而開拓新市場，形成不斷加速的「飛輪」。  軟體加值：NVIDIA 不斷更新軟體，使即便 6 年前的 Ampere 架構 GPU ",
+    "url": "/notes/nvidia-gtc-2026"
+  },
+  {
+    "id": "google-ai-update-highlights",
+    "title": "Google AI 工具升級與 Drive 深度整合",
+    "category": "AI筆記",
+    "tags": [
+      "Google AI",
+      "Gemini",
+      "NotebookLM",
+      "Google Drive",
+      "智慧搜尋"
+    ],
+    "description": "Google AI 工具重大升級，Gemini 深度整合至 Google Drive 生態系，將雲端硬碟轉化為強大的個人知識庫與生產力中心。",
+    "quote": "這看起來像是 Notion 殺手。大多數人還沒意識到這有多強大，因為它直接在你每天使用的工具中運作。",
+    "action": "嘗試將雜亂的 PDF 或長篇文件交給 Gemini 摘要或轉成表格，大幅節省手動整理時間",
+    "image": "/images/AI筆記/google-ai-update-highlights.jpg",
+    "date": "2026-03-17",
+    "source_has_timestamps": false,
+    "body": "核心摘要 本影片介紹了 Google AI 工具的重大升級，特別是 Gemini 深度整合至 Google Drive 生態系，將雲端硬碟轉化為強大的個人知識庫與生產力中心。 --- 詳細重點整理 1. NotebookLM：學習與組織功能進化  測驗與字卡功能優化：現在支持「中斷續作」，使用者可以隨時回到之前的進度，不需重新開始；字卡新增「隨機排序」功能，並在結束後提供答題分析，可針對錯題加強複習。  自訂資訊圖表 (Infographics)：全面開放視覺風格選擇（約 10 種），包括專業風格、手繪筆記 (Sketchnote)、可愛風 (Kawaii) 等。  新增支援 EPUB 格式：現在可以直接上傳電子書格式作為資料源，對學生閱讀教科書並進行 AI 對話非常有幫助。  官方預告資料夾功能：Google 已在開發原生的資料夾分類系統，解決筆記過於雜亂的問題。 2. Pomelli：AI 虛擬攝影棚擴展  Photo Shoot 功能全球化：這款免費工具現在開放給額外 170 個國家。使用者只需上傳一張產品照，AI 就能自動生成多種風格（如棚拍、情境照）的商用圖片。 3. Gem",
+    "url": "/notes/google-ai-update-highlights"
+  },
+  {
+    "id": "claude-cowork-toolkit",
+    "title": "Claude Cowork 12 個進階提示詞工具組",
+    "category": "AI筆記",
+    "tags": [
+      "Claude",
+      "Cowork",
+      "提示詞",
+      "自動化",
+      "生產力"
+    ],
+    "description": "Claude 全新的 Cowork 功能徹底改變了工作方式，能存取檔案、在背景運行並實際產出成果。12 個提示詞讓你立即上手。",
+    "quote": "Cowork 在本機運行，即使你切換應用程式或關閉瀏覽器分頁，進度也不會中斷。",
+    "action": "開啟 Claude 桌面應用程式，使用 Cowork 分頁搭配 12 個提示詞模板提升工作效率",
+    "image": "/images/AI筆記/claude-cowork-toolkit.jpg",
+    "date": "2026-03-17",
+    "source_has_timestamps": false,
+    "body": "Claude Cowork 工具組：12 個進階提示詞，取代一週的工作量 Claude 全新的 Cowork 功能徹底改變了工作方式。它能存取你的檔案、在背景運行，並實際產出成果——而不只是告訴你該怎麼做。這 12 個提示詞能讓你立即上手。 --- 如何使用這套工具組 必要條件：  Claude Max 訂閱方案  Claude 桌面應用程式（目前僅支援 Mac）  已準備好授權 Cowork 存取的檔案或資料夾 每個提示詞的使用步驟： 1. 開啟 Claude 桌面應用程式，點擊「Cowork」分頁 2. 新增相關資料夾或連接器 3. 貼上並自訂提示詞 4. 點擊「Let's go」並視需要授予權限 5. 讓它執行——Cowork 在處理時，你可以同時進行其他工作  💡 專業提示： Cowork 在本機運行，即使你切換應用程式或關閉瀏覽器分頁，進度也不會中斷。 --- 提示詞 1：內容成效分析器 使用情境： 你擁有數月（或數年）的內容數據，想知道哪些內容真正有效——以及原因。 主要輸入資料：  包含分析匯出資料的資料夾（CSV、Excel）  包含內容檔案或逐字稿的資料夾（非必要，",
+    "url": "/notes/claude-cowork-toolkit"
+  },
+  {
+    "id": "ai-startup-truth-gumloop",
+    "title": "AI 創業的真相與 Gumloop 成功之路",
+    "category": "AI筆記",
+    "tags": [
+      "AI創業",
+      "快速失敗",
+      "業務自動化",
+      "招聘文化",
+      "MVP"
+    ],
+    "description": "這部影片揭穿了「靠 AI 自動化就能一鍵致富」的謊言，強調真正的成功來自於不斷證明自己錯誤、解決真實業務痛點，以及對產品的極致熱情。",
+    "quote": "創業者最重要的特質是「盲目的自信」。如果你不斷質疑對手會如何擊垮你，你將永遠無法開始。",
+    "action": "停止空想，現在就做出一個簡單的 MVP 並試著賣掉它",
+    "image": "/images/AI筆記/ai-startup-truth-gumloop.jpg",
+    "date": "2026-03-17",
+    "source_has_timestamps": false,
+    "body": "這部影片專訪了 Gumloop 的創辦人 Max Brodeur-Urbas，他分享了在 AI 時代創業的真實困境與成功心法，內容非常扎實且具啟發性。 --- 📝 影片筆記：AI 創業的真相與 Gumloop 的成功之路 📌 核心摘要 這部影片揭穿了「靠 AI 自動化就能一鍵致富」的謊言，強調真正的成功來自於不斷證明自己錯誤、解決真實業務痛點，以及對產品的極致熱情。 --- 🔍 詳細重點整理 1. 拒絕「黃金手銬」與大廠迷思  不要為了學習而進大廠： 許多人想先去微軟、Google 等大廠磨練再創業，但 Max 認為這通常是種「自我安慰（Cope）」。大廠的流程與創業完全相反，學到的東西在初期創業幾乎派不上用場。  把握年輕的資本： 趁 20 歲出頭、沒有家庭與責任負擔時，直接「把自己丟入虛無中」去闖蕩。 2. 創業是為了「證明自己是錯的」  快速失敗： 創業者應該主動尋找「為什麼這個點子行不通」的理由，而不是尋求認同。Max 在成功前曾開發過 VR 遊戲監管軟體、機器人偵測器等多個失敗產品。  資訊獲取： 每一次失敗的 MVP（最小可行性產品）都能提供最真實的市場資訊。如果你無",
+    "url": "/notes/ai-startup-truth-gumloop"
+  },
+  {
     "id": "tension-headache-relief-exercises",
     "title": "4分鐘舒緩緊張性頭痛運動",
     "category": "影片筆記",
