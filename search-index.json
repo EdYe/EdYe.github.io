@@ -1,5 +1,25 @@
 [
   {
+    "id": "claude-browser-agent-extension",
+    "title": "Claude瀏覽器擴充功能：代理人深度解析",
+    "category": "影片筆記",
+    "tags": [
+      "瀏覽器代理人",
+      "自動化客服",
+      "錄製排程",
+      "多分頁協作",
+      "安全性"
+    ],
+    "description": "Anthropic 推出的 Claude Chrome 擴充功能，不僅是聊天機器人，更是能進入瀏覽器自動執行重複性工作、處理客服爭議及管理日常辦公流程的瀏覽器代理人",
+    "quote": "2026 年的關鍵技能不再是「下指令 (Prompting)」，而是「識別重複性工作並清晰定義工作流」的能力。",
+    "action": "記錄每週重複的3件網頁工作，嘗試用Claude錄製功能自動化",
+    "image": "/images/影片筆記/claude-browser-agent-extension.jpg",
+    "date": "2026-03-18",
+    "source_has_timestamps": true,
+    "body": "📺 影片筆記：Anthropic 的聰明策略——Claude 瀏覽器擴充功能深度解析 核心摘要 這部影片介紹了 Anthropic 推出的 Claude Chrome 擴充功能，強調它不僅是一個聊天機器人，更是一個能進入瀏覽器自動執行重複性工作、處理客服爭議及管理日常辦公流程的「瀏覽器代理人 (Browser Agent)」。 --- 詳細重點整理 1. 從聊天機器人到「瀏覽器代理人」的轉變 [(http://www.youtube.com/watch?v=QT7WuHjqWE&t=12)]  核心差異： 傳統 AI 只是回答問題，而 Claude 擴充功能可以直接在最常用的瀏覽器內執行任務。  自動化能力： 它能讀取網頁內容、在輸入框打字、點擊按鈕，並模擬人類的操作流程。  節省時間： 透過處理網頁上的「繁瑣苦差事」（如彙整數據、搬移會議），每週可為使用者節省數十小時。 2. 實戰案例：自動化客服談判與日常辦公 [(http://www.youtube.com/watch?v=QT7WuHjqWE&t=106)]  客服代打： 影片舉例一位產品經理利用 Claude 自動與 AT&",
+    "url": "/notes/claude-browser-agent-extension"
+  },
+  {
     "id": "nvidia-gtc-2026",
     "title": "NVIDIA GTC 2026：AI 工廠與物理 AI",
     "category": "AI筆記",
