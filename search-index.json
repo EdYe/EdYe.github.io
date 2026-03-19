@@ -20,6 +20,26 @@
     "url": "/notes/thinking-habit-ai-era-competitiveness"
   },
   {
+    "id": "the-ai-native-software-engineer",
+    "title": "AI原生軟體工程師實戰手冊",
+    "category": "AI筆記",
+    "tags": [
+      "AI原生思維",
+      "提示工程",
+      "程式碼生成",
+      "AI工作流程",
+      "工程文化"
+    ],
+    "description": "所謂AI原生軟體工程師，是指將AI深度整合進日常工作流程、視其為放大自身能力之夥伴的工程師。這需要一種根本性的思維轉變。",
+    "quote": "AI擴張了你的能力邊界，讓你能在更高層次的抽象維度上工作。",
+    "action": "對每一項任務自問：AI能幫我把這件事做得更快、更好或以不同方式完成嗎？",
+    "image": "/images/AI筆記/the-ai-native-software-engineer.jpg",
+    "date": "2026-03-19",
+    "source_has_timestamps": false,
+    "body": "AI-native 軟體工程師 將 AI 整合進日常工程工作流程的實戰手冊 --- 所謂 AI 原生軟體工程師，是指將 AI 深度整合進日常工作流程、視其為放大自身能力之夥伴的工程師。 這需要一種根本性的思維轉變。AI 原生工程師不會想著「AI 可能會取代我」，而是對每一項任務都自問：「AI 能幫我把這件事做得更快、更好或以不同方式完成嗎？」 這種思維是樂觀且積極主動的——你把 AI 視為生產力與創造力的倍增器，而非威脅。善用 AI，你的工程產出有望達到兩倍、五倍，甚至十倍。資深開發者尤其能發揮優勢，因為他們的專業讓他們能以精準的方式提示 AI，並加入適當的脈絡工程（context engineering），從而獲得媲美資深同事的高品質成果。 <img src=\"/images/AI筆記/the-ai-native-software-engineer-figure-01.jpg\" width=\"250\" / 成為 AI 原生意味著擁抱持續學習與適應——工程師從一開始就將 AI 輔助與自動化融入軟體建構過程。這種思維帶來的是對各種可能性的期待，而非恐懼。 是的，過程中可能有不確定性與學習",
+    "url": "/notes/the-ai-native-software-engineer"
+  },
+  {
     "id": "salary-negotiation-sell-the-vacation",
     "title": "核心談判哲學：把面試當企業銷售",
     "category": "學習筆記",
