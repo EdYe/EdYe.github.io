@@ -1,5 +1,105 @@
 [
   {
+    "id": "knowledge-expert-self-education-booklist",
+    "title": "知識管理專家的自我教育書單",
+    "category": "影片筆記",
+    "tags": [
+      "隨機性",
+      "逆思維",
+      "決策賭注",
+      "初學者之心",
+      "思維升級"
+    ],
+    "description": "從數百本書中精選4本核心著作，旨在幫助讀者升級「思維作業系統」，而不僅僅是學習行為技巧，透過具挑戰性的書籍重構思考與決策模式。",
+    "quote": "科學家永遠不確定，而祭司永遠不具好奇心。",
+    "action": "每週五進行「運氣/勞動力審計」，區分勝利中的可控努力與環境紅利",
+    "image": "/images/影片筆記/knowledge-expert-self-education-booklist.jpg",
+    "date": "2026-03-22",
+    "source_has_timestamps": true,
+    "body": "📚 知識管理專家筆記：邁向頂尖 1% 的自我教育書單 這部影片由曾任執行長與董事會顧問的 theMITmonk 分享，他從數百本書中精選出 4 本核心著作（及進階建議），旨在幫助讀者升級「思維作業系統」，而不僅僅是學習行為技巧。 --- 💡 核心摘要 真正的學習不是增加資訊量，而是透過具備挑戰性的書籍重新建構大腦的思考、決策與觀察模式。 --- 📂 詳細重點整理 1. 過濾好書的三道門檻 (The Three Gates) [(http://www.youtube.com/watch?v=Q0pAWZiV2GU&t=45)] 在投入時間閱讀前，先問自己三個問題：  執行者門檻： 這本書是改變你的「思考方式」，還是只改變「思考內容」？  挑戰者門檻： 這本書是否讓你感到不適？最好的書應是拆解你原本確信的事物，而非僅是認同你。  火災警報門檻： 這本書能否阻止你帶著自信做出愚蠢的決定？區分「自信」與「能力」是關鍵。 2. 警惕隨機性的陷阱：避免將運氣誤認為實力 [(http://www.youtube.com/watch?v=Q0pAWZiV2GU&t=134)]  核心書籍： 《隨",
+    "url": "/notes/knowledge-expert-self-education-booklist"
+  },
+  {
+    "id": "billionaire-30-years-life-wisdom",
+    "title": "億萬富翁的30年人生智慧",
+    "category": "影片筆記",
+    "tags": [
+      "過程導向",
+      "選擇權",
+      "心流狀態",
+      "地位陷阱",
+      "誠實"
+    ],
+    "description": "真正的成功不在於達成特定的「社會目標」，而在於擁抱「過程」、保持「誠實」並不斷挑戰自我極限，從而獲得長期的成長與自由。",
+    "quote": "地位是社會用來控制你、阻礙你前進的人造腐敗之物。",
+    "action": "在事業與人際中保持極度誠實，優化「機會」而非「薪酬」",
+    "image": "/images/影片筆記/billionaire-30-years-life-wisdom.jpg",
+    "date": "2026-03-22",
+    "source_has_timestamps": true,
+    "body": "📖 億萬富翁的 30 年人生智慧筆記：超越目標的成長 核心摘要 真正的成功不在於達成特定的「社會目標」，而在於擁抱「過程」、保持「誠實」並不斷挑戰自我極限，從而獲得長期的成長與自由。 --- 詳細重點整理 1. 放棄「目標導向」，轉向「過程導向」  不要設立終點： 許多人將人生框定在特定目標（如升遷、存到多少錢），一旦達成就會停滯。真正的贏家（如巴菲特）是為了「學習」與「投入」而活，而非為了達成目標後退休 [(http://www.youtube.com/watch?v=0-LAT4HjWPo&t=22)]。  避免愚蠢的目標： 作者回顧自己在 Facebook 期間，曾過度追求頭銜（副總裁、高級副總裁）與股權，這些「愚蠢目標」讓他迷失自我，變成了某種社會期待的漫畫角色 [(http://www.youtube.com/watch?v=0-LAT4HjWPo&t=246)]。 2. 保持「選擇權」的三個實踐條件  零負債 (No Debt)： 負債會迫使你停止冒險、停止學習，並讓你不得不追求短期的金錢目標，進而喪失長期的選擇權 [(http://www.youtube.com/wat",
+    "url": "/notes/billionaire-30-years-life-wisdom"
+  },
+  {
+    "id": "ai-web-design-stitch-claude",
+    "title": "AI網頁設計：Stitch與Claude協作流程",
+    "category": "AI筆記",
+    "tags": [
+      "Stitch",
+      "Claude Code",
+      "前端設計",
+      "設計系統",
+      "AI工具整合"
+    ],
+    "description": "介紹Google全新免費AI設計工具Stitch 2.0，展示如何利用其視覺生成能力，彌補Claude Code在前端設計上的不足，達成從視覺靈感到實際開發的高效流程。",
+    "quote": "Stitch不是要取代Claude Code，它是要與其互補，讓你創造出「不像AI做出來」的高品質網站。",
+    "action": "先在Stitch使用截圖生成UI設計，再將產出的前端代碼交給Claude Code進行功能開發",
+    "image": "/images/AI筆記/ai-web-design-stitch-claude.jpg",
+    "date": "2026-03-22",
+    "source_has_timestamps": false,
+    "body": "核心摘要 本影片介紹了 Google 全新推出的免費 AI 設計工具 Stitch 2.0，展示如何利用其強大的視覺生成能力，彌補 Claude Code 在前端設計上的不足，達成從「視覺靈感」到「實際開發」的高效率自動化流程。 --- 詳細重點整理 1. 為何需要 Stitch 2.0？解決 AI 網頁設計的痛點  補充 Claude Code 的短板：雖然 Claude Code 在邏輯開發與後端強大，但其生成的 UI 往往缺乏美感（AI 感太重）。Stitch 2.0 則專攻「高質感前端 Mockup」。  視覺化畫布 (Canvas)：提供類似 Figma 的無限畫布，讓使用者能一目了然所有頁面與組件，並能快速進行原型 (Prototype) 測試。  完全免費且強大：由 Google 的 Gemini 1.5 Pro 驅動，能一次生成多個佈局變體，大幅提升設計迭代速度。 2. 實作流程：從靈感到生成的完整路徑  尋找靈感來源：建議到 Dribbble、Pinterest 或 Godly.website 找尋喜歡的網頁設計並截圖。  餵入參考圖：在 Stitch 中上傳截圖，並",
+    "url": "/notes/ai-web-design-stitch-claude"
+  },
+  {
+    "id": "ai-security-intent-laundering",
+    "title": "AI安全漏洞：意圖洗白攻擊手法",
+    "category": "影片筆記",
+    "tags": [
+      "意圖洗白",
+      "AI安全",
+      "關鍵字依賴",
+      "語義中性化",
+      "淺層訓練"
+    ],
+    "description": "研究發現現有AI安全測試過度依賴特定負面詞彙，導致攻擊者只需透過「意圖洗白」重寫請求，就能讓AI配合執行危險任務，成功率從5%暴增至80%以上。",
+    "quote": "意圖洗白就像洗錢，將骯髒的錢外表弄乾淨，錢依然是髒的；將危險的請求改頭換面，意圖依然危險。",
+    "action": "重新設計AI安全資料集，納入含蓄且精心設計的攻擊請求，讓模型具備真正的意圖辨識能力",
+    "image": "/images/影片筆記/ai-security-intent-laundering.jpg",
+    "date": "2026-03-22",
+    "source_has_timestamps": true,
+    "body": "這部影片深入探討了當前 AI 安全防禦機制的一個重大漏洞：只要移除特定的「觸發詞」，AI 的安全限制就會幾乎全面崩潰。以下是為您整理的結構化筆記： 核心摘要 研究發現現有 AI 安全測試（如 Adbench）過度依賴特定負面詞彙，導致攻擊者只需透過「意圖洗白（Intent Laundering）」重寫請求，就能讓 AI 乖乖配合執行危險任務，成功率從 5% 暴增至 80% 以上。 --- 詳細重點整理 1. AI 安全測試的致命缺陷：關鍵字依賴 [(http://www.youtube.com/watch?v=qjzF-7tZjlA&t=89)]  目前的 AI 安全基準測試（如 Adbench 和 Harmbench）主要包含大量帶有強烈負面暗示的請求（如「偷竊」、「攻擊」、「利用」）。  問題點： 測試資料中超過 45% 的樣本高度相似。AI 學到的不是「理解危險」，而是「辨識危險詞彙」。  這就像機場安檢只檢查「穿滑雪面罩的人」，卻放行穿西裝但攜帶相同危險物品的人。 [(http://www.youtube.com/watch?v=qjzF-7tZjlA&t=304)] 2. 何",
+    "url": "/notes/ai-security-intent-laundering"
+  },
+  {
+    "id": "ai-memory-system-open-brain",
+    "title": "AI記憶系統：Open Brain私有記憶架構",
+    "category": "AI筆記",
+    "tags": [
+      "AI記憶",
+      "MCP",
+      "Supabase",
+      "資料自主權",
+      "視覺化管理"
+    ],
+    "description": "介紹如何建立以資料庫為核心的「Open Brain」私有記憶系統，透過MCP伺服器與視覺化界面，解決AI代理人「換個對話就失憶」的痛點，實現數據自主權。",
+    "quote": "AI應該處理記憶與模式識別，而人類應該專注於判斷與決策。",
+    "action": "建立私有資料庫並透過MCP串接AI，為專案建立專屬Dashboard網頁進行視覺化管理",
+    "image": "/images/AI筆記/ai-memory-system-open-brain.jpg",
+    "date": "2026-03-22",
+    "source_has_timestamps": true,
+    "body": "💡 核心摘要 這部影片介紹了如何建立一個以資料庫（如 Supabase）為核心的 「Open Brain」私有記憶系統，並透過 MCP 伺服器與視覺化界面（人機共用桌面），解決 AI 代理人「換個對話就失憶」的痛點，實現數據自主權。 --- 📝 詳細重點整理 1. 核心挑戰：AI 代理人的「失憶症」與「鑰匙孔效應」  記憶斷層：目前的 AI（如 Claude, ChatGPT）每次開啟新對話都是從零開始，無法跨對話記住使用者的習慣或歷史資訊。  鑰匙孔效應：單純透過聊天視窗（Chatbot）與資料庫互動，就像透過鑰匙孔看世界，資訊呈現破碎且缺乏全局視覺觀。  解決方案：建立一個「共享桌面（Shared Surface）」，讓 AI 透過 MCP 讀寫資料，人類則透過視覺化網頁查看與修改。 2. Open Brain 系統架構：雙門設計  Agent Door（代理人之門）：AI 透過 MCP (Model Context Protocol) 協議直接存取結構化資料表（Table），進行邏輯推理與自動化更新。  Human Door（人類之門）：透過簡單的 前端界面 (UI)，將冷冰",
+    "url": "/notes/ai-memory-system-open-brain"
+  },
+  {
     "id": "life-goals-process-and-optionality",
     "title": "人生目標的陷阱：專注過程與選擇權",
     "category": "學習筆記",
