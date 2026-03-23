@@ -1,5 +1,83 @@
 [
   {
+    "id": "walking-burns-belly-fat",
+    "title": "走路燃脂秘訣：為何走路比跑步更能消腹部脂肪",
+    "category": "影片筆記",
+    "tags": [
+      "腹部脂肪",
+      "Zone 2運動",
+      "餐後散步",
+      "胰島素控制"
+    ],
+    "description": "透過「低強度穩定運動 (Zone 2)」與「餐後散步」來操縱胰島素與皮質醇水平，能有效開啟腹部脂肪的燃燒開關",
+    "quote": "跑步的人通常三週後就因為膝蓋痛而放棄，走路的人則能贏得比賽，因為他們從不停止。",
+    "action": "每餐後走10分鐘，逐步增加至每日萬步並加入坡度行走",
+    "image": "/images/影片筆記/walking-burns-belly-fat.jpg",
+    "date": "2026-03-23",
+    "source_has_timestamps": true,
+    "body": "您好！我是您的知識管理專家。這部影片來自 YouTube 頻道 Bro Pump，主題是關於如何透過「走路」這項看似簡單的運動，利用生物學機制比跑步更有效地消除頑固的腹部脂肪。 以下為我為您整理的繁體中文精華筆記： --- 核心摘要 透過「低強度穩定運動 (Zone 2)」與「餐後散步」來操縱胰島素與皮質醇水平，能有效開啟腹部脂肪的燃燒開關，避開高強度運動帶來的代償性飢餓。 --- 詳細重點整理 1. 為什麼腹部脂肪這麼難減？(生物學真相) [(http://www.youtube.com/watch?v=h5EWE1MM9U&t=67)]  受體差異： 脂肪細胞上有兩種受體：Beta 受體（綠燈，促進脂肪燃燒）和 Alpha 受體（紅燈，阻止脂肪釋放）。  頑固區域： 腹部皮下脂肪的 Alpha 受體比例極高。當你進行高強度運動時，身體會分泌大量的「皮質醇 (壓力荷爾蒙)」，這會觸發腹部的紅燈受體，導致身體鎖住腹部脂肪以應對壓力。 [(http://www.youtube.com/watch?v=h5EWE1MM9U&t=138)] 2. 燃脂區間：為什麼走路優於跑步？ [(http",
+    "url": "/notes/walking-burns-belly-fat"
+  },
+  {
+    "id": "mohnish-pabrai-mental-models",
+    "title": "Mohnish Pabrai的多元思維模型與人生策略",
+    "category": "影片筆記",
+    "tags": [
+      "思維模型",
+      "非對稱賭注",
+      "創業策略",
+      "複利效應",
+      "查理蒙格"
+    ],
+    "description": "透過「認真對待簡單想法」並將多種思維模型產生「疊加效應」，能讓你以極低風險創造指數級的人生成就與事業財富",
+    "quote": "商業的目的不是為了賺錢，而是為了向人類提供卓越的產品或服務。如果你做到了，錢自然會跟著來。",
+    "action": "精簡圈子、追求品質、理解「慢即是快」的複利效應",
+    "image": "/images/影片筆記/mohnish-pabrai-mental-models.jpg",
+    "date": "2026-03-23",
+    "source_has_timestamps": true,
+    "body": "這部影片是來自 SXSW 的演講，由知名投資人 Mohnish Pabrai 分享如何利用「多元思維模型」(Mental Models) 來建構卓越的人生與事業。Pabrai 以傳奇投資人查理·蒙格 (Charlie Munger) 的理論為基礎，進一步延伸出具體的執行策略。 核心摘要 透過「認真對待簡單想法」並將多種思維模型產生「疊加效應 (Lollapalooza Effect)」，能讓你以極低風險創造指數級的人生成就與事業財富。 ----- 詳細重點整理 1\\. 奠基模型：認真對待簡單的想法 [(http://www.youtube.com/watch?v=Z2J8GHcrvQ&t=135)]    核心價值： 所有的思維模型若不具備「執行力」就毫無意義。當你發現一個被證實有效的真理時，必須「全心投入 (Go all in)」。    疊加效應： 單一模型很有力，但當 1+1+1 疊加時，會產生超越千倍的成效。    誠實的非二元性 [(http://www.youtube.com/watch?v=Z2J8GHcrvQ&t=228)]： 真實與謊言不是 0 或 1，而是一個對數座",
+    "url": "/notes/mohnish-pabrai-mental-models"
+  },
+  {
+    "id": "claude-cowork-project-features",
+    "title": "Claude Co-work專案功能：記憶與自動化實戰",
+    "category": "影片筆記",
+    "tags": [
+      "Claude Co-work",
+      "專案管理",
+      "記憶機制",
+      "自動化任務",
+      "AI協作"
+    ],
+    "description": "這部影片介紹了 Claude Co-work 的最新「專案」功能，強調其透過獨立工作區、自定義指令與內建記憶機制，能有效整合並自動化執行複雜的長期專案任務",
+    "quote": "專案功能不僅是為了開始一項新工作，更是為了管理一段長達數月的持續性協作。",
+    "action": "為每個主要客戶或長期目標建立獨立 Project，並初始化記憶文件與排程任務",
+    "image": "/images/影片筆記/claude-cowork-project-features.jpg",
+    "date": "2026-03-23",
+    "source_has_timestamps": true,
+    "body": "這是一份關於 Claude Co-work Projects 功能的深度解析與實作筆記。這項新功能正徹底改變 AI 輔助工作的流程，特別是在處理長期專案與複雜客戶需求時。 --- 📌 核心摘要 這部影片介紹了 Claude Co-work 的最新「專案 (Projects)」功能，強調其透過獨立工作區、自定義指令與內建記憶機制，能有效整合、管理並自動化執行複雜的長期專案任務。 --- 📂 詳細重點整理 1. 專案功能的基礎與優勢  集中化管理： 專案允許使用者將相關的對話、檔案與任務歸納在同一個專用工作區，避免不同任務間的資訊混雜 [(http://www.youtube.com/watch?v=X1ZqANEIyo&t=84)]。  雙重記憶機制：      軟記憶 (Soft Memory)： 系統每 24 小時自動掃描專案內的所有對話，提取重要資訊並建立背景上下文 [(http://www.youtube.com/watch?v=X1ZqANEIyo&t=223)]。      硬記憶 (Hard Memory)： 透過自定義的 learnings.md 或 memory.m",
+    "url": "/notes/claude-cowork-project-features"
+  },
+  {
+    "id": "ai-agent-enterprise-transformation",
+    "title": "AI Agent時代：企業必須重建數據架構",
+    "category": "AI筆記",
+    "tags": [
+      "Agent經濟",
+      "數據架構",
+      "企業轉型",
+      "MCP"
+    ],
+    "description": "這部影片探討了 AI Agent 時代的轉型關鍵：企業必須將過去 20 年防禦機器人的架構，轉變為「Agent 可讀且可寫」的數據底層",
+    "quote": "為 Agent 構建系統，人類自然會跟隨其後。(Build for agents first and the humans will follow.)",
+    "action": "使用 AI Agent 測試自家與競爭對手系統，清理數據底層並轉向 Agent 優先架構",
+    "image": "/images/AI筆記/ai-agent-enterprise-transformation.jpg",
+    "date": "2026-03-23",
+    "source_has_timestamps": false,
+    "body": "📌 核心摘要 這部影片探討了 AI Agent（代理人）時代的轉型關鍵：企業必須將過去 20 年防禦機器人的架構，轉變為 「Agent 可讀且可寫 (Agent-readable & writable)」 的數據底層，否則將在未來 1 兆美元的 Agent 經濟中徹底失聲。 --- 📝 詳細重點整理 1. 從「防禦機器人」到「擁抱 Agent」的思維翻轉  過去的障礙： 過去 20 年企業建立的防火牆、驗證碼 (CAPTCHA) 和複雜的 JavaScript 介面是為了阻擋惡意爬蟲，但現在這些設施卻把最有價值的客戶（AI Agent）擋在門外。  Agent 優先： Andrej Karpathy 曾預測未來 99% 的網路注意力將來自 AI。如果企業的系統無法讓 Agent 輕鬆讀取產品資訊或執行購買指令，企業將變得「不可見」。 2. Agent 經濟的市場潛力與挑戰  兆級商機： 麥肯錫預測到 2030 年，僅美國 B2C 零售市場就有望產生 1 兆美元的 Agent 協作營收。  巨頭的抗拒： 就像當年的 Napster 挑戰音樂產業，目前的巨頭（如 Apple, Goog",
+    "url": "/notes/ai-agent-enterprise-transformation"
+  },
+  {
     "id": "knowledge-expert-self-education-booklist",
     "title": "知識管理專家的自我教育書單",
     "category": "影片筆記",
@@ -36,7 +114,7 @@
     "image": "/images/AI筆記/cli-anything-features.jpg",
     "date": "2026-03-22",
     "source_has_timestamps": false,
-    "body": "cli anything 有什麼用 CLI-Anything 是由香港大學數據科學實驗室（HKUDS）開發的開源工具，核心用途是將任意有原始碼的軟體自動轉換成 AI Agent 可直接操控的命令列介面（CLI），讓現有軟體具備「Agent-Native」特性。[^5] 解決什麼問題 目前 AI Agent 推理能力已很強，但要操控 GIMP、OBS Studio 等專業 GUI 軟體，要麼 UI 自動化不穩定、要麼軟體根本沒有 API。CLI-Anything 的核心命題是：[^2]  \"Today's Software Serves Humans. Tomorrow's Users will be Agents.\"[^6] 為什麼選擇 CLI？ CLI 是人類與 AI Agent 的共同語言，原因如下：[^7] - 天然匹配 LLM — 文字指令就是 LLM 最擅長的輸入輸出格式 - 自描述 — 一個 --help 就能讓 Agent 自動探索全部功能 - 輸出穩定可靠 — 結構化輸出讓 Agent 行為可預測 - 輕量通用 — 幾乎零開銷，跨平台執行 七階段全自動 Pipeline",
+    "body": "cli anything 有什麼用 CLI-Anything 是由香港大學數據科學實驗室（HKUDS）開發的開源工具，核心用途是將任意有原始碼的軟體自動轉換成 AI Agent 可直接操控的命令列介面（CLI），讓現有軟體具備「Agent-Native」特性。 解決什麼問題 目前 AI Agent 推理能力已很強，但要操控 GIMP、OBS Studio 等專業 GUI 軟體，要麼 UI 自動化不穩定、要麼軟體根本沒有 API。CLI-Anything 的核心命題是：  \"Today's Software Serves Humans. Tomorrow's Users will be Agents.\" 為什麼選擇 CLI？ CLI 是人類與 AI Agent 的共同語言，原因如下： - 天然匹配 LLM — 文字指令就是 LLM 最擅長的輸入輸出格式 - 自描述 — 一個 --help 就能讓 Agent 自動探索全部功能 - 輸出穩定可靠 — 結構化輸出讓 Agent 行為可預測 - 輕量通用 — 幾乎零開銷，跨平台執行 七階段全自動 Pipeline 你只需要給它一個 GitHub",
     "url": "/notes/cli-anything-features"
   },
   {
