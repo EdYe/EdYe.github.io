@@ -1,5 +1,125 @@
 [
   {
+    "id": "subscription-economy-ownership-crisis",
+    "title": "訂閱經濟下的所有權危機",
+    "category": "影片筆記",
+    "tags": [
+      "訂閱經濟",
+      "所有權",
+      "黑暗模式",
+      "買斷制",
+      "數位保存"
+    ],
+    "description": "探討現代「訂閱制經濟」如何透過科技手段，將原本屬於消費者的「所有權」轉變為無止盡的「使用權付費」，導致消費者長期支出增加並喪失控制力。",
+    "quote": "我們正在回歸一種「新封建制度」——我們不擁有任何東西、不控制任何東西，而資源的利益全被少數控制存取權的科技與媒體巨頭所壟斷。",
+    "action": "定期清理訂閱支出，優先考慮買斷制產品，對熱愛的媒體購買實體或無DRM數位版。",
+    "image": "/images/影片筆記/subscription-economy-ownership-crisis.jpg",
+    "date": "2026-03-24",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片深入探討了現代「訂閱制經濟」如何透過科技手段，將原本屬於消費者的「所有權」轉變為無止盡的「使用權付費」，導致消費者長期支出增加、取消困難，並逐漸喪失對實體產品的控制力。 --- 詳細重點整理 1. 訂閱制的陷阱：比購買更昂貴的「租賃」  成本轉嫁與限制：以 HP 印表機為例，訂閱兩年的費用比直接購買高出 20%，且即便合約期滿，印表機與墨水匣仍不歸用戶所有，甚至有列印頁數限制 [(http://www.youtube.com/watch?v=8AKn-zJMIwY&t=1)]。  經常性收入的誘惑：企業偏愛訂閱制是因為它能帶來穩定的現金流（Recurring Revenue），投資者對此估值更高。研究發現，利用消費者的「注意力不集中」，企業可從未取消的無效訂閱中多賺取高達 200% 的收入 [(http://www.youtube.com/watch?v=8AKn-zJMIwY&t=393)]。 2. 軟體與硬體的「所有權」終結  軟體轉型案例：Adobe 在 2012 年將產品轉為 Creative Cloud，迫使用戶必須持續付費才能使用軟體，這讓其營收在 202",
+    "url": "/notes/subscription-economy-ownership-crisis"
+  },
+  {
+    "id": "enterprise-rbac-architecture-guide",
+    "title": "企業級角色與權限架構設計指南",
+    "category": "學習筆記",
+    "tags": [
+      "權限架構",
+      "RBAC",
+      "多租戶",
+      "審計日誌",
+      "存取控制"
+    ],
+    "description": "指導開發者如何從簡單的「角色存取控制 (RBAC)」轉型為具備高擴展性、多租戶隔離與細粒度控制的「企業級權限架構」。",
+    "quote": "要像架構師一樣設計授權系統，而不是像初學者。這正是簡單專案與企業級系統的分水嶺。",
+    "action": "立即停止使用模糊的權限標籤，改用「模組.動作」的結構化命名規範。",
+    "image": "/images/學習筆記/enterprise-rbac-architecture-guide.jpg",
+    "date": "2026-03-24",
+    "source_has_timestamps": false,
+    "body": "影片筆記：企業級角色與權限架構設計指南 核心摘要 這部影片旨在指導開發者如何從簡單的「角色存取控制 (RBAC)」轉型為具備高擴展性、多租戶隔離與細粒度控制的「企業級權限架構」，以應對大型軟體系統的複雜安全需求。 --- 詳細重點整理 1. 為什麼簡單的角色系統（如 Admin/User）不足以應付企業需求？  小型專案： 通常只需區分管理員、編輯與一般用戶即可運行。  企業級系統： 需要「細粒度存取控制 (Fine-grained access control)」。      不能只檢查「你是誰」，而要精確控制「你能對哪個資源執行什麼動作」。      命名規範： 建議採用 resource.action 模式，例如 users.create、reports.update、transactions.approve。 2. 企業級存取控制的四大核心維度  對象 (Who)： 基於身份、角色或部門確定進入權限。  動作 (What)： 精確控制 CRUD（增刪改查）或其他特定操作。  資源 (Which)： 限制範圍。例如：只能編輯自己的內容，還是能看到整個部門的報表？  條件 (Und",
+    "url": "/notes/enterprise-rbac-architecture-guide"
+  },
+  {
+    "id": "cli-tools-terminal-productivity",
+    "title": "提升終端機開發效率的十款CLI工具",
+    "category": "影片筆記",
+    "tags": [
+      "CLI工具",
+      "終端機",
+      "LazyGit",
+      "Zoxide",
+      "系統監控"
+    ],
+    "description": "介紹 10 款強大的命令列界面 (CLI) 工具，幫助開發者在全終端機環境下更流暢地進行程式碼開發、檔案管理、系統監控與 AI 模型評估。",
+    "quote": "當你同時開啟多個終端機視窗並遠端連結多台虛擬機時，這些細小的視覺優化與自動化工具，累積起來能節省大量的時間成本。",
+    "action": "首推安裝 Zoxide 取代 cd，並將 ls 設定別名為 eza 加速檔案定位。",
+    "image": "/images/影片筆記/cli-tools-terminal-productivity.jpg",
+    "date": "2026-03-24",
+    "source_has_timestamps": true,
+    "body": "這部影片介紹了多款能顯著提升開發者在終端機（Terminal）環境下工作效率的工具，特別是搭配 AI 代理工具（如 Claude Code）時的應用場景。 --- 核心摘要 這部影片介紹了 10 款強大的命令列界面 (CLI) 工具，旨在幫助開發者在全終端機環境下更流暢地進行程式碼開發、檔案管理、系統監控與 AI 模型評估。 --- 詳細重點整理 1. 版本控制與檔案檢視工具  LazyGit: 一款極受歡迎的 Git 圖形化終端機介面。當 Claude Code 自動修改程式碼時，可即時監控變更、查看 Diff 並管理 Commit [(http://www.youtube.com/watch?v=3NzCBIcIqD0&t=11)]。  Glow: 專為 Markdown 檔案設計的閱讀器。由於 AI 產出的文件多為 Markdown 格式，Glow 能在終端機提供美化後的閱讀體驗 [(http://www.youtube.com/watch?v=3NzCBIcIqD0&t=63)]。  Shaffa: 圖像渲染工具。允許開發者直接在終端機內預覽圖片檔案，無需切換到圖形視窗 [(h",
+    "url": "/notes/cli-tools-terminal-productivity"
+  },
+  {
+    "id": "claude-code-concepts-explained",
+    "title": "Claude Code 27個核心概念全解析",
+    "category": "影片筆記",
+    "tags": [
+      "Claude Code",
+      "脈絡管理",
+      "子代理",
+      "工作樹",
+      "MCP"
+    ],
+    "description": "將 Claude Code 從基礎安裝到進階自動化的 27 個核心概念，以淺顯易懂的語言拆解，幫助非技術背景的使用者也能高效操控這個強大的開發工具。",
+    "quote": "Chatbots 提供建議，Claude Code 採取行動。",
+    "action": "從小處開始練習，善用 /re 指令復原，並開啟 LazyGit 追蹤 AI 對專案的改動。",
+    "image": "/images/影片筆記/claude-code-concepts-explained.jpg",
+    "date": "2026-03-24",
+    "source_has_timestamps": true,
+    "body": "這部影片 《Every Claude Code Concept Explained for Normal People》 是針對 Anthropic 推出的終端機 AI 工具 Claude Code 的全方位指南。 這部影片非常適合想利用 AI 進行開發，但又不具備深厚編程背景的人。以下為你整理的精華筆記： --- 核心摘要 這部影片將 Claude Code 從基礎安裝到進階自動化（如子代理與工作樹）的 27 個核心概念，以淺顯易懂的語言拆解，幫助非技術背景的使用者也能高效操控這個強大的開發工具。 --- 詳細重點整理 1. Claude Code 的本質與操作基礎 Claude Code 不只是聊天機器人，它是能直接在你的電腦上「執行動作」的代理人。  與一般 Chatbot 的區別： ChatGPT 或網頁版 Claude 只能「說」，而 Claude Code 可以「做」（如建立檔案、安裝套件、架設資料庫）[(http://www.youtube.com/watch?v=ZlDnsfDOzg&t=79)]。  終端機 (Terminal) 運作： 它在黑底白字的指令介面運作，但",
+    "url": "/notes/claude-code-concepts-explained"
+  },
+  {
+    "id": "ai-era-career-development-strategy",
+    "title": "AI時代職業發展：追隨好奇心而非安全感",
+    "category": "影片筆記",
+    "tags": [
+      "職業發展",
+      "好奇心",
+      "High Agency",
+      "AI工具",
+      "數位導師"
+    ],
+    "description": "面對 AI 浪潮的巨大衝擊，唯一的生存之道是停止追求「安全感陷阱」，轉而追隨好奇心，成為該領域中最精通 AI 工具的「高主動性」個體。",
+    "quote": "如果你是帶著牽引機與無人機的農夫，你將會碾壓那些拿著鋤頭與驢子的農夫。",
+    "action": "利用AI模擬三種可能的職業新方向，並列出第一週的具體行動清單。",
+    "image": "/images/影片筆記/ai-era-career-development-strategy.jpg",
+    "date": "2026-03-24",
+    "source_has_timestamps": true,
+    "body": "解析矽谷傳奇投資人 Bill Gurley 對於 AI 時代職業發展的真知灼見。 核心摘要 面對 AI 浪潮的巨大衝擊，唯一的生存之道是停止追求「安全感陷阱」，轉而追隨好奇心，成為該領域中最精通 AI 工具的「高主動性（High Agency）」個體。 --- 詳細重點整理 1. AI 時代的職業安全感：攻擊是最好的防禦  安全即風險： 傳統認知的「安全工作」（如白領、律師、會計）現在風險最高，因為 AI 擅長處理語言、翻譯與基礎法律條文 [(http://www.youtube.com/watch?v=nBM3AzNYU8&t=126)]。  成為 AI 增強版： 保護自己的唯一方法是成為該領域中「最懂 AI 的版本」。Bill 建議要「滾動式」學習工具，了解該技術在妳所屬行業的極限在哪裡 [(http://www.youtube.com/watch?v=nBM3AzNYU8&t=93)]。  噴射背包理論： 對於有主動性、渴望學習的人來說，AI 不是替代品，而是讓你飛得更快的噴射背包 [(http://www.youtube.com/watch?v=nBM3AzNYU8&t=641",
+    "url": "/notes/ai-era-career-development-strategy"
+  },
+  {
+    "id": "ai-agent-development-principles",
+    "title": "Karpathy AI Agent 十大開發原則",
+    "category": "影片筆記",
+    "tags": [
+      "AI Agent",
+      "自動化",
+      "提示詞工程",
+      "代理人調度",
+      "程式碼品質"
+    ],
+    "description": "Andrej Karpathy 宣告「手動編程時代」已終結，開發者應轉型為「AI 代理人調度員」，透過 10 項原則將 80% 的工作自動化。",
+    "quote": "你的價值在於那些不可還原的創意洞察、品味與判斷，其餘的一切，請交給代理人。",
+    "action": "開始撰寫高品質的 Markdown 指令集，將其視為可調優的資產來持續優化。",
+    "image": "/images/影片筆記/ai-agent-development-principles.jpg",
+    "date": "2026-03-24",
+    "source_has_timestamps": true,
+    "body": "這部影片詳細解析了 AI 領域大神 Andrej Karpathy（OpenAI 共同創辦人、前 Tesla AI 負責人）對於 AI Agent（人工智慧代理人） 的最新思維與 10 條核心開發原則。 --- 核心摘要 Andrej Karpathy 宣告「手動編程時代」已終結，開發者應轉型為「AI 代理人調度員」，透過 10 項原則將 80% 的工作自動化。 --- 詳細重點整理 1. 思維轉型：從「寫代碼」到「表達意志」 Karpathy 指出，自 2025 年 12 月起，他的工作模式發生了劇變，從原本 80% 自己寫 code 轉變為 20% 撰寫、80% 調度 Agent。  AI 精神分裂 (AI Psychosis)： 他形容現在開發者會進入一種「一切皆有可能、一切都尚未探索」的亢奮與焦慮狀態，感覺不跑快一點就會落後 [(http://www.youtube.com/watch?v=QOndW72vrYo&t=119)]。  宏觀行動思維： 不要再思考「這一行 code 怎麼寫」，要思考「這個功能交給哪個 Agent 完成」 [(http://www.youtube.c",
+    "url": "/notes/ai-agent-development-principles"
+  },
+  {
     "id": "walking-burns-belly-fat",
     "title": "走路燃脂秘訣：為何走路比跑步更能消腹部脂肪",
     "category": "影片筆記",
