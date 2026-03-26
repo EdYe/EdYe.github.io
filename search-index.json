@@ -1,5 +1,105 @@
 [
   {
+    "id": "claude-code-advanced-settings",
+    "title": "Claude Code 十二個進階設定技巧",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "進階設定",
+      "子代理",
+      "上下文管理",
+      "Hook"
+    ],
+    "description": "本影片詳細介紹了 12 個隱藏在 Claude Code 設定文件與環境變數中的進階技巧，旨在幫助開發者突破預設限制，提升 AI Agent 的執行效率與處理能力",
+    "quote": "大多數你在使用 Claude Code 時遇到的問題，其實都已經有內建的修復方案，只是它們被埋在很少人討論的設定檔裡。",
+    "action": "開啟 .claude/settings.json，優先調整 cleanupPeriodDays 與終端輸出限制",
+    "image": "/images/AI筆記/claude-code-advanced-settings.jpg",
+    "date": "2026-03-26",
+    "source_has_timestamps": true,
+    "body": "這是一份為您整理的 Claude Code 高階設定指南筆記： 核心摘要 本影片詳細介紹了 12 個隱藏在 Claude Code 設定文件與環境變數中的進階技巧，旨在幫助開發者突破預設限制，提升 AI Agent 的執行效率、私隱性與大型專案處理能力。 --- 詳細重點整理 1. 突破數據保留與上下文限制  延長對話記憶：預設情況下，Claude 只保留一個月的對話紀錄。透過修改 settings.json 中的 cleanupPeriodDays 欄位（例如設為 365），可保留一整年的對話內容，方便長期專案追蹤。[(http://www.youtube.com/watch?v=pDoBe4qbFPE&t=64)]  增加終端輸出讀取量：Claude 預設僅讀取 3 萬字元的終端輸出。在現今 100 萬 Token 的模型時代，建議將此限制調升至 150,000 字元，避免編譯日誌或測試結果因過長而被截斷。[(http://www.youtube.com/watch?v=pDoBe4qbFPE&t=176)]  大型檔案完整讀取技巧：Claude 即使有大上下文，一次讀取檔案也有限",
+    "url": "/notes/claude-code-advanced-settings"
+  },
+  {
+    "id": "ai-context-window-wisc",
+    "title": "AI 上下文視窗的挑戰與 WISC 架構",
+    "category": "AI筆記",
+    "tags": [
+      "上下文視窗",
+      "WISC架構",
+      "AI幻覺",
+      "子代理",
+      "提示詞管理"
+    ],
+    "description": "更大的上下文視窗不等於更好的結果；透過「WISC 架構」精簡並結構化輸入，才能徹底解決 AI 幻覺與效率低下的問題",
+    "quote": "你的 AI 編碼助手沒有壞，是你餵給它太多垃圾了。",
+    "action": "建立專案規則文件，對話超過 40 則訊息時主動總結並開啟新 Session",
+    "image": "/images/AI筆記/ai-context-window-wisc.jpg",
+    "date": "2026-03-26",
+    "source_has_timestamps": true,
+    "body": "這部影片由 DIY Smart Code 頻道製作，深入探討了為什麼單純增加 AI 的上下文視窗（Context Window）反而會降低其表現，並提出了一套名為 WISC 的架構，旨在透過精準的上下文管理來提升 AI 編碼助理（如 Claude, Cursor, Windsurf）的效率與準確性。 --- 核心摘要 更大的上下文視窗不等於更好的結果；透過「WISC 架構」精簡並結構化輸入，才能徹底解決 AI 幻覺與效率低下的問題。 --- 詳細重點整理 1. 為什麼更大的上下文會讓 AI 變笨？ [(http://www.youtube.com/watch?v=gyo0eRgsUWk&t=65)]  注意力衰減： 研究顯示，隨著對話增長，AI 的注意力品質會從第一條訊息的近乎完美，到第 40 條訊息時下降至約 20%。  大海撈針問題： 更多的 Token 代表 AI 必須在更龐大的資料中搜尋資訊。當你把乾草堆（上下文）變大，找到那根針（關鍵資訊）的難度就會倍增。  上下文腐敗： 長期對話會導致 AI 開始幻覺文件名稱、重複已完成的工作，甚至破壞原本已修復的程式碼。 2. WISC ",
+    "url": "/notes/ai-context-window-wisc"
+  },
+  {
+    "id": "ai-agent-super-ic",
+    "title": "AI 代理人軍團與超級個人貢獻者",
+    "category": "AI筆記",
+    "tags": [
+      "AI代理人",
+      "超級個人貢獻者",
+      "職場轉型",
+      "自動化",
+      "職業風險"
+    ],
+    "description": "AI 目前並非過度炒作而是被低估了，未來職場的關鍵競爭力在於從單純的執行者轉型為能夠指揮「AI 代理人軍團」的「超級個人貢獻者」",
+    "quote": "風險並不在於嘗試新事物，而在於停滯不前。",
+    "action": "盤點工作中重複性高的環節，嘗試建立第一個專屬的 AI 代理人",
+    "image": "/images/AI筆記/ai-agent-super-ic.jpg",
+    "date": "2026-03-26",
+    "source_has_timestamps": true,
+    "body": "💡 核心摘要 這部影片由 Relay.app 執行長 Jacob Bank 分享，他認為 AI 目前並非過度炒作而是「被低估了」，未來職場的關鍵競爭力在於如何從單純的執行者轉型為能夠指揮「AI 代理人軍團」的「超級個人貢獻者 (Super IC)」。 --- 📝 詳細重點整理 1. AI 的定位轉變：從「實習生」到「戰略教練」  重新定義 AI： 過去將 AI 視為幫忙處理瑣事的「實習生」，但 Jacob 發現 AI 能勝任更高階的戰略分析與行為教練。 [(http://www.youtube.com/watch?v=OHJJKrJCSRU&t=136)]  虛擬教練案例： 他利用 AI 審查銷售會議紀錄，AI 會給予具體建議（例如：太快跳入產品展示、應多做需求挖掘），這種服務若聘請真人教練每月需花費 1 萬美元，AI 僅需 5 美元。 [(http://www.youtube.com/watch?v=OHJJKrJCSRU&t=163)]  低成本高效能： 4 位高級行銷承包商每月需 5 萬美元，而他的 AI 代理人帳單每月僅 500 美元，效能卻更強。 [(http://www",
+    "url": "/notes/ai-agent-super-ic"
+  },
+  {
+    "id": "ai-agent-long-running-blueprint",
+    "title": "AI 代理程式的長時程任務設計藍圖",
+    "category": "AI筆記",
+    "tags": [
+      "長時程任務",
+      "Harness架構",
+      "對抗性評估",
+      "脈絡焦慮",
+      "多代理系統"
+    ],
+    "description": "Anthropic 如何透過開發「Harness」設計，讓 AI 代理程式能長時間自主執行複雜任務，解決 AI 常見的「脈絡焦慮」與「自我評價過高」等問題",
+    "quote": "Harness 中的每一個組件，本質上都代表了我們對模型目前無法獨立完成該任務的一種假設。",
+    "action": "拆解長時程任務並建立規劃與 QA 的多代理架構，給予評估者具體的評分量表",
+    "image": "/images/AI筆記/ai-agent-long-running-blueprint.jpg",
+    "date": "2026-03-26",
+    "source_has_timestamps": true,
+    "body": "這部影片標題為 「Anthropic Just Dropped the New Blueprint for Long-Running AI Agents」，由 The AI Automators 頻道製作。影片深入解析了 Anthropic 官方發布的關於「長時程 AI 代理程式 (Long-running AI Agents)」的設計藍圖與技術實踐。 以下是為您整理的結構化筆記： --- 核心摘要 這部影片探討了 Anthropic 如何透過開發「Harness（裝具/框架層）」設計，讓 AI 代理程式能長時間（數小時甚至數天）自主執行複雜任務（如編寫完整遊戲或音樂工作站），解決 AI 常見的「脈絡焦慮」與「自我評價過高」等問題。 --- 詳細重點整理 1. 什麼是 AI Harness (代理程式裝具)？ [(http://www.youtube.com/watch?v=9d5bzxVsocw&t=62)]  定義： Harness 是封裝 AI 模型的一層軟體結構，包含提示詞 (Prompts)、工具 (Tools)、反饋迴路 (Feedback loops) 與約束條件 (Co",
+    "url": "/notes/ai-agent-long-running-blueprint"
+  },
+  {
+    "id": "ai-agent-four-species",
+    "title": "AI Agent 四種型態解析與架構選擇",
+    "category": "AI筆記",
+    "tags": [
+      "AI Agent",
+      "程式碼輔助",
+      "暗黑工廠",
+      "編排框架",
+      "自動化研究"
+    ],
+    "description": "「AI Agent」並非單一概念，而是由 LLM、工具與迴圈構成的複雜系統，目前實務中存在四種主要 Agent 物種，選擇正確的架構才能有效解決特定業務問題",
+    "quote": "構建優質 Agent 的藝術，往往在於發現能讓 Agent 完成眼前工作的簡單配置。",
+    "action": "根據任務性質選擇正確的 Agent 物種，從最簡配置開始，並建立完善的評估系統",
+    "image": "/images/AI筆記/ai-agent-four-species.jpg",
+    "date": "2026-03-26",
+    "source_has_timestamps": false,
+    "body": "核心摘要 本影片指出「AI Agent」並非單一概念，而是由 LLM、工具與迴圈構成的複雜系統，並詳細解析了目前實務中存在的四種主要 Agent 物種，強調選擇正確的架構才能有效解決特定的業務問題。 --- 詳細重點整理 1. 程式碼開發輔助器 (Coding Harnesses) 這是最基礎且常見的 Agent 模式，通常作為開發者的數位助手。  單一任務層級： 如 Claude Code 或 CodeX，Agent 在虛擬機或本地環境中取代部分開發流程，執行讀寫檔案、搜索與編寫代碼。  專案層級架構： 以 Cursor 的「規劃者-執行者 (Planner-Executor)」模式為例，將複雜需求拆解，由不同的 Agent 分別負責規劃邏輯與執行代碼編寫。  關鍵價值： 讓個人開發者或小團隊能透過 Agent 擴展生產力，但最終的品質門檻仍由人類判斷。 2. 暗黑工廠 (Dark Factories) 這是一種高度自動化的系統，人類僅參與輸入規格 (Spec) 與最終驗證。  全自動流程： 只要輸入需求規格，系統就會自動產出軟體。成功的關鍵在於極其精確的「非功能性需求」定義與嚴格的",
+    "url": "/notes/ai-agent-four-species"
+  },
+  {
     "id": "whole-brain-living",
     "title": "大腦四角色與全腦生活的情緒管理術",
     "category": "影片筆記",
