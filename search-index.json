@@ -260,6 +260,26 @@
     "url": "/notes/claude-code-ai-marketing-team"
   },
   {
+    "id": "claude-ai-agent-team-deep-dive",
+    "title": "Claude AI代理團隊深度課程解析",
+    "category": "影片筆記",
+    "tags": [
+      "代理裝載器",
+      "知識壓縮",
+      "多代理平行化",
+      "自動化研究",
+      "安全審計"
+    ],
+    "description": "這部三小時的深度課程揭示了如何將 Claude 從單純的聊天機器人轉化為強大的「AI 代理團隊」。透過知識壓縮（claude.md）、平行化處理架構與自動化研究框架",
+    "quote": "未來已經到來，只是分布不均。掌握代理工具的人，將掌握未來的生產力分配權。",
+    "action": "建立全局 claude.md 配置、找出三個可量化業務指標、用扇出模式啟動五個子代理分析複雜問題",
+    "image": "/images/影片筆記/claude-ai-agent-team-deep-dive.jpg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部三小時的深度課程揭示了如何將 Claude 從單純的聊天機器人轉化為強大的「AI 代理團隊」。透過知識壓縮（claude.md）、平行化處理架構與自動化研究框架，使用者能從繁瑣的執行者轉變為「首席研究員」，大幅提升商業與開發效率，實現從「震動編碼」到「代理工程」的範式轉移。 --- 詳細重點整理 1. 代理裝載器 (Harness) 的核心觀念 [(http://www.youtube.com/watch?v=UPtmKh1vMN8&t=2080)]  定義與組成：LLM 本身只是文字接口，裝載器（如 Claude Code）則是環繞模型的工具、記憶、權限與系統提示詞，賦予模型操控終端、瀏覽器與文件系統的能力。  關鍵概念：智力 vs. 工具。模型是引擎，裝載器則是讓引擎能驅動車輛前進的整套系統。 2. Claude.md：高效的知識壓縮與指令優化 [(http://www.youtube.com/watch?v=UPtmKh1vMN8&t=166)]  知識壓縮技術：利用 .md 文件總結工作區資訊，讓模型無需讀取每個文件即可理解整體架構，有效節省 Token 並降低延",
+    "url": "/notes/claude-ai-agent-team-deep-dive"
+  },
+  {
     "id": "chrome-144-ai-agent-debugging",
     "title": "Chrome 144更新：AI代理調試革命",
     "category": "AI筆記",
