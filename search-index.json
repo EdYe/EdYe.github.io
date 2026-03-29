@@ -40,6 +40,26 @@
     "url": "/notes/reinventing-organizations"
   },
   {
+    "id": "obsidian-claude-code-digital-brain",
+    "title": "Obsidian結合Claude Code打造數位大腦",
+    "category": "影片筆記",
+    "tags": [
+      "Obsidian",
+      "Claude Code",
+      "自定義指令",
+      "自動化",
+      "數位大腦"
+    ],
+    "description": "本影片探討如何結合筆記軟體Obsidian與AI代理人Claude Code，打造一個強大的「數位大腦」。透過將個人思考轉化為Markdown檔案，AI能在毫秒內串聯分散的靈感",
+    "quote": "Markdown 檔案是人類記憶的完美備份；當 AI 擁有了你的記憶，它就不再只是工具，而是另一個你。",
+    "action": "建立3個基礎檔案、每天3分鐘晨間傾倒、每週1次AI審計",
+    "image": "/images/影片筆記/obsidian-claude-code-digital-brain.jpeg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片探討如何結合筆記軟體 Obsidian 與 AI 代理人 Claude Code，打造一個強大的「數位大腦」。透過將個人思考轉化為 Markdown 檔案，AI 能在毫秒內串聯分散的靈感、識別潛在思維模式，並執行自動化任務。這不僅是生產力的提升，更是透過深度自我對話與反思，達成生理節奏優化與心理成長的全新生活方式。 ----- 詳細重點整理 1\\. 為什麼選擇 Obsidian 作為 AI 的記憶庫 [(http://www.youtube.com/watch?v=6MBq1paspVU&t=460)]    非線性連結：不同於一般資料夾，Obsidian 的「雙向連結」能模擬大腦運作，呈現知識點間的複雜關係。    Markdown 是 AI 的氧氣：純文字格式（.md）是 AI 最易讀取的語言，能讓 Claude Code 快速掃描並理解上下文。    關鍵概念：Vault（保險庫）。當你將所有筆記放入 Vault，你就為 AI 提供了一個擁有「完美記憶」的背景資訊庫。 2\\. Claude Code：具備控制權的 AI 代理人 [(http://www.youtu",
+    "url": "/notes/obsidian-claude-code-digital-brain"
+  },
+  {
     "id": "obsidian-claude-code-ai-system",
     "title": "Obsidian結合Claude Code打造AI系統",
     "category": "影片筆記",
