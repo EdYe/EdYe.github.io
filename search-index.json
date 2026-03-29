@@ -20,6 +20,26 @@
     "url": "/notes/senior-engineer-career-growth"
   },
   {
+    "id": "reinventing-organizations",
+    "title": "重塑組織：意識演化與青色管理",
+    "category": "閱讀筆記",
+    "tags": [
+      "組織演化",
+      "自主管理",
+      "身心完整",
+      "演化宗旨",
+      "青色組織"
+    ],
+    "description": "《重塑組織》探討人類意識的演化如何改變合作方式，將組織從五個階段的光譜中推進至去中心化、追求更高使命的「青色組織」",
+    "quote": "當我們不再把人當成「機器裡的齒輪」，而是將其視為「有意識的創造者」時，組織將釋放出驚人的生命力。",
+    "action": "",
+    "image": "/images/閱讀筆記/reinventing-organizations.jpeg",
+    "date": "2026-03-29",
+    "source_has_timestamps": false,
+    "body": "這是一份針對《重塑組織》（Reinventing Organizations）這本書的精華摘要。這本書不只是在談管理，更是在談人類意識的演化如何改變我們合作的方式。 --- 一、 組織發展的五個階段（意識光譜） 作者弗雷德里克·拉盧（Frederic Laloux）將人類組織的演化分為五個階段，並以顏色命名： | 顏色 | 核心隱喻 | 特徵與運作方式 | 關鍵字 | | :--- | :--- | :--- | :--- | | 紅色 (Red) | 狼群 | 依靠暴力、恐懼維持權力。首領展現絕對強勢，適合混亂環境。 | 權力、衝動 | | 琥珀色 (Amber) | 軍隊 | 嚴格的層級制度、流程與法律。強調服從與穩定性。 | 規矩、等級 | | 橘色 (Orange) | 機器 | 目標導向、重視效率與創新。目前主流，以競爭與績效獎勵驅動。 | 績效、競爭 | | 綠色 (Green) | 家庭 | 強調價值觀、文化與員工賦權。重視共識與利害關係人利益。 | 授權、文化 | | 青色 (Teal) | 生命體 | 組織被視為有靈魂的獨立個體。去中心化，追求更高層次的使命。 | 自",
+    "url": "/notes/reinventing-organizations"
+  },
+  {
     "id": "obsidian-claude-code-ai-system",
     "title": "Obsidian結合Claude Code打造AI系統",
     "category": "影片筆記",
