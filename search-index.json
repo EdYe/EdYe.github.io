@@ -1,5 +1,305 @@
 [
   {
+    "id": "senior-engineer-career-growth",
+    "title": "資深工程師職涯成長與突破",
+    "category": "影片筆記",
+    "tags": [
+      "職涯成長",
+      "30%不舒適感",
+      "系統思考",
+      "環境框架",
+      "技術領導"
+    ],
+    "description": "透過維持「30%的不舒適感」並勇於打破環境對你的既定印象，工程師才能從純技術執行者轉型為具備系統思考能力的領導者",
+    "quote": "如果你在同一家公司待了三年以上，你很可能已經被關進一個盒子裡了。",
+    "action": "定期檢視工作是否有30%的內容讓你感到挑戰，學會觀察公司的「金流」與「誘因結構」",
+    "image": "/images/影片筆記/senior-engineer-career-growth.jpeg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "這部影片由 Beyond Coding 頻道製作，邀請到 Container Solutions 的 CTO Ian Miell，深入探討資深工程師如何突破職業生涯的「天花板」，以及為何在同一家公司待太久會限制個人成長。 核心摘要 透過維持「30% 的不舒適感」並勇於打破環境對你的既定印象，工程師才能從純技術執行者轉型為具備系統思考能力的領導者。 --- 詳細重點整理 1. 成長的黃金比例：維持 30% 的不舒適感 [(http://www.youtube.com/watch?v=bife4KvgLAs&t=0)]  舒適圈的陷阱：如果你在工作中感到 100% 的舒適，這是一個警訊，代表你只在重複已知的事物，停止了學習。  職涯的本質是交換：每一次的職位變動都是一場「交易」——你用過去累積的專業（Specialism）來換取新領域的學習機會。  主動探索：資深人員應該定期檢視自己是否感到些微的「不確定感」，這正是進步發生的時刻。 2. 環境框架與背景負擔 (Burden of Context) [(http://www.youtube.com/watch?v=bife4KvgLAs&t",
+    "url": "/notes/senior-engineer-career-growth"
+  },
+  {
+    "id": "obsidian-claude-code-ai-system",
+    "title": "Obsidian結合Claude Code打造AI系統",
+    "category": "影片筆記",
+    "tags": [
+      "Obsidian",
+      "Claude Code",
+      "AI作業系統",
+      "知識管理",
+      "自動化路由"
+    ],
+    "description": "將Claude Code嵌入Obsidian筆記軟體，克服AI缺乏長期記憶的缺點，建構出能自動處理任務、管理知識且具備「大腦」功能的個人AI作業系統",
+    "quote": "Claude Code很出色，但如果沒有家，它就像是一個患有失憶症的天才。",
+    "action": "從建立一個簡單的Obsidian Vault並連結終端機開始，嘗試用/init讓AI認識你的工作流程",
+    "image": "/images/影片筆記/obsidian-claude-code-ai-system.jpeg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "這是一份關於如何將 Claude Code 與 Obsidian 結合，打造一個強大 AI 作業系統的深度筆記整理。 --- 核心摘要 本影片教學如何透過將 Anthropic 的 Claude Code (終端機介面 AI) 嵌入 Obsidian 筆記軟體，克服 AI 缺乏長期記憶的缺點，並解決數位筆記難以整理的痛點，建構出一個能自動處理任務、管理知識且具備「大腦」功能的個人 AI 作業系統。 --- 詳細重點整理 1. 為什麼要結合 Claude Code 與 Obsidian？  解決 Claude Code 的健忘症： AI 雖然強大，但每次開啟新對話都會遺失先前的專案背景與決策。Obsidian 提供了一個穩定的「本地數據庫」，讓 AI 擁有持續性的記憶 [(http://www.youtube.com/watch?v=eIXheJcxDIg&t=43)]。  賦予 Obsidian 一位「管理員」： 傳統筆記軟體常讓人花過多時間在手動分類與搜尋。透過 Claude Code，你可以直接用對話方式讓 AI 幫你歸檔、路由與組織文件 [(http://www.youtube.",
+    "url": "/notes/obsidian-claude-code-ai-system"
+  },
+  {
+    "id": "gemini-live-api-voice-agent",
+    "title": "Gemini Live API語音代理開發",
+    "category": "影片筆記",
+    "tags": [
+      "Gemini Live API",
+      "語音代理",
+      "WebSocket",
+      "多模態",
+      "即時對話"
+    ],
+    "description": "介紹Gemini Live API的強大功能，展示如何利用Gemini 3.1 Flash-Lite模型，透過WebSocket建立低延遲、具備情感理解的即時語音對話應用",
+    "quote": "Gemini 3真正開啟了「行動時代」（Era of Action）。",
+    "action": "先從GitHub的gemini-live-api-examples專案著手，快速建立一個能跑起來的Localhost示範",
+    "image": "/images/影片筆記/gemini-live-api-voice-agent.jpeg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "《Building Voice Agents with Gemini 3》 這部影片詳細介紹了如何利用 Google 最新的 Gemini 3.1 Flash-Lite 模型構建具備語音、影像雙向互動能力的即時 AI 代理。 --- 核心摘要 這部影片介紹了 Gemini Live API 的強大功能，展示開發者如何利用 Gemini 3.1 Flash-Lite 模型，透過 WebSocket 建立低延遲、具備情感理解且能處理影音雙向流的即時語音對話應用。 --- 詳細重點整理 1. Gemini Live API 的核心優勢與多模態能力  原生音訊處理：不同於傳統「語音轉文字再轉語音」的模式，Gemini 3 採原生音訊輸入輸出，能精準捕捉語氣、情感並實現自然對話 [(http://www.youtube.com/watch?v=XV5bhkDpL7U&t=52)]。  多模態輸入：支援即時音訊（16kHz PCM）與影像幀（每秒 1 幀 JPEG），讓 AI 能「看見」使用者的環境並做出反應 [(http://www.youtube.com/watch?v=XV5bhkDpL7U",
+    "url": "/notes/gemini-live-api-voice-agent"
+  },
+  {
+    "id": "dog-owner-attachment-bond",
+    "title": "狗狗與主人的情感連結解析",
+    "category": "影片筆記",
+    "tags": [
+      "安全依附",
+      "催產素迴路",
+      "社交參照",
+      "壓力傳導",
+      "大腦獎勵"
+    ],
+    "description": "狗狗並非產生「印痕作用」，而是透過3.3萬年的演化，與主人建立了如同人類嬰兒與母親般的「安全依附關係」",
+    "quote": "狗狗並非在某個瞬間突然印痕在你身上，牠們是選擇了你，並且在每一天的對視、回首與倚靠中，不斷重新選擇你。",
+    "action": "回應狗狗的溫柔眼神、散步時保持互動給予肯定、覺察自身情緒因為狗狗是你的情緒鏡子",
+    "image": "/images/影片筆記/dog-owner-attachment-bond.jpg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片揭示狗狗並非像鵝一樣產生「印痕作用」(Imprinting)，而是透過 3.3 萬年的演化，與主人建立了如同人類嬰兒與母親般的「安全依附關係」。 --- 詳細重點整理 1. 眼神的生化連結：催產素回饋圈  科學解釋： 在自然界，持續注視通常是威脅，但狗狗與主人溫柔的對望會觸發「催產素 (Oxytocin)」分泌。  關鍵細節： 這是一種正向回饋循環，當狗狗看著你時，你們雙方的催產素都會上升，這與母親照護新生兒的神經機制相同。 [(http://www.youtube.com/watch?v=l89EldC5ZiM&t=111)]  建議： 當狗狗深情看你時，請回望牠 3-5 秒，這是在完成一個跨越萬年的生化連結迴路。 [(http://www.youtube.com/watch?v=l89EldC5ZiM&t=152)] 2. 安全基地效應 (Secure Base Effect)  表現形式： 狗狗在你在場時會變得更勇敢、更願意探索新事物或解決難題。 [(http://www.youtube.com/watch?v=l89EldC5ZiM&t=171)]  研究發現",
+    "url": "/notes/dog-owner-attachment-bond"
+  },
+  {
+    "id": "dog-love-neuroscience",
+    "title": "狗狗的愛：科學與行為解讀",
+    "category": "影片筆記",
+    "tags": [
+      "催產素迴路",
+      "演化肌肉",
+      "情緒同步",
+      "愧疚臉",
+      "安全依附"
+    ],
+    "description": "狗狗與人類的連結透過與母嬰連結相同的神經化學迴路建立，牠們每天都在用8種基於神經科學的「無聲讚美」向你告白",
+    "quote": "你的狗狗不是在犯錯後感到愧疚，牠是在說：「這段關係對我來說比是非對錯更重要。」",
+    "action": "每天與狗狗進行3-5秒溫柔對望，停止懲罰「愧疚臉」，當牠想靠著你睡覺時儘量不要移動",
+    "image": "/images/影片筆記/dog-love-neuroscience.jpg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "🎥 影片核心摘要 狗狗與人類的連結是透過與母嬰連結相同的神經化學迴路建立的，牠們每天都在用 8 種基於神經科學的「無聲讚美」向你告白，而這些行為常被主人忽略甚至誤解。 --- 📝 詳細重點整理 1. 眼神的催產素迴路：靈魂的連結 [00:00:55]  科學基礎： 日本麻布大學研究發現，狗狗與主人深情對望時，雙方大腦都會分泌「催產素」（愛情荷爾蒙）。  行為細節： 不同於野生動物將直視視為威脅，狗狗選擇用柔和、放鬆的眼神看著你，這是一種主動展現脆弱的行為。  建議： 下次狗狗看著你時，請回望牠 3-5 秒，不需要說話或下指令，這是在完成專屬於你們的神經迴路。 2. 進化而來的溝通肌肉：專門為你長出的「無辜眼」 [00:02:18]  演化證據： 狗狗擁有一塊狼所沒有的特殊肌肉（LAOM），能抬起內側眉毛，創造出令人憐愛的「狗狗眼」。  行為細節： 當你進門時，狗狗眉毛那不到一秒的微小跳動，是動物界最快速的喜悅表達之一。 3. 情緒同步：會傳染的哈欠 [00:03:29]  神經同步： 72% 的狗狗會被主人的哈欠傳染。這不是因為累，而是因為牠的神經系統與你高度同步。  行為細節： ",
+    "url": "/notes/dog-love-neuroscience"
+  },
+  {
+    "id": "dog-eye-contact-guide",
+    "title": "狗狗眼神的解讀與互動指南",
+    "category": "影片筆記",
+    "tags": [
+      "狗狗眼神",
+      "催產素",
+      "僵硬凝視",
+      "認知障礙",
+      "眉毛演化"
+    ],
+    "description": "狗狗的注視並非只有一種意義，而是由33,000年演化而成、包含生化反應與行為警示的多層次溝通語言",
+    "quote": "狗狗的眼神不是為了操縱你，而是為了「觸及」你。",
+    "action": "每天花3-5秒與狗狗溫柔對視，學習分辨放鬆與僵硬的差別，能有效避免90%以上的意外咬傷",
+    "image": "/images/影片筆記/dog-eye-contact-guide.jpeg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "🎥 影片核心摘要 「狗狗的注視並非只有一種意義，而是由 33,000 年演化而成、包含生化反應與行為警示的多層次溝通語言。」 --- 📝 詳細重點整理 1. 柔和眼神：神經化學的「催產素」綁架 [(http://www.youtube.com/watch?v=RaPiu6yT-As&t=63)]  特徵：眼神柔軟、肌肉放鬆，通常發生在狗狗靜靜看著你時。  科學實驗：麻布大學研究發現，當主人與狗狗進行「深情對望」時，狗狗體內的催產素（親密荷爾蒙）會上升 130%，而主人更是激增 300%。  演化奇蹟：這是狗狗獨有的能力，連人類養大的狼都無法透過對視產生這種化學連結。這被科學家稱為「劫持」了人類母嬰間的溝通路徑。 2. 要求性眼神：被你「訓練」出來的談判 [(http://www.youtube.com/watch?v=RaPiu6yT-As&t=172)]  特徵：眼神專注且身體微僵，通常伴隨眼神在「你」與「目標物」（如零食罐、牽繩）之間切換。  行為本質：這不是愛，而是談判。狗狗發現只要盯著你，你就會給予回應，因此強化了這個行為。  應對建議：不要立刻給予獎勵。先要求狗狗完成一個",
+    "url": "/notes/dog-eye-contact-guide"
+  },
+  {
+    "id": "dog-emotional-needs",
+    "title": "狗狗情感需求深度解析",
+    "category": "影片筆記",
+    "tags": [
+      "狗狗情感",
+      "肢體接觸",
+      "生活節律",
+      "嗅聞enrichment",
+      "安全基地"
+    ],
+    "description": "探討狗狗感受「愛」的獨特方式，愛是透過刻意的肢體接觸、穩定的生活節律以及高品質的陪伴，讓狗狗在心理與生理上獲得真正的安全感",
+    "quote": "對狗狗而言，一致性（規律）並非乏味，而是愛最清晰的形式之一。",
+    "action": "每天3分鐘專心撫摸、散步留5分鐘讓牠自由嗅聞、每天5分鐘無插電純陪伴",
+    "image": "/images/影片筆記/dog-emotional-needs.jpg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片探討了狗狗感受「愛」的獨特方式，強調愛並非語言或物質，而是透過刻意的肢體接觸、穩定的生活節律以及高品質的陪伴，讓狗狗在心理與生理上獲得真正的安全感。 --- 詳細重點整理 1. 刻意的肢體接觸與預測性 [(http://www.youtube.com/watch?v=EFfFVkul-VI&t=64)] 狗狗眼中的愛始於身體的感受，而非隨意的拍打。  刻意觸摸：每天安排 3 分鐘放下手機，全神貫注地與狗狗進行平靜、可預測的撫摸。這能降低雙方的壓力激素，建立穩固的連結 [(http://www.youtube.com/watch?v=EFfFVkul-VI&t=92)]。  規律是愛的表現：狗狗無法閱讀時鐘，但牠們信任「模式」。設定固定的散步、餵食與睡前儀式，能讓生活混亂的壓力感消失，讓狗狗感到安心 [(http://www.youtube.com/watch?v=EFfFVkul-VI&t=150)]。 2. 豐富心靈而非僅是填飽肚子 [(http://www.youtube.com/watch?v=EFfFVkul-VI&t=175)] 許多狗狗表現出的「乖巧」其實",
+    "url": "/notes/dog-emotional-needs"
+  },
+  {
+    "id": "context-graphs-agentic-enterprise",
+    "title": "上下文圖譜：AI代理企業的控制平面",
+    "category": "影片筆記",
+    "tags": [
+      "上下文圖譜",
+      "知識型存取控制",
+      "委託授權",
+      "AI治理",
+      "代理人身份"
+    ],
+    "description": "將「上下文圖譜」作為企業級AI代理系統的控制層，透過解耦AI智慧與治理規範，實現動態、可追溯且安全的「知識型存取控制」",
+    "quote": "上下文圖譜不是可有可無的配件，而是「代理型企業」的控制平面。沒有它，安全的AI部署將無法實現。",
+    "action": "企業應先清查現有的AI代理人及其存取的工具，並在圖譜中為其建立正式身份",
+    "image": "/images/影片筆記/context-graphs-agentic-enterprise.jpg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "《Context graphs as the control plane for the agentic enterprise》 這部影片深入探討了如何利用「上下文圖譜」（Context Graphs）來管理企業內日益複雜的 AI 代理人（Agents）系統。 核心摘要 這部影片主張將 「上下文圖譜 (Context Graphs)」 作為企業級 AI 代理系統的控制層，透過解耦 AI 智慧與治理規範，實現動態、可追溯且安全的「知識型存取控制 (KBAC)」。 --- 詳細重點整理 1. 為什麼需要上下文圖譜？（治理與智慧的解耦）  解耦的必要性：企業應將「代理人的智慧（運算邏輯）」與「治理規範（權限控管）」分開。這樣在更換 AI 模型或增加代理人時，不需要重新撰寫治理規則，保持架構彈性。  超越傳統知識圖譜：傳統知識圖譜僅儲存靜態事實（如：員工 A 屬於部門 B），而「上下文圖譜」加入了 來源追溯 (Provenance)、時間有效性 (Temporal Validity) 以及 決策軌跡。 2. 從靜態權限轉向動態意圖治理  知識型存取控制 (KBAC)：不再僅依賴靜態的角色標籤（",
+    "url": "/notes/context-graphs-agentic-enterprise"
+  },
+  {
+    "id": "context-graph-ai-knowledge-graph",
+    "title": "Context Graph：AI的脈絡圖譜",
+    "category": "影片筆記",
+    "tags": [
+      "Context Graph",
+      "知識圖譜",
+      "RDF",
+      "語義消歧",
+      "本體論"
+    ],
+    "description": "Context Graph是專為AI優化的知識圖譜結構，透過結構化的語義關聯，解決大型語言模型在處理大規模數據時的歧義性與脈絡流失問題",
+    "quote": "Context Graph本質上是為AI優化的圖譜，它不只是餵給LLM的資料，而是一種讓機器理解世界脈絡的基礎設施。",
+    "action": "在處理複雜文件時，應結合圖譜技術解決代名詞與脈絡遺失問題，並善用現有行業標準的本體論",
+    "image": "/images/影片筆記/context-graph-ai-knowledge-graph.jpg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "這部影片由 TrustGraph 的共同創辦人 Daniel Davis 主講，深入探討了 Context Graph（上下文圖譜） 的定義、歷史背景及其在 AI 時代的重要性，強調這並非全新發明，而是知識圖譜（Knowledge Graph）技術的進化應用。 核心摘要 Context Graph 是專為 AI 優化的知識圖譜結構，透過結構化的語義關聯（如 RDF 或屬性圖），解決大型語言模型（LLM）在處理大規模數據時的歧義性與脈絡流失問題。 --- 詳細重點整理 1. 知識圖譜並非新技術，而已具規模化應用 [(http://www.youtube.com/watch?v=gZjlt5WcWB4&t=69)]  長期存在的應用： 知識圖譜技術早已在信用卡詐欺檢測（毫秒級查詢）、石油與天然氣工業、醫療研究等領域大規模運行多年。  搜尋引擎基礎： 如 Google 搜尋背後使用的 schema.org 本質上就是一種本體論（Ontology），用來結構化網頁資訊。  圖譜結構： 核心在於「主體-謂詞-客體」（Subject-Predicate-Object）的三元組結構，這是資訊交換的理",
+    "url": "/notes/context-graph-ai-knowledge-graph"
+  },
+  {
+    "id": "claude-skills-ai-work-partner",
+    "title": "Claude技能打造AI工作夥伴",
+    "category": "影片筆記",
+    "tags": [
+      "Claude技能",
+      "插件系統",
+      "簡報生成",
+      "合約審查",
+      "排程自動化"
+    ],
+    "description": "利用Claude Co-work的「技能」與「插件」功能，透過預設的指令集與工具連接，打造能自動處理簡報、財務、合約及日常排程的個人AI數位系統",
+    "quote": "如果不配備正確的技能，你只發揮了Claude 10%的潛力。",
+    "action": "將繁瑣的重複性工作設定為「排程任務」，並利用自定義技能注入你的業務背景資訊",
+    "image": "/images/影片筆記/claude-skills-ai-work-partner.jpeg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "這部影片由 Brock Mesarich 分享，詳細介紹了如何透過 Claude Co-work (Claude Desktop) 的「技能 (Skills)」功能，將 AI 從簡單的聊天機器人轉化為強大的自動化工作夥伴，並無私分享了 15 個能顯著提升生產力的實用技能模組。 --- 核心摘要 這部影片教你如何利用 Claude Co-work 的「技能」與「插件」功能，透過預設的指令集與工具連接，打造一個能自動處理簡報、財務、合約及日常排程的個人 AI 數位系統。 --- 詳細重點整理 1. 什麼是 Claude 技能 (Skills) 與插件？ [(http://www.youtube.com/watch?v=0bRxpRupE5Y&t=43)]  定義： 技能不僅是簡單的提問，而是「可重複使用的指令集」(Markdown 檔案)，讓 Claude 執行特定的完整工作流。  觸發方式： 可以透過特定關鍵字觸發，或是直接使用 / 指令呼叫特定技能。  插件化： 多個技能可以打包成插件 (Plugin)，方便安裝與團隊共享。 2. 如何安裝與自定義技能 [(http://www.you",
+    "url": "/notes/claude-skills-ai-work-partner"
+  },
+  {
+    "id": "claude-code-ai-marketing-team",
+    "title": "Claude Code打造AI行銷團隊教學",
+    "category": "影片筆記",
+    "tags": [
+      "Claude Code",
+      "AI行銷團隊",
+      "Skills技能",
+      "MCP整合",
+      "Agent協作"
+    ],
+    "description": "透過Claude Code與VS Code環境，將Claude轉化為包含數據分析、內容創作、市場研究等多元角色的「AI行銷團隊」，實現全自動化工作流",
+    "quote": "將任務轉化為技能，將技能整合為Agent。",
+    "action": "整理出你最滿意的3份品牌範本作為AI的參考基準，先標準化再AI化",
+    "image": "/images/影片筆記/claude-code-ai-marketing-team.jpeg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "💡 核心摘要 本影片教學如何透過 Claude Code 與 VS Code 環境，將 Claude 轉化為包含數據分析、內容創作、市場研究等多元角色的「AI 行銷團隊」，實現從策略研究到素材產出的全自動化工作流。 --- 📂 詳細重點整理 1. 構建 AI 團隊的四個關鍵步驟 [(http://www.youtube.com/watch?v=yLXLHnD4fco&t=20)] 要打造高效的 AI 團隊，不能只是隨機下指令，需要結構化的設計：  定義功能： 列出每週重複執行的行銷任務。  轉化技能 (Skills)： 將每個任務轉化為一個專屬的「技能」工作流。  分配角色 (Agents)： 將相似技能歸類到不同的 Agent 角色中（例如：寫手、設計師、分析師），避免單一 Agent 負擔過重導致品質下降。  整合協作： 設定 claude.md 指令，讓 Claude 知道何時該調用哪個 Agent 或技能。 2. 環境架設與基礎設定 [(http://www.youtube.com/watch?v=yLXLHnD4fco&t=70)]  工具準備： 下載 VS Code 並",
+    "url": "/notes/claude-code-ai-marketing-team"
+  },
+  {
+    "id": "chrome-144-ai-agent-debugging",
+    "title": "Chrome 144更新：AI代理調試革命",
+    "category": "AI筆記",
+    "tags": [
+      "Chrome DevTools",
+      "MCP",
+      "AI代理調試",
+      "自動連接",
+      "隱私隔離"
+    ],
+    "description": "Chrome 144版本推出「自動連接」功能，讓AI代理能直接存取、操作與調試你正在運行的Chrome分頁，徹底改變開發者與AI協作的調試流程",
+    "quote": "你不再需要額外的AI瀏覽器外掛，Chrome本身就具備了最強大的調試協作能力。",
+    "action": "確認Chrome已更新至144以上，並配置Chrome MCP以簡化前端調試流程",
+    "image": "/images/AI筆記/chrome-144-ai-agent-debugging.jpeg",
+    "date": "2026-03-29",
+    "source_has_timestamps": false,
+    "body": "你好！我是你的知識管理專家與高效率筆記員。針對這部關於 Chrome DevTools MCP (Model Context Protocol) 重大更新 的影片，我已為你整理出結構清晰的繁體中文筆記。 --- 🌐 影片筆記：Chrome 144 更新——讓瀏覽器成為最強 AI 代理工具 核心摘要 Google Chrome 144 版本推出了 「自動連接」 功能，讓 AI 代理（如 Claude）能直接存取、操作與調試你正在運行的 Chrome 分頁，徹底改變了開發者與 AI 協作進行網頁調試的流程。 --- 詳細重點整理 1. Chrome MCP 的重大突破：從手動到自動  過去困境： 以前 AI 若要操作 Chrome，必須啟動一個全新的空白會話（Session），或者需要繁瑣的手動設定遠端調試連接埠。這導致 AI 無法直接存取用戶已登入的頁面或現有的瀏覽快取。  現在優勢： 在 Chrome 144+ 版本中，只需開啟「遠端調試」標誌，AI 就能自動識別並連接至你目前的瀏覽器分頁，共享 Cookie、登入狀態與瀏覽紀錄。 2. 設定步驟：開啟自動連接功能  步驟一： 確保 ",
+    "url": "/notes/chrome-144-ai-agent-debugging"
+  },
+  {
+    "id": "body-fat-reduction-timeline",
+    "title": "健身減脂時間軸與策略解析",
+    "category": "影片筆記",
+    "tags": [
+      "減脂時間軸",
+      "彈性飲食法",
+      "複合動作",
+      "漸進式策略",
+      "逆向飲食"
+    ],
+    "description": "從30%減脂到12%是一場為期約30到40週的「馬拉松」，必須透過可持續的飲食計畫、重量訓練及漸進式策略，才能真正獲得並維持理想體態",
+    "quote": "如果你無法維持那個計畫，你也就無法維持那個計畫帶來的結果。",
+    "action": "設定每週減重0.8%的目標，每週至少重訓3天專注複合動作，給自己一整年的時間來徹底改變",
+    "image": "/images/影片筆記/body-fat-reduction-timeline.jpeg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "《30% to 12% Body Fat | Timeline Explained》，這部影片主要由健身教練 Max Rogers 講解男性如何從高體脂率（30%）健康且持久地減脂到理想的精實體態（12%）。 以下是我為你整理的結構化筆記： 核心摘要 這部影片的主旨在於：從 30% 減脂到 12% 是一場為期約 30 到 40 週的「馬拉松」，必須透過可持續的飲食計畫、重量訓練及漸進式策略，而非激進的短期挑戰，才能真正獲得並維持理想體態。 --- 詳細重點整理 1. 精確的時間軸預測：這不是六週能完成的事 [(http://www.youtube.com/watch?v=qgmw1xmMmQg&t=93)]  數據推算：以一個 100 公斤、30% 體脂的男性為例，目標是減掉約 20 公斤的脂肪。  建議減重速度：每週減去體重的 0.75% 到 1% 是最理想且健康的範圍。 [(http://www.youtube.com/watch?v=qgmw1xmMmQg&t=118)]  預估週期：      積極執行 (1%/週)：約需 23 週 (5.5 個月)。      現實執行 (0",
+    "url": "/notes/body-fat-reduction-timeline"
+  },
+  {
+    "id": "ai-stitch-2-design-automation",
+    "title": "Stitch 2.0結合AI的網站設計自動化",
+    "category": "影片筆記",
+    "tags": [
+      "Stitch 2.0",
+      "設計系統",
+      "Claude Code",
+      "React組件",
+      "Shadcn UI"
+    ],
+    "description": "Google Stitch 2.0透過設計系統與Claude Code結合，解決AI生成網站外觀過於單調的問題，實現從設計到React組件的自動化工作流",
+    "quote": "從頭開始設計並不總是好主意，模仿已證實有效的模式能幫助你更快做出真正好用的產品。",
+    "action": "利用Enhanced Prompt功能讓AI代替你撰寫技術性的設計指令，並搭配Shadcn UI提升互動質感",
+    "image": "/images/影片筆記/ai-stitch-2-design-automation.jpg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "《4 Ways to Actually Use Stitch 2.0 in AI Coding》 --- 💡 核心摘要 這部影片詳細介紹了 Google Stitch 2.0 如何透過其強大的設計系統（Design System）與 Claude Code 或其他 AI 代理程式（Agents）結合，解決 AI 生成網站外觀過於單調、不一致的問題，並實現從設計到 React 組件的高效自動化工作流。 --- 📝 詳細重點整理 1. 核心機制：設計系統與 design.md 文件 [(http://www.youtube.com/watch?v=b0lwCDNOFUY&t=45)]  跨平台移植性： Stitch 使用 design.md 作為設計的「靈魂」，將顏色、主題、字體等視覺規範轉化為 AI 易於理解的語言，使設計能在不同 AI Agent 之間完美同步。  視覺化優勢： 不同於單純的文字描述，Stitch 能將設計系統視覺化，讓開發者在實作前就能預覽色彩與字體配置 [(http://www.youtube.com/watch?v=b0lwCDNOFUY&t=72)]。  自",
+    "url": "/notes/ai-stitch-2-design-automation"
+  },
+  {
+    "id": "ai-agent-social-media-automation",
+    "title": "AI經紀人打造社群媒體自動化系統",
+    "category": "影片筆記",
+    "tags": [
+      "Claude Code",
+      "社群自動化",
+      "短影音剪輯",
+      "Voice DNA",
+      "內容排程"
+    ],
+    "description": "透過Claude Code建立具備17種專業技能的AI經紀人系統，能自動完成長影片轉短影音、LinkedIn專業貼文製作及長影片自動剪輯排程",
+    "quote": "在這個AI快速進化的時代，開始實施AI代理人流程是你能做的最好的事情。",
+    "action": "在系統中設定自己的語氣風格（Voice DNA），避免產出過於死板的「AI罐頭味」",
+    "image": "/images/影片筆記/ai-agent-social-media-automation.jpg",
+    "date": "2026-03-29",
+    "source_has_timestamps": true,
+    "body": "這部影片詳細介紹了如何利用 Claude Code 結合一系列 AI 工具與 API，打造一套全自動化的社群媒體內容產製系統，從影片剪輯、圖文生成到自動排程發布，實現一人團隊的高效率轉型。 核心摘要 本影片展示了如何透過 Claude Code 建立一個具備 17 種專業技能的 AI 經紀人系統，能自動完成長影片轉短影音、LinkedIn 專業貼文製作及長影片自動剪輯排程等繁瑣任務。 --- 詳細重點整理 1. AI 社群媒體經紀人系統架構 [(http://www.youtube.com/watch?v=GSnKzuy-byk&t=256)]  核心引擎： 使用 Claude Code 作為開發與溝通介面，整合了 16-17 種專門針對內容創作開發的「技能 (Skills)」。  關鍵工具橋樑：      Cernio (原名 Late)： 核心社交媒體 API，負責將內容發布至 YouTube、Instagram、TikTok、LinkedIn 等平台，並追蹤數據。      Key.ai： 提供視覺生成的 API，支持圖像 (如 Flux/Nano Banana) 與影片生成。 ",
+    "url": "/notes/ai-agent-social-media-automation"
+  },
+  {
     "id": "claude-code-advanced-settings",
     "title": "Claude Code 十二個進階設定技巧",
     "category": "AI筆記",
