@@ -1,5 +1,185 @@
 [
   {
+    "id": "taiwan-silicon-shield-geopolitics",
+    "title": "台灣矽盾：地緣政治與科技實力",
+    "category": "影片筆記",
+    "tags": [
+      "台積電",
+      "矽盾",
+      "半導體",
+      "地緣政治",
+      "產業聚落"
+    ],
+    "description": "這段影片深刻解析了台灣如何在全球地緣政治的夾縫中，利用極端惡劣的自然環境與政治孤立的壓力，鍛造出無可取代的「矽盾」",
+    "quote": "如果你能在颱風、乾旱與強震同時發生時，依然保持晶圓製程的絕對穩定，你便擁有了競爭對手無法企及的工程紀律。",
+    "action": "找出一項最擅長且不與他人利益衝突的技能作為核心定位",
+    "image": "/images/影片筆記/taiwan-silicon-shield-geopolitics.jpeg",
+    "date": "2026-03-30",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片深刻解析了台灣如何在全球地緣政治的夾縫中，利用極端惡劣的自然環境（地震、缺水、颱風）與政治孤立的壓力，鍛造出無可取代的「矽盾」。透過台積電（TSMC）獨特的純代工模式與新竹科學園區的聚落效應，台灣將生存危機轉化為全球半導體產業的戰略心臟，展現了「因地制宜」與「極致專注」帶來的跨時代影響力。 --- 詳細重點整理 1. 惡劣環境淬煉出的精準度 [(http://www.youtube.com/watch?v=UWBrzzd1yg&t=496)]  台灣位於環太平洋地震帶且濕度極高，這對極需穩定的半導體製造極其不利。然而，正是為了克服這些變數，台灣研發出超越對手的工程紀律。  關鍵概念：「取法乎上，僅得其中」 (Aim small, miss small)：在動盪環境中練習精準，當環境穩定時，其良率（Yield）便能遠超三星與 Intel。 2. 歷史與政治的孤兒到世界核心 [(http://www.youtube.com/watch?v=UWBrzzd1yg&t=276)]  影片回顧了台灣從 1971 年失去聯合國席位後的國際處境。這種「被邊緣化」的焦慮成為推動經濟轉",
+    "url": "/notes/taiwan-silicon-shield-geopolitics"
+  },
+  {
+    "id": "dog-licking-science-explained",
+    "title": "狗狗舔舔背後的科學",
+    "category": "影片筆記",
+    "tags": [
+      "狗狗行為",
+      "舔舐科學",
+      "鋤鼻器",
+      "共情反應",
+      "寵物健康"
+    ],
+    "description": "這部影片深入解析了狗狗「舔」行為背後的七種科學含義。狗狗的舌頭不僅是表達愛意的工具，更是一個精密的生化感測器、情緒電報與自我醫療裝置",
+    "quote": "狗狗的舌頭不只是舌頭，它是牠們與世界溝通最全能的感測器；解讀舔舐，是通往牠們靈魂的必經之路。",
+    "action": "觀察狗狗舔舐時肢體語言，記錄頻率，無故持續舔家具超過5分鐘應就醫",
+    "image": "/images/影片筆記/dog-licking-science-explained.jpeg",
+    "date": "2026-03-30",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片深入解析了狗狗「舔」行為背後的七種科學含義。狗狗的舌頭不僅是表達愛意的工具，更是一個精密的生化感測器、情緒電報與自我醫療裝置。透過解讀舔舐行為，主人能辨識出狗狗是在讀取你的壓力分子、緩解自身焦慮、建立家族連結，或是正發出健康警訊與社交邊界請求。 --- 詳細重點整理 1. 讀取你的「化學報紙」 [(http://www.youtube.com/watch?v=4Jb7O58nvS8&t=66)]  狗狗透過口腔頂部的鋤鼻器（Jacobson's organ），將你皮膚上的化學分子（如皮質醇、乳酸等）直接傳送到大腦的情緒中心。  關鍵概念：狗狗並非在舔汗水的鹹味，而是在「讀取」你的情緒狀態。研究顯示狗狗能以 93.75% 的準確率辨識人的壓力與冷靜。 2. 神經化學的自我醫療 [(http://www.youtube.com/watch?v=4Jb7O58nvS8&t=175)]  舔舐會觸發狗狗大腦分泌內啡肽（Endorphin）、血清素（Serotonin）與多巴胺（Dopamine），形成一個強大的獎勵迴路。  關鍵概念：如果狗狗強迫性地舔舐地板或牆壁，這可能是一",
+    "url": "/notes/dog-licking-science-explained"
+  },
+  {
+    "id": "build-systems-for-success",
+    "title": "建立系統以達成成功",
+    "category": "影片筆記",
+    "tags": [
+      "系統思維",
+      "時間管理",
+      "目標設定",
+      "健康優化",
+      "自動化"
+    ],
+    "description": "這段影片由 Ali Abdaal 分享如何透過「建立系統」而非單靠意志力來取得成功。核心觀點在於：成功是達成目標、保持平衡並享受過程的總和",
+    "quote": "健康的人有一百個願望，而不健康的人只有一個。",
+    "action": "從五大系統中挑選最混亂的三個領域，設定2個自動化點並做每週回顧",
+    "image": "/images/影片筆記/build-systems-for-success.jpeg",
+    "date": "2026-03-30",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片由 Ali Abdaal 分享如何透過「建立系統」而非單靠意志力來取得成功。核心觀點在於：成功是達成目標、保持平衡並享受過程的總和，而系統能將複雜的行動轉化為可預測的自動化流程，減少決策疲勞，讓進步變得不可阻擋且可持續。 --- 詳細重點整理 1. 系統的定義與價值 [(http://www.youtube.com/watch?v=MBPHU7aaklM&t=171)]  定義：系統是一系列相互關聯的行動、流程或清單，旨在產生特定結果。  價值：雖然初期建立系統需額外努力，但一旦運行，它能大幅降低執行難度。  關鍵概念：「減少決策疲勞」。系統讓你不再依賴當下的心情，而是遵循預設的腳本，如機師或醫生的標準作業程序（SOP）。 2. 系統 1：目標設定系統 (GPS) [(http://www.youtube.com/watch?v=MBPHU7aaklM&t=550)]  流程：包含遠期願景（人生指南針）、三年藍圖（願景板）、季度目標（90天任務）以及每週優先順序與回顧。  關鍵概念：「從大到小」。透過系統化的審視，確保行動符合內在動機，而非社會或家長的期望。 3. 系",
+    "url": "/notes/build-systems-for-success"
+  },
+  {
+    "id": "ai-thinking-format-agnostic-meaning",
+    "title": "AI思考：格式無關的意義處理",
+    "category": "影片筆記",
+    "tags": [
+      "語言模型",
+      "格式無關",
+      "柏拉圖表徵",
+      "循環語言模型",
+      "意義處理"
+    ],
+    "description": "這段影片揭示了大型語言模型運作的驚人真相：AI 在思考時並非使用人類語言，而是在模型的「中間層」將各國語言轉化為一種「格式無關」的純粹意義空間",
+    "quote": "中間層不是倉庫，而是工作坊；讓 AI 思考得更好，不是給它更多原料，而是讓它在工作坊裡多磨練幾次。",
+    "action": "將複雜問題用三種不同方式重新描述，模擬AI的「格式無關」處理",
+    "image": "/images/影片筆記/ai-thinking-format-agnostic-meaning.jpeg",
+    "date": "2026-03-30",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片揭示了大型語言模型（LLM）運作的驚人真相：AI 在思考時並非使用人類語言，而是在模型的「中間層」將各國語言轉化為一種「格式無關（Format Agnostic）」的純粹意義空間。這種機制顯示，AI 的進步不在於記憶更多事實，而在於更深度的意義處理。 ----- 詳細重點整理 1. 語言模型的「三段式」思考結構 [(http://www.youtube.com/watch?v=X5XKayn18ck&t=60)]    編碼區（前 5 層）：處理原始輸入與不同語言的腳本，將其標準化。    中間層（10-45 層）：關鍵概念：格式無關空間。在此處，不同語言但意義相同的句子（如中文與英文）其內在表示極為相似（相似度達 0.902），超越了同語言但不同主題的相似度。    解碼區（最後 15 層）：將中間層處理完的「意義」重新轉換回特定的輸出語言。 2. 重複中間層：讓 AI「想兩次」的技巧 [(http://www.youtube.com/watch?v=X5XKayn18ck&t=134)]    運作機制：透過複製模型的中間層（Reasoning Engine），可",
+    "url": "/notes/ai-thinking-format-agnostic-meaning"
+  },
+  {
+    "id": "ai-research-workflow-claude-notebooklm-obsidian",
+    "title": "AI研究工作流：三大工具整合",
+    "category": "影片筆記",
+    "tags": [
+      "Claude Code",
+      "NotebookLM",
+      "Obsidian",
+      "技能創建",
+      "自動化研究"
+    ],
+    "description": "本影片展示了如何將 Claude Code、NotebookLM 與 Obsidian 三大工具結合，構建一套「上帝模式」的自動化研究工作流",
+    "quote": "真正強大的不是工具本身，而是你如何將它們串聯成一套能自我優化的閉環系統。",
+    "action": "安裝Claude Code、NotebookLM-PI與Obsidian，建立第一個資料抓取技能",
+    "image": "/images/影片筆記/ai-research-workflow-claude-notebooklm-obsidian.jpeg",
+    "date": "2026-03-30",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片展示了如何將 Claude Code、NotebookLM 與 Obsidian 三大工具結合，構建一套「上帝模式」的自動化研究工作流。透過 Claude Code 的技能創建功能，使用者能將複雜的 YouTube 搜索、深度資料分析與結構化筆記記錄整合為單一指令，大幅提升知識內化與內容產出的效率。 --- 詳細重點整理 1. 超強工作流的宏觀架構 [(http://www.youtube.com/watch?v=kU3qYQ7ACMA&t=94)]  流程拆解：利用 Claude Code 作為中樞，先透過 YouTube 搜索獲取資料，再交由 NotebookLM 進行免費的大規模分析（不耗費 Claude Token），最後將結果自動存入 Obsidian 庫中。  關鍵概念：「研究怪獸」模式——將瑣碎的工具調用轉化為一個封閉且自動化的生產力環節。 2. 核心組件：NotebookLM 與 API 整合 [(http://www.youtube.com/watch?v=kU3qYQ7ACMA&t=393)]  技術突破：雖然 NotebookLM 官方尚未開放公共",
+    "url": "/notes/ai-research-workflow-claude-notebooklm-obsidian"
+  },
+  {
+    "id": "ai-redefines-product-design-process",
+    "title": "AI重新定義產品設計流程",
+    "category": "影片筆記",
+    "tags": [
+      "設計流程",
+      "Claude Co-work",
+      "原型開發",
+      "團隊協作",
+      "產品策劃"
+    ],
+    "description": "本影片由 Anthropic 的設計主管 Jenny Wen 分享如何利用 Claude Co-work 重新定義產品設計與開發流程。核心價值在於透過 AI 消除繁瑣的行政與基礎繪圖工作",
+    "quote": "如果你覺得腳下的土地正在移動，那是因為它確實正在發生變化。不要抵抗，要與它共同進化。",
+    "action": "每天收集3種資訊丟給AI，每週花5分鐘讓AI整理並產出行動點",
+    "image": "/images/影片筆記/ai-redefines-product-design-process.jpeg",
+    "date": "2026-03-30",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片由 Anthropic 的設計主管 Jenny Wen 分享如何利用 Claude Co-work 重新定義產品設計與開發流程。核心價值在於透過 AI 消除繁瑣的行政與基礎繪圖工作，讓設計師能同時處理更多專案，並將重心轉向高層次的決策、迭代與團隊協作。這種轉變不僅提升了生產力，更心理上賦予設計師從「執行者」轉型為「產品策劃者」的能量。 --- 詳細重點整理 1. 設計流程的典範轉移 [(http://www.youtube.com/watch?v=rlIy7b-3DC8&t=72)]  從正式到即興：現代設計不再是長時間埋頭畫稿，而是更多與工程師進行非正式的「即興討論（Jamming）」。  規格書簡化：過去長達數頁的產品需求文件（PRD）現在精簡為幾個核心點，重點在於快速產出可運作的 prototype [(http://www.youtube.com/watch?v=rlIy7b-3DC8&t=245)]。  關鍵概念：設計不再是靜態的產出物，而是一場持續進化的對話。 2. Claude Co-work 的實戰應用 [(http://www.youtube.com/",
+    "url": "/notes/ai-redefines-product-design-process"
+  },
+  {
+    "id": "ai-era-wealth-brand-reshaping",
+    "title": "AI時代的財富與品牌重塑",
+    "category": "影片筆記",
+    "tags": [
+      "超微型財富",
+      "品牌價值",
+      "架構師思維",
+      "脫鉤認同",
+      "務實樂觀"
+    ],
+    "description": "Gary Vee 指出 AI 時代並非致富的最後機會，而是創造「超微型財富」的轉捩點。他強調當技術消除執行門檻時，核心競爭力將回歸到品牌、人類的情感連結",
+    "quote": "悲觀與憤世嫉俗是不切實際的；選擇務實的樂觀，因為即使我錯了，至少我在過程中活得很快樂。",
+    "action": "每天將3小時被動娛樂改為學習AI工具，每週發布3則專業見解練習品牌化",
+    "image": "/images/影片筆記/ai-era-wealth-brand-reshaping.jpeg",
+    "date": "2026-03-30",
+    "source_has_timestamps": true,
+    "body": "核心摘要 Gary Vee 指出 AI 時代並非致富的最後機會，而是創造「超微型財富」的轉捩點。他強調當技術消除執行門檻時，核心競爭力將回歸到品牌（Brand）、人類的情感連結（Analog Value）以及對大眾文化的敏銳度。這是一場從執行者（Mason）轉向架構師（Architect）的心態革命，鼓勵我們用「務實的樂觀」來面對不確定性。 --- 詳細重點整理 1. AI 時代的財富結構：超微型財富的崛起 [(http://www.youtube.com/watch?v=4vIIeCqHYXA&t=155)]  雖然科技巨頭會主導市場，但 AI 降低了開發成本（Vibe Coding），讓個人能以極低成本建立並貨幣化微型應用。  關鍵概念：「去中間化」，傳統中介或平庸的服務公司將面臨挑戰，但長尾市場的個人機會將空前巨大。 2. 未來最值錢的資產：品牌與類比價值 [(http://www.youtube.com/watch?v=4vIIeCqHYXA&t=425)]  當 AI 產生的內容氾濫時，真實的人類品牌、實體活動（Analog）與面對面的連結將變得極度稀缺且昂貴。  關鍵概念：",
+    "url": "/notes/ai-era-wealth-brand-reshaping"
+  },
+  {
+    "id": "ai-era-open-brain-knowledge-system",
+    "title": "AI時代的開放大腦知識體系",
+    "category": "影片筆記",
+    "tags": [
+      "開放大腦",
+      "MCP協定",
+      "向量嵌入",
+      "記憶鎖定",
+      "知識體系"
+    ],
+    "description": "本影片探討在 AI 代理時代，傳統以人為中心的筆記軟體已面臨結構性瓶頸。講者提出「Open Brain」概念，主張建立一個基於資料庫、機器可讀",
+    "quote": "你的知識不應成為任何單一平台的質子；良好的上下文工程，不僅是為了 AI，更是為了釐清你自己的思維。",
+    "action": "花45分鐘建立Supabase帳戶與MCP伺服器，開始統一個人知識體系",
+    "image": "/images/影片筆記/ai-era-open-brain-knowledge-system.jpeg",
+    "date": "2026-03-30",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片探討在 AI 代理（Agents）時代，傳統以人為中心的筆記軟體（如 Notion, Obsidian）已面臨結構性瓶頸。講者提出「Open Brain（開放大腦）」概念，主張建立一個基於資料庫、機器可讀且不受單一 SaaS 廠商束縛的個人知識體系。透過 MCP 協定，讓所有 AI 工具共享同一個記憶核心，消除「 context 切換」帶來的認知損耗。 ----- 詳細重點整理 1. 記憶碎片化與「圍牆花園」的困境 [(http://www.youtube.com/watch?v=2JiMmye2ezg&t=229)]    目前主流 AI（Claude, ChatGPT, Cursor）各自擁有獨立記憶，彼此不互通。    每次開啟新對話或更換工具都要重新解釋背景，導致大量「背景傳輸（Context Transfer）」的精力浪費。    關鍵概念：記憶鎖定（Memory Lock-in）。大型企業利用記憶功能增加用戶黏著度，使你的知識成為平台的「人質」。 2. 人類網頁 vs. 代理網頁的架構分歧 [(http://www.youtube.com/watch?v=2",
+    "url": "/notes/ai-era-open-brain-knowledge-system"
+  },
+  {
+    "id": "ai-agent-output-over-setup-addiction",
+    "title": "AI代理：產出導向而非設置成癮",
+    "category": "影片筆記",
+    "tags": [
+      "AI代理",
+      "設置成癮",
+      "產出導向",
+      "高主動性",
+      "工具效率"
+    ],
+    "description": "這段影片深刻批判了當前 AI 代理框架過度追求「設置美學」而忽略實際產出的亂象。講者指出，許多人花費大量時間建立複雜的 AI 蜂群架構，本質上只是在逃避真正的",
+    "quote": "你是使用工具的人，別讓工具反過來利用了你。",
+    "action": "每天優先進行3小時直接針對終端交付物的工作，僅限1小時工具優化",
+    "image": "/images/影片筆記/ai-agent-output-over-setup-addiction.jpeg",
+    "date": "2026-03-30",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片深刻批判了當前 AI 代理（Agent）框架（如 Paperclip）過度追求「設置美學」而忽略實際產出的亂象。講者指出，許多人花費大量時間建立複雜的 AI 蜂群架構，本質上只是在逃避真正的核心工作。核心價值在於：工具應服務於成果，而非成為炫耀技術的「自嗨」工具。 --- 詳細重點整理 1. 設置成癮與產出缺失的矛盾 [(http://www.youtube.com/watch?v=QufcrM79snw&t=13)]  許多開發者熱衷於展示複雜的代理架構（如 500 個 CMOS 運行 Telegram 課題），但實際上並未交付任何具備經濟價值的產品。  關鍵概念：Setup Porn（設置色情）：形容過度沉溺於配置工具、整理檔案，卻沒有實際執行核心業務的行為。 2. 揭穿 AI 代理的「管理套殼」真相 [(http://www.youtube.com/watch?v=QufcrM79snw&t=131)]  分析 Paperclip 的案例，其任務多半只是「為代理分配任務」、「組織 AI 團隊」等內部管理。對客戶而言，唯一有價值的 SEO 審計報告，AI 卻只是將",
+    "url": "/notes/ai-agent-output-over-setup-addiction"
+  },
+  {
     "id": "senior-engineer-career-growth",
     "title": "資深工程師職涯成長與突破",
     "category": "影片筆記",
