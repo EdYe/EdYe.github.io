@@ -1,5 +1,145 @@
 [
   {
+    "id": "claude-code-firecrawl-scraping",
+    "title": "Claude Code結合Firecrawl突破爬蟲瓶頸",
+    "category": "影片筆記",
+    "tags": [
+      "Claude Code",
+      "Firecrawl",
+      "網頁爬蟲",
+      "資料擷取",
+      "自動化"
+    ],
+    "description": "深入探討如何透過結合Claude Code與Firecrawl，徹底解決AI在網頁爬蟲時遇到的瓶頸，顯著提升資料獲取的成功率與處理速度",
+    "quote": "工欲善其事，必先利其器；當原生AI觸及天花板時，整合正確的外部工具能讓你的生產力實現量級躍遷。",
+    "action": "註冊Firecrawl獲取API Key、整合Skill到Claude Code、練習定義Schema以獲取精簡資料",
+    "image": "/images/影片筆記/claude-code-firecrawl-scraping.jpeg",
+    "date": "2026-03-31",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入探討如何透過結合 Claude Code 與 Firecrawl，徹底解決 AI 在網頁爬蟲時遇到的瓶頸。Claude Code 原生的網頁抓取能力（Web Fetch）在面對動態 JavaScript 渲染或防爬蟲機制（Anti-bot）時常顯得力不從心，而 Firecrawl 的介入能將網頁資訊轉化為高效的 Markdown 格式，顯著提升資料獲取的成功率與處理速度，是進行大規模市場調研與競爭分析的利器。 --- 詳細重點整理 1. Claude Code 的先天限制與解決方案 [(http://www.youtube.com/watch?v=phuyYL0L7AA&t=0)]  Claude Code 在處理重度依賴 JavaScript 的網站或具有防爬蟲保護的頁面時，經常回傳空結果或效率低下。  關鍵概念：Firecrawl 整合。它能將複雜的 HTML 簡化為大語言模型（LLM）易於理解的 Schema 與 Markdown，減少 Token 消耗並繞過偵測。 2. Firecrawl 的核心能力與動作指令 [(http://www.youtube.co",
+    "url": "/notes/claude-code-firecrawl-scraping"
+  },
+  {
+    "id": "bryan-johnson-psychedelic-brain-reset",
+    "title": "Bryan Johnson迷幻藥大腦重置實驗",
+    "category": "影片筆記",
+    "tags": [
+      "迷幻藥物",
+      "神經可塑性",
+      "預設模式網路",
+      "抗衰老",
+      "心理靈活性"
+    ],
+    "description": "探討長壽專家Bryan Johnson進行5-MeO-DMT實驗的震撼體驗，透過徹底瓦解預設模式網路，重獲孩童般的心理靈活性與純粹意識",
+    "quote": "當你徹底放棄所有依戀、先決條件與慾望時，通往難以想像的極樂之門便會開啟。",
+    "action": "每日記錄3個僵化瞬間、用5歲視角重看衝突、每天練習一次全然接受的臣服練習",
+    "image": "/images/影片筆記/bryan-johnson-psychedelic-brain-reset.jpeg",
+    "date": "2026-03-31",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片探討了長壽專家 Bryan Johnson 進行 5-MeO-DMT 實驗的震撼體驗。這不僅是一次超驗的心理旅程，更被視為一種「大腦年輕化」的生物駭客手段。透過徹底瓦解「預設模式網路」（DMN），他重獲了孩童般的心理靈活性與純粹意識，展示了迷幻藥物在抗衰老、心理重塑與神經可塑性方面的巨大潛力。 --- 詳細重點整理 1. 5-MeO-DMT：地表最強大的意識重設 [(http://www.youtube.com/watch?v=Axpnkqd-Agk&t=147)]  體驗描述：Bryan 形容這是「純粹的意識與智慧」，強度是普通 DMT 的 5 到 10 倍。進入過程極快（約 10 秒），會經歷從極度恐懼到完全「臣服」後的無限喜悅與平靜。  關鍵概念：徹底臣服 (Total Relent)。必須放棄所有自我控制與執念，才能從恐懼轉向難以想像的幸福感。 2. 生物學核心：瓦解預設模式網路 (DMN) [(http://www.youtube.com/watch?v=Axpnkqd-Agk&t=371)]  生理機制：DMN 是建構「自我」與「反芻思考」的引擎。隨年齡增長",
+    "url": "/notes/bryan-johnson-psychedelic-brain-reset"
+  },
+  {
+    "id": "ai-skills-evolution-organization",
+    "title": "AI技能演進：從提示詞到組織基礎設施",
+    "category": "影片筆記",
+    "tags": [
+      "AI技能",
+      "提示詞工程",
+      "組織知識",
+      "自動化工作流",
+      "技能複利"
+    ],
+    "description": "探討AI技能的演進，指出技能已從個人的提示詞配置轉變為組織與Agent可讀的基礎設施標準，實現更精準、可複用且具複利效應的自動化工作流",
+    "quote": "提示詞會隨對話蒸發，但技能會隨時間複利。技能是人類專業知識的活紀錄。",
+    "action": "選出3個重複性任務、建立skill.markdown文件、進行5次定量測試並疊代更新",
+    "image": "/images/影片筆記/ai-skills-evolution-organization.jpeg",
+    "date": "2026-03-31",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片探討了 AI「技能」（Skills）的演進，指出技能已從個人的提示詞配置，轉變為組織與 Agent（代理）可讀的基礎設施標準。透過將專業知識封裝成 Markdown 格式的技能文件，使用者能擺脫重複複製貼上的「提示詞地獄」，實現更精準、可複用且具複利效應的自動化工作流。 ----- 詳細重點整理 1\\. 技能的四大演進趨勢 [(http://www.youtube.com/watch?v=0cVuMHaYEHE&t=64)]    從個人配置到組織基礎設施：技能現在是工作場所通用的資產，具備版本控制並可跨平台（Excel, PowerPoint, Claude）調用。    調用者由人轉向 Agent：Agent 單次運行可調用數百次技能，遠超人類效率，因此技能設計應以「Agent 優先」。    跨平台開放標準：OpenAI、Microsoft 與 Anthropic 已達成共識，技能成為 AI 運作的共同底層架構。    從閉源走向社區共享：技能像「棒球卡」一樣被交換與優化，透過社區集體發現最佳實踐。    關鍵概念：技能複利（Skills Compound）：提示",
+    "url": "/notes/ai-skills-evolution-organization"
+  },
+  {
+    "id": "ai-era-entrepreneur-strategy",
+    "title": "AI時代創業家的破局策略",
+    "category": "影片筆記",
+    "tags": [
+      "創業策略",
+      "行動主體性",
+      "多產品策略",
+      "AI創業",
+      "市場驗證"
+    ],
+    "description": "矽谷知名投資人Elad Gil分享在AI浪潮下創業家應如何打破過時的陳規，強調勝出才是塑造文化的關鍵，核心價值在於培養極高的行動主體性並快速驗證產品",
+    "quote": "決定初創公司文化的唯一要素是「獲勝」，而不是辦公室裡的康普茶或乒乓球桌。",
+    "action": "用現有模型進行3個MVP測試、整合第2個工作流建立防禦性、每年預排一次退出策略會議",
+    "image": "/images/影片筆記/ai-era-entrepreneur-strategy.jpeg",
+    "date": "2026-03-31",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片由矽谷知名投資人 Elad Gil 分享在 AI 浪潮下，創業家應如何打破過時的陳規。他指出當前技術與購買行為雙重轉移，創造了前所未有的市場空間，並強調「勝出」才是塑造文化的關鍵，而非福利。核心價值在於培養極高的「行動主體性（Agency）」並快速驗證產品。 ----- 詳細重點整理 1\\. 打破矽谷的傳統迷思 [(http://www.youtube.com/watch?v=QcQD7ZCtDQQ&t=313)]    許多成功的創業者（如 Michael Dell, Jeff Bezos）最初並無共同創辦人，YC 模式將「平分股權」與「必須有共同創辦人」規範化，但歷史數據顯示，不對等的股權或單一創辦人同樣能造就偉大公司。    關鍵概念：不要被教條束縛。創業者應根據實際需求決定團隊結構，而非盲從流行建議。 2\\. AI 時代的市場洞察與銷售信號 [(http://www.youtube.com/watch?v=QcQD7ZCtDQQ&t=181)]    當前處於技術能力與客戶購買意願同時激增的奇點，企業 CEO 們都有「必須做 AI」的壓力，這讓以往保守的行業（如",
+    "url": "/notes/ai-era-entrepreneur-strategy"
+  },
+  {
+    "id": "ai-context-window-desktop-not-memory",
+    "title": "AI上下文視窗：是桌面而非記憶",
+    "category": "影片筆記",
+    "tags": [
+      "上下文視窗",
+      "注意力機制",
+      "上下文腐蝕",
+      "Token",
+      "AI使用技巧"
+    ],
+    "description": "深入淺出解釋AI模型的上下文視窗本質，它並非真正的長期記憶，而是一張有邊界的桌面，決定了AI在單次對話中能同時處理的資訊量",
+    "quote": "我能看見你給我的所有東西，並不代表我正關注著其中的每一件事。",
+    "action": "使用3-P提問法則：將重要資訊放開頭、重新定位被忽略的段落、分段處理長文本",
+    "image": "/images/影片筆記/ai-context-window-desktop-not-memory.jpeg",
+    "date": "2026-03-31",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入淺出地解釋了 AI 模型的「上下文視窗」（Context Window）本質。它並非真正的長期記憶，而是一張有邊界的「桌面」，決定了 AI 在單次對話中能同時處理的資訊量。影片揭示了長文本背後的計算挑戰，以及 AI 容易忽略中間資訊的「迷失在中間」現象，強調了資訊位置對 AI 理解的重要性。 --- 詳細重點整理 1. 上下文視窗的本質：是桌面而非記憶 [(http://www.youtube.com/watch?v=BUE6YPuMaa0&t=70)]  上下文視窗（Context Window）更接近人類的「工作記憶」，而非長期存儲。  關鍵概念：桌面理論。所有輸入的訊息、對話歷史與指令都擺在桌上，一旦對話結束，桌面就會被清空，AI 不會留下任何痕跡或學習到新資訊。 2. 算力成本與注意力機制 [(http://www.youtube.com/watch?v=BUE6YPuMaa0&t=205)]  背景技術「自注意力機制」（Self-Attention）要求每個 Token 都必須與其他所有 Token 進行比對。  關鍵概念：二次方增長成本。輸入資料加倍，計",
+    "url": "/notes/ai-context-window-desktop-not-memory"
+  },
+  {
+    "id": "ai-agents-context-graph-decision-tracing",
+    "title": "AI代理決策追蹤與上下文圖譜",
+    "category": "影片筆記",
+    "tags": [
+      "上下文圖譜",
+      "決策追蹤",
+      "知識管理",
+      "圖形資料庫",
+      "AI代理"
+    ],
+    "description": "探討如何利用圖形資料庫補足AI代理缺失的決策追蹤能力，將企業內破碎的數據轉化為結構化的決策路徑，提升AI的可解釋性與執行效率",
+    "quote": "你無法管理你不理解的事物，而你無法理解你未曾記錄的事物。",
+    "action": "為AI代理同時配置短期、長期與推理記憶層，使用POLE+O模型進行數據建模",
+    "image": "/images/影片筆記/ai-agents-context-graph-decision-tracing.jpeg",
+    "date": "2026-03-31",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片為首屆「上下文圖譜（Context Graph）」研發者會議，深入探討如何利用圖形資料庫（如 Neo4j）補足 AI 代理（Agents）缺失的「決策追蹤」能力。核心價值在於將企業內破碎的數據轉化為結構化的決策路徑，提升 AI 的可解釋性與執行效率，從而解決 AI 專案難以落地生產環境的痛點。 --- 詳細重點整理 1. 上下文圖譜的核心定義與價值 [(http://www.youtube.com/watch?v=868UYyKwe-E&t=180)]  定義：上下文圖譜不僅是知識圖譜，它包含了組織內做出決策所需的所有資訊（Why），包括政策、前例與邏輯。  解決痛點：目前的系統（如 Salesforce, SAP）僅記錄「結果」，而缺失了「決策過程」。  關鍵概念：缺失的為什麼（The Missing Why）。透過記錄決策追蹤（Decision Tracing），讓 AI 代理能根據過去的邏輯做出具備一致性的判斷。 2. 金融服務業的應用演示 [(http://www.youtube.com/watch?v=868UYyKwe-E&t=275)]  應用場景：以信用",
+    "url": "/notes/ai-agents-context-graph-decision-tracing"
+  },
+  {
+    "id": "ai-agent-context-graph-essentials",
+    "title": "AI代理脈絡圖譜：決策軌跡與護城河",
+    "category": "影片筆記",
+    "tags": [
+      "脈絡圖譜",
+      "決策軌跡",
+      "制度記憶",
+      "AI代理",
+      "數據治理"
+    ],
+    "description": "探討AI代理進入生產環境的關鍵缺失：脈絡圖譜。核心觀點在於目前的AI缺乏決策背後的為什麼，透過捕捉決策軌跡，企業能建立深層的制度記憶",
+    "quote": "脈絡圖譜不只是技術架構，更是一種框架；它捕捉的是決策背後的靈魂，而不僅僅是數據的影子。",
+    "action": "審計隱性脈絡、存檔決策過程的例外原因、評估引入具備決策軌跡捕捉能力的AI工具",
+    "image": "/images/影片筆記/ai-agent-context-graph-essentials.jpeg",
+    "date": "2026-03-31",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片探討了 AI 代理（AI Agents）進入生產環境的關鍵缺失：「脈絡圖譜」（Context Graphs）。核心觀點在於，目前的 AI 缺乏決策背後的「為什麼」（推理與先例），而透過捕捉「決策軌跡」（Decision Traces），企業能建立深層的制度記憶，這將是未來十年應用層公司最穩固的護城河與競爭力來源。 --- 詳細重點整理 1. 什麼是脈絡圖譜 (Context Graph)？ [(http://www.youtube.com/watch?v=zP8P7hJXwE0&t=351)]  定義：脈絡圖譜是企業內所有決策背後「為什麼」的制度記憶，其核心組成單位是「決策軌跡」（Decision Traces）。  關鍵概念：它不只是數據的堆疊，而是捕捉決策過程中的例外處理、衝突解決與所引用的先例，將分散在結構化與非結構化系統（如 Email、Slack、Zoom）中的隱性知識顯性化。 2. 決策軌跡 (Decision Traces) 的重要性 [(http://www.youtube.com/watch?v=zP8P7hJXwE0&t=399)]  執行路徑：當",
+    "url": "/notes/ai-agent-context-graph-essentials"
+  },
+  {
     "id": "taiwan-silicon-shield-geopolitics",
     "title": "台灣矽盾：地緣政治與科技實力",
     "category": "影片筆記",
