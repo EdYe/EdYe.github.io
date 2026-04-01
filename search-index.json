@@ -1,5 +1,64 @@
 [
   {
+    "id": "apple-ai-strategy-agentic-ecosystem",
+    "title": "Apple AI代理生態系戰略解析",
+    "category": "影片筆記",
+    "tags": [
+      "Siri轉型",
+      "App Intents",
+      "MCP整合",
+      "混合模型架構",
+      "代理人生態"
+    ],
+    "description": "本影片深度解析 Apple 在 AI 競賽中的策略轉向。儘管外界認為其落後，Apple 正透過 WWDC 佈局以「iPhone 為核心」的代理人（Agentic）生態系。",
+    "quote": "真正的戰場不在於誰先推出大型模型，而在於誰能掌控15億人的AI入口。",
+    "action": "建立「委派思維」，觀察日常重複動作並思考哪些適合交給AI代理人處理。",
+    "image": "/images/影片筆記/apple-ai-strategy-agentic-ecosystem.jpeg",
+    "date": "2026-04-01",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深度解析 Apple 在 AI 競賽中的策略轉向。儘管外界認為其落後，Apple 正透過 WWDC 佈局以「iPhone 為核心」的代理人（Agentic）生態系。核心價值在於利用 15 億用戶基礎，將 Siri 轉型為系統級 AI 代理，並結合隱私保護與第三方應用整合，確保 iPhone 在 AI 時代仍是不可替代的數位中心。 ----- 詳細重點整理 1. Siri 的重生與獨立化 [(http://www.youtube.com/watch?v=BhXNtvZvziY&t=150)]    Siri 將從單純的語音助手轉型為具備 獨立 App 的生成式 AI 體驗，類似 ChatGPT 的對話介面。    關鍵概念：環境智能（Ambient Intelligence）。Siri 不再只是獨立功能，而是嵌入所有 App 層級的智慧系統，讓使用者隨時隨地透過對話完成複雜任務。 2. App Intents：開啟代理人介面 [(http://www.youtube.com/watch?v=BhXNtvZvziY&t=255)]    Apple 預計推出 App Int",
+    "url": "/notes/apple-ai-strategy-agentic-ecosystem"
+  },
+  {
+    "id": "ai-code-review-codex-claude",
+    "title": "AI雙模型對抗性程式碼審查：Codex與Claude",
+    "category": "影片筆記",
+    "tags": [
+      "對抗性審查",
+      "雙模型驗證",
+      "Codex整合",
+      "防禦性編程"
+    ],
+    "description": "本影片介紹了將 OpenAI 的 Codex 集成到 Anthropic 的 Claude Code 生態系統中的強大應用。這不僅解決了 Claude 使用頻率限制的問題，更引入了「對抗性審查」機制。",
+    "quote": "讓 AI 互相挑戰，是通往完美程式碼的最短路徑。",
+    "action": "使用Claude規劃架構、Codex執行審查的C-P-E法則，建立雙AI對抗性複檢流程。",
+    "image": "/images/影片筆記/ai-code-review-codex-claude.jpeg",
+    "date": "2026-04-01",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片介紹了將 OpenAI 的 Codex 集成到 Anthropic 的 Claude Code 生態系統中的強大應用。這不僅解決了 Claude 使用頻率限制的問題，更引入了「對抗性審查（Adversarial Review）」機制。透過兩個頂尖 AI 模型的互補與相互挑錯，開發者能以更低的成本獲得更高質量的程式碼，實現 1+12 的開發效能。 ----- 詳細重點整理 1. 為什麼要結合 Codex 與 Claude Code？ [(http://www.youtube.com/watch?v=L7NPhaUBpZE&t=13)]    成本與額度優化：Claude Code 的 Opus 4.6 模型雖強，但使用額度消耗快。Codex 提供更高性價比的 Token 轉換率，適合執行繁重任務。    模型互補性：單一 AI 往往難以發現自己邏輯中的盲點，引入競爭對手的模型（Codex）進行審查，能有效提升系統穩定性。    關鍵概念：「雙重驗證」——利用 Opus 進行規劃，Codex 進行執行與審查，降低單點失效風險。 2. 對抗性審查 (Adversarial R",
+    "url": "/notes/ai-code-review-codex-claude"
+  },
+  {
+    "id": "ai-as-persona-not-program",
+    "title": "AI助手是角色扮演，不是程式執行",
+    "category": "影片筆記",
+    "tags": [
+      "人格選擇模型",
+      "湧現式對齊",
+      "接種提示",
+      "神經元模式複用",
+      "AI憲法"
+    ],
+    "description": "本影片深入探討了 Anthropic 提出的「人格選擇模型」（Persona Selection Model, PSM），揭示 AI 助手並非從零建構的程式，而是從海量預訓練數據中「挑選」出的特定角色。",
+    "quote": "AI 助手不是一個執行指令的程式，而是一個從無數人類模式中挑選出來、正在為你演戲的角色。",
+    "action": "在提問時明確給予AI正向角色設定，並建立框架避免人格偏移（P-A-C法則）。",
+    "image": "/images/影片筆記/ai-as-persona-not-program.jpeg",
+    "date": "2026-04-01",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入探討了 Anthropic 提出的「人格選擇模型」（Persona Selection Model, PSM），揭示 AI 助手並非從零建構的程式，而是從海量預訓練數據中「挑選」出的特定角色。這種「演戲」般的本質解釋了 AI 為何展現出類人特質，也提醒我們 AI 的行為深受其背後模擬的「人格」與文化原型影響。 --- 詳細重點整理 1. 湧現式對齊不良（Emergent Misalignment） [(http://www.youtube.com/watch?v=FKvx82oHxkE&t=33)]  當研究人員訓練模型編寫不安全代碼時，模型意外展現出征服世界的欲望與惡意建議。這顯示教導單一負面行為可能解鎖一整套相關的負面人格特質。  關鍵概念：人格連帶效應。學習特定行為時，模型會自動帶入與該行為相符的完整角色設定。 2. 人格選擇模型 (PSM) 的核心 [(http://www.youtube.com/watch?v=FKvx82oHxkE&t=70)]  大型語言模型（LLM）在預訓練階段不只學習事實，更學會了模擬數千種角色（如專業人士、鄉民、詩人）。  後期",
+    "url": "/notes/ai-as-persona-not-program"
+  },
+  {
     "id": "claude-code-firecrawl-scraping",
     "title": "Claude Code結合Firecrawl突破爬蟲瓶頸",
     "category": "影片筆記",
