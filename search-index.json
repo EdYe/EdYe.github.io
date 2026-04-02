@@ -1,5 +1,165 @@
 [
   {
+    "id": "prompt-to-harness-engineering",
+    "title": "從 Prompt 到 Harness 工程實踐",
+    "category": "AI筆記",
+    "tags": [
+      "Harness工程",
+      "Agent驗證",
+      "權限設計",
+      "上下文防火牆",
+      "狀態外部化"
+    ],
+    "description": "Claude Code 原始碼洩漏後，真正讓開發者興奮的是大家終於看到：一個能在真實開發場景中長時間運作的 Coding Agent，背後是一套很厚的工程包裝",
+    "quote": "可靠的 coding agent，並不是靠更長的 prompt 長出來的，而是靠更好的 harness 設計養出來的。",
+    "action": "TODO",
+    "image": "/images/AI筆記/prompt-to-harness-engineering.jpg",
+    "date": "2026-04-02",
+    "source_has_timestamps": false,
+    "body": "Claude Code 原始碼洩漏之後，第一時間大家當然會被「終於看到內部長什麼樣」這件事吸引，但很快討論重點就變了。真正讓開發者興奮的，不是某幾段 system prompt，也不是某種前所未見的推理技巧，而是大家終於更清楚地看到：一個能在真實開發場景中長時間運作的 Coding Agent，背後其實是一套很厚的工程包裝。 這件事的重要性在於，它把很多人對 AI coding product 的想像拉回現實。過去不少人會把 Claude Code、Codex 這類產品的效果，歸因成「模型特別強」或「prompt 特別會寫」，但這次大家愈看愈發現，真正有價值的部分其實是 Harness，也就是包在模型外面的執行環境、權限制度、工具接口、記憶機制、驗證流程與任務編排方式。換句話說，模型只是核心引擎，真正把它變成可靠產品的，是外面的整套結構。 這也是為什麼洩漏之後，社群快速把注意力轉向 harness engineering。因為大家突然意識到，所謂好用的 coding agent，不是單靠模型智力堆出來的，而是靠大量工程細節把錯誤率壓低、把失控邊界縮小、把每一步都變得更可預期。 --- ",
+    "url": "/notes/prompt-to-harness-engineering"
+  },
+  {
+    "id": "mcp2cli-context-bloat-solution",
+    "title": "MCP2CLI：解決 AI 上下文膨脹問題",
+    "category": "影片筆記",
+    "tags": [
+      "MCP2CLI",
+      "上下文膨脹",
+      "Token效率",
+      "環境變數隔離",
+      "技能系統"
+    ],
+    "description": "本影片深入探討了 AI 模型使用 MCP 時，因工具描述與輸出過多導致的「上下文膨脹」問題。透過介紹新工具 MCP2CLI",
+    "quote": "真正的效率不在於擁有多少工具，而是在於如何讓工具在不佔用空間的情況下，隨時為你所用。",
+    "action": "3-S 效能法則：隔離MCP工具、技能化描述、串流大型輸出",
+    "image": "/images/影片筆記/mcp2cli-context-bloat-solution.jpeg",
+    "date": "2026-04-02",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入探討了 AI 模型使用模型上下文協定（MCP）時，因工具描述與輸出過多導致的「上下文膨脹（Context Bloat）」問題。透過介紹新工具 MCP2CLI，展示了如何將 MCP 轉換為命令列工具（CLI），大幅節省 Token 消耗並提升 AI 代理（Agent）的執行效率，是開發者優化 AI 工作流的核心指南。 --- 詳細重點整理 1. 解決 MCP 上下文膨脹的核心挑戰 [(http://www.youtube.com/watch?v=LqNItMqovA&t=22)]  問題描述：當連接多個 MCP 工具時，所有工具描述都會塞進上下文視窗，導致空間被無關資訊填滿。  解決方案演進：從 Docker 的 Code Mode 到 Cloudflare 的可執行代碼提案，最後引出 MCP2CLI。  關鍵概念：運行時轉換（Runtime Conversion），將工具動時轉為 Bash 指令，而非在構建時（Build time）寫死，確保工具更新能即時同步。 2. MCP2CLI 的技術優勢與緩存機制 [(http://www.youtube.com/watch",
+    "url": "/notes/mcp2cli-context-bloat-solution"
+  },
+  {
+    "id": "graphrag-ontology-driven-ai-agent",
+    "title": "GraphRAG：本體論驅動的 AI 代理人",
+    "category": "影片筆記",
+    "tags": [
+      "GraphRAG",
+      "本體論",
+      "知識圖譜",
+      "動態檢索",
+      "Neo4j"
+    ],
+    "description": "影片探討了將本體論（Ontology）與知識圖譜（Knowledge Graph）結合的強大威力。透過建立一個與具體實作無關的標準化架構",
+    "quote": "不要直接開發應用，先為你的數據建立一套「模型」；這份投資將在檢索的精準度與系統的靈活性上，為你帶來長期的紅利。",
+    "action": "3-S 建模法則：架構先行、標準化、存入圖譜",
+    "image": "/images/影片筆記/graphrag-ontology-driven-ai-agent.jpeg",
+    "date": "2026-04-02",
+    "source_has_timestamps": true,
+    "body": "這是一份由專業內容分析師為您提煉的影片精華報告。本影片深入探討了如何利用「本體論（Ontology）」作為 AI 代理人（Agent）的「大腦指南」，來提升圖譜檢索增強生成（GraphRAG）的效能與靈活性。 核心摘要 影片探討了將本體論（Ontology）與知識圖譜（Knowledge Graph）結合的強大威力。透過建立一個與具體實作無關的標準化架構，開發者能更精準地引導 LLM 進行實體提取與結構化查詢，從而解決傳統向量檢索缺乏上下文的問題，實現更具邏輯性且動態的 AI 檢索方案。 --- 詳細重點整理 1. 什麼是 GraphRAG？超越向量檢索的侷限 [(http://www.youtube.com/watch?v=CbiR9xS2skQ&t=67)]  定義：GraphRAG 是將傳統 RAG 中的向量資料庫替換為建構在圖資料庫上的「知識圖譜」。  優勢：不僅提供語義搜索，還能透過節點間的連接捕獲上下文（Contextualization），生成更精準、完整且具可信度的回答。  關鍵概念：圖譜結構。它由節點（實體）與關係（連接）組成，能將結構化與非結構化數據無縫融合。 2.",
+    "url": "/notes/graphrag-ontology-driven-ai-agent"
+  },
+  {
+    "id": "claude-mythos-simplify-let-go",
+    "title": "Claude Mythos：AI 時代的簡化與放手",
+    "category": "影片筆記",
+    "tags": [
+      "Claude Mythos",
+      "提示詞簡化",
+      "RAG架構",
+      "自動化評估",
+      "階梯式進化"
+    ],
+    "description": "這段影片深入解析了 Anthropic 即將推出的重量級模型 Claude Mythos。這不僅是技術的升級，更是一個「階梯式跨越」",
+    "quote": "隨著模型能力的增強，你的系統應該變得更簡單，而非更複雜。真正的技能在於學會何時放手。",
+    "action": "3-S 簡化法則：簡化提示詞、轉移重心到成果標準、安全掃描",
+    "image": "/images/影片筆記/claude-mythos-simplify-let-go.jpeg",
+    "date": "2026-04-02",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片深入解析了 Anthropic 即將推出的重量級模型 Claude Mythos（代號 Capy Bara）。這不僅是技術的升級，更是一個「階梯式跨越（Step Change）」。核心價值在於：隨著 AI 變得極度聰明，人類必須學會「簡化」與「放手」，從微觀的過程管理轉向宏觀的成果定義。 --- 詳細重點整理 1. Claude Mythos 的技術突破與安全性 [(http://www.youtube.com/watch?v=hV5XSEBZNg&t=5)]  硬體優勢：首款已知基於 NVIDIA GB 系列晶片訓練的大模型，性能有顯著飛躍。  安全性震撼：安全研究員發現 Mythos 在尋找系統漏洞方面超越人類，能輕易找出知名開源專案（如 Ghost）中多年未被發現的零日漏洞。  關鍵概念：階梯式進化。這不是 5-10% 的提升，而是跨代的能力躍遷。 2. 提示詞工程的「苦澀教訓」：簡化為王 [(http://www.youtube.com/watch?v=hV5XSEBZNg&t=299)]  刪除冗餘：過去為了彌補 AI 的不足，我們建立複雜的提示詞框架。My",
+    "url": "/notes/claude-mythos-simplify-let-go"
+  },
+  {
+    "id": "ai-predicting-human-behavior-limits",
+    "title": "AI 預測人類行為的局限性",
+    "category": "影片筆記",
+    "tags": [
+      "對齊訓練",
+      "規範性偏誤",
+      "RLHF",
+      "博弈預測",
+      "人類行為"
+    ],
+    "description": "這部影片深入探討了 AI 在預測人類行為上的局限性。研究發現，為了使 AI「友善且安全」而進行的對齊訓練，反而削弱了其預測真實人類行為的能力",
+    "quote": "AI 學會了如何像個手冊般完美，卻因此忘記了現實生活中的交通擁堵（真實人性）。",
+    "action": "3-B 判斷法則：察覺偏誤、回歸原始邏輯、邊界測試",
+    "image": "/images/影片筆記/ai-predicting-human-behavior-limits.jpeg",
+    "date": "2026-04-02",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片深入探討了 AI 在預測人類行為上的局限性。研究發現，為了使 AI 「友善且安全」而進行的對齊（Alignment）訓練，反而削弱了其預測真實人類行為的能力。AI 傾向於預測人類會採取「理想且規範」的行動，卻忽視了現實中人類在複雜互動中會有的報復、偽裝與策略性背叛等真實面貌。 ----- 詳細重點整理 1. 對齊訓練與預測能力的衝突 [(http://www.youtube.com/watch?v=6urKpVZTt1o&t=30)]    現象：對齊（Alignment）過程旨在讓 AI 變得有用且安全，但這卻系統性地破壞了 AI 預測人類真實決策的能力。    數據支持：研究測試了 100 多個 AI 模型，涵蓋 10,000 多項人類真實決策。結果顯示，未經「友善化」處理的原始模型（Base Models）在預測複雜博弈行為上，勝率遠高於經過對齊的模型。    關鍵概念：規範性偏誤 (Normative Bias)。AI 會預測人「應該」怎麼做（公平、合作），而非人「實際上」會怎麼做（報復、試探）。 2. 第一回合 vs. 長期互動的預測落差 [(http://",
+    "url": "/notes/ai-predicting-human-behavior-limits"
+  },
+  {
+    "id": "ai-economic-shift-future-skills",
+    "title": "AI 經濟轉型與未來生存技能",
+    "category": "影片筆記",
+    "tags": [
+      "AI經濟轉型",
+      "敏捷性",
+      "批判性思考",
+      "勞動力套利",
+      "AI借貸智商"
+    ],
+    "description": "前 Google X 商務長 Mo Gawdat 指出，我們正進入一個為期 12-15 年的「陣痛期」，AI 將徹底重塑全球經濟與就業市場",
+    "quote": "AI 不會讓你變笨，除非你把「思考」這件事也外包給它。",
+    "action": "3-1-1 學習法則：每週3小時研究AI工具、1小時追蹤技術領袖、1個月完成一個AI輔助專案",
+    "image": "/images/影片筆記/ai-economic-shift-future-skills.jpeg",
+    "date": "2026-04-02",
+    "source_has_timestamps": true,
+    "body": "核心摘要 前 Google X 商務長 Mo Gawdat 指出，我們正進入一個為期 12-15 年的「陣痛期」，AI 將徹底重塑全球經濟與就業市場。這不只是技術變革，更是人類價值的轉向；唯有具備極高敏捷性、深厚倫理觀並主動掌控 AI 工具的人，才能在未來的「數位烏托邦」到來前生存並脫穎而出。 --- 詳細重點整理 1. 2026-2027：AI 引發的經濟與就業大翻轉 [(http://www.youtube.com/watch?v=E0Q96IKXx6Q&t=41)]  就業市場重洗牌：未來 2-3 年內，重複性高、具備標準化流程的工作（如會計、客服、初級行政）將被 AI 取代。初級職位的消失將導致勞動力市場出現斷層。  關鍵概念：勞動力套利結束。資本主義過去依賴勞動力獲利，當 AI 勞動力成本趨近於零，全球經濟架構（如 UBI 全民基本收入）將被迫重定義。 2. 創業新遊戲規則：從「西洋棋」轉向「壁球」 [(http://www.youtube.com/watch?v=E0Q96IKXx6Q&t=872)]  極速轉型與敏捷性：過去創業是看準未來的長線佈局（西洋棋），現在則是必須",
+    "url": "/notes/ai-economic-shift-future-skills"
+  },
+  {
+    "id": "ai-driven-content-creation-system",
+    "title": "AI 驅動的一人內容創作系統",
+    "category": "影片筆記",
+    "tags": [
+      "內容創作自動化",
+      "Claude Code",
+      "資訊降噪",
+      "慾望地圖",
+      "內容瀑布"
+    ],
+    "description": "本影片揭秘了作者如何作為「一人團隊」，利用 Claude Code 自動化工作流，在一個月內達成 1000 萬次觀影量並增加數萬粉絲的系統",
+    "quote": "AI 不是要取代你的創作，而是成為你的「類固醇協作者」，讓你留在駕駛座上，由它負責所有體力活。",
+    "action": "3-9-6 法則：3個資訊源、9個標題變體、6個平台分發",
+    "image": "/images/影片筆記/ai-driven-content-creation-system.jpeg",
+    "date": "2026-04-02",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片揭秘了作者如何作為「一人團隊」，利用 Claude Code 自動化工作流，在一個月內達成 1000 萬次觀影量並增加數萬粉絲的系統。其核心價值在於將內容創作拆解為可重複、可擴展的自動化技能，強調透過持續的「小勝」而非偶然的爆紅，實現高效率且可持續的數位資產生產。 ----- 詳細重點整理 1. 內容創作的四個階段與系統架構 [(http://www.youtube.com/watch?v=7qrbT1a9dE&t=130)]    研究、構思、撰稿、分發：作者將創作流程標準化，並針對各環節開發專屬的 Claude Code 技能。    關鍵概念：可持續的重複系統。單人完成 90 部影片的關鍵不在於體力，而是在於將瑣事交給 AI，人類負責決策。 2. 「第零步」：尋找知識泉源 (Fountainhead) [(http://www.youtube.com/watch?v=7qrbT1a9dE&t=313)]    數據驅動選題：利用 Claude Code 建立自動爬蟲，監控 Twitter (X) 與 GitHub Trending。    具體工具：透過 Tele",
+    "url": "/notes/ai-driven-content-creation-system"
+  },
+  {
+    "id": "2026-ai-agent-economy-trends",
+    "title": "2026 AI 浪潮：代理人經濟的核心趨勢",
+    "category": "影片筆記",
+    "tags": [
+      "代理人經濟",
+      "一人公司",
+      "結果導向定價",
+      "人類精神價值",
+      "編排能力"
+    ],
+    "description": "這段影片探討了 2026 年 AI 浪潮下的 23 個核心趨勢，強調我們正從「API 經濟」跨入「代理人（Agent）經濟」。核心觀點在於 AI 大幅降低了開發與營運成本",
+    "quote": "價值的核心正在從「執行」遷移到「判斷」。",
+    "action": "1-100-1 法則：1小時建立MVP、鎖定100位核心客戶、1個代理人自動執行",
+    "image": "/images/影片筆記/2026-ai-agent-economy-trends.jpeg",
+    "date": "2026-04-02",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片探討了 2026 年 AI 浪潮下的 23 個核心趨勢，強調我們正從「API 經濟」跨入「代理人（Agent）經濟」。核心觀點在於 AI 大幅降低了開發與營運成本，讓「一人公司」或「極小規模團隊」能透過自動化代理人達成千萬級營收。這不僅是技術革命，更是商業邏輯的重構，鼓勵創業者利用 AI 槓桿，在競爭白熱化前的黃金窗口期快速行動。 --- 詳細重點整理 1. 一小時公司與新創業時間線 [(http://www.youtube.com/watch?v=lyqk7zxbCKs&t=69)]  重點內容：現在可以利用「Vibe Coding」工具（如 Claude Code）在幾小時內從想法變為可運作的產品。  關鍵概念：實驗文化。不再花半年開發，而是每天進行多個市場實驗，快速驗證產品與市場的適配度。 2. 環境化企業 (Ambient Businesses) [(http://www.youtube.com/watch?v=lyqk7zxbCKs&t=241)]  重點內容：指那些幾乎不需要人類介入、能自動運行、監控市場並執行任務的企業。  關鍵概念：自主獲利。企業將演變",
+    "url": "/notes/2026-ai-agent-economy-trends"
+  },
+  {
     "id": "enterprise-ai-context-graph-value",
     "title": "企業AI進化：情境圖譜的核心價值",
     "category": "影片筆記",
