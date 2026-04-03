@@ -1,5 +1,25 @@
 [
   {
+    "id": "harness-engineering-ai-next-frontier",
+    "title": "Harness Engineering：AI下一個前沿",
+    "category": "AI筆記",
+    "tags": [
+      "Harness Engineering",
+      "Context Engineering",
+      "約束設計",
+      "生成評估分離",
+      "AI Agent"
+    ],
+    "description": "這部影片深入探討了 2026 年 AI 工程界最火熱的核心概念：Harness Engineering（馬具工程）。它揭示了當大模型能力趨於商品化時，決定 AI Agent 性能與穩定性的不再只是 Prompt",
+    "quote": "Agent 不難，Harness 才難。",
+    "action": "在專案根目錄創建 agent.md，建立確定性驗證層，設計模塊化可替換的 Harness。",
+    "image": "/images/AI筆記/harness-engineering-ai-next-frontier.jpeg",
+    "date": "2026-04-03",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片深入探討了 2026 年 AI 工程界最火熱的核心概念：Harness Engineering（馬具工程）。它揭示了當大模型（LLM）能力趨於商品化時，決定 AI Agent 性能與穩定性的不再只是 Prompt，而是為模型搭建的「運行系統」。透過約束與結構化設計，將概率性的模型推理轉化為可預測的生產力工具。 --- 詳細重點整理 1. 什麼是 Harness Engineering？ [(http://www.youtube.com/watch?v=Xq-shAjADw&t=42)]  定義與隱喻：Harness 原意為「馬具」。模型如強壯的烈馬，而 Harness 則是控制方向、速度與工作的整套裝備。  工程內涵：它不是教模型如何回答，而是設計模型如何工作。處理的是任務拆解、上下文管理、工具編排、狀態交接與失敗恢復。  關鍵概念：「Harness 是整輛車」，包含方向盤、剎車與維護計劃，而不僅僅是指令（Prompt）或地圖（Context）。 [(http://www.youtube.com/watch?v=Xq-shAjADw&t=217)] 2. 從 Prom",
+    "url": "/notes/harness-engineering-ai-next-frontier"
+  },
+  {
     "id": "prompt-to-harness-engineering",
     "title": "從 Prompt 到 Harness 工程實踐",
     "category": "AI筆記",
