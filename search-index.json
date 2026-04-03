@@ -20,6 +20,106 @@
     "url": "/notes/harness-engineering-ai-next-frontier"
   },
   {
+    "id": "claude-code-hidden-features-optimization",
+    "title": "Claude Code隱藏功能與優化",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "記憶優化",
+      "功能旗標",
+      "MCP",
+      "多重Agent"
+    ],
+    "description": "本影片深度解析了 Claude Code 中鮮為人知的「隱藏功能」與進階設定，旨在解決開發者在使用 AI 代理時常遇到的上下文記憶衰退、介面閃爍及工作流受限等痛點",
+    "quote": "讓 AI 在「做夢」中進化，將混亂的資訊碎片轉化為精準的智慧資產。",
+    "action": "開啟 autodream 清理上下文，設定 CLAUDE_CODE_NO_FLICKER=1 穩定介面，根據任務類型切換輸出風格。",
+    "image": "/images/AI筆記/claude-code-hidden-features-optimization.jpeg",
+    "date": "2026-04-03",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深度解析了 Claude Code 中鮮為人知的「隱藏功能」與進階設定，旨在解決開發者在使用 AI 代理時常遇到的上下文記憶衰退、介面閃爍及工作流受限等痛點。透過啟發特定的功能旗標（Feature Flags），使用者能大幅提升 Claude Code 的執行效能與操作穩定性，將其轉化為更強大的自動化編程助手。 ----- 詳細重點整理 1\\. 記憶強化與「做夢」模式 [/dream] [(http://www.youtube.com/watch?v=AL7VqZEqD4&t=62)]    功能說明：引入名為 /dream（或 autodream）的功能，模擬人類的 REM 睡眠。它能自動整合不同對話間的記憶，刪除陳舊無效的筆記，保留關鍵洞察。    關鍵概念：記憶優化。這解決了 AI 隨著對話變長而變得混亂的問題，讓記憶「越用越精準」而非越用越笨。 2\\. 解決介面閃爍問題 [no flicker mode] [(http://www.youtube.com/watch?v=AL7VqZEqD4&t=191)]    功能說明：透過在設定檔中將 CLAUDECODE",
+    "url": "/notes/claude-code-hidden-features-optimization"
+  },
+  {
+    "id": "claude-code-buddy-ai-pet",
+    "title": "Claude Code Buddy：AI虛擬寵物",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "虛擬寵物",
+      "開發者體驗",
+      "情緒價值",
+      "AI夥伴"
+    ],
+    "description": "這段影片介紹了 Claude Code 推出的全新驚喜功能：「/buddy」虛擬寵物系統。這是一個結合了 Tamagotchi 風格與 RPG 要素的趣味系統",
+    "quote": "程式碼或許是冰冷的邏輯，但在終端機的一隅，永遠可以有一個懂你風格的小靈魂陪你戰鬥。",
+    "action": "每日開始編碼前先輸入 /buddy 叫醒夥伴，遇到 Bug 時使用 /buddy pet 進行互動轉移壓力。",
+    "image": "/images/AI筆記/claude-code-buddy-ai-pet.jpeg",
+    "date": "2026-04-03",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片介紹了 Claude Code 推出的全新驚喜功能：「/buddy」虛擬寵物系統。這是一個結合了 Tamagotchi（電子雞）風格與 RPG 要素的趣味系統，讓開發者在枯燥的終端機寫程式過程中，擁有一隻會根據其編碼習慣生成、且具備獨特個性的 AI 夥伴，為科技開發注入了溫暖的人性化體驗。 --- 詳細重點整理 1. 什麼是 Claude Code Buddy？ [(http://www.youtube.com/watch?v=JoPmpwpRrBI&t=10)]  功能定義：這是一個在終端機運作的虛擬寵物系統，使用 /buddy 指令即可孵化。  互動特性：寵物會觀察你的工作，並在對話框中提供幽默的評論，且完全不消耗你的 API Token。  關鍵概念：無負擔的情緒價值，提升編碼時的心理愉悅感。 2. 角色養成與稀有度系統 [(http://www.youtube.com/watch?v=JoPmpwpRrBI&t=44)]  稀有度級別：分為普通 (60%)、不尋常 (25%)、稀有 (10%)、史詩 (4%) 與傳奇 (1%)，還有極其稀有的「閃光」版本。  ",
+    "url": "/notes/claude-code-buddy-ai-pet"
+  },
+  {
+    "id": "ai-era-survival-rules-tech-bubble",
+    "title": "AI時代生存法則與科技泡沫",
+    "category": "AI筆記",
+    "tags": [
+      "高行動力",
+      "職涯策略",
+      "監管俘虜",
+      "終身學習",
+      "科技泡沫"
+    ],
+    "description": "本影片訪談了傳奇風險投資家 Bill Gurley，深入探討 AI 時代下的職業生存法則與科技產業的結構性變化。核心指出，在 AI 模糊了傳統技能界線的今天",
+    "quote": "對領域擁有非理性的好奇心與執著，是將工作從磨損轉化為能量的唯一途徑。",
+    "action": "每週深入研究一個 AI 新工具，在日常工作中找三個環節嘗試 AI 自動化，在團隊中主動分享 AI 使用心得。",
+    "image": "/images/AI筆記/ai-era-survival-rules-tech-bubble.jpeg",
+    "date": "2026-04-03",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片訪談了傳奇風險投資家 Bill Gurley，深入探討 AI 時代下的職業生存法則與科技產業的結構性變化。核心指出，在 AI 模糊了傳統技能界線的今天，「無窮的好奇心」與「高行動力」是避免被取代的最佳防禦；同時揭露了當前矽谷科技巨頭如何透過過度融資與規避監管，逐漸從「破壞者」轉變為「建制派」。 ----- 詳細重點整理 1\\. AI 時代的職業防禦力：好奇心與行動力 [(http://www.youtube.com/watch?v=Uflip7tYtWk&t=252)]    AI 模型是基於「過往的最佳實踐」構建的，最容易取代那些安於現狀、缺乏參與感的員工（Quiet Quitting）。    真正的安全感來自於對領域邊緣（Edge）的探索與創造力。    關鍵概念：「高行動力（High Agency）」。將 AI 視為加速器而非威脅，成為團隊中最懂 AI 工具的人，能大幅降低失業風險。 2\\. 尋找「流動（Flow）」與職涯早期策略 [(http://www.youtube.com/watch?v=Uflip7tYtWk&t=381)]    測試自己是否處於正確",
+    "url": "/notes/ai-era-survival-rules-tech-bubble"
+  },
+  {
+    "id": "ai-cost-optimization-bad-habits",
+    "title": "AI成本優化：壞習慣與解決方案",
+    "category": "AI筆記",
+    "tags": [
+      "Token效率",
+      "上下文審計",
+      "模型分工",
+      "提示詞快取",
+      "AI代理"
+    ],
+    "description": "隨著下一代 AI 模型即將問世，算力與 Token 成本將大幅攀升。本影片指出，許多使用者的 AI 額度之所以快速耗盡，並非模型太貴，而是源於低效的「壞習慣」",
+    "quote": "不是模型太貴，是你的習慣太昂貴。智慧的價值不在於你燃燒了多少 Token，而在於你如何精準地引導它。",
+    "action": "上傳文件前先轉換為 Markdown，對話超過 15 回合強制開新對話，複雜邏輯用最強模型、簡單修改用基本模型。",
+    "image": "/images/AI筆記/ai-cost-optimization-bad-habits.jpeg",
+    "date": "2026-04-03",
+    "source_has_timestamps": true,
+    "body": "核心摘要 隨著下一代 AI 模型（如 Claude Mythos）即將問世，算力與 Token 成本將大幅攀升。本影片指出，許多使用者的 AI 額度之所以快速耗盡，並非模型太貴，而是源於低效的「壞習慣」。透過優化輸入格式、管理對話長度與精確選擇模型，我們能以更低的成本換取更強大的智慧產出，將 AI 從昂貴的奢侈品轉化為高效的生產力工具。 --- 詳細重點整理 1. 拒絕原始檔案：轉化為 Markdown 格式 [(http://www.youtube.com/watch?v=5ztIdbj6ek&t=160)]  重點內容：直接上傳 PDF 或圖片會夾帶大量冗餘的格式、字體與元數據資訊。同樣 4500 字的內容，PDF 可能消耗 10 萬 Token，而轉化為純文本的 Markdown 僅需約 5000 Token。  關鍵概念：Token 效率（Token Efficiency）。AI 不需要讀取美觀的排版，只需核心文字；轉換格式能節省高達 20 倍的記憶體消耗。 2. 避免對話漫延：維持乾淨的上下文 [(http://www.youtube.com/watch?v=5ztIdbj6",
+    "url": "/notes/ai-cost-optimization-bad-habits"
+  },
+  {
+    "id": "ai-agent-current-state-future-practice",
+    "title": "AI代理：現狀、未來與實踐",
+    "category": "AI筆記",
+    "tags": [
+      "AI代理",
+      "暗黑工廠",
+      "代理工程",
+      "提示詞注入",
+      "紅綠測試"
+    ],
+    "description": "本影片深入探討 AI（特別是 AI 代理與程式設計）的現狀與未來。Simon Willison 指出 2025 年末是 AI 發展的「拐點」，AI 已從「大致能用」進化到「幾乎完全可靠」",
+    "quote": "AI 代理本身沒有主觀動能（Agency），人類的主觀意志才是決定如何使用這股力量的核心。",
+    "action": "利用 AI 在一小時內產出三種不同的實踐原型，建立基礎範本，每天花 5 分鐘進行紅綠測試驗證。",
+    "image": "/images/AI筆記/ai-agent-current-state-future-practice.jpeg",
+    "date": "2026-04-03",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入探討 AI（特別是 AI 代理與程式設計）的現狀與未來。Simon Willison 指出 2025 年末是 AI 發展的「拐點」，AI 已從「大致能用」進化到「幾乎完全可靠」，這將徹底改變專業軟體工程、資訊處理與創意發想的模式。 ----- 詳細重點整理 1\\. 軟體工程的「拐點」與 2025 現狀 [(http://www.youtube.com/watch?v=wc8FBhQtdsA&t=201)]    關鍵概念：2025 拐點 (Inflection Point)。Anthropic 與 OpenAI 將訓練重心轉向「代碼生成」與「推理模型」（如 O1 系列），使 AI 在程式設計上達到質變。    AI 代理（Coding Agents）已能執行從編寫、調試到測試的完整閉環，而非單純生成程式碼片段。    工程師正從「撰寫者」轉變為「AI 代理的管理者」。 2\\. 暗黑工廠 (Dark Factory) 模式與自動化測試 [(http://www.youtube.com/watch?v=wc8FBhQtdsA&t=762)]    關鍵概念：無人監控的軟",
+    "url": "/notes/ai-agent-current-state-future-practice"
+  },
+  {
     "id": "prompt-to-harness-engineering",
     "title": "從 Prompt 到 Harness 工程實踐",
     "category": "AI筆記",
