@@ -1,5 +1,125 @@
 [
   {
+    "id": "obsidian-rag-simplified-knowledge-management",
+    "title": "Obsidian RAG：簡化知識管理",
+    "category": "AI筆記",
+    "tags": [
+      "Obsidian",
+      "RAG",
+      "知識管理",
+      "Claude Code",
+      "結構化索引"
+    ],
+    "description": "這段影片介紹了由 AI 大神 Andrej Karpathy 啟發的「Obsidian RAG」知識管理系統。它捨棄了傳統 RAG 複雜的向量資料庫，轉而利用 Obsidian 的資料夾結構",
+    "quote": "在追求複雜的技術架構前，先嘗試最簡單、最透明的解決方案；往往簡單的結構加上強大的邏輯，就是最強大的工具。",
+    "action": "在 Obsidian 建立 Raw、Wiki、Archive 三個基礎目錄，用 Web Clipper 抓取文章放入 Raw，再用 AI 自動整理為 Wiki。",
+    "image": "/images/AI筆記/obsidian-rag-simplified-knowledge-management.jpeg",
+    "date": "2026-04-05",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片介紹了由 AI 大神 Andrej Karpathy 啟發的「Obsidian RAG」知識管理系統。它捨棄了傳統 RAG 複雜的向量資料庫，轉而利用 Obsidian 的資料夾結構與 Claude Code 的理解能力，建立一個輕量、免費且透明的個人知識庫。這不僅能大幅提升資訊吸收效率，更能減輕管理海量文檔的心理負擔。 ----- 詳細重點整理 1\\. 核心觀念：為何選擇 Obsidian 而非傳統 RAG [(http://www.youtube.com/watch?v=OSZdFnQmgRw&t=31)]    輕量化與零成本：不需要複雜的向量嵌入（Embeddings）或索引過程，僅需結構化的 Markdown 檔案。    透明度：Obsidian 作為前端，讓使用者能直觀看見所有文件連結，而非傳統系統的「黑盒子」狀態。    適用對象：非常適合個人開發者或小團隊，處理數百到數千份文件綽綽有餘。    關鍵概念：「結構化文件即索引」，利用 LLM 強大的 Context Window 和文件導航能力來取代傳統檢索。 2\\. 系統架構：三層檔案目錄設計 [(h",
+    "url": "/notes/obsidian-rag-simplified-knowledge-management"
+  },
+  {
+    "id": "iphone-files-app-hidden-features",
+    "title": "iPhone檔案App隱藏功能解析",
+    "category": "學習筆記",
+    "tags": [
+      "iPhone",
+      "檔案App",
+      "生產力工具",
+      "SMB共享",
+      "批量處理"
+    ],
+    "description": "這部影片深度挖掘了 iPhone 內建「檔案 (Files)」App 的隱藏功能。從批次自動去背、文件掃描、格式轉換，到與電腦連動打造私人雲端硬碟",
+    "quote": "最好的效率工具，往往就藏在你最容易忽略的地方。",
+    "action": "嘗試批量去背、文件掃描與截圖轉 PDF，設定電腦 SMB 共享，改用資料夾壓縮後發送照片。",
+    "image": "/images/學習筆記/iphone-files-app-hidden-features.jpeg",
+    "date": "2026-04-05",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片深度挖掘了 iPhone 內建「檔案 (Files)」App 的隱藏功能。從批次自動去背、文件掃描、格式轉換，到與電腦連動打造私人雲端硬碟，展現了這款冷門軟體如何成為提升生產力的效率神器。透過掌握這些技巧，使用者能大幅減少對第三方軟體的依賴，實現更純粹、高效的移動辦公體驗。 --- 詳細重點整理 1. 強大的圖片處理與去背 [(http://www.youtube.com/watch?v=pLv1MN0i0ws&t=16)]  批量去背：在檔案 App 中全選多張圖片，點擊右下角「三個點」「快速操作」「移除背景」，即可瞬間生成多張 PNG 透明圖。  格式轉換：長按圖片可選擇「轉換影像」，支援三大主流格式轉換，並能同時壓縮圖片體積 [(http://www.youtube.com/watch?v=pLv1MN0i0ws&t=80)]。  關鍵概念：自動化與原生整合。無需安裝第三方修圖軟體，即可完成高質量的美工預處理。 2. 行動辦公必備：掃描與傳輸 [(http://www.youtube.com/watch?v=pLv1MN0i0ws&t=43)]  突破微信限制：",
+    "url": "/notes/iphone-files-app-hidden-features"
+  },
+  {
+    "id": "dog-emotional-harm-ten-behaviors",
+    "title": "狗狗情感傷害的十種行為",
+    "category": "心理學",
+    "tags": [
+      "狗狗行為",
+      "壓力訊號",
+      "情感連結",
+      "動物心理",
+      "飼主教育"
+    ],
+    "description": "這部影片揭示了許多飼主出於愛意、卻在無意間傷害狗狗情感的 10 種日常行為。透過神經化學與動物行為學的視角，指出狗狗的認知與人類大相徑庭",
+    "quote": "愛不取決於你的意圖，而取決於狗狗的感受。",
+    "action": "眼神對望不超過 3 秒，用側邊依偎取代強行擁抱，進家門後給予狗狗 60 秒安靜專注的安撫。",
+    "image": "/images/心理學/dog-emotional-harm-ten-behaviors.jpg",
+    "date": "2026-04-05",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片揭示了許多飼主出於愛意、卻在無意間傷害狗狗情感的 10 種日常行為。透過神經化學與動物行為學的視角，影片指出狗狗的認知與人類大相徑庭；唯有停止將人類的社交準則強加於牠們，並學習辨識其壓力訊號，才能建立真正基於信任與安全感的深厚連結。 ----- 詳細重點整理 1\\. 錯誤的擁抱方式：引發恐慌的束縛反應 [(http://www.youtube.com/watch?v=w12C2fVKID0&t=55)]    人類視擁抱為愛，但對狗狗而言，身體受限會觸發類似被獵食者捕獲的神經通路。研究顯示逾 80% 的狗狗在被擁抱時表現出壓力訊號（如露白眼、舔唇、耳朵後貼）。    關鍵概念：身體約束（Physical Restraint）。應以「側靠」或「抓胸口」取代環抱，給予狗狗選擇留下的空間。 2\\. 直視目光：不經意發出的威脅訊號 [(http://www.youtube.com/watch?v=w12C2fVKID0&t=135)]    長時間、不眨眼的直視在犬類社交中是挑戰或攻擊的前兆。實驗證明，陌生人的直視會讓狗狗的皮質醇（壓力荷爾蒙）飆升。    關鍵概念：威脅訊號",
+    "url": "/notes/dog-emotional-harm-ten-behaviors"
+  },
+  {
+    "id": "claude-code-powerup-insights",
+    "title": "Claude Code：Powerup與Insights",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "Powerup",
+      "Insights",
+      "行為分析",
+      "知識閉環"
+    ],
+    "description": "這段影片深入介紹了 Claude Code 的兩項被低估但極其強大的核心功能：/powerup 與 /insights。前者是針對新手的「80/20 法則」快速學習指南",
+    "quote": "/powerup 帶你從 0 到 80 分，而 /insights 的持續回饋，則是讓你從 80 分跨越到 100 分的關鍵。",
+    "action": "每週執行一次 /insights 閱讀報告，建立自定義 Skill 將建議寫入專案規則檔案。",
+    "image": "/images/AI筆記/claude-code-powerup-insights.jpg",
+    "date": "2026-04-05",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片深入介紹了 Claude Code 的兩項被低估但極其強大的核心功能：/powerup 與 /insights。前者是針對新手的「80/20 法則」快速學習指南，後者則是資深使用者的「私人教練」，能分析過去 30 天的行為數據並生成量身定制的成長報告，幫助使用者從熟練跨越到卓越。 --- 詳細重點整理 1. /powerup：快速掌握 80% 的核心能力 [(http://www.youtube.com/watch?v=xssGpNx3its&t=63)]  這是為初學者設計的「學習同伴」，包含 10 個待解鎖的基礎模組。  重點內容：      @ 符號使用：教導如何精準標記檔案，減少 Claude 盲目搜尋造成的 Context 消耗 [(http://www.youtube.com/watch?v=xssGpNx3its&t=86)]。      模式切換與工具擴充：引導使用者理解不同工作模式、自動化工作流及代理（Agent）運作邏輯 [(http://www.youtube.com/watch?v=xssGpNx3its&t=108)]。  關鍵概念：基礎結構",
+    "url": "/notes/claude-code-powerup-insights"
+  },
+  {
+    "id": "claude-code-leak-deep-analysis",
+    "title": "Claude Code洩漏事件深度解析",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "Agent架構",
+      "權限系統",
+      "會話持久化",
+      "安全工程"
+    ],
+    "description": "本影片深入解析 Anthropic 價值 25 億美元的 Claude Code 原始碼洩露事件。分析師避開表面八卦，精煉出 12 個支撐高規模 Agent 系統的「隱形基礎設施」",
+    "quote": "建立 AI 代理的過程，80% 是那些不華麗的「水電工程」，只有 20% 才是 AI 本身。",
+    "action": "將工具分為唯讀、變更與破壞性三層，為每個任務設計五種狀態並持久化，定期進行架構生存力測試。",
+    "image": "/images/AI筆記/claude-code-leak-deep-analysis.jpg",
+    "date": "2026-04-05",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入解析 Anthropic 價值 25 億美元的 Claude Code 原始碼洩露事件。分析師 Nate B Jones 避開表面八卦，精煉出 12 個支撐高規模 Agent 系統的「隱形基礎設施」。核心價值在於強調：一個成功的 AI 代理，80% 取決於無聊但關鍵的後端工程（如權限、持久化、事件日誌），僅 20% 是 AI 模型本身。這對開發者在平衡「開發速度」與「運行紀律」上具有深遠的心理啟發。 --- 詳細重點整理 1. 基礎架構：工具註冊與權限分級 [(http://www.youtube.com/watch?v=FtCdYhspm7w&t=328)]  工具註冊表 (Tool Registry)：在執行任何代碼前，先定義數據結構。Claude Code 擁有並行的命令註冊表（用戶端）與工具註冊表（模型端），確保系統在不觸發副作用的情況下即可知曉功能。  三層信任權限：將工具分為內建（高信任）、插件（中信任）與技能（低信任）。  關鍵概念：「18 模組安全架構」。僅 Bash 工具就有 18 個安全模組，證明了在大規模生產環境中，安全嚴謹度是區分「Demo」",
+    "url": "/notes/claude-code-leak-deep-analysis"
+  },
+  {
+    "id": "claude-code-ai-agent-architecture-deep-dive",
+    "title": "Claude Code：AI Agent架構深度剖析",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "Agent架構",
+      "分層防禦",
+      "全狀態恢復",
+      "角色約束"
+    ],
+    "description": "本影片深入解析了 Anthropic 意外外流的 Claude Code 核心架構。講者強調，開發成功的 AI Agent 系統中，80% 是乏味的基礎工程（Plumbing）",
+    "quote": "建立 Agent 的成功關鍵在於 80% 乏味的基礎工程，而非僅靠那 20% 的 AI 魅力。",
+    "action": "將 Agent 工具分為唯讀、可變更與具破壞性三層，確保系統自動保存完整狀態 JSON，從計劃者與執行者的分離開始構建。",
+    "image": "/images/AI筆記/claude-code-ai-agent-architecture-deep-dive.jpg",
+    "date": "2026-04-05",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入解析了 Anthropic 意外外流的 Claude Code 核心架構。講者強調，開發成功的 AI Agent 系統中，80% 是乏味的基礎工程（Plumbing），僅有 20% 是 AI 模型本身。透過分析外流的 12 個原始組件，揭示了維持數十億美元業務規模的代理人系統所需的穩定性、安全性與持久性架構。 --- 詳細重點整理 1. 基礎架構：工具註冊與元數據優先 [(http://www.youtube.com/watch?v=FtCdYhspm7w&t=333)]  代理人的能力應在執行前定義為數據結構。Claude Code 擁有兩套平行註冊表：面向用戶的指令（207 條）與面向模型的工具（184 條）。  關鍵概念：結構化分離。註冊表應作為單一事實來源，支援在不執行代碼的情況下進行上下文過濾與自省。 2. 安全核心：18 模組的權限系統 [(http://www.youtube.com/watch?v=FtCdYhspm7w&t=428)]  Claude 將工具分為三個信任層級：內置（高）、插件（中）、技能（低）。其中 bash 工具擁有 18 個專門",
+    "url": "/notes/claude-code-ai-agent-architecture-deep-dive"
+  },
+  {
     "id": "harness-engineering-ai-next-frontier",
     "title": "Harness Engineering：AI下一個前沿",
     "category": "AI筆記",
