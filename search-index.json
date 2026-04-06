@@ -1,5 +1,105 @@
 [
   {
+    "id": "workplace-politics-influence-narrative",
+    "title": "職場政治：影響力與敘事關鍵",
+    "category": "學習筆記",
+    "tags": [
+      "職場政治",
+      "影響力",
+      "敘事能力",
+      "升遷策略",
+      "禮貌虛構"
+    ],
+    "description": "這段影片由前 Amazon 副總裁深入剖析職場政治的運作邏輯。他以極高的透明度揭示了組織重組、升遷博弈及衝突處理背後的「潛規則」",
+    "quote": "不是只有「正確」就好，你的人際關係才是真正控制你進度的關鍵。",
+    "action": "建立至少 3 個跨部門盟友，關鍵談判前預演兩套禮貌虛構的對話，每週問主管一次能幫什麼忙。",
+    "image": "/images/學習筆記/workplace-politics-influence-narrative.jpg",
+    "date": "2026-04-06",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片由前 Amazon 副總裁 Ethan Evans 深入剖析職場政治的運作邏輯。他以極高的透明度揭示了組織重組、升遷博弈及衝突處理背後的「潛規則」，強調專業技術固然重要，但人際影響力與敘事能力才是決定職涯高度的關鍵，旨在幫助專業人士從被動受害者轉變為有意識的職場經營者。 ----- 詳細重點整理 1\\. 帝國構建與重組的真相 [(http://www.youtube.com/watch?v=6WaeGfLnRvc&t=155)]    帝國構建（Empire Building）：管理者傾向爭取更多下屬，因為在許多公司（如 Amazon），「人數」是衡量影響力最直觀、最難被挑戰的指標，甚至與升遷門檻（如總監需管理 80-90 人）直接掛鉤 [(http://www.youtube.com/watch?v=6WaeGfLnRvc&t=183)]。    重組的隱藏動機：除了業務變更，組織重組常被用來留住關鍵人才（給予更具吸引力的範疇）或邊緣化表現不佳者 [(http://www.youtube.com/watch?v=6WaeGfLnRvc&t=630)]。    關鍵概",
+    "url": "/notes/workplace-politics-influence-narrative"
+  },
+  {
+    "id": "claude-usage-limits-optimization",
+    "title": "Claude使用限制與優化技巧",
+    "category": "AI筆記",
+    "tags": [
+      "Claude",
+      "Token管理",
+      "上下文優化",
+      "使用限制",
+      "省量技巧"
+    ],
+    "description": "這段影片深入解析了 Claude 使用者近期頻繁遇到「使用限制」的原因，並揭示了 Anthropic 在尖峰時段調整 session 限制的內幕",
+    "quote": "AI 的承諾是不知疲倦，但我們的責任是給予它最清晰、最輕量的導航。",
+    "action": "所有大型文件先轉換為 Markdown 再上傳，一個 Prompt 解決三個小問題，養成輸入 /context 監控 Token 的習慣。",
+    "image": "/images/AI筆記/claude-usage-limits-optimization.jpeg",
+    "date": "2026-04-06",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片深入解析了 Claude 使用者近期頻繁遇到「使用限制（Usage Limits）」的原因，並揭示了 Anthropic 在尖峰時段調整 session 限制的內幕。影片核心價值在於透過理解「Token（代幣）」與「Context（上下文）」的運作機制，提供 14 個實用的優化技巧，幫助使用者在不增加成本的情況下，極大化 AI 的工作效率與持久力。 --- 詳細重點整理 1. 理解使用限制與 Token 機制 [(http://www.youtube.com/watch?v=vnocKrxasg4&t=143)]  Session 限制：Claude 以 5 小時為一個 Session 單位，從發送第一則訊息起算。尖峰時段（如英國下午、美國上午）系統會更嚴格地限制工作量。  Token 的代價：訊息、附件、歷史紀錄都會消耗 Token。使用 Opus 4.6 模型消耗速度是 Sonnet 的 5 倍。  關鍵概念：Token 是 AI 的貨幣。了解預算分配（透過輸入 /context 指令查看實時消耗）是精準控制的第一步。 2. 聊天習慣與提示詞優化 [(http:/",
+    "url": "/notes/claude-usage-limits-optimization"
+  },
+  {
+    "id": "claude-code-six-dimensional-memory-system",
+    "title": "Claude Code六維記憶體系",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "記憶體系",
+      "Auto Dream",
+      "上下文管理",
+      "智慧召回"
+    ],
+    "description": "本影片深度拆解了 Claude Code 的「六維記憶體系」，揭示了 AI 如何透過指令、短期、工作、長期、摘要及離線重塑等六個層次，實現高效的上下文管理",
+    "quote": "記憶不只是存儲對話，而是透過不斷地提取、壓縮與重塑，將碎片化的資訊煉金成智慧。",
+    "action": "在 CLAUDE.md 中定義技術層次與代碼風格偏好，定期檢查 memory.md 刪除過時反饋，每天開工前讀取最新 sessionmemory.md。",
+    "image": "/images/AI筆記/claude-code-six-dimensional-memory-system.jpeg",
+    "date": "2026-04-06",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深度拆解了 Claude Code 的「六維記憶體系」，揭示了 AI 如何透過指令、短期、工作、長期、摘要及離線重塑等六個層次，實現高效的上下文管理與知識同步。這不僅是一套技術架構，更模仿了人類從「遵守規則」到「夢境整理」的認知過程，能極大化提升開發者與 AI 協作的精準度與延續性。 --- 詳細重點整理 1. 六維記憶體系全景圖 [(http://www.youtube.com/watch?v=KIGVHE7aKSU&t=50)]  定義與範疇：系統分為指令記憶（規則）、短期記憶（對話歷史）、工作記憶（任務進度）、長期記憶（磁碟知識庫）、摘要記憶（Session筆記）與休眠重塑（Auto Dream）。  關鍵概念：層級化儲存。從靜態規則到動態重組，確保 AI 在不同時間維度都能精確提取資訊。 2. 指令記憶：多層級優先權體系 [(http://www.youtube.com/watch?v=KIGVHE7aKSU&t=171)]  四層加載邏輯：包含全局策略 (Global)、個人私有 (User)、項目共享 (Project) 與私有項目 (Local) 指令。越",
+    "url": "/notes/claude-code-six-dimensional-memory-system"
+  },
+  {
+    "id": "ai-growth-strategy-future-roles",
+    "title": "AI增長策略與未來職能",
+    "category": "AI筆記",
+    "tags": [
+      "Anthropic",
+      "指數型增長",
+      "跨學科通才",
+      "人機協作",
+      "增長策略"
+    ],
+    "description": "本影片訪談了 Anthropic 增長負責人，揭秘這家 AI 巨頭如何在 14 個月內將年經常性收入從 10 億美元推升至 190 億美元的奇蹟",
+    "quote": "將過去 70% 的操作模式扔出窗外，因為我們正生活在指數級變化的未來。",
+    "action": "若任務能在 2 週內完成就跳過繁瑣文檔直接原型開發，每日花 14 分鐘公開分享原始想法。",
+    "image": "/images/AI筆記/ai-growth-strategy-future-roles.jpeg",
+    "date": "2026-04-06",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片訪談了 Anthropic 增長負責人 Amole Avisari，揭秘這家 AI 巨頭如何在 14 個月內將年經常性收入（ARR）從 10 億美元推升至 190 億美元的奇蹟。核心價值在於「拋棄舊有增長手冊」，擁抱 AI 驅動的自動化實驗，並在指數型增長的環境下，透過高密度的人才與強烈的使命感，重新定義產品經理與工程師的角色。 ----- 詳細重點整理 1\\. 突破常規的職涯起點：冷郵件的力量 [(http://www.youtube.com/watch?v=k-H4nsOTuxU&t=252)]    Amole 分享他並非透過獵頭或內推進入 Anthropic，而是直接發了一封「冷郵件（Cold Email）」給首席產品官 Mike Krieger。    關鍵概念：完美的開發信。他精確掌握了主旨開合率與內容節奏，並強調若真的在乎，應持續跟進直到對方回應。 2\\. AI 時代的增長新策略：大波段 vs 小優化 [(http://www.youtube.com/watch?v=k-H4nsOTuxU&t=1594)]    不同於傳統公司 70% 時間做微小 A/B",
+    "url": "/notes/ai-growth-strategy-future-roles"
+  },
+  {
+    "id": "ai-agents-avoiding-the-pitfalls",
+    "title": "AI Agents：避開速成陷阱",
+    "category": "AI筆記",
+    "tags": [
+      "AI代理",
+      "數據衛生",
+      "確定性流程",
+      "意圖清晰",
+      "可評估性"
+    ],
+    "description": "這段影片深刻探討了 AI 代理人（Agents）時代下，企業與個人常犯的「速成陷阱」。雖然工具能大幅提升產能，但若缺乏清晰的數據結構與流程設計",
+    "quote": "AI 代理人不是幫你掩蓋軟體架構問題的遮羞布，而是要求你更認真地對待整個技術堆疊。",
+    "action": "先審計流程再自動化，導入 Agent 前定義好 Schema 與單一事實來源，建立獨立的自動化觀察機制監測 AI 表現。",
+    "image": "/images/AI筆記/ai-agents-avoiding-the-pitfalls.jpeg",
+    "date": "2026-04-06",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片深刻探討了 AI 代理人（Agents）時代下，企業與個人常犯的「速成陷阱」。雖然 OpenClaw 等工具能大幅提升產能，但若缺乏清晰的數據結構與流程設計，初期的高效率將在 30 天後演變成混亂的災難。核心價值在於：AI 不是修正混亂的萬靈丹，而是放大既有結構的加速器。 --- 詳細重點整理 1. 釐清意圖：別讓 AI 產生「平庸的垃圾」 [(http://www.youtube.com/watch?v=kVPVmz0qJvY&t=221)]  重點內容說明：許多人嘗試用 AI 直接「編碼」出 CRM 或軟體，但 CRM 本質上是業務邏輯的體現，而非單純的代碼。若使用者對業務流程缺乏「意圖的清晰度」（Clarity of Intent），AI 只會產出符合大眾平均值的平庸作品。  關鍵概念：意圖先行。在讓 Agent 動手前，必須先確定你獨特的業務流程與客戶關係邏輯。 2. 數據層的整潔：AI 是糟糕的數據工程師 [(http://www.youtube.com/watch?v=kVPVmz0qJvY&t=375)]  重點內容說明：Agent 擅長處理任務，但除非",
+    "url": "/notes/ai-agents-avoiding-the-pitfalls"
+  },
+  {
     "id": "obsidian-rag-simplified-knowledge-management",
     "title": "Obsidian RAG：簡化知識管理",
     "category": "AI筆記",
