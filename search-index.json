@@ -1,5 +1,145 @@
 [
   {
+    "id": "obsidian-ai-second-brain-workflow",
+    "title": "Obsidian AI 第二大腦工作流：雲端同步與自動化",
+    "category": "AI筆記",
+    "tags": [
+      "Obsidian",
+      "GitHub 同步",
+      "Claude Code",
+      "第二大腦",
+      "自動化導入"
+    ],
+    "description": "本影片介紹結合 Obsidian、GitHub 與 Claude Code 的「第二大腦」進階工作流，將瑣碎資訊轉化為可調用的數位資產。",
+    "quote": "💡 數位筆記不應是知識的墳墓，而應是與 AI 協作的活性戰場。",
+    "action": "🎯 3-2-1 啟動法則：3 個維度定框架、2 種工具串聯、1 次自動導入。",
+    "image": "/images/AI筆記/obsidian-ai-second-brain-workflow.jpeg",
+    "date": "2026-04-07",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片介紹了一套結合 Obsidian、GitHub 與 Claude Code 的「第二大腦」進階工作流。透過將筆記雲端化與 AI 自動化，這套系統能主動從郵件、本地文件提取資訊並結構化整理，將瑣碎的資訊碎片轉化為可隨時調用的數位資產，徹底解決現代人資訊超載的痛點。 ----- 詳細重點整理 1\\. 建立免費且安全的雲端同步基礎 [(http://www.youtube.com/watch?v=Y2rpFa43jTo&t=90)]    GitHub 備份機制：利用 GitHub 的私有儲存庫（Private Repository）來存放 Obsidian 筆記，解決官方同步服務需付費的問題，同時獲得完整的版本控制。    GitHub Desktop 工具：針對非開發者，建議使用圖形化介面工具來進行筆記的「推送 (Push)」與「拉取 (Pull)」，確保不同裝置間的資料一致性。    關鍵概念：「版本控制即安全感」——即便誤刪或改錯筆記，也能透過 Git 歷史紀錄隨時找回。 2\\. 實現自動化無感同步 [(http://www.youtube.com/watch?v=Y",
+    "url": "/notes/obsidian-ai-second-brain-workflow"
+  },
+  {
+    "id": "horse-stance-hip-recovery",
+    "title": "馬步：逆轉久坐髖部傷害的古老練習",
+    "category": "生產力",
+    "tags": [
+      "馬步",
+      "久坐傷害",
+      "髖部健康",
+      "離心加載",
+      "身體訓練"
+    ],
+    "description": "本影片探討如何透過馬步練習逆轉現代久坐對髖部的傷害，喚醒臀肌並增強大腿內側韌性。",
+    "quote": "💡 不斷屈服於重力，還是成為你自己的椅子？這是一個關乎強大與自信的重要抉擇。",
+    "action": "🎯 10-10-30 法則：10 次馬步深蹲、10 秒極限靜止、30 秒日常挑戰。",
+    "image": "/images/生產力/horse-stance-hip-recovery.jpg",
+    "date": "2026-04-07",
+    "source_has_timestamps": true,
+    "body": "你好！我是你的影片深度萃取器。這段來自 Strength Side 的影片深入探討了如何透過古老的練習——「馬步」（Horse Stance），來逆轉現代久坐生活對髖部造成的傷害。這不只是一場體能訓練，更是一場找回身體主控權的心理修煉。 以下是為你整理的精華內容： 核心摘要 現代人「久坐」如同慢性自殺，導致臀肌沉睡與髖部緊繃。馬步這項練習能讓你「成為自己的椅子」，透過負重下的拉伸與力量訓練，喚醒臀部肌肉、增強大腿內側韌性，從根本修復髖部健康，提升整體靈活性與穩定性。 --- 詳細重點整理 1. 久坐的代價與馬步的覺醒 [(http://www.youtube.com/watch?v=LUTvHpVaGk&t=0)]  久坐是新型吸菸：長期坐在椅子上會關閉臀肌，導致腰、頸、髖、膝出現連鎖問題。  覺醒的概念：影片將馬步比喻為「讓肌肉醒來」。普通坐姿是萎縮與沉睡，馬步則是讓足弓、雙腿與臀部全面進入「警戒狀態」。  關鍵概念：「成為你自己的椅子」。不依賴外部支撐，而是用自身力量對抗重力。 2. 馬步的解剖學效益 [(http://www.youtube.com/watch?v=LUTvHpV",
+    "url": "/notes/horse-stance-hip-recovery"
+  },
+  {
+    "id": "finance-risk-life-philosophy",
+    "title": "洞見金融、風險與生活哲學：ICE 主席訪談",
+    "category": "學習筆記",
+    "tags": [
+      "期貨市場",
+      "風險管理",
+      "生活自動化",
+      "職業選擇",
+      "決策疲勞"
+    ],
+    "description": "透過 ICE 美國期貨交易所主席 Jennifer Ilkiw 的訪談，一窺原物料定價背後的運作，並學習區分風險與不確定性。",
+    "quote": "💡 選擇一份讓你感到快樂與興奮的工作，成功與金錢自然會隨之而來。",
+    "action": "🎯 3-1-1 決策減壓法則：3 件事前準備、1 個固定起床時間、1 小時自我時間。",
+    "image": "/images/學習筆記/finance-risk-life-philosophy.jpeg",
+    "date": "2026-04-07",
+    "source_has_timestamps": true,
+    "body": "這是一段深入全球金融核心的精彩對話。透過與 ICE 美國期貨交易所主席 Jennifer Ilkiw 的深度訪談，我們不僅能一窺原物料定價（如咖啡、可可、石油）背後的運作機制，更從這位頂尖女性領導者身上，學習到如何區分風險與不確定性，以及如何透過嚴格的自律來支撐高品質的生活與職業成就。 --- 核心摘要 本影片揭示了全球實體商品定價的幕後邏輯，強調金融市場與現實生活的緊密連結。核心價值在於：真正的專業來自於對底層細節的掌控（如實地檢驗咖啡豆），而長期的成功則建立在「將生活自動化」的規律 habit 與「選擇熱情而非名聲」的職業價值觀。 --- 詳細重點整理 1. 實體商品的定價真相：從產地到交易所 [(http://www.youtube.com/watch?v=coiyWf6Mf3Y&t=192)]  期貨交易不只是螢幕上的數字，而是包含實體檢驗過程。例如：紐約交易所設有分級設施，專業評分員會實際切開可可豆檢查發霉度，或烘焙咖啡豆進行杯測。  關鍵概念：實物支撐（Physical Backing）。了解商品的實體流動（供應鏈、天氣影響、地理政治）是精準定價的基礎。 2. 區分風險（R",
+    "url": "/notes/finance-risk-life-philosophy"
+  },
+  {
+    "id": "dog-sniffing-private-area-science",
+    "title": "狗狗嗅聞私密處的科學解釋：化學履歷解讀",
+    "category": "心理學",
+    "tags": [
+      "狗狗行為",
+      "嗅覺",
+      "頂漿腺",
+      "社會參照",
+      "寵物訓練"
+    ],
+    "description": "影片剖析狗狗嗅聞人類私密處背後的生物學與心理學機制，透過 3 億嗅覺受體讀取人類的化學履歷。",
+    "quote": "💡 每一次嗅聞都是一個提問，而當狗狗回頭看向你時，你就是牠唯一的答案。",
+    "action": "🎯 3-5-3 引導法則：3 秒觀察、5 秒冷靜、3 次練習。",
+    "image": "/images/心理學/dog-sniffing-private-area-science.jpg",
+    "date": "2026-04-07",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片深入剖析了狗狗嗅聞人類私密處背後的生物學與心理學機制。狗狗並非無禮，而是透過高達 3 億個嗅覺受體，在讀取人類的情緒、壓力和健康狀態這份「化學履歷」。理解這一行為能幫助飼主從尷尬中解脫，轉而以同理心引導狗狗建立健康的社交邊界，強化彼此間的信任與安全感。 --- 詳細重點整理 1. 狗狗的「嗅覺世界觀」 [(http://www.youtube.com/watch?v=5YbH7EL1M08&t=64)]  狗狗的世界由氣味構成，其嗅覺受體是人類的 50 倍（約 3 億個），腦中處理氣味的區域比人類大 40 倍。  關鍵概念：化學文件。對狗狗而言，人類就像是一份會呼吸的化學檔案，每一處氣味都承載著特定的資訊。 2. 為什麼偏偏是私密處？ [(http://www.youtube.com/watch?v=5YbH7EL1M08&t=106)]  人類腹股溝區域集中了大量的頂漿腺（Apocrine glands），這些腺體釋放出的化學信號包含性別、年齡、激素水平及情緒狀態。  關鍵概念：高效讀取。嗅聞該部位等於在 3 秒內讀完一個人的全本傳記。 3. 氣味中隱藏的秘密 [(",
+    "url": "/notes/dog-sniffing-private-area-science"
+  },
+  {
+    "id": "ai-knowledge-system-self-evolving",
+    "title": "AI 知識系統：自我演化與維護機制",
+    "category": "AI筆記",
+    "tags": [
+      "自我演化",
+      "Claude Code",
+      "Obsidian",
+      "Idea Files",
+      "自我修復"
+    ],
+    "description": "本影片深入解析 Andrej Karpathy 提出的「自我演化知識系統」，將人類的點子探索與 AI 的結構維護結合。",
+    "quote": "💡 人類擅長探索點子，而大型語言模型擅長處理繁瑣的維護工作；讓 AI 成為你腦袋的超強圖書館員。",
+    "action": "🎯 1-2-3 演化法則：1 個原始倉庫、2 分鐘編譯、3 個月大掃除。",
+    "image": "/images/AI筆記/ai-knowledge-system-self-evolving.jpg",
+    "date": "2026-04-07",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入解析了 AI 大神 Andrej Karpathy 提出的「自我演化知識系統」（Self-Evolving Knowledge System）。這套系統的核心在於將人類擅長的「點子探索」與 AI 擅長的「結構維護」結合，透過 Claude Code 與 Obsidian 的聯動，讓 AI 代理人（Agent）不再只是單純的聊天工具，而是擁有深度上下文意識、能自我修正並持續進化的「智慧大腦」。 --- 詳細重點整理 1. Karpathy 的願景：從分享軟體到分享「想法」 [(http://www.youtube.com/watch?v=9iWTRMjbBvo&t=143)]  重點內容：Karpathy 提出了一個典範轉移：未來我們不再只是分享寫好的程式碼，而是分享「想法文件（Idea Files）」。這是一份高層次的藍圖，AI 代理人可以根據這份文件，為不同的工作流自動構建並客製化系統。  關鍵概念：自我改善循環。系統會隨著新資訊的加入自動建立連結，讓 AI 代理人從「一次性助手」轉型為「持續成長的知識工作者」。 2. 三層結構體系：LLM Wiki 的運作邏輯 ",
+    "url": "/notes/ai-knowledge-system-self-evolving"
+  },
+  {
+    "id": "ai-knowledge-system-revolution",
+    "title": "AI 知識系統的革命性轉變：從健忘到複利",
+    "category": "AI筆記",
+    "tags": [
+      "LLM Wiki",
+      "Obsidian",
+      "Claude Code",
+      "知識複利",
+      "脈絡壓縮"
+    ],
+    "description": "本影片介紹了由 AI 大神 Andrej Karpathy 啟發的「LLM Wiki」概念，教導使用者如何利用 Claude Code 與 Obsidian 打造知識庫。",
+    "quote": "💡 不要讓 AI 只是你的打字機，要讓它成為你永不遺忘的第二大腦。",
+    "action": "🎯 5-5-1 法則：5 分鐘啟動 Obsidian、5 步 Claude Code 自動化、1 鍵 Web Clipper 攝取。",
+    "image": "/images/AI筆記/ai-knowledge-system-revolution.jpeg",
+    "date": "2026-04-07",
+    "source_has_timestamps": true,
+    "body": "這是一份針對 Andrej Karpathy 所提出的 AI 知識系統革命的深度萃取報告。本影片揭示了如何將 AI 從一個「健忘的對話者」轉變為一個擁有「永久記憶」且能不斷產生複利的數位大腦。 核心摘要 本影片介紹了由 AI 大神 Andrej Karpathy 啟發的「LLM Wiki」概念，教導使用者如何利用 Claude Code 與 Obsidian，將瑣碎的資訊（如 YouTube 逐字稿、網頁文章）自動轉化為結構化的 Markdown 知識庫。這套系統打破了傳統 RAG 的複雜性，透過建立具備反向連結的知識網路，讓 AI 處理任務時能節省 95% 的 Token 成本，實現知識的長效成長與精準檢索。 --- 詳細重點整理 1. 知識系統的典範轉移：從「短暫」到「複利」 [(http://www.youtube.com/watch?v=sboNwYmH3AY&t=197)]  傳統的 AI 對話是「暫時性的 (Ephemeral)」，對話結束後知識便隨之消失。而這套系統讓知識像銀行利息一樣產生複利，讓 AI 成為一個永遠記得所有細節、且持續進化的專業同事。  關鍵概念：知識複",
+    "url": "/notes/ai-knowledge-system-revolution"
+  },
+  {
+    "id": "ai-agents-six-layer-architecture-evolution",
+    "title": "AI Agents 六層架構演進：代理優先時代來臨",
+    "category": "AI筆記",
+    "tags": [
+      "AI Agents",
+      "基礎架構",
+      "堆棧識讀",
+      "沙盒運算",
+      "代理經濟"
+    ],
+    "description": "這部影片深刻剖析了 AI 代理（Agents）基礎設施的六層架構演進，強調我們正從「以人為本」的工具時代轉向「代理優先」的數位原民時代。",
+    "quote": "💡 在這個 AI 代理經濟中，缺乏堆棧識讀能力是通往平庸與失敗的快車道。",
+    "action": "🎯 採用 3-E 代理開發法則：Engineering 環境工程、Eval 自動評估、Evolution 架構演進。",
+    "image": "/images/AI筆記/ai-agents-six-layer-architecture-evolution.jpg",
+    "date": "2026-04-07",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片深刻剖析了 AI 代理（Agents）基礎設施的六層架構演進，強調我們正從「以人為本」的工具時代轉向「代理優先」的數位原民時代。影片警告開發者與決策者，若不具備「堆棧識讀能力」（Stack Literacy），極可能在未來 18 個月內被淘汰。核心價值在於理解如何構建具備自主性、可協作且穩定的 AI 生態系。 --- 詳細重點整理 1. 代理優先的典範轉移 [(http://www.youtube.com/watch?v=7HP1jFJ9W1c&t=71)]  內容說明：如同 2006 年轉向雲端運算（Cloud）與 2012 年轉向微服務（Microservices），現在正進入「代理優先原語」（Agent-first primitives）時代。未來的基礎設施客戶不再是人類，而是 AI 代理。  關鍵概念：基礎架構轉型：我們必須重新定義運算、身份與通訊的基礎，以適應非人類操作者的需求。 2. 安全運算沙盒與執行環境 [(http://www.youtube.com/watch?v=7HP1jFJ9W1c&t=180)]  內容說明：代理人需要一個安全、隔離且可審計",
+    "url": "/notes/ai-agents-six-layer-architecture-evolution"
+  },
+  {
     "id": "workplace-politics-influence-narrative",
     "title": "職場政治：影響力與敘事關鍵",
     "category": "學習筆記",
