@@ -1,5 +1,105 @@
 [
   {
+    "id": "claude-managed-agents-ai-cloud-employees",
+    "title": "Claude Managed Agents：16 分鐘打造你的 AI 雲端員工",
+    "category": "影片筆記",
+    "tags": [
+      "託管代理人",
+      "MCP伺服器",
+      "憑證保險箱",
+      "自動化工作流",
+      "AI員工"
+    ],
+    "description": "本影片深入介紹了 Anthropic 推出的 Claude Managed Agents（託管型代理人），這是一個革命性的 agent 構建平台。它讓非技術人員也能在 16 分鐘內，透過圖形介面與 MCP 伺服器，輕鬆建立能執行複雜任務的 AI 員工。",
+    "quote": "建立代理人不是在開發軟體，而是在訓練一位只專注於幫你解決單一任務的高效員工。",
+    "action": "識別每週最重複的知識性工作，前往 platform.anthropic.com 建立首個託管代理人，迭代 3 次優化。",
+    "image": "/images/影片筆記/claude-managed-agents-ai-cloud-employees.jpeg",
+    "date": "2026-04-10",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入介紹了 Anthropic 推出的 Claude Managed Agents (託管型代理人)，這是一個革命性的 agent 構建平台。它讓非技術人員也能在 16 分鐘內，透過圖形介面與 MCP 伺服器，輕鬆建立能執行複雜任務的 AI 員工，大幅降低了企業自動化工作流的技術門檻與架構維護成本。 --- 詳細重點整理 1. 什麼是 Claude Managed Agents？ [(http://www.youtube.com/watch?v=n1je-98lvsQ&t=64)]  定義：這不僅是聊天介面，而是一個完整的代理人構建平台，讓使用者無需操作終端機即可建立 Agent。  核心價值：將 UI、工具與託管環境整合，解決了過去建立代理人時「環境部署困難」與「操作複雜」的痛點。  關鍵概念：「AI 雲端員工」——將其視為專注於單一特定任務的數位員工。 [(http://www.youtube.com/watch?v=n1je-98lvsQ&t=241)] 2. 核心架構四大概念 [(http://www.youtube.com/watch?v=n1je-98lvs",
+    "url": "/notes/claude-managed-agents-ai-cloud-employees"
+  },
+  {
+    "id": "claude-code-internal-architecture",
+    "title": "Claude Code 內部架構解析：推理循環與分散式代理設計",
+    "category": "影片筆記",
+    "tags": [
+      "推理循環",
+      "工具層",
+      "Hooks機制",
+      "記憶壓縮",
+      "子代理"
+    ],
+    "description": "這段影片揭秘了 Anthropic 意外洩露的 Claude Code 內部架構，解析這款在 GitHub 迅速走紅的 AI 代理程式如何運作。其核心價值在於將複雜的 AI 行為拆解為簡潔的循環與工具層設計。",
+    "quote": "AI 代理並非魔術，而是一種新型態的分散式系統能力。",
+    "action": "為 AI 工具加上 Hooks 安全攔截與 Compaction 記憶壓縮，並在專案根目錄建立 CLAUDE.md。",
+    "image": "/images/影片筆記/claude-code-internal-architecture.jpeg",
+    "date": "2026-04-10",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片揭秘了 Anthropic 意外洩露的 Claude Code 內部架構，解析這款在 GitHub 迅速走紅的 AI 代理程式如何運作。其核心價值在於將複雜的 AI 行為拆解為簡潔的循環與工具層設計，展示了 AI 從「回答問題」進化為「執行任務」的技術邏輯，對未來工程師理解分散式 AI 系統具有深遠影響。 --- 詳細重點整理 1. 事件起源：意外曝光的原始碼 [(http://www.youtube.com/watch?v=szaszUEmjfU&t=35)]  Anthropic 在部署 CLI 工具時，因疏忽將包含原始 TypeScript 原始碼的 Source Maps 一併釋出。  關鍵概念：Clean Room Rewrite。社群工程師在 24 小時內透過閱讀原始碼理解邏輯，而非直接複製，並用 Python 與 Rust 重新實現了該架構，這證明了該設計模式的高效性與易讀性。 2. 核心架構：推理循環 (The Loop) [(http://www.youtube.com/watch?v=szaszUEmjfU&t=163)]  AI 代理的核心不再是",
+    "url": "/notes/claude-code-internal-architecture"
+  },
+  {
+    "id": "claude-code-chaining-skills-explained",
+    "title": "Claude Code 連鎖技能：context fork 打造全自動化工作流",
+    "category": "影片筆記",
+    "tags": [
+      "連鎖技能",
+      "Context Fork",
+      "自動化工作流",
+      "第二大腦",
+      "上下文管理"
+    ],
+    "description": "本影片揭示了 Claude Code 一項顛覆性的功能：連鎖技能（Chaining Skills）。透過一行關鍵代碼 context fork，使用者可以將多個獨立的 AI 技能串聯成一個自動化的工作流。",
+    "quote": "在一個你可以構建任何事物的世界裡，最重要的不再是「如何做」，而是「什麼值得做」以及如何構建系統去實現它。",
+    "action": "觀察每週最重複的資訊處理流程，將其模組化為連鎖技能，用 context fork 銜接各步驟。",
+    "image": "/images/影片筆記/claude-code-chaining-skills-explained.jpeg",
+    "date": "2026-04-10",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片揭示了 Claude Code 一項顛覆性的功能：連鎖技能（Chaining Skills）。透過一行關鍵代碼 context fork，使用者可以將多個獨立的 AI 技能串聯成一個自動化的工作流。這不僅提升了工作效率，更讓 AI 能在複雜任務中保持深度的上下文理解，實現從市場調查到內容生成的全自動化產出。 --- 詳細重點整理 1. 連鎖技能的核心價值 [(http://www.youtube.com/watch?v=KsYCtXeAGBg&t=36)]  定義：將多個獨立的技能（Skill）串聯，只需輸入一個指令，即可按順序執行一系列任務並獲得最終整合輸出。  優勢：相比單一大型指令，連鎖技能在每個步驟中擁有更集中的上下文（Context），能產生更高質量的結果。  關鍵概念：偽 Agent 軍團——利用多個專業技能協作，模擬複雜的 AI 代理工作流，但保留人的介入彈性。 2. 關鍵語法：Context Fork [(http://www.youtube.com/watch?v=KsYCtXeAGBg&t=312)]  代碼功能：在技能文件中加入 context f",
+    "url": "/notes/claude-code-chaining-skills-explained"
+  },
+  {
+    "id": "anthropic-advisor-strategy-explained",
+    "title": "Anthropic 顧問策略：高低模型搭配降本增效",
+    "category": "影片筆記",
+    "tags": [
+      "顧問策略",
+      "動態協作",
+      "高低搭配",
+      "效能優化",
+      "API應用"
+    ],
+    "description": "本影片介紹了 Anthropic 推出的全新「顧問策略」（Advisor Strategy），這是一種將高效能的 Claude Opus 作為「導師」與成本較低的 Sonnet/Haiku 作為「執行者」配對的創新 API 應用模式。",
+    "quote": "真正的效率不在於使用最強大的工具，而是在於如何聰明地將資源分配到正確的環節上。",
+    "action": "在複雜任務中先用高階思維定義核心步驟，再由執行端完成操作，遇卡點才回頭諮詢。",
+    "image": "/images/影片筆記/anthropic-advisor-strategy-explained.jpeg",
+    "date": "2026-04-10",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片介紹了 Anthropic 推出的全新「顧問策略」（Advisor Strategy），這是一種將高效能的 Claude Opus 作為「導師」與成本較低的 Sonnet/Haiku 作為「執行者」配對的創新 API 應用模式。透過動態協作，不僅能提升任務處理的成功率，更能大幅降低 API 使用成本，為開發者提供了一個效能與經濟兼具的平衡點。 ----- 詳細重點整理 1\\. 顧問與執行者的協作模式 [(http://www.youtube.com/watch?v=hGYfsvlQ5Ok&t=7)]    運作機制：將最強大的 Opus 模型定位為「顧問」，負責制定計劃與解決疑難；將較便宜的 Sonnet 或 Haiku 定位為「執行者」，負責具體工作。    動態回饋：這並非單次指令，而是一個「持續互動」的過程。當執行者遇到無法解決的障礙時，會自動回頭諮詢擁有完整上下文的顧問模型。    關鍵概念：動態協作流（Dynamic Back-and-Forth），讓模型在遇到瓶頸時能及時修正，而非一路錯到底。 2\\. 成本優化與工具調用限制 [(http://www.you",
+    "url": "/notes/anthropic-advisor-strategy-explained"
+  },
+  {
+    "id": "ai-agents-streamlining-productivity",
+    "title": "AI 代理與技能漸進揭露：極大化生產力的思維變革",
+    "category": "影片筆記",
+    "tags": [
+      "上下文精簡",
+      "漸進式揭露",
+      "遞迴技能構建",
+      "AI代理",
+      "生產力"
+    ],
+    "description": "這段影片深入探討了 AI 代理人（Agents）與 Claude 技能（Skills）的運作邏輯。講者 Ross Mike 指出，當前的 AI 模型已經足夠強大，關鍵在於如何透過「精簡上下文」與「逐步疊代技能」來極大化生產力。",
+    "quote": "不要為了看起來酷而擴張，要為了生產力而擴張。",
+    "action": "手動帶教 3 次建立技能，遇錯即更新技能文件，完美後固化為自動化流程。",
+    "image": "/images/影片筆記/ai-agents-streamlining-productivity.jpeg",
+    "date": "2026-04-10",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片深入探討了 AI 代理人（Agents）與 Claude 技能（Skills）的運作邏輯。講者 Ross Mike 指出，當前的 AI 模型（如 Claude 3.5 Opus、GPT-4）已經足夠強大，關鍵在於如何透過「精簡上下文」與「逐步疊代技能」來極大化生產力。這是一場從「追求酷炫工具」轉向「深耕個人工作流」的思維變革。 --- 詳細重點整理 1. 拋棄冗長的 System Prompt 與 .md 文件 [(http://www.youtube.com/watch?v=SoN3vlzpMw&t=104)]  許多人習慣在 agent.md 或 claude.md 中塞入大量背景資訊，但講者認為 95% 的人其實不需要。  關鍵概念：模型已經夠聰明了。過多的通用指令（如告訴它使用 React）只會浪費 Token，讓 AI 變笨。除非是公司專有的私密資訊或極特殊的規範，否則應保持 Minimalist（極簡主義）。 2. 技能（Skills）的「漸進式揭露」優勢 [(http://www.youtube.com/watch?v=SoN3vlzpMw&t=205)",
+    "url": "/notes/ai-agents-streamlining-productivity"
+  },
+  {
     "id": "craft-methodology-how-we-build-systems",
     "title": "CRAFT 方法論：打造 AI 時代的團隊作業系統",
     "category": "AI筆記",
