@@ -1,5 +1,165 @@
 [
   {
+    "id": "the-agentic-economy",
+    "title": "代理人經濟：穩定幣與區塊鏈如何成為 AI 代理的經濟作業系統",
+    "category": "影片筆記",
+    "tags": [
+      "代理人經濟",
+      "穩定幣",
+      "可程式化貨幣",
+      "實體資產代幣化",
+      "AI支付"
+    ],
+    "description": "本影片探討了 AI 代理如何與區塊鏈技術融合，構建一個由軟體機器人主導的新型金融生態。核心價值在於透過「可程式化貨幣」（如 USDC）與「經濟作業系統」（如 ARC），消除全球金融摩擦，實現微秒級全自動化的經濟活動。",
+    "quote": "區塊鏈不僅是帳本，它是未來 AI 代理相互協作、建立信任與交換價值的「經濟作業系統」。",
+    "action": "追蹤 RWA.xyz 觀察資產代幣化進展，思考 AI 助手在哪些場景需要為你自動付費。",
+    "image": "/images/影片筆記/the-agentic-economy.jpeg",
+    "date": "2026-04-11",
+    "source_has_timestamps": true,
+    "body": "這是一場深度探討金融科技未來的精彩對談。Circle 共同創辦人暨執行長 Jeremy Allaire 與《No Priors》的主持人針對 AI 代理（AI Agents）、穩定幣、區塊鏈作業系統以及即將到來的「代理人經濟」進行了前瞻性的分析。 核心摘要 本影片探討了 AI 代理如何與區塊鏈技術融合，構建一個由軟體機器人主導的新型金融生態。核心價值在於透過「可程式化貨幣」（如 USDC）與「經濟作業系統」（如 ARC），消除全球金融摩擦，實現微秒級、極低成本且全自動化的經濟活動，預示著社會契約與生產力結構的重大變革。 --- 詳細重點整理 1. 穩定幣的本質與「全額預備金」觀念 [(http://www.youtube.com/watch?v=eyobeqMdbeI&t=180)]  全額預備金 (Full Reserve)：Jeremy 指出穩定幣（如 USDC）與傳統銀行「部分準備金制度」的不同。穩定幣是一比一掛鉤，資金存放於高流動性、極安全的政府短期債券中，不進行風險借貸。  關鍵概念：穩定幣不僅是加密貨幣，更是將「美元協議化」，使其成為網路原生的基礎設施，具備 24/7 全天",
+    "url": "/notes/the-agentic-economy"
+  },
+  {
+    "id": "marp-ai-presentation-automation",
+    "title": "Marp：AI 時代的自動化簡報工具，告別繁瑣 PPT 製作",
+    "category": "影片筆記",
+    "tags": [
+      "Marp",
+      "Markdown簡報",
+      "自動化報告",
+      "強制視覺化",
+      "Claude Code整合"
+    ],
+    "description": "本影片介紹了由 OpenAI 前核心成員 Andre Karpathy 所推崇的高效學習與簡報工具——Marp。這是一個基於 Markdown 的簡報生態系統，能讓 AI 代理（如 Claude Code）直接將複雜資訊轉化為結構化的視覺簡報。",
+    "quote": "簡報並非只是為了演講，它是強迫大腦將複雜資訊轉化為易吸收塊狀結構的最佳工具。",
+    "action": "練習將筆記改用 Markdown 記錄，安裝 Marp 插件，嘗試對 AI 下達生成 5 頁簡報的指令。",
+    "image": "/images/影片筆記/marp-ai-presentation-automation.jpeg",
+    "date": "2026-04-11",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片介紹了由 OpenAI 前核心成員 Andre Karpathy 所推崇的高效學習與簡報工具——Marp。這是一個基於 Markdown 的簡報生態系統，能讓 AI 代理（如 Claude Code）直接將複雜資訊轉化為結構化的視覺簡報。它徹底改變了傳統製作 PPT 的繁瑣流程，讓知識吸收與成果展示變得更快速、免費且自動化。 --- 詳細重點整理 1. Andre Karpathy 的高效學習秘訣 [(http://www.youtube.com/watch?v=RBccezfh1s&t=36)]  資訊轉化：Karpathy 認為面對複雜主題時，純文字（Wall of text）不利於吸收，而簡報格式能強迫資訊「碎片化」與「視覺化」。  Marp 的角色：他使用 Marp 格式讓 AI 直接生成投影片，而非僅僅給出文字答案，這有助於快速掌握核心概念。  關鍵概念：「強制視覺化」——透過簡報結構，將龐雜數據轉化為易於理解的邏輯區塊。 2. 什麼是 Marp？ [(http://www.youtube.com/watch?v=RBccezfh1s&t=88)]  純文本驅",
+    "url": "/notes/marp-ai-presentation-automation"
+  },
+  {
+    "id": "claude-code-monitor-tool",
+    "title": "Claude Code 監控工具：事件驅動的智能除錯助手",
+    "category": "影片筆記",
+    "tags": [
+      "監控工具",
+      "事件驅動",
+      "Token節省",
+      "並行工作流",
+      "自動化診斷"
+    ],
+    "description": "本影片介紹了 Claude Code 最新的「監控工具（Monitor Tool）」，這是一項革命性的事件驅動功能。它能讓開發者在後端執行長時任務，並僅在特定事件觸發時才與 Claude 溝通，大幅節省 Token 成本並提升自動化除錯的效率。",
+    "quote": "將 AI 從一個「你問他答」的工具，轉變為一個在背景守護你系統、只在關鍵時刻喚醒你的「智能保安」。",
+    "action": "啟動開發環境時養成使用 monitor 的習慣，設定精確過濾關鍵字，讓 Claude 在第一個測試失敗時就開始修復。",
+    "image": "/images/影片筆記/claude-code-monitor-tool.jpeg",
+    "date": "2026-04-11",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片介紹了 Claude Code 最新的「監控工具（Monitor Tool）」，這是一項革命性的事件驅動功能。它能讓開發者在後端執行長時任務（如伺服器監控或測試），並僅在特定事件觸發時才與 Claude 溝通，大幅節省 Token 成本並提升自動化除錯的效率。 --- 詳細重點整理 1. 監控工具的核心機制 [(http://www.youtube.com/watch?v=MpSf7EN5dhc&t=11)]  即時事件串流：允許背景程序將感興趣的事件（如錯誤或警告）即時傳送回 Claude Code 主會話。  Token 高效化：與持續掃描不同，監控工具僅在定義的事件發生時才消耗 Token，這讓長期監控變得極具成本效益。  關鍵概念：事件驅動（Event-driven）。這將 Claude 從「被動詢問」轉變為「主動待命」的助手。 2. 工作流程實測：開發伺服器監控 [(http://www.youtube.com/watch?v=MpSf7EN5dhc&t=32)]  自動識別錯誤：開發者可以命令 Claude 啟動開發伺服器並監視錯誤。當瀏覽器端觸發異常時，C",
+    "url": "/notes/claude-code-monitor-tool"
+  },
+  {
+    "id": "ai-era-five-value-layers",
+    "title": "AI 時代五大持久價值層：信任、語境、分銷、品味與責任",
+    "category": "影片筆記",
+    "tags": [
+      "信任信號",
+      "語境數據",
+      "分銷策略",
+      "品味判斷",
+      "問責制"
+    ],
+    "description": "當 AI 讓開發成本趨近於零，傳統的軟體外殼將失去價值。本影片揭示了在「代理人經濟」中，AI 無法取代的五大核心價值層，專業開發者應將重心從「生產」轉向「信任與架構」。",
+    "quote": "當生產變得免費時，品味、信任與問責，將成為數位世界中真正的貨幣。",
+    "action": "自問若 AI 進步 10 倍產品會變強還是廢，找出至少佔據五大價值層中的一項。",
+    "image": "/images/影片筆記/ai-era-five-value-layers.jpeg",
+    "date": "2026-04-11",
+    "source_has_timestamps": true,
+    "body": "核心摘要 當 AI 讓開發成本趨近於零，傳統的軟體外殼將失去價值。本影片揭示了在「代理人經濟」（Agentic Economy）中，AI 無法取代的五大核心價值層。專業開發者與創業者應將重心從「生產」轉向「信任與架構」，才能在模型快速迭代的洪流中建立不可撼動的護城河。 --- 詳細重點整理 1. 軟體生產層的崩塌與中間商陷阱 [(http://www.youtube.com/watch?v=ib2m9HVX7as&t=114)]  目前市場充斥著如 Lovable、Replit 等 AI 應用構建工具，每日產生數十萬個專案，但大多數僅是模型（Claude/GPT）的薄外殼（Thin Wrappers）。  關鍵概念：如果你的產品只是在別人的智能上套一層 UI，你的護城河深度僅等同於競爭者複製該 UI 所需的時間（通常不到一週）。 2. 五大持久價值層：信任（Trust） [(http://www.youtube.com/watch?v=ib2m9HVX7as&t=426)]  隨著 AI 產生的垃圾內容與詐騙服務指數級增長，能提供「驗證」與「擔保」的平台（如 Stripe、Shopif",
+    "url": "/notes/ai-era-five-value-layers"
+  },
+  {
+    "id": "ai-era-boss-mindset-transformation",
+    "title": "AI 浪潮下的老闆思維：從執行者轉型為 AI 管理者",
+    "category": "影片筆記",
+    "tags": [
+      "老闆思維",
+      "生產力革命",
+      "Reframe練習",
+      "組織變革",
+      "AI員工管理"
+    ],
+    "description": "這段影片探討在 AI 浪潮下，專業工作者應如何轉型為「AI 的老闆」。核心觀點在於：AI 不僅是工具，更是能顯著提升生產力（數十倍）的「數位員工」，重點在於從「基層執行」轉向「管理決策」的老闆思維。",
+    "quote": "在 AI 時代，你不需要自己什麼都會，但你必須學會「帶領」那些什麼都會的 AI 員工。",
+    "action": "每天挑選一個任務用三種不同問法要求 AI，練習指方向與 Review 差距的老闆思維。",
+    "image": "/images/影片筆記/ai-era-boss-mindset-transformation.jpeg",
+    "date": "2026-04-11",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片由《天下雜誌》出版人吳運儀訪談前 LINE 台灣總經理陶韻智，探討在 AI 浪潮下，專業工作者應如何轉型為「AI 的老闆」。核心觀點在於：AI 不僅是工具，更是能顯著提升生產力（數十倍）的「數位員工」，重點在於從「基層執行」轉向「管理決策」的老闆思維，以應對未來三年的產業巨變。 ----- 詳細重點整理 1\\. 為什麼要成為「AI 的老闆」？ [(http://www.youtube.com/watch?v=ZiXvZZzAmEs&t=322)]    生產力革命：陶韻智分享自己從不會寫程式到透過 AI 輔助，將原本需要一個月的工作縮短至半天，生產力提升達 60 倍。    分水嶺效應：2025-2026 年是關鍵分水嶺。若不學會「帶領 AI」，就會淪為被 AI 演算法「命令」的執行者（如 Uber 司機 vs. 程式開發者）。    關鍵概念：「畫腐朽為神奇」，AI 能補足個人技術短板，讓管理者專注於商業判斷與品味。 2\\. 何謂「老闆思維」？ [(http://www.youtube.com/watch?v=ZiXvZZzAmEs&t=770)]    核心二事：",
+    "url": "/notes/ai-era-boss-mindset-transformation"
+  },
+  {
+    "id": "ai-design-creative-director-guide",
+    "title": "AI 設計的創意總監指南：具象詞彙與設計系統提升 Stitch 產出",
+    "category": "影片筆記",
+    "tags": [
+      "創意總監",
+      "設計系統",
+      "視覺權重",
+      "跨AI協作",
+      "具象描述"
+    ],
+    "description": "這部影片探討了如何透過精確的「創意導向（Creative Direction）」來提升 AI 設計工具 Stitch 的產出品質。使用者應扮演「創意總監」的角色，透過具象的設計概念與結構化的設計系統，將平庸模板轉化為具情感共鳴的數位作品。",
+    "quote": "設計並非只是顏色與排版，而是關於共感，以及你希望使用者感受到什麼。",
+    "action": "開始設計前寫下 3 個具體物理材料詞，定義網站如果是實體物件會是什麼。",
+    "image": "/images/影片筆記/ai-design-creative-director-guide.jpeg",
+    "date": "2026-04-11",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片探討了如何透過精確的「創意導向（Creative Direction）」來提升 AI 設計工具 Stitch 的產出品質。核心觀點在於：使用者不應只將 AI 視為執行者，而應扮演「創意總監」的角色，透過共感、具象的設計概念與結構化的設計系統，將平庸的模板轉化為具有情感共鳴且專業的數位作品。 --- 詳細重點整理 1. 從「技術領袖」轉向「創意總監」 [(http://www.youtube.com/watch?v=tnPQ5mS1I8&t=23)]  重點內容：單純的指令（如「幫我做一個網頁」）只會得到平庸的結果。要獲得高品質產出，必須為 AI 提供明確的「氛圍（Vibe）」或「美學概念」。  關鍵概念：角色定位。面對寫程式的 AI，你是技術領袖（Tech Lead）；面對設計 AI，你必須是創意總監。 2. 避免抽象描述，運用具象詞彙 [(http://www.youtube.com/watch?v=tnPQ5mS1I8&t=90)]  重點內容：不要使用「好看」、「高端」等空泛字眼。影片以華盛頓特區為例，使用「新古典主義（Neoclassical）」、「大理石柱（",
+    "url": "/notes/ai-design-creative-director-guide"
+  },
+  {
+    "id": "ai-agent-evaluation-system-design",
+    "title": "AI Agent 評測體系設計：四層品質監控與機率性系統 CI",
+    "category": "影片筆記",
+    "tags": [
+      "AI評測",
+      "機率性系統",
+      "軌跡層",
+      "評分函數",
+      "持續改進"
+    ],
+    "description": "本影片深入探討了 AI Agent 開發中最具挑戰性的環節：評測（Evals）。開發者必須建立一套類似生產線質檢的「機率性評測體系」，從組件、軌跡、結果到系統監控四個維度確保 AI 決策的品質。",
+    "quote": "AI 的品質不是測試出來的，而是設計出來的；你無法測量你看不見的東西。",
+    "action": "為 Agent 建立組件、軌跡、結果、監控四層指標，導入結構化追蹤並建立失敗資料庫。",
+    "image": "/images/影片筆記/ai-agent-evaluation-system-design.jpeg",
+    "date": "2026-04-11",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入探討了 AI Agent（智能體）開發中最具挑戰性的環節：評測（Evals）。作者強調 AI Agent 並非確定性的軟體，傳統的單元測試已不足夠，開發者必須建立一套類似生產線質檢的「機率性評測體系」，從組件、軌跡、結果到系統監控四個維度，確保 AI 決策的品質與效率。 --- 詳細重點整理 1. 為什麼傳統測試對 AI Agent 會失效？ [(http://www.youtube.com/watch?v=Kleu3ROhpvY&t=51)]  非確定性挑戰：Agent 的輸入是自然語言，路徑不固定（可能 3 步也可能 25 步），傳統的「給定輸入必得相同輸出」的單元測試無法應對。  偽成功現象：輸出看似正確，但中間的決策邏輯可能完全錯誤。  關鍵概念：Eval（評測）是針對「機率性系統」的 CI（持續集成），它不是簡單的對錯，而是在 0 到 1 之間的品質評分 [(http://www.youtube.com/watch?v=Kleu3ROhpvY&t=113)]。 2. 評測系統的三大支柱 [(http://www.youtube.com/watch?v=Kl",
+    "url": "/notes/ai-agent-evaluation-system-design"
+  },
+  {
+    "id": "ai-agent-era-enterprise-challenges",
+    "title": "AI Agent 時代：軟體 Agent 化、企業安全與 Token 預算經濟學",
+    "category": "影片筆記",
+    "tags": [
+      "軟體Agent化",
+      "系統思考",
+      "動態整合",
+      "Agent權限管理",
+      "Token預算"
+    ],
+    "description": "本影片探討了 AI Agent 如何從單純的聊天機器人演變為能夠操作電腦、編寫程式並與企業系統深度整合的「數位員工」。Aaron Levie 指出，未來軟體將不僅為人類設計，更需為數以萬計的 Agent 設計。",
+    "quote": "未來的企業表現，將直接取決於你的 Agent 能多有效地獲取執行任務所需的資訊。",
+    "action": "盤點現有軟體的 API 完整度，培訓員工將工作流程化，撥出 Token 試驗額度。",
+    "image": "/images/影片筆記/ai-agent-era-enterprise-challenges.jpeg",
+    "date": "2026-04-11",
+    "source_has_timestamps": true,
+    "body": "這是一份針對 Box 執行長 Aaron Levie 在 a16z Show 中探討 AI Agent（人工智慧代理人）時代來臨的深度分析報告。 核心摘要 本影片探討了 AI Agent 如何從單純的聊天機器人演變為能夠操作電腦、編寫程式並與企業系統深度整合的「數位員工」。Aaron Levie 指出，未來軟體將不僅為人類設計，更需為數以萬計的 Agent 設計。這種典範轉移將重新定義企業的生產力、軟體架構以及資訊安全的邊界，並引發一場關於運算預算的經濟革命。 --- 詳細重點整理 1. 從「人類介面」轉向「Agent 介面」 [(http://www.youtube.com/watch?v=dvt74kV-RM&t=51)]  隨著 AI 代理人的數量可能達到人類的百倍甚至千倍，軟體開發的重心正從人機交互轉向「代理人交互」（Agent Interface）。  關鍵概念：軟體 Agent 化。未來軟體的成功取決於它對 AI Agent 的友好程度（如 API 品質、MCP 協議支援），而非僅僅是圖形使用者介面（GUI）。 2. 演算法思維的門檻與系統化工作 [(http://www.",
+    "url": "/notes/ai-agent-era-enterprise-challenges"
+  },
+  {
     "id": "claude-managed-agents-ai-cloud-employees",
     "title": "Claude Managed Agents：16 分鐘打造你的 AI 雲端員工",
     "category": "影片筆記",
