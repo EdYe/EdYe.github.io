@@ -1,5 +1,65 @@
 [
   {
+    "id": "ai-era-team-building-enterprise",
+    "title": "Keith Rabois：AI 時代世界級團隊建設與企業經營硬真相",
+    "category": "影片筆記",
+    "tags": [
+      "木桶理論",
+      "人才評估",
+      "角色重塑",
+      "高績效文化",
+      "執行速率"
+    ],
+    "description": "影片由矽谷頂尖投資人 Keith Rabois 分享在 AI 時代建立世界級團隊與經營企業的「硬真相」。核心觀點：團隊決定公司成敗，唯有具備強大商業直覺與極致執行力的人才能突破重圍。",
+    "quote": "你建立的團隊，就是你建立的公司。",
+    "action": "盤點 3 位木桶人才並給予最大授權，決策到執行速率縮短一半，每位主管親自進行 1 項 AI 工具實驗。",
+    "image": "/images/影片筆記/ai-era-team-building-enterprise.jpeg",
+    "date": "2026-04-13",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片由矽谷頂尖投資人 Keith Rabois 分享在 AI 時代建立世界級團隊與經營企業的「硬真相」。核心觀點在於：團隊決定了公司的成敗，在 AI 快速變革的當下，唯有具備強大商業直覺與極致執行力（Velocity）的人才，才能帶領公司突破重圍、創造非對稱優勢。 ----- 詳細重點整理 1\\. 核心團隊建設：木桶與彈藥理論 [(http://www.youtube.com/watch?v=xCd9ykretlg&t=939)]    木桶 (Barrels) 與彈藥 (Ammunition)：大多數人只是彈藥（執行者），唯有「木桶」能獨立帶領專案從構思走向成功。公司的擴張速度取決於木桶的數量，而非員工人數。    關鍵概念：代理人意識 (Agency)。木桶型人才會主動解決問題，甚至在遇到阻礙時能提前反饋並尋求資源，而非被動等待指令。 2\\. 人才辨識：無情且精準的評估 [(http://www.youtube.com/watch?v=xCd9ykretlg&t=588)]    推薦信的藝術：對高級主管應進行多達 20 次的背景調查，且必須問對問題（例如：「他是否具",
+    "url": "/notes/ai-era-team-building-enterprise"
+  },
+  {
+    "id": "ai-era-management-decentralization",
+    "title": "AI 時代管理去中心化：人性連結是組織的承重牆",
+    "category": "影片筆記",
+    "tags": [
+      "管理去中心化",
+      "意義賦予",
+      "責任感",
+      "組織模型",
+      "管理者轉型"
+    ],
+    "description": "影片深度探討了 AI 時代下企業「管理層去中心化」的趨勢，分析管理職能如何被拆解為資訊傳遞、意義賦予與責任反饋。核心價值在於提醒我們：即便 AI 能高效處理資訊物流",
+    "quote": "一個人在工作環境中能否茁壯成長，最大的預測指標在於他是否與其主管維持著良好的互動關係。",
+    "action": "盤點 3 項資訊路由任務交由 AI 自動化，每週進行 2 次意義賦予深度對話，設定 1 個非數字化的責任錨點。",
+    "image": "/images/影片筆記/ai-era-management-decentralization.jpeg",
+    "date": "2026-04-13",
+    "source_has_timestamps": true,
+    "body": "核心摘要 影片深度探討了 AI 時代下企業「管理層去中心化」的趨勢，分析管理職能如何被拆解為資訊傳遞、意義賦予與責任反饋。核心價值在於提醒我們：即便 AI 能高效處理資訊物流，但「人性化的連結」與「長期的責任感」仍是組織不可或缺的承重牆，過度扁平化若缺乏結構，將導致員工心理與執行面的崩潰。 --- 詳細重點整理 1. 管理職能的三大核心拆解 [(http://www.youtube.com/watch?v=zhXgkQ3nYeE&t=76)]  資訊路由 (Routing)：最古老的管理功能，負責訊息的上傳下達與物流化。這是目前 AI 最能輕易取代的部分 [(http://www.youtube.com/watch?v=zhXgkQ3nYeE&t=155)]。  意義賦予 (Sensemaking)：將吵雜的資訊過濾為具體的決策訊號。這需要深厚的行業經驗與跨層級溝通，目前 AI 難以完全複製其深度與信任感 [(http://www.youtube.com/watch?v=zhXgkQ3nYeE&t=184)]。  責任與反饋 (Accountability & Feedback)：建立",
+    "url": "/notes/ai-era-management-decentralization"
+  },
+  {
+    "id": "ai-agent-civilization-externalization",
+    "title": "AI 代理人實驗：文明的外部化",
+    "category": "影片筆記",
+    "tags": [
+      "AI代理人",
+      "社會性湧現",
+      "文化累積",
+      "記憶外傳",
+      "知識外部化"
+    ],
+    "description": "影片探討了 2026 年一項名為「Teringua」的 AI 代理人實驗。研究發現，賦予 AI 代理人「死亡」與「傳承資訊」的能力後，它們竟自發性地建立起制度、宣言甚至政治鬥爭。",
+    "quote": "文明的增長不在於個體記住了多少，而在於我們為了後人留下了多少。",
+    "action": "每天將 3 個重要決策寫在共享空間，每週將 2 項重複工作轉為 SOP，每月提煉 1 個核心原則。",
+    "image": "/images/影片筆記/ai-agent-civilization-externalization.jpeg",
+    "date": "2026-04-13",
+    "source_has_timestamps": true,
+    "body": "核心摘要 影片探討了 2026 年一項名為「Teringua」的 AI 代理人實驗。研究發現，賦予 AI 代理人「死亡」與「傳承資訊」的能力後，它們竟自發性地建立起制度、宣言甚至政治鬥爭。核心觀點指出：資源稀缺反促成合作，而真正的文明增長不在於個體記憶的擴張，而在於將知識「外部化」留存於世界中。 ----- 詳細重點整理 1\\. 模擬環境與自發行為 [(http://www.youtube.com/watch?v=rNBxnnaG8o&t=0)]    實驗設定：20 個 AI 代理人在資源有限的網格中生存，壽命僅 100 步，唯一能影響世界的方式是留下「文本筆記」。    驚人發現：在無人教導的情況下，AI 從分享食物位置 [(http://www.youtube.com/watch?v=rNBxnnaG8o&t=77)]，演變到建立勞動分工（如神經質代理人負責安全）與複雜的協作 Wiki [(http://www.youtube.com/watch?v=rNBxnnaG8o&t=94)]。    關鍵概念：社會性湧現——社會結構並非預設，而是為了應對生存挑戰自發產生的工具。 2\\.",
+    "url": "/notes/ai-agent-civilization-externalization"
+  },
+  {
     "id": "tony-robbins-ai-future-you",
     "title": "Tony Robbins：焦點、意義與四季法則，AI 時代的生命重塑",
     "category": "AI筆記",
