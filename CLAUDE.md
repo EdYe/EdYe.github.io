@@ -1,5 +1,25 @@
 # 視覺筆記 Gallery 專案規範
 
+## Workflows
+
+When processing raw notes with /add-note, always check the raw-notes directory for all unprocessed files, copy associated images (check for both .jpg and .jpeg extensions), rebuild the search index, and push to git upon completion.
+
+### /add-note 指令行為
+- **預檢**：執行前先驗證 git 認證（`git status`）和圖片檔案存在（依序 .jpeg/.jpg/.png/.webp）
+- **--dry-run**：加上此參數時只預覽，不做任何實際變更
+- **錯誤恢復**：單篇失敗時跳過並繼續；認證失敗時暫停等待使用者修復後繼續
+- **批次摘要**：處理結束後顯示已處理/已跳過/失敗的摘要表格
+
+## Git
+
+For git operations: always stage all changes, commit with a descriptive message, and push to origin/main unless told otherwise. Do not ask for confirmation on routine commit-and-push requests.
+
+## Skills & Commands
+
+When working with custom skills/slash commands, look for skill definitions in `.claude/skills/` directory. If a skill is not found, check the directory structure before reporting an error.
+
+---
+
 ## 專案說明
 這是一個 Jekyll + GitHub Pages 的視覺筆記圖片展示網站。
 每張圖片對應一個 _notes/ 底下的 .md 說明文件，支援標籤分類與 Fuse.js 模糊搜尋。
