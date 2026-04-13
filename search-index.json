@@ -20,6 +20,26 @@
     "url": "/notes/taiwan-property-gift-tax-trap"
   },
   {
+    "id": "ai-harness-engineering-guide",
+    "title": "駕馭工程：讓 AI 系統化協作的框架設計",
+    "category": "影片筆記",
+    "tags": [
+      "駕馭工程",
+      "agent.md",
+      "P-G-E架構",
+      "AI協作",
+      "工具設計"
+    ],
+    "description": "本影片深入探討「駕馭工程」(Harness Engineering) 的核心概念，強調 AI Agent 的表現好壞往往不取決於模型本身的智商，而是在於人類如何",
+    "quote": "有時候語言模型不是不夠聰明，它只是缺乏人類的引導。",
+    "action": "採P-G-E法則：讓AI先規劃再生成，最後由AI自我評估循環修正，直到達成目標",
+    "image": "/images/影片筆記/ai-harness-engineering-guide.jpeg",
+    "date": "2026-04-13",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入探討「駕馭工程」(Harness Engineering) 的核心概念，強調 AI Agent 的表現好壞往往不取決於模型本身的智商，而是在於人類如何透過馬具（Harness）般的規範、工具與流程來引導它。這是一場關於如何從單純的「下指令」轉向「系統化協作」的技術演講。 --- 詳細重點整理 1. 駕馭工程 (Harness Engineering) 的定義 [(http://www.youtube.com/watch?v=R6fZR9kmIw&t=556)]  定義：AI Agent 由大型語言模型 (LLM) 與支撐它的框架（馬具）組成。Harness Engineering 即是設計馬鞍與韁繩的過程，讓 AI 這匹烈馬能朝正確方向奔跑。  關鍵概念：區別於 Prompt 與 Context Engineering。Prompt 關注輸入文字，Context 關注提供正確資訊，而 Harness 關注的是讓模型在多輪對話中完成任務的「互動機制」。 2. 認知框架的控制：agent.md [(http://www.youtube.com/watch?v=R6fZR",
+    "url": "/notes/ai-harness-engineering-guide"
+  },
+  {
     "id": "ai-era-team-building-enterprise",
     "title": "Keith Rabois：AI 時代世界級團隊建設與企業經營硬真相",
     "category": "影片筆記",
