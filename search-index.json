@@ -80,6 +80,26 @@
     "url": "/notes/graphify-ai-project-knowledge-graph"
   },
   {
+    "id": "claude-code-interactive-artifacts-workflow",
+    "title": "Claude Code 互動式 Artifacts 工作流三層進階應用",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "Artifacts",
+      "Bun 熱重載",
+      "MCP 伺服器",
+      "Agentic 工作流"
+    ],
+    "description": "深入解析 Anthropic 工程師愛用的 Claude Code 工作流，從靜態 Artifacts、Bun 熱重載到 Channels 數據儀表板三層進階應用。",
+    "quote": "最好的工具是你能在使用它的同時，也正在構建它。",
+    "action": "3-L 遞進法則：先用 Artifact 跑多種風格、再架 Bun 熱重載、最後以 MCP + Channels 建互動儀表板。",
+    "image": "/images/AI筆記/claude-code-interactive-artifacts-workflow.jpeg",
+    "date": "2026-04-17",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片深入解析了 Anthropic 工程師也愛用的 Claude Code 工作流，核心圍繞著「互動式 Artifacts (Artifacts)」的進階運用。透過將 Claude 從簡單的對話框轉化為可互動的儀表板與設計工具，大幅提升了開發、設計與數據分析的效率，縮短了從「概念構思」到「具體執行」的距離。 --- 詳細重點整理 1. 第一層：靜態 Artifacts (Static Artifacts) [(http://www.youtube.com/watch?v=ASAaKhK1B5w&t=15)]  重點內容說明：利用 Claude 生成單一 HTML 檔案來進行快速原型開發或設計發想。這對於「我看到才知道我要什麼」的視覺化需求非常有效。  應用場景：設計 UI 變體（如製作 10 種不同的設置頁面樣式）、模擬 LinkedIn 貼文預覽。  關鍵概念：快速視覺化探索。將複雜組件抽離，在獨立環境中快速迭代，選定後再放回主程式碼。 2. 第二層：互動式 Artifacts 與 Bun 伺服器 [(http://www.youtube.com/watch?v=ASA",
+    "url": "/notes/claude-code-interactive-artifacts-workflow"
+  },
+  {
     "id": "brain-builds-self-identity",
     "title": "大腦建構自我意識：從內心雜音到認知盒子的重塑",
     "category": "心理學",
