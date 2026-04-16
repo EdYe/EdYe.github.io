@@ -1,5 +1,165 @@
 [
   {
+    "id": "seven-tiny-habits-great-power",
+    "title": "七個微小習慣：減輕大腦負荷的平凡革命",
+    "category": "生產力",
+    "tags": [
+      "微習慣",
+      "大腦清空",
+      "決策疲勞",
+      "靜默修復",
+      "延遲享樂"
+    ],
+    "description": "挑戰「改變必須波瀾壯闊」的迷思，七個看似無聊的日常習慣：寫下一切、10 分鐘環境維護、小額儲蓄、睡前規劃，重獲掌控感與韌性。",
+    "quote": "好的人生並不依賴於非凡的事件，而是由那些被他人視為「無趣」的選擇所建構而成的。",
+    "action": "3-10-1 法則：睡前寫下 3 個關鍵任務、每天 10 分鐘整理或閱讀、至少 1 分鐘完全靜默。",
+    "image": "/images/生產力/seven-tiny-habits-great-power.jpeg",
+    "date": "2026-04-17",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片挑戰了「改變必須波瀾壯闊」的迷思，指出真正能轉化人生的力量往往藏在那些看似無聊、簡單到近乎微不足道的日常習慣中。透過減輕大腦負荷、建立空間秩序與找回內心寧靜，這些「平凡」的行動能讓我們在繁忙中重獲掌控感與心理韌性。 --- 詳細重點整理 1. 寫下一切，清空大腦 [(http://www.youtube.com/watch?v=x5Qx-bfVVBM&t=52)]  隨身攜帶筆記本，不分瑣碎或大小事，只要進入腦海就記錄下來。這不是為了美化文字，而是為了卸下大腦記憶瑣事的重擔。  關鍵概念：大腦是用來思考的，而非儲存資訊。 透過紙筆將「心理雜訊」外部化，能立即釋放認知資源。 2. 10 分鐘環境維護 [(http://www.youtube.com/watch?v=x5Qx-bfVVBM&t=116)]  在休息前設定 10 分鐘定時器，快速收拾環境（如摺衣、清理桌面），目標不是大掃除，而是維持。  關鍵概念：微小一致性勝過突擊式努力。 有序的環境能提供心理安全感與掌控感。 3. 每日持續小額儲蓄 [(http://www.youtube.com/watch?v=x5Q",
+    "url": "/notes/seven-tiny-habits-great-power"
+  },
+  {
+    "id": "intent-contract-craft-methodology",
+    "title": "意圖契約：CRAFT 方法論的七欄位協調協議",
+    "category": "學習筆記",
+    "tags": [
+      "CRAFT",
+      "意圖契約",
+      "協調對齊",
+      "返工預防",
+      "團隊協作"
+    ],
+    "description": "介紹 CRAFT 方法論中「意圖契約（Intent Contract）」七欄位模式，解決團隊心智模型分歧與第六週後鬆散問題，讓意圖在工作開始前明確。",
+    "quote": "我在客戶合作中調查過的每一起重大返工事件，都有一個共通點：在工作開始之前，沒有任何人把成功的樣貌寫下來。",
+    "action": "產品啟動前用 Claude 生成 IC 初稿，團隊檢視「需要釐清」標記以展開對齊對話。",
+    "image": "/images/學習筆記/intent-contract-craft-methodology.jpeg",
+    "date": "2026-04-17",
+    "source_has_timestamps": false,
+    "body": "沒有意圖就沒有工作：在寫程式之前，我們先寫下的那份契約  這是「我們實際上如何建構」系列的第二篇文章。在這個系列中，Skip 和我會隨著將 CRAFT 方法論逐步推行到實際客戶團隊的過程，一層一層地揭開它的內涵。  作者：Chuck Griess｜4 月 14 日 --- 本週，一位新創公司創辦人對他們「意圖契約（Intent Contract，IC）」中的一項要求提出反對意見。 這個團隊距離 MVP 上線只剩幾天，正在處理使用者的入門流程：也就是新使用者從註冊到在產品中完成第一個有意義動作的整個步驟。創辦人的立場很明確：把摩擦降到最低、讓使用者盡快進入系統、在取得存取權限之前不要設置電子郵件驗證關卡。註冊、進入、體驗價值。任何多出來的步驟都可能造成流失。 這是一個合理的直覺。但我們面前攤著一份 IC，而其中兩個欄位替創辦人自己給出了他需要聽到的答案。 在「已知的限制條件（Known constraints）」欄位中，已經寫下了這個系統的核心價值仰賴於使用者是真實且可聯繫的：垃圾帳號和虛構使用者不只會讓數字虛胖，它們會直接破壞產品真正想要達成的事情。而「成功的樣貌（What succe",
+    "url": "/notes/intent-contract-craft-methodology"
+  },
+  {
+    "id": "graphify-knowledge-graph-intro",
+    "title": "Graphify：將資料夾轉為 AI 知識圖譜的開源工具",
+    "category": "AI筆記",
+    "tags": [
+      "Graphify",
+      "知識圖譜",
+      "Treesitter",
+      "本地優先",
+      "多模態"
+    ],
+    "description": "介紹開源工具 Graphify，能將資料夾轉化為可查詢知識圖譜，透過三階段管線減少 71 倍 Token 使用量並保護本地隱私。",
+    "quote": "Graphify 將混亂的資料夾轉化為連貫的智慧圖譜，讓 AI 不再只是讀取程式碼，而是真正理解系統的脈絡。",
+    "action": "1-3-7 守則：pip install graphify、三階段全掃描、找出 7 個上帝節點重構。",
+    "image": "/images/AI筆記/graphify-knowledge-graph-intro.jpeg",
+    "date": "2026-04-17",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片介紹了開源工具 Graphify，這是一款能將任何包含程式碼、文件、圖像及影音的資料夾，轉化為「可查詢知識圖譜」的 AI 工具。它透過大幅減少 71 倍的 Token 使用量，並結合本地端隱私處理，讓開發者能以極高效率與低成本，讓 AI 深度理解複雜專案的架構與關聯。 --- 詳細重點整理 1. Graphify 的核心功能與多模態處理 [(http://www.youtube.com/watch?v=eYHpKFfhK2A&t=26)]  Graphify 不僅是程式碼索引器，它支援多達 22 種程式語言，並能處理 PDF、Markdown、圖像甚至透過 Whisper 本地轉錄影音文件。  關鍵概念：多模態知識連接。它能顯示函數調用、文件與實作的關係，以及跨檔案的架構邊界。 2. 三階段處理管線 (Three-Pass Pipeline) [(http://www.youtube.com/watch?v=eYHpKFfhK2A&t=149)]  第一階段：確定性提取 [(http://www.youtube.com/watch?v=eYHpKFfhK2A&t=15",
+    "url": "/notes/graphify-knowledge-graph-intro"
+  },
+  {
+    "id": "graphify-ai-project-knowledge-graph",
+    "title": "Graphify 讓 AI 真正懂你的專案：從實習生到資深導師",
+    "category": "AI筆記",
+    "tags": [
+      "Graphify",
+      "知識圖譜",
+      "Token優化",
+      "Git Hooks",
+      "冷啟動"
+    ],
+    "description": "Graphify 為 Claude Code 等 AI 代理建立專案知識圖譜，解決重複讀檔的 Token 浪費與理解偏差，大型混合專案最高達 71 倍效率。",
+    "quote": "Graphify 為 AI 建立了一張地圖，讓它從盲目摸索的實習生，化身為洞悉全域的資深導師。",
+    "action": "3-S 法則：Scan 掃描專案、Sync 安裝 Git Hook 自動同步、Select 精選 graphify-out 報告引導讀取。",
+    "image": "/images/AI筆記/graphify-ai-project-knowledge-graph.jpeg",
+    "date": "2026-04-17",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片介紹了一款強大的開源工具 Graphify，它能為 Claude Code 等 AI 代理建立專案的「知識圖譜」。透過將複雜的程式碼、文件與多媒體資訊轉化為結構化的關聯地圖，Graphify 解決了 AI 在新對話中反覆讀取檔案導致的 Token 浪費與理解偏差，顯著提升 AI 處理大型專案的精準度與效率。 --- 詳細重點整理 1. 痛點分析：AI 的「首日上班族」困境 [(http://www.youtube.com/watch?v=BkHps04qGgc&t=41)]  重複消耗：在新的 Claude 會話中，AI 像新員工一樣，每次都要重新讀取 Readme 和大量檔案來建立心智模型，這會反覆消耗 API Token。  缺乏記憶：關閉會話後，AI 對檔案間的邏輯關聯與核心架構的理解會歸零。  關鍵概念：Token 浪費與冷啟動問題。 2. Graphify 核心機制：建立「資深同事」模型 [(http://www.youtube.com/watch?v=BkHps04qGgc&t=90)]  三層掃描流程 [(http://www.youtube.com/wa",
+    "url": "/notes/graphify-ai-project-knowledge-graph"
+  },
+  {
+    "id": "brain-builds-self-identity",
+    "title": "大腦建構自我意識：從內心雜音到認知盒子的重塑",
+    "category": "心理學",
+    "tags": [
+      "感知建構",
+      "神經修剪",
+      "內心雜音",
+      "觀察學習",
+      "意識覺察"
+    ],
+    "description": "揭示自我意識與身分認同本質上是腦部的「建構產物」。透過理解大腦創造現實的機制，將負面內心雜音轉化為自我成長工具。",
+    "quote": "在我們吐出最後一口氣之前，我們都是「半成品」；沒有什麼是註定無法改變的。",
+    "action": "3-S 重塑法則：Spot 識別自動導航、Shift 用儀式中斷負面思緒、Small Win 記錄三個微小成就。",
+    "image": "/images/心理學/brain-builds-self-identity.jpeg",
+    "date": "2026-04-17",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片揭示了我們的自我意識、感知與身分認同本質上是腦部的「建構產物」。透過理解大腦如何結合過往經驗與外在刺激來創造現實，我們能掌握主導權，將負面的「內心雜音」轉化為自我成長的工具，打破既有的認知框架，重塑更具彈性的自我。 --- 詳細重點整理 1. 感知是腦部的幻覺與建構 [(http://www.youtube.com/watch?v=LPN0s3lvlN0&t=0)]  我們的現實感是由「內在預期」（過往經驗）與「外在刺激」交會而成的建構產物。  關鍵概念：大腦創造了我們的感知世界，這意味著我們擁有改變「如何觀察世界」的主控權。 2. 神經修剪與負面循環的形成 [(http://www.youtube.com/watch?v=LPN0s3lvlN0&t=78)]  大腦透過強化重要的連接並「修剪」不重要的連接來形塑結構。當我們處於負面情緒時，大腦會過濾並捕捉更多環境中的消極訊息。  關鍵概念：心態會決定感知。同樣的環境，正向與負面的大腦會看見截然不同的現實。 3. 內心雜音 (Chatter) 的雙面性 [(http://www.youtube.com/watch?v=",
+    "url": "/notes/brain-builds-self-identity"
+  },
+  {
+    "id": "ai-rewrites-software-industry-laws",
+    "title": "AI 重寫軟體產業定律：從護城河瓦解到需求無限擴張",
+    "category": "AI筆記",
+    "tags": [
+      "a16z",
+      "護城河",
+      "人月神話",
+      "需求擴張",
+      "基礎設施"
+    ],
+    "description": "a16z 創辦人 Ben Horowitz 剖析 AI 如何重寫軟體產業的物理定律。過往砸錢無效、用戶鎖定護城河的時代已過去，企業必須重新審視核心價值。",
+    "quote": "人類擁有一種不可思議的能力，能不斷創造出他們原本不覺得自己需要、但現在卻離不開的新需求。",
+    "action": "3-S 法則：Self-Honesty 誠實自省核心價值、Speed-up 快速迭代、Skill-Pivot 學習與 AI 溝通。",
+    "image": "/images/AI筆記/ai-rewrites-software-industry-laws.jpeg",
+    "date": "2026-04-17",
+    "source_has_timestamps": false,
+    "body": "核心摘要 這部影片由 a16z 創辦人 Ben Horowitz 深度剖析 AI 如何重寫軟體產業的「物理定律」。他指出，過往無法靠砸錢解決開發進度或靠用戶鎖定（Lock-in）維持護城河的時代已經過去。在 AI 浪潮下，企業必須重新審視自身價值的核心，將技術變革視為如同「電力」普及般的歷史進程，雖有轉型陣痛，但最終將為人類帶來前所未有的富足與進步。 --- 詳細重點整理 1. AI 時代的新物理定律  砸錢真的能解決問題：過去在軟體開發上有「人月神話」的限制（九個女人無法在一個月內生出小孩），但現在只要有足夠的資金購買 GPU 與數據，軟體問題基本都能被加速解決。  傳統護城河的瓦解：以往靠數據、用戶介面或遷移成本建立的鎖定效應正在消失。AI 能夠輕易複製代碼、遷移數據，且未來的軟體互動將是 AI 對 AI，而非人對介面。  關鍵概念：「資本與算力即戰力」。傳統的軟體防禦機制已失效，企業需尋找更深層、更獨特的價值主張。 2. 存量企業的生存與轉型  誠實面對自身價值：CEO 必須區分公司是正在「退化」還是僅僅被市場低估。如果客戶轉向購買 AI 原生產品，企業需果斷裁員並轉型。  複雜",
+    "url": "/notes/ai-rewrites-software-industry-laws"
+  },
+  {
+    "id": "ai-era-human-role-transformation",
+    "title": "AI 時代人類角色的升職：從執行者到環頂端領導者",
+    "category": "AI筆記",
+    "tags": [
+      "AI代理人",
+      "人為預留",
+      "代理人經濟",
+      "工具通才",
+      "升職論"
+    ],
+    "description": "從「以人為本」到「以代理人為本」的運算典範轉移。當 AI 思考速度達人類 50 倍時，傳統介面反而成了阻礙，人類將升職為 AI 管理者。",
+    "quote": "這不是一場裁員，而是一場人類邁向電腦運算中最困難、也最高價值職位的「升職」。",
+    "action": "A-P-B 轉型法則：停止練習 AI 已超越的技能、建立 Agentic Pipeline、橋接人類與 AI 溝通。",
+    "image": "/images/AI筆記/ai-era-human-role-transformation.jpg",
+    "date": "2026-04-17",
+    "source_has_timestamps": false,
+    "body": "這是一份為你準備的深度分析報告。這段影片深刻探討了人工智慧（AI）與人類在未來運算架構中的角色翻轉，挑戰了我們對於「效率」與「職涯」的傳統認知。 核心摘要 影片探討了從「以人為本」到「以代理人（Agent）為本」的運算典範轉移。當 AI 的思考速度已達人類 50 倍時，傳統為人類設計的介面（如登入、分頁、儀表板）反而成了阻礙。這不是人類的退場，而是一場「升職」，我們將從執行者轉變為管理 AI 運算流、決策與創意的「環頂端（Above the loop）」領導者。 --- 詳細重點整理 1. 人類特性的技術瓶頸  過去 50 年，軟體架構如 API 分頁、CRM 儀表板、超時設定，都是為了配合人類視覺處理速度與操作習慣。  關鍵概念：人為預留（Human Affordances）。在 Agent 時代，這些曾被視為優良工程的設計，現在成了限制 AI 速度的枷鎖。 2. 無限速度的悖論  Google 首席科學家 Jeff Dean 指出，即便 AI 模型速度提升到無限大，實際生產力可能僅提升 2-3 倍。  關鍵概念：工具成本（Tool Costs）。剩餘的效能增長被舊有的編譯器、文件系",
+    "url": "/notes/ai-era-human-role-transformation"
+  },
+  {
+    "id": "ai-design-quality-claude-code",
+    "title": "AI 設計質感提升：10 種 Claude Code 技能擊碎廉價感",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "設計系統",
+      "WebGPU",
+      "微互動",
+      "前端設計"
+    ],
+    "description": "直指 AI 在前端設計中的「廉價感（AI Slop）」問題，介紹 10 種 Claude Code 技能與工具，從設計系統逆向到視覺化組件庫，全面提升網站質感。",
+    "quote": "AI 本身沒有品味，但你可以透過正確的工具，將你的品味轉化為它的技能。",
+    "action": "3-1-1 法則：3 分鐘在 21st.dev 挑微組件、1 次 Skill UI 逆向、1 項 Playwright 測試。",
+    "image": "/images/AI筆記/ai-design-quality-claude-code.jpg",
+    "date": "2026-04-17",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片直指 AI 在前端設計中常見的「廉價感（AI Slop）」問題，如過度使用的紫色漸層與 Inter 字體。影片介紹了 10 種突破性的 Claude Code 技能與工具，旨在幫助開發者跳脫傳統 AI 框架，從設計系統逆向工程到視覺化組件庫，全面提升網站的質感與獨特性。 --- 詳細重點整理 1. 擊碎 AI 廉價感的防護盾：Impeccable [(http://www.youtube.com/watch?v=Q9ty3eopOPs&t=41)]  重點內容：包含 18 種指令的技能，專門用來修正 UX 錯誤與標記典型的 AI 設計反模式（如玻璃擬態、閃爍線條）。  關鍵概念：反向學習，透過定義什麼是「差的設計」來教會 LLM 產出更高品質的結果。 2. 設計系統逆向工程：Skill UI [(http://www.youtube.com/watch?v=Q9ty3eopOPs&t=187)]  重點內容：能分析現有網站（如 Stripe、Notion）並將其轉化為 Claude 可用的設計技能模板。  關鍵概念：Ultra 模式，使用 Playwright 捕捉滾",
+    "url": "/notes/ai-design-quality-claude-code"
+  },
+  {
     "id": "time-experience-unfair-advantage-assets",
     "title": "建立時間與經驗的十種不公平優勢資產",
     "category": "影片筆記",
