@@ -1,5 +1,85 @@
 [
   {
+    "id": "redefining-intelligence-self-evolution",
+    "title": "重新定義智慧：13 本書的自我進化框架",
+    "category": "心理學",
+    "tags": [
+      "底層思維",
+      "系統思考",
+      "第一性原理",
+      "自我進化",
+      "內在驅動"
+    ],
+    "description": "這部影片重新定義了「智慧」：智慧並非知識的堆砌，而是「能否在生活中得到你想要的結果」。講者 Anthony Vicino 透過 13 本經典書籍，建構了一套從思維",
+    "quote": "智慧唯一的真實測試，就是你是否得到了你想要的生活。",
+    "action": "建立3個每日執行的微小系統，每週排定1小時無干擾思考時間，寫下反饋筆記修正思維模式",
+    "image": "/images/心理學/redefining-intelligence-self-evolution.jpeg",
+    "date": "2026-04-19",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片重新定義了「智慧」：智慧並非知識的堆砌，而是「能否在生活中得到你想要的結果」。講者 Anthony Vicino 透過 13 本經典書籍，建構了一套從思維模式、知識體系、實際應用到終極目標的自我進化框架，旨在幫助讀者打破慣性，透過系統化思考與行為重塑，奪回生活的主導權。 ----- 詳細重點整理 1\\. 建立底層思維：如何思考 (How to Think) [(http://www.youtube.com/watch?v=KkpRMGX5kb4&t=33)]    《學習的藝術》(The Art of Learning) [(http://www.youtube.com/watch?v=KkpRMGX5kb4&t=49)]：學習不是累積資訊，而是壓縮反饋迴路（行動、反饋、反射、迭代）。    《下班後的黃金 1 小時》(The Road Less Stupid) [(http://www.youtube.com/watch?v=KkpRMGX5kb4&t=173)]：避免重複支付「愚蠢稅」。核心在於「思考時間」(Thinking Time)，每週一小時靜坐提問，從失敗",
+    "url": "/notes/redefining-intelligence-self-evolution"
+  },
+  {
+    "id": "harness-engineering-from-openai",
+    "title": "治理工程：OpenAI 工程師的 AI 範式轉移",
+    "category": "AI筆記",
+    "tags": [
+      "治理工程",
+      "程式碼廉價化",
+      "結構化透明度",
+      "AI 代理人",
+      "代碼庫優化"
+    ],
+    "description": "影片探討了「治理工程（Harness Engineering）」的概念：在程式碼產生成本趨近於零的未來，工程師應專注於設計系統、定義非功能性需求與建立自動化護欄",
+    "quote": "程式碼不再是重點，重點是引導代碼生成的 Prompt 與護欄。",
+    "action": "建立安全性、性能、一致性三個自動化審查代理，將Code Review原則寫入agents.md，嚴守500行模組原則",
+    "image": "/images/AI筆記/harness-engineering-from-openai.jpeg",
+    "date": "2026-04-19",
+    "source_has_timestamps": true,
+    "body": "這是一場由 OpenAI 技術人員 Ryan Lopopolo 帶來的精彩演講，深入探討了在 AI 時代，軟體工程師的角色如何從「編碼者」轉變為「系統架構師與導航者」。影片核心觀點在於：當程式碼變得廉價且無限量供應時，工程師的價值在於建立良好的「治理框架（Harness）」，讓 AI 代理人能高品質地自主執行任務。 --- 核心摘要 影片探討了「治理工程（Harness Engineering）」的概念：在程式碼產生成本趨近於零的未來，工程師應專注於設計系統、定義非功能性需求與建立自動化護欄。透過將人類的專業知識轉化為 AI 可讀的文檔與工具，實現從「動手寫程式」到「驅動代理人執行」的典範轉移，釋放無限的生產力。 --- 詳細重點整理 1. 程式碼已成為廉價資源 [(http://www.youtube.com/watch?v=amoeAoUhew&t=136)]  重點內容：實現功能不再是稀缺資源，程式碼的產生、重構與刪除成本極低。真正的瓶頸在於 GPU 算力、Token 預算，以及人類的注意力。  關鍵概念：Token 億萬富翁。每位工程師現在都擁有相當於 50 到 5000 名工",
+    "url": "/notes/harness-engineering-from-openai"
+  },
+  {
+    "id": "ai-token-economy",
+    "title": "AI 時代 Token 經濟：重新定義財富與人才",
+    "category": "AI筆記",
+    "tags": [
+      "Token 經濟",
+      "Token 中介",
+      "財富路徑",
+      "判斷力",
+      "AI 轉型"
+    ],
+    "description": "這部影片深入探討了 AI 時代的核心計量單位——Token 經濟。它指出 Token 就像網路時代的「流量」，正重新定義財富流向與人才價值。影片揭示了從晶片到終端",
+    "quote": "AI 不會淘汰所有人，但會重新給每個人標價；衡量人才的尺子，正從「能做什麼」變為「能調動什麼」。",
+    "action": "封裝5個專業工作流為可重複調用的數位資產，每天校對AI輸出5%誤差，建立判斷力護城河",
+    "image": "/images/AI筆記/ai-token-economy.jpeg",
+    "date": "2026-04-19",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片深入探討了 AI 時代的核心計量單位——Token 經濟。它指出 Token 就像網路時代的「流量」，正重新定義財富流向與人才價值。影片揭示了從晶片到終端使用者的食物鏈，並強調普通人不必成為技術專家，只要能掌握 Token 的優化與放大，便能在此次經濟變革中找到全新的致富與生存機會。 ----- 詳細重點整理 1\\. Token 經濟的本質與食物鏈 [(http://www.youtube.com/watch?v=sf-wIQXxhBs&t=51)]    計量單位變革：15 年前網際網路的底層是「流量」，現在 AI 時代則是 「Token」。每一次 AI 的推理、輸入與輸出都在消耗 Token，這已成為衡量商業價值的核心尺標。    產業五層分佈：     1.  晶片層 (如 NVIDIA)：掌握定價權，毛利極高。     2.  基礎設施 (如 AWS、Azure)：提供算力。     3.  模型層 (如 OpenAI)：將算力轉化為模型 API。     4.  應用層 (如 Notion AI)：整合模型與產品設計。     5.  使用者：最終消費者，目",
+    "url": "/notes/ai-token-economy"
+  },
+  {
+    "id": "ai-safety-agi-2-years",
+    "title": "AI 安全專家：AGI 2 年內衝擊所有職業",
+    "category": "AI筆記",
+    "tags": [
+      "AGI",
+      "職業替代",
+      "控制難題",
+      "個體代理力",
+      "硬資產"
+    ],
+    "description": "這段影片由 AI 安全專家 Roman Yampolskiy 教授深入解析人工智慧（AI）發展帶來的極端挑戰。他預測通用人工智慧（AGI）最快可能在 2 年內實現",
+    "quote": "當勞動力變為免費時，每個人都能擁抱自己的愛好；但在那之前，你必須先確保人類仍掌握自己的命運。",
+    "action": "3個月內掌握3個AI工具轉化為一人公司，2年內建立人類品牌錨點，將教育基金轉為創業實踐基金",
+    "image": "/images/AI筆記/ai-safety-agi-2-years.jpeg",
+    "date": "2026-04-19",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片由 AI 安全專家 Roman Yampolskiy 教授深入解析人工智慧（AI）發展帶來的極端挑戰。他預測通用人工智慧（AGI）最快可能在 2 年內實現，屆時 99% 的工作可能被自動化。影片強調 AI 不僅是工具，更是可能失控的代理人，呼籲人類在追求經濟效益的同時，必須正視 AGI 帶來的生存風險與社會結構的全面重組。 --- 詳細重點整理 1. 職業替代的殘酷現實：認知與體力勞動的終結 [(http://www.youtube.com/watch?v=00RHpheok4&t=102)]  重點內容：白領工作（如翻譯、初級程式設計師）正快速消失。Yampolskiy 教授指出，任何涉及符號操作或電腦操作的任務，AI 都能做得更好且成本更低。  關鍵概念：「認知勞動自動化」是第一波浪潮，隨後隨著人形機器人部署，「體力勞動」也將被取代。 2. 教育體系的崩潰與重新定義 [(http://www.youtube.com/watch?v=00RHpheok4&t=2075)]  重點內容：教授直言現在儲存大學學費是「壞主意」。傳統四年制教育的速度趕不上 AI 演進，學位",
+    "url": "/notes/ai-safety-agi-2-years"
+  },
+  {
     "id": "seven-tiny-habits-great-power",
     "title": "七個微小習慣：減輕大腦負荷的平凡革命",
     "category": "生產力",
