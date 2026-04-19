@@ -1,5 +1,45 @@
 [
   {
+    "id": "the-future-of-mcp",
+    "title": "MCP 未來藍圖：打造全方位連通的 AI 代理",
+    "category": "AI筆記",
+    "tags": [
+      "MCP協議",
+      "連通性",
+      "漸進式發現",
+      "語義對齊",
+      "代理人"
+    ],
+    "description": "這段影片由 Anthropic 的 David Soria Parra 深入探討了模型上下文協議（MCP）的未來發展。核心價值在於將 AI 從單純的對話模型轉化",
+    "quote": "2026 年是關於連通性的一年，最優秀的代理人將靈活運用每一種可用工具，而非僅侷限於單一方法。",
+    "action": "學習 Skills、MCP 與 CLI 三種技術，以「是否方便代理人理解」為首要 MCP 伺服器設計原則",
+    "image": "/images/AI筆記/the-future-of-mcp.jpeg",
+    "date": "2026-04-20",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片由 Anthropic 的 David Soria Parra 深入探討了模型上下文協議（MCP）的未來發展。核心價值在於將 AI 從單純的對話模型轉化為具有強大「連通性」的代理人（Agents），透過 MCP 協議，讓 AI 代理能無縫串接各類應用程式與企業數據，實現真正的生產力自動化與更豐富的互動體驗。 --- 詳細重點整理 1. MCP 的核心優勢與演進 [(http://www.youtube.com/watch?v=v3Fr2JR47KA&t=50)]  MCP 讓伺服器能同時傳遞應用程式介面與工具，讓人類與模型能同步協作。  關鍵概念：語義對齊。客戶端與伺服器端必須能理解彼此的對話內容，而不僅僅是資料傳輸。 2. 2026 年的代理人藍圖：全方位連通性 [(http://www.youtube.com/watch?v=v3Fr2JR47KA&t=233)]  AI 代理將從實驗室的展示品轉向實際的生產環境，特別是針對財務分析、市場行銷等知識型工作者。  關鍵概念：連通性技術棧。2026 年的代理人將結合 Skills、MCP 與 CLI/電腦使用（Comp",
+    "url": "/notes/the-future-of-mcp"
+  },
+  {
+    "id": "claude-code-six-layer-architecture",
+    "title": "Claude Code AI 代理架構深度解析",
+    "category": "AI筆記",
+    "tags": [
+      "核心迴圈",
+      "系統提示詞",
+      "子代理",
+      "上下文視窗",
+      "代理架構"
+    ],
+    "description": "這段影片詳細解析了 Claude Code 背後的 AI 代理 (AI Agents) 核心架構。影片透過結構化的簡報來解說，以下為您萃取並整理影片中呈現的主要",
+    "quote": "",
+    "action": "",
+    "image": "/images/AI筆記/claude-code-six-layer-architecture.jpeg",
+    "date": "2026-04-20",
+    "source_has_timestamps": true,
+    "body": "這段影片詳細解析了 Claude Code 背後的 AI 代理 (AI Agents) 核心架構。影片透過結構化的簡報來解說，以下為您萃取並整理影片中呈現的主要投影簡報內容與核心概念： Act I: The Loop (核心迴圈) [(http://www.youtube.com/watch?v=ofLvTNZEHVk&t=36)]  Chatbot vs. Agent：Chatbot 只是單純的「輸入訊息 - 輸出回應」，而 Agent 會在一個核心的 While 迴圈中不斷運作：模型 (Model) - 執行工具 (Execute) - 回饋結果 (Result)。  迴圈三階段：   1. Gather Context (收集上下文)：讀取檔案、搜尋程式碼、理解問題的實際狀況。   2. Take Action (採取行動)：編輯程式碼、實際做出修改。   3. Verify (驗證)：執行測試程式、檢查輸出。若驗證失敗，則自動跳回第一階段。  終止信號 (Termination Signal)：當模型回傳的結果包含「0 個工具呼叫 (Zero tool calls)」時，代表任",
+    "url": "/notes/claude-code-six-layer-architecture"
+  },
+  {
     "id": "rethinking-ai-agents-the-rise-of-harness-engineering",
     "title": "AI 代理典範轉移：裝具工程的崛起",
     "category": "影片筆記",
