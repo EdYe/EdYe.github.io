@@ -1,5 +1,25 @@
 [
   {
+    "id": "rethinking-ai-agents-the-rise-of-harness-engineering",
+    "title": "AI 代理典範轉移：裝具工程的崛起",
+    "category": "影片筆記",
+    "tags": [
+      "裝具工程",
+      "AI代理",
+      "執行合約",
+      "減法工程",
+      "Meta-Harness"
+    ],
+    "description": "這部影片探討了 AI 領域中一場關鍵的典範轉移：從「模型工程」轉向「裝具工程（Harness Engineering）」。影片指出，決定 AI 代理（Agent）效能的關鍵，已不再單純是模型本身",
+    "quote": "如果你不是在做模型，你就是在做裝具；未來的核心競爭力不在於你挑選哪個模型，而在於你如何修剪你的結構。",
+    "action": "定義輸入輸出合約與驗證迴圈，每當模型升級時強制審查並移除至少 20% 的冗餘裝具組件。",
+    "image": "/images/影片筆記/rethinking-ai-agents-the-rise-of-harness-engineering.jpeg",
+    "date": "2026-04-19",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片探討了 AI 領域中一場關鍵的典範轉移：從「模型工程」轉向「裝具工程（Harness Engineering）」。影片指出，決定 AI 代理（Agent）效能的關鍵，已不再單純是模型本身，而是圍繞在模型外的架構邏輯。透過優化裝具，能使效能提升 6 倍，甚至讓小型模型超越大型模型。這是一場從盲目增加結構轉向精準「減法」與自動化優化的技術革命。 --- 詳細重點整理 1. 什麼是裝具工程？ [(http://www.youtube.com/watch?v=Xxuxg8PcBvc&t=36)]  定義：AI 代理（Agent）= 模型（Model）+ 裝具（Harness）。裝具包含了一切非模型權重的部分，如系統指令、工具定義、編排邏輯、記憶管理及安全防護。  關鍵概念：操作系統類比。原始 LLM 是 CPU（強大但靜態），而裝具則是作業系統（OS），負責協調記憶體（Context）、磁碟（外部資料庫）與外部設備（工具集成）。 2. 決定效能的五大模式 [(http://www.youtube.com/watch?v=Xxuxg8PcBvc&t=80)]  內容說明：Ant",
+    "url": "/notes/rethinking-ai-agents-the-rise-of-harness-engineering"
+  },
+  {
     "id": "redefining-intelligence-self-evolution",
     "title": "重新定義智慧：13 本書的自我進化框架",
     "category": "心理學",
