@@ -59,15 +59,15 @@ argument-hint: "<檔名（不含副檔名）> [--dry-run]"
 6. **更新搜尋索引**
    - 執行：node scripts/rebuild-index.js
 
-7. **Git 部署**
-   - git add .
-   - git commit -m "新增筆記：<title>"
-   - git push（若 push 失敗，提示使用者檢查認證狀態，不要自動重試）
-
-8. **更新知識圖譜**
-   - 執行 `/graphify . --update` 以增量方式更新 graphify-out/ 知識圖譜
+7. **更新知識圖譜**
+   - 執行 `/graphify ./_notes --update` 以增量方式更新 graphify-out/ 知識圖譜
    - 只會重新萃取新增或修改的檔案，不重跑整個語料庫
    - 若 graphify 尚未安裝或執行失敗，顯示警告但不中斷流程
+
+8. **Git 部署**
+   - git add .
+   - git commit -m "新增筆記：<title>"（graphify-out/ 的變更一併納入）
+   - git push（若 push 失敗，提示使用者檢查認證狀態，不要自動重試）
 
 9. **回報結果**
    ```
