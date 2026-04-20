@@ -1,5 +1,65 @@
 [
   {
+    "id": "obsidian-8-essential-plugins",
+    "title": "Obsidian 必裝插件：新手打造第二大腦的 8 款神器",
+    "category": "影片筆記",
+    "tags": [
+      "Obsidian",
+      "第二大腦",
+      "知識管理",
+      "靈感捕捉",
+      "效率工具"
+    ],
+    "description": "這段影片為 Obsidian 新手量身打造，介紹了 8 款核心插件，旨在將原本空白、冰冷的編輯器轉化為一個順手的「第二大腦」。透過優化獲取資訊、增強搜索與快速記錄",
+    "quote": "裝插件跟買東西一樣，不是越多越好，剛剛好才夠用。",
+    "action": "依 1-3-3 法則安裝：Web Clipper、Setting Search/Recent Files/Calendar、OmniSearch/QuickAdd/Tasks",
+    "image": "/images/影片筆記/obsidian-8-essential-plugins.jpeg",
+    "date": "2026-04-21",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片為 Obsidian 新手量身打造，介紹了 8 款核心插件，旨在將原本空白、冰冷的編輯器轉化為一個順手的「第二大腦」。透過優化獲取資訊、增強搜索與快速記錄，能有效降低數位整理的認知負擔，讓使用者從繁瑣的軟體操作中解脫，專注於思考與內容創作。 --- 詳細重點整理 1. 外部內容獲取：打破資訊孤島 [(http://www.youtube.com/watch?v=VthfkQFQJJg&t=38)]  Obsidian Web Clipper [(http://www.youtube.com/watch?v=VthfkQFQJJg&t=42)]：Chrome 瀏覽器插件，一鍵將網頁、影片（含逐字稿）整理存入 Obsidian。  Floating Captions (或類似工具) [(http://www.youtube.com/watch?v=VthfkQFQJJg&t=67)]：即時同步影片文字內容，點擊文字即可跳轉影片對應時間點，提升影音筆記效率。  關鍵概念：實現「輸入即整理」，減少在瀏覽器與筆記軟體間切換的摩擦力。 2. 系統功能提昇：打造絲滑操作體驗 [(h",
+    "url": "/notes/obsidian-8-essential-plugins"
+  },
+  {
+    "id": "nobody-knows-your-worth-ai-era",
+    "title": "AI讓產出免費：品味與理解力才是真正競爭力",
+    "category": "AI筆記",
+    "tags": [
+      "職場價值",
+      "理解力",
+      "AI時代",
+      "個人品牌",
+      "品味"
+    ],
+    "description": "當 AI 讓「產出」變得毫不費力時，產出本身已不再能代表專業。影片指出，2026 年的職場競爭核心已從「生成能力」轉向「理解深度」與「品味」。我們必須從追求產量",
+    "quote": "在生成變得免費的時代，「能夠思考」變成了最稀缺且昂貴的商品。",
+    "action": "完成每項 AI 任務後，寫下 4-W（What/Why/Warning/Wrestle），否則不予發布",
+    "image": "/images/AI筆記/nobody-knows-your-worth-ai-era.jpeg",
+    "date": "2026-04-21",
+    "source_has_timestamps": true,
+    "body": "你好，我是你的內容分析師與生活啟發導師。在 AI 浪潮席捲的 2026 年，傳統的職涯建議正在失效。這部影片深刻探討了在「生成內容近乎免費」的時代，我們該如何重新定義並證明自己的價值。 以下是為你準備的深度萃取報告： 核心摘要 當 AI 讓「產出」變得毫不費力時，產出本身已不再能代表專業。影片指出，2026 年的職場競爭核心已從「生成能力」轉向「理解深度」與「品味」。我們必須從追求產量的陷阱中跳脫，透過「理解過後再發布」的過程，證明自己不僅是工具的使用者，更是擁有商業判斷與系統思維的決策者。 --- 詳細重點整理 1. 價值的崩潰與重組 [(http://www.youtube.com/watch?v=-dJ9WrTG6zQ&t=0)]  現狀觀察：過去「努力」與「成果」掛鉤，能做出產品代表你具備專業。但在 AI 時代，生成代碼與應用程式變得極其廉價，產出已無法作為專業能力的保證。  企業端的改變：企業不再是因為疫情期間過度招聘而裁員，而是重新評估「人 + AI」的配置比例，重新計算每個員工的剩餘價值 [(http://www.youtube.com/watch?v=-dJ9WrTG6",
+    "url": "/notes/nobody-knows-your-worth-ai-era"
+  },
+  {
+    "id": "ai-revolution-starts-with-the-boss",
+    "title": "AI革命要從老闆開始：領導者的自我革命",
+    "category": "AI筆記",
+    "tags": [
+      "AI轉型",
+      "領導力",
+      "中小企業",
+      "組織變革",
+      "台灣產業"
+    ],
+    "description": "這場 AI 革命的核心不在於員工的汰換，而是一場由領導者發起的「自我革命」。企業主必須親自走入 AI 的世界，透過優化個人工作流、將資料「水管」接通",
+    "quote": "老闆自己先痛苦，才知道 AI 要從那裡下手。",
+    "action": "嘗試一週親自用 AI 處理簡報文稿，找出三個核心資料來源並思考如何入庫給 AI",
+    "image": "/images/AI筆記/ai-revolution-starts-with-the-boss.jpeg",
+    "date": "2026-04-21",
+    "source_has_timestamps": true,
+    "body": "你好！我是你的影片深度萃取器。這部影片由 Google 前台灣董事總經理簡立峰博士與商周執行長郭奕伶進行對談，深入探討了 AI 浪潮下企業主與個人應具備的轉型思維。 以下為你整理的精華內容： 核心摘要 這場 AI 革命的核心不在於員工的汰換，而是一場由領導者發起的「自我革命」。企業主必須親自走入 AI 的世界，透過優化個人工作流、將資料「水管」接通，並從「Work Faster」轉向「Work Smarter」，才能帶領組織在台灣未來的黃金十年中，利用製造業優勢與區域人才庫，轉型為具備國際競爭力的 AI 企業。 --- 詳細重點整理 1. 領導者的自我革命 [(http://www.youtube.com/watch?v=FOLk9tBCXHM&t=106)]  重點內容：如果老闆的工作流程不能優化，就沒有能力優化組織。簡博士建議老闆應嘗試「推開秘書」，親自體驗 AI 帶來的效率提升。當領導者不再依賴人力提供情緒價值或瑣事處理，才能看見 AI 真正的潛能。  關鍵概念：「老闆的生產力提高」大過「員工的生產力提高」。 2. 中小企業的 AI 戰略：增效大於降本 [(http://www.",
+    "url": "/notes/ai-revolution-starts-with-the-boss"
+  },
+  {
     "id": "the-future-of-mcp",
     "title": "MCP 未來藍圖：打造全方位連通的 AI 代理",
     "category": "AI筆記",
