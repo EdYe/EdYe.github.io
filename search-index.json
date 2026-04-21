@@ -1,5 +1,145 @@
 [
   {
+    "id": "the-new-application-layer",
+    "title": "AI 代理人正在成為軟體的新應用層",
+    "category": "AI筆記",
+    "tags": [
+      "AI代理人",
+      "職業轉型",
+      "需求激增",
+      "API優先",
+      "應用層"
+    ],
+    "description": "AI 代理人（Agents）正在成為軟體的新應用層。隨著開發成本降低，軟體需求將呈爆發式增長，工程師轉向構建「自動化研究與決策」的系統。",
+    "quote": "製作軟體的成本越低，我們就會製作更多的軟體。",
+    "action": "找出工作中 3 個需要查資料才能做決策的流程，嘗試用 AI 代理人先行蒐集資訊。",
+    "image": "/images/AI筆記/the-new-application-layer.jpg",
+    "date": "2026-04-22",
+    "source_has_timestamps": true,
+    "body": "你好，我是你的內容分析師與生活啟發導師。這段影片由 Vercel 的 CTO Malte Ubl 在歐洲 AI 工程師大會上發表，精準地勾勒了 AI 時代下軟體開發的新典範。 以下是為你萃取的精華內容與行動方案： 核心摘要 AI 代理人（Agents）正在成為軟體的新應用層。隨著開發成本降低，軟體需求將呈爆發式增長。Malte 強調工程師不會消失，而是轉向構建「自動化研究與決策」的系統，未來軟體的開發者與使用者都將是 AI 代理人，這將深刻改變開發者的角色。 ----- 詳細重點整理 1\\. AI 工程：Web 開發的合法繼承者 [(http://www.youtube.com/watch?v=XKup1pj-34M&t=155)]    AI 工程不僅是技術革新，更是未來十年塑造軟體開發的主流學科，正如當年的 Web 開發一樣。    關鍵概念：職業轉型。我們正處於如何「構建」軟體（利用 AI）與「構建什麼」軟體（AI 與代理人）的雙重變革中。 2\\. 軟體市場的彈性經濟學 [(http://www.youtube.com/watch?v=XKup1pj-34M&t=243)]   ",
+    "url": "/notes/the-new-application-layer"
+  },
+  {
+    "id": "md-this-page-webpage-to-markdown",
+    "title": "一鍵將網頁轉為 Markdown：MD-This-Page 工具深度解析",
+    "category": "AI筆記",
+    "tags": [
+      "資訊降噪",
+      "Markdown格式",
+      "語義結構",
+      "智慧過濾",
+      "LLM優化"
+    ],
+    "description": "這段影片介紹了開源工具「MD-This-Page」，它能一鍵將雜亂的網頁轉化為結構清晰的 Markdown 格式，專為優化大語言模型（LLM）的輸入而設計。",
+    "quote": "結構化是智慧的前提；精簡輸入，才是對 AI 智慧最好的投資。",
+    "action": "看到長文時先用 Alt+M 快捷鍵轉換 Markdown，再透過「Copy as AI Prompt」直接貼入 AI。",
+    "image": "/images/AI筆記/md-this-page-webpage-to-markdown.jpg",
+    "date": "2026-04-22",
+    "source_has_timestamps": true,
+    "body": "你好！我是你的內容分析師與生活啟發導師。這段影片介紹了一個極具實用價值的數位工具「MD-This-Page」，它能幫助我們在與 AI 協作時，從混亂的資訊中抽絲剝繭，找回效率與精準。 以下是為你準備的深度萃取筆記： 核心摘要 這段影片介紹了開源工具「MD-This-Page」，它能一鍵將雜亂的網頁轉化為結構清晰的 Markdown 格式，專為優化大語言模型（LLM）的輸入而設計。透過消除廣告與冗餘代碼，這項工具不僅節省了 Token 成本，更大幅提升了 AI 理解與推理的品質，是數位時代高效資訊處理的必備利器。 --- 詳細重點整理 1. 解決 LLM 輸入的「雜訊」痛點 [(http://www.youtube.com/watch?v=VkqYAKrsCc&t=26)]  直接複製網頁文字常會夾雜廣告、導航列、腳本與頁尾，這些無用資訊會干擾 AI 的注意力機制。  關鍵概念：資訊降噪（De-noising）。減少不必要的 HTML 雜訊，讓 AI 的 context window（上下文視窗）發揮最大價值。 2. 為什麼 Markdown 是 AI 的理想語言？ [(http://w",
+    "url": "/notes/md-this-page-webpage-to-markdown"
+  },
+  {
+    "id": "learn-to-disappear",
+    "title": "學會消失：Robert Greene 的戰略性隱身術",
+    "category": "心理學",
+    "tags": [
+      "戰略隱身",
+      "言語節制",
+      "適應力",
+      "稀缺價值",
+      "外向聚焦"
+    ],
+    "description": "權力的本質不在於顯露，而在於戰略性的隱藏與自我掌控。透過掌握「缺席與出席」的動態平衡，保護他人的自尊，以及從內向的自我關注轉向外向的社會觀察，才能建立不可替代的個人權威。",
+    "quote": "權力就像流動的水，僵化是弱小的表現；唯有能隨時代改變的人，才能成為最強大的存在。",
+    "action": "做重大決定前寫下 3 種連鎖反應，在對話中練習延遲 2 分鐘開口，每月練習 1 次數位消失。",
+    "image": "/images/心理學/learn-to-disappear.jpeg",
+    "date": "2026-04-22",
+    "source_has_timestamps": true,
+    "body": "你好！我是你的內容分析師與生活啟發導師。這段影片來自權力心理學大師羅伯·唐納德·葛林（Robert Greene），他深入探討了權力運作的底層邏輯，並揭示了那些真正強大的人如何透過策略性的「消失」與「自我控制」來維持影響力。 以下是為你精心提煉的內容精華： 核心摘要 權力的本質不在於顯露，而在於戰略性的隱藏與自我掌控。透過掌握「缺席與出席」的動態平衡、保護他人的自尊（特別是上司），以及從內向的自我關注轉向外向的社會觀察，你能在變動的時代中保持靈活性，建立不可替代的個人權威。 --- 詳細重點整理 1. 隱藏意圖與戰略佈局 [(http://www.youtube.com/watch?v=gnIL4xiWZa4&t=0)]  重點內容：真正的強大在於能夠預判後兩、三步的走勢。若想達成長期目標，必須讓他人無法預測你的下一步，保持神祕感能讓你掌握主動權。  關鍵概念：「戰略性隱身」——不要過早暴露你的底牌，讓對手始終處於不確定的狀態。 2. 少說話的力量 [(http://www.youtube.com/watch?v=gnIL4xiWZa4&t=43)]  重點內容：過多言語往往反映出內心",
+    "url": "/notes/learn-to-disappear"
+  },
+  {
+    "id": "how-to-use-enemies-gain-power",
+    "title": "善用敵人獲得力量：Robert Greene 的權力哲學",
+    "category": "心理學",
+    "tags": [
+      "權力本質",
+      "自我掌控",
+      "社交策略",
+      "戰略思維",
+      "心智流動性"
+    ],
+    "description": "本影片由知名權力戰略家 Robert Greene 深度解析「權力」的本質。他強調權力並非政治鬥爭，而是一種對自我生命、情緒與未來的掌控感，唯有透過精確的自我控制才能掌握命運。",
+    "quote": "如果你連自己都無法掌控，那麼你如何期待能掌控生活中的任何事？",
+    "action": "在情緒激動前先停頓 3 秒，每天花 5 分鐘分析失誤，建立「觀察紀錄」取代心情日記。",
+    "image": "/images/心理學/how-to-use-enemies-gain-power.jpeg",
+    "date": "2026-04-22",
+    "source_has_timestamps": false,
+    "body": "核心摘要 這部影片由知名權力戰略家 Robert Greene 深度解析「權力」的本質。他強調權力並非政治鬥爭，而是一種對自我生命、情緒與未來的掌控感。真正的危機在於「絕對的無力感」，這會導致心理扭曲與社交失敗；唯有透過精確的自我控制與對人性現實的洞察，我們才能從被動的受害者轉變為掌握命運的戰略家。 --- 詳細重點整理 1. 權力的本質：對抗無力感的腐蝕  權力是一種內在情感，是對自己生活、人際關係與未來的一種掌控感。  關鍵概念：「絕對的無力感比絕對的權力更具腐蝕性」。當人感到無法影響周遭時，容易變得消極攻擊（Passive-aggressive）或陷入情緒黑洞。 2. 自我掌控：所有領導力的基石  如果你無法控制自己的言語與情緒，就無法控制任何環境。  隨意表達第一時間的感受（如抱怨或憤怒）會讓你在社交場合顯得脆弱且無能，甚至冒犯他人。  關鍵概念：「自控力是權力的外顯」。一個能控制自己的人，自然會展現出領導者的氣場。 3. 社交劇場：接納「扮演」的人性現實  人是社交動物，外在形象、語氣與肢體語言（Appearances）至關重要。  Greene 提倡 18 世紀的社交智慧：",
+    "url": "/notes/how-to-use-enemies-gain-power"
+  },
+  {
+    "id": "ai-changing-software-engineering-gergely",
+    "title": "AI 如何改變軟體工程：Gergely Orosz 深度對話",
+    "category": "AI筆記",
+    "tags": [
+      "Token Maxing",
+      "生產力悖論",
+      "AI技能習得",
+      "工程師角色演化",
+      "企業AI基礎建設"
+    ],
+    "description": "本影片深入探討了 AI 在軟體工程領域引發的結構性變革。從大廠中的「Token Maxing」現象，到開發者角色轉向「代理人調度員」的演變，揭示 AI 在重塑工程文化。",
+    "quote": "AI 工具更像是一套機甲套裝（Mech Suit），讓你在掌控全局的同時，以七倍速獨立執行複雜任務。",
+    "action": "每週至少嘗試用 3 種不同的 Prompt 策略解決同一個 Bug，並每天閱讀一個 AI 代理人框架的更新。",
+    "image": "/images/AI筆記/ai-changing-software-engineering-gergely.jpeg",
+    "date": "2026-04-22",
+    "source_has_timestamps": true,
+    "body": "這是一份針對影片《AI 如何改變軟體工程：與 Gergely Orosz (The Pragmatic Engineer) 的對話》的深度內容萃取報告： 核心摘要 本影片深入探討了 AI 在軟體工程領域引發的結構性變革。從大廠中荒謬的「Token Maxing」現象，到開發者角色轉向「代理人調度員」的演變，揭示了 AI 不僅提升了個人生產力，更在重塑工程文化與團隊規模，強調保持開放心態、捨棄舊有經驗（Priors）是未來工程師的核心競爭力。 --- 詳細重點整理 1. Token Maxing：被指標綁架的 AI 文化 [(http://www.youtube.com/watch?v=CS5Cmz5FssI&t=36)]  現象：在 Meta、Microsoft、Salesforce 等大廠中，工程師為了應對績效考核或裁員焦慮，開始刻意大量生成 AI Token（即便生成的是垃圾內容），只為了讓自己在「AI 使用率排行榜」中名列前茅。  關鍵概念：指標武器化（Weaponized Metrics）。當「使用 AI」變成一種被考核的數字而非解決問題的手段時，會導致工程師放棄閱讀文件，轉而",
+    "url": "/notes/ai-changing-software-engineering-gergely"
+  },
+  {
+    "id": "ai-agent-protocols-mcp-acp",
+    "title": "AI 代理協議：MCP 與 ACP 的互補關係解析",
+    "category": "AI筆記",
+    "tags": [
+      "MCP",
+      "ACP",
+      "AI代理協議",
+      "使用者體驗",
+      "AI原生桌面"
+    ],
+    "description": "本影片深入解析了 AI 開發中的兩大關鍵協議：MCP（模型上下文協議）與 ACP（代理客戶端協議），展示了如何將繁瑣的終端機指令轉化為直觀的圖形介面。",
+    "quote": "ACP 與 MCP 的結合，正在為未來代理化工作（Agentic Work）奠定穩固的基石。",
+    "action": "到 ACP 代理註冊表探索目前已支援的代理工具，嘗試在終端機與 UI 工具中分別執行同一任務感受差異。",
+    "image": "/images/AI筆記/ai-agent-protocols-mcp-acp.jpeg",
+    "date": "2026-04-22",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入解析了 AI 開發中的兩大關鍵協議：MCP（模型上下文協議）與 ACP（代理客戶端協議）。透過實戰演示將 ACP 整合進「Orchestrate」應用程式的過程，展示了如何將繁瑣的終端機指令轉化為直觀的圖形介面，讓非技術使用者也能駕馭強大的 AI 代理工具，進而開啟 AI 原生桌面應用的新時代。 --- 詳細重點整理 1. 釐清核心概念：MCP vs. ACP [(http://www.youtube.com/watch?v=P8OL0ag4pk&t=67)]  MCP (Model Context Protocol)：充當代理（如 Claude Code）與工具（如 Notion, Slack）之間的橋樑，主要負責提供「上下文」資訊，讓 AI 了解並操作日常軟體。  ACP (Agent Client Protocol)：定義應用程式（客戶端）如何與運行在終端機的代理溝通。它解決了終端機介面難以使用的痛點，將 AI 能力引導至前端 UI。  關鍵概念：兩者並非競爭關係，而是互補關係；MCP 負責「能力連結」，ACP 負責「介面互動」。 2. 為什麼我們需要 ACP",
+    "url": "/notes/ai-agent-protocols-mcp-acp"
+  },
+  {
+    "id": "add-telephony-gemini-live-agent",
+    "title": "用 Twilio 與 Gemini Live API 打造實時 AI 語音助理",
+    "category": "AI筆記",
+    "tags": [
+      "Gemini Live API",
+      "Twilio",
+      "WebSocket",
+      "語音AI",
+      "雲端部署"
+    ],
+    "description": "本影片深入解析了如何將 Gemini 1.5 Flash Live API 結合 Twilio 電訊技術與 Google Cloud Run，打造一個具備實時語音與視覺感知的 AI 助理。",
+    "quote": "當技術能聽、能看、能聊，它就不再是工具，而是能與現實世界同步呼吸的夥伴。",
+    "action": "前往 GitHub 下載 Gemini Python SDK，註冊 Twilio 試用帳號練習媒體串流，再部署至 Google Cloud Run。",
+    "image": "/images/AI筆記/add-telephony-gemini-live-agent.jpeg",
+    "date": "2026-04-22",
+    "source_has_timestamps": true,
+    "body": "你好，我是你的影片深度萃取器。這段影片展示了技術如何跨越傳統通訊與人工智慧的邊界，將 Gemini 1.5 Flash 的實時互動能力帶入日常通訊中。以下是為你提煉的內容精華： 核心摘要 本影片深入解析了如何將 Gemini 1.5 Flash Live API 結合 Twilio 電訊技術與 Google Cloud Run，打造一個具備實時語音與視覺感知的 AI 助理。這不僅是技術的整合，更揭示了未來 AI 如何透過「撥打電話」這種最直覺的方式，在現實生活中提供無縫的心理支持與技術協作。 --- 詳細重點整理 1. Gemini 實時助理的互動演示 [(http://www.youtube.com/watch?v=FCb4LSzPVmo&t=6)]  展示了 Gemini 1.5 Flash 模型在語音對話中的自然感與反應速度，能像人類般流暢應答並定義其角色。  關鍵概念：人機互動自然化。AI 不再只是文字輸出，而是具備語氣與情感共鳴的對話夥伴。 2. 技術資源與快速開發路徑 [(http://www.youtube.com/watch?v=FCb4LSzPVmo&t=80)]  ",
+    "url": "/notes/add-telephony-gemini-live-agent"
+  },
+  {
     "id": "obsidian-8-essential-plugins",
     "title": "Obsidian 必裝插件：新手打造第二大腦的 8 款神器",
     "category": "影片筆記",
