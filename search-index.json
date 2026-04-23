@@ -1,5 +1,205 @@
 [
   {
+    "id": "workplace-layoff-legal-guide",
+    "title": "職場暗黑整頓術：勞基法資遣與開除的法律攻防",
+    "category": "學習筆記",
+    "tags": [
+      "勞基法",
+      "資遣費",
+      "薪資結構",
+      "職場防禦",
+      "員工權益"
+    ],
+    "description": "本影片由專業律師深入解析《勞基法》中「資遣」與「開除」的法律界線，揭示雇主如何合法調整職場人力，以及員工面對不合理對待時的防禦機制與薪資結構隱藏邏輯。",
+    "quote": "法律不保護讓權益睡著的人，知曉規則是為了在職場中擁有一份優雅與體面。",
+    "action": "平時保留薪資單、績效考核表與重要對話截圖，面對逼退不簽任何未經核實的自願離職文件，每半年與主管確認一次績效認知。",
+    "image": "/images/學習筆記/workplace-layoff-legal-guide.jpeg",
+    "date": "2026-04-23",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片由專業律師深入解析《勞基法》中關於「資遣」與「開除」的法律界線。透過探討雇主如何合法調整職場人力，以及員工面對不合理對待時的防禦機制，揭示了合約設計與薪資結構中的隱藏邏輯，旨在幫助勞資雙方建立更透明、合法的合作關係。 ----- 詳細重點整理 1\\. 合法資遣的兩大路徑 [(http://www.youtube.com/watch?v=UTO8pTO50OQ&t=21)]    公司因素（勞基法第11條）：包含歇業、虧損、業務性質變更或產能緊縮。此類資遣必須提供「預告期間」與「資遣費」。    員工能力不足：若員工無法勝任工作，雇主需先提供「績效改善計畫（PIP）」，證明已給予協助與磨合期後仍無效，方可合法資遣。    關鍵概念：「分手前的磨合期」，雇主不能無預警要求員工明天不用來，必須給予法律規定的準備時間。 2\\. 免資遣費的「開除」條件 [(http://www.youtube.com/watch?v=UTO8pTO50OQ&t=204)]    勞基法第12條：員工若有重大過失（如面試學經歷造假、對同事施暴、連續曠職三天或重大違約），雇主可直接終止契約且不需支付",
+    "url": "/notes/workplace-layoff-legal-guide"
+  },
+  {
+    "id": "markitdown-llm-document-converter",
+    "title": "MarkItDown：微軟開源工具將雜亂文件轉為 LLM 友好格式",
+    "category": "AI筆記",
+    "tags": [
+      "MarkItDown",
+      "LLM格式化",
+      "文件攝取",
+      "RAG優化",
+      "開源工具"
+    ],
+    "description": "這段影片深入介紹微軟開源工具 MarkItDown，解決 AI 應用開發中「垃圾進，垃圾出」的資料攝取難題。將 PDF、Excel、PPT 等格式轉為結構清晰、對 LLM 友好的 Markdown，提升 RAG 準確率。",
+    "quote": "開發者掙扎的往往不是模型的能力，而是輸入資料的品質。",
+    "action": "執行 pip install markitdown 完成部署，選取 3 種頭痛格式進行測試，5 分鐘內整合進現有 RAG 流程。",
+    "image": "/images/AI筆記/markitdown-llm-document-converter.jpeg",
+    "date": "2026-04-23",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片深入介紹了微軟最新推出的開源工具 MarkItDown，其核心價值在於解決 AI 應用開發中「垃圾進，垃圾出（Garbage In, Garbage Out）」的資料攝取難題。透過將各種雜亂的文件格式（如 PDF、Excel、PPT）轉化為結構清晰、對 LLM 友好的 Markdown 格式，該工具能顯著減少開發者在資料清洗上浪費的時間，讓 AI 模型能輸出更高品質、更準確的答案。 ----- 詳細重點整理 1\\. 傳統文件攝取的痛點 [(http://www.youtube.com/watch?v=9ZaiZzp4XcY&t=33)]    現代 AI 專案常受困於處理 PDF、Word、試算表等碎片化格式，需串接多個程式庫。    轉換過程中常出現表格結構損壞、標題丟失，導致 RAG（檢索增強生成）管道充滿雜訊。    關鍵概念：開發者在除錯資料攝取上浪費的時間，往往多於實際開發 AI 功能的時間。 2\\. MarkItDown 的優勢與安裝 [(http://www.youtube.com/watch?v=9ZaiZzp4XcY&t=101)]    由微軟研究",
+    "url": "/notes/markitdown-llm-document-converter"
+  },
+  {
+    "id": "google-cloud-next-26-keynote",
+    "title": "Google Cloud Next ''26 開幕主題演講：代理人時代正式開啟",
+    "category": "AI筆記",
+    "tags": [
+      "代理人時代",
+      "TPU v8",
+      "數位任務組",
+      "Agentic Data Cloud",
+      "代理人防禦"
+    ],
+    "description": "影片揭示了從 AI 實驗室走向「代理人企業」的全面轉型。Google 透過整合硬體（TPU v8）、數據（Agentic Data Cloud）與安全防禦（Whiz 整合），建立了完整的代理人平台。",
+    "quote": "試驗的時代已經結束，代理人的時代正式開啟。未來的競爭不在於你擁有多強大的模型，而在於你如何管理成千上萬個協同工作的代理人。",
+    "action": "識別公司內最耗時的 3 個工作流程，找出 5 種被忽視的暗數據進行數位化標記，定義 5 個專屬代理人角色。",
+    "image": "/images/AI筆記/google-cloud-next-26-keynote.jpeg",
+    "date": "2026-04-23",
+    "source_has_timestamps": true,
+    "body": "你好！我是你的影片深度萃取器。這場 Google Cloud Next '26 開幕主題演講標誌著 AI 發展正式進入「代理人時代」（Agentic Era），將 AI 從單純的對話工具，提升為能自主規劃、協作並執行複雜任務的數位勞動力，徹底重塑企業運作模式。 以下為你整理的精華內容： 核心摘要 影片揭示了從 AI 實驗室走向「代理人企業」的全面轉型。Google 透過整合硬體（TPU v8）、數據（Agentic Data Cloud）與安全防禦（Whiz 整合），建立了一套完整的代理人平台，旨在讓每位員工都能成為 AI 建造者，將瑣碎的行政與技術負擔轉化為高效的自動化工作流，實現生產力的指數級跳躍。 --- 詳細重點整理 1. 代理人時代的來臨：從實驗走向生產 [(http://www.youtube.com/watch?v=11PBno-cJ1g&t=1094)]  關鍵轉變：AI 已不再只是實驗（Pilot），而是進入規模化生產階段。目前 Google 內部近 75% 的新代碼已由 AI 生成。  數位任務組（Digital Task Forces）：由「規劃者」、「編排者」和",
+    "url": "/notes/google-cloud-next-26-keynote"
+  },
+  {
+    "id": "google-agents-cli",
+    "title": "Google Agents CLI：消除 AI 代理開發碎片化",
+    "category": "AI筆記",
+    "tags": [
+      "Agents CLI",
+      "自動化腳手架",
+      "評估測試",
+      "安全部署",
+      "Google Cloud"
+    ],
+    "description": "本影片介紹了 Google Cloud 的 Agents CLI，解決開發 AI Agent 時環境碎片化與繁瑣配置的痛點。透過將開發、評估與部署流程封裝成標準化工具，讓開發者與 AI 助手無縫協作。",
+    "quote": "建立企業級 Agent 不應該像是穿越迷宮，而是應該讓工具承擔重擔，讓創意直達生產。",
+    "action": "定義核心需求後用 CLI 自動生成樣板，執行 eval run 消除 AI 幻覺風險，再透過自動化命令處理權限與密鑰完成部署。",
+    "image": "/images/AI筆記/google-agents-cli.jpeg",
+    "date": "2026-04-23",
+    "source_has_timestamps": true,
+    "body": "您好！我是您的專業內容分析師與生活啟發導師。這段影片展示了 Google 最新推出的 Agents CLI，這是一項能將複雜的雲端開發流程轉化為直覺、高效自動化路徑的突破性工具。 以下是為您提煉的深度萃取報告： 核心摘要 本影片介紹了 Google Cloud 的 Agents CLI，旨在解決開發 AI Agent 時環境碎片化與繁瑣配置的痛點。透過將開發、評估與部署流程封裝成標準化工具，它讓開發者能與 AI 編碼助手（如 Gemini）無縫協作，將「構思」到「生產落地」的時間縮減到極致，釋放人類在繁瑣行政工作中的創造力。 ----- 詳細重點整理 1\\. 消除開發碎片化：從迷宮到橋樑 [(http://www.youtube.com/watch?v=ECYKo70pPNc&t=7)]    目前在雲端建立 Agent 往往面臨工具分散、API 資訊混亂的問題，導致 AI 助手容易產生幻覺。    關鍵概念：Agents CLI 作為「橋樑」，將所有 Google Cloud 必要的工具打包，為 AI 編碼助手提供清晰的技能集，讓 AI 能真正引導開發流程。 2\\. 自動化腳手架：告",
+    "url": "/notes/google-agents-cli"
+  },
+  {
+    "id": "gemini-enterprise-agent-platform",
+    "title": "Gemini 企業代理人平台：從構建到優化的完整生命週期",
+    "category": "AI筆記",
+    "tags": [
+      "Gemini平台",
+      "多代理協作",
+      "企業AI治理",
+      "Agent Runtime",
+      "自動優化"
+    ],
+    "description": "Gemini Enterprise Agent Platform 為開發者提供了一個從構建、擴展、治理到優化的完整生命週期框架，將原本破碎的 AI 開發流程整合為「代理優先」的生態系。",
+    "quote": "建立企業級代理，不代表要將幾打工具拼湊在一起；而是要建立一個能從第一行程式碼到生產環境都安全無虞的生態系。",
+    "action": "決定使用 ADK 寫程式或 Agent Studio 視覺化建模，設定 Model Armor 安全治理，利用 Agent Simulation 進行壓力測試並自動優化指令。",
+    "image": "/images/AI筆記/gemini-enterprise-agent-platform.jpeg",
+    "date": "2026-04-23",
+    "source_has_timestamps": true,
+    "body": "你好！我是你的內容分析師與生活啟發導師。這段影片深入介紹了 Google Cloud 最新推出的 Gemini Enterprise Agent Platform。這不只是一個技術工具的發表，更象徵著 AI 開發從「零散修補」走向「系統化生態」的重大轉型。 以下為你整理的深度萃取報告： 核心摘要 Gemini Enterprise Agent Platform 為開發者提供了一個從構建、擴展、治理到優化的完整生命週期框架。它將原本破碎的 AI 開發流程整合為「代理優先」的生態系，強調安全性與可擴展性，讓企業能將 AI 代理從實驗室原型轉化為真正可信賴、可自動進化的生產力工具。 --- 詳細重點整理 1. 構建（Build）：靈活且強大的開發框架 [(http://www.youtube.com/watch?v=j8qW5poBkEU&t=68)]  ADK 開發套件：支持 Python, TypeScript, Java 與 Go，涵蓋從簡單序列到複雜的多代理系統。  模型靈活性：雖然針對 Gemini 優化，但也支持 Anthropic 的 Claude 或 O Lama 等開源模型",
+    "url": "/notes/gemini-enterprise-agent-platform"
+  },
+  {
+    "id": "designing-data-intensive-application",
+    "title": "設計數據密集型應用：Martin Kleppmann 的架構哲學",
+    "category": "學習筆記",
+    "tags": [
+      "分散式系統",
+      "雲端原生",
+      "底層原理",
+      "軟體倫理",
+      "局部優先"
+    ],
+    "description": "本影片深入訪談分散式系統大師 Martin Kleppmann，探討從第一版到第二版 DDIA 的技術跨度。工程師在雲端原生浪潮中，需透過理解系統底層原理來進行深度的架構權衡。",
+    "quote": "如果你想改變世界，思考技術對世界的影響就是你工作的一部分。",
+    "action": "設計新架構前模擬 3 種故障情況，評估雲端服務的長期成本與供應商鎖定風險，部署功能前問自己倫理提問。",
+    "image": "/images/學習筆記/designing-data-intensive-application.jpeg",
+    "date": "2026-04-23",
+    "source_has_timestamps": true,
+    "body": "這是一份針對《設計數據密集型應用》(DDIA) 作者 Martin Kleppmann 深度訪談影片的內容萃取與行動指南： 核心摘要 本影片深入訪談分散式系統大師 Martin Kleppmann，探討從第一版到第二版 DDIA 的技術跨度。核心價值在於引導工程師在雲端原生與 AI 浪潮中，不應盲目依賴抽象服務，而需透過理解系統底層原理（如儲存引擎、共識演算法）來進行深度的架構權衡，並承擔技術對社會影響的倫理責任。 --- 詳細重點整理 1. 職涯轉折與 Kafka 的誕生 [(http://www.youtube.com/watch?v=SVOrURyOuU&t=679)]  Martin 分享了從新創公司被 LinkedIn 收購，到參與 Kafka 開發的歷程。Kafka 的初衷是為了解決 LinkedIn 內部龐大的資料整合問題（Data Integration），將其設計為追加式日誌（Append-only log）而非傳統訊息隊列。  關鍵概念：底層抽象化。Kafka 提供了一個通用的抽象層，讓不同的資料來源與下游系統能高效對接。 2. 第二版 DDIA 的演進：雲端原生 ",
+    "url": "/notes/designing-data-intensive-application"
+  },
+  {
+    "id": "claude-live-artifacts-command-center",
+    "title": "Claude Live Artifacts：打造個人數位指揮中心",
+    "category": "AI筆記",
+    "tags": [
+      "Live Artifacts",
+      "Co-work",
+      "動態同步",
+      "MCP連接器",
+      "數位指揮中心"
+    ],
+    "description": "這段影片深入介紹了 Claude Co-work Live Artifacts 功能，讓 AI 生成的儀表板從靜態轉為動態，能自動同步 Gmail、日曆等即時數據，大幅減少 Token 消耗與成本。",
+    "quote": "Live Artifacts 將 Claude 從一個回話的助手，變成了能與你並肩工作的每日操作系統。",
+    "action": "在 Claude 桌面版中連結 3 個核心工具（Google Calendar、Gmail、Drive），建立晨間工作簡報與長期任務進度兩個儀表板。",
+    "image": "/images/AI筆記/claude-live-artifacts-command-center.jpeg",
+    "date": "2026-04-23",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片深入介紹了 Anthropic 最新推出的 Claude Co-work Live Artifacts 功能。這是一項顛覆性的更新，它讓 AI 生成的儀表板從「靜態」轉為「動態」，能自動同步 Gmail、日曆等即時數據。這不僅大幅減少了 Token 的消耗與成本，更讓 Claude 從單純的對話框進化為一個全自動化的個人數位指揮中心，協助使用者在不需手動更新的情況下掌握生活全貌。 ----- 詳細重點整理 1\\. 解決靜態 Artifacts 的痛點 [(http://www.youtube.com/watch?v=xYrhc9Q2yc&t=23)]    傳統的 Artifacts 是靜態的，每次需要最新數據時都必須重新對話、重新抓取數據，導致耗費大量 Token。    關鍵概念：動態同步。Live Artifacts 能自動填充新進郵件或更新行程，無需使用者手動點擊重新整理。 2\\. 打造「每日操作系統」 [(http://www.youtube.com/watch?v=xYrhc9Q2yc&t=84)]    透過 Live Artifacts 建立一個包含郵",
+    "url": "/notes/claude-live-artifacts-command-center"
+  },
+  {
+    "id": "claude-code-memory-patterns",
+    "title": "Claude Code 個人化記憶系統設計：六大建築基石",
+    "category": "AI筆記",
+    "tags": [
+      "記憶系統",
+      "記憶分層",
+      "衰減晉升",
+      "Hooks注入",
+      "Claude Code"
+    ],
+    "description": "這部影片打破了「尋找完美 AI 記憶框架」的迷思，強調記憶系統必須量身定做。透過 Claude Code 的代理人能力，可審計多種框架，結合身份識別、長期知識與動態衰減機制。",
+    "quote": "記憶就像指紋，沒有兩個記憶系統應該長得一模一樣。",
+    "action": "在 Claude Code 專案中建立 memory/ 資料夾，將身份與情境放入 identity.md 與 context.md，設定 sessionStart Hook 自動載入記憶。",
+    "image": "/images/AI筆記/claude-code-memory-patterns.jpeg",
+    "date": "2026-04-23",
+    "source_has_timestamps": true,
+    "body": "你好！我是你的影片深度萃取器。這部影片是由 Mark Kashef 分享關於如何為 Claude Code 打造「個人化記憶系統」的深度教學。記憶不應是現成的套裝軟體，而應該像你的指紋一樣，完全契合你的工作流。 以下是為你提煉的精華內容： 核心摘要 這部影片打破了「尋找完美 AI 記憶框架」的迷思，強調記憶系統必須量身定做。透過 Claude Code 的代理人（Agentic）能力，我們可以審計多種既有框架（如向量資料庫與 Markdown），並結合身份識別、長期知識與動態衰減機制，打造一個能隨使用者一同進化的「數位記憶宮殿」，大幅提升 AI 的協作效率。 --- 詳細重點整理 1. 記憶系統的定位與哲學 [(http://www.youtube.com/watch?v=OMkdlwZxSt8&t=83)]  記憶系統不應試圖「取代」Claude Code 原生的記憶，而是要「補充」它。  關鍵概念：記憶是無限遊戲。它不是完成後就結束的任務，而是一個需要持續維護、疊代與演進的動態過程 [(http://www.youtube.com/watch?v=OMkdlwZxSt8&t=172",
+    "url": "/notes/claude-code-memory-patterns"
+  },
+  {
+    "id": "building-ai-agent-team",
+    "title": "打造 AI 代理人團隊：七大核心角色與協作設計",
+    "category": "AI筆記",
+    "tags": [
+      "AI代理團隊",
+      "協作優先",
+      "專業分工",
+      "模型選擇",
+      "角色設計"
+    ],
+    "description": "這段影片將 AI 代理的運作邏輯與人類團隊協作深度掛鉤。單一 LLM 能力有限，但透過將其拆解為多個專業角色（如執行、規劃、評論），能產生超越個體的集體智慧。",
+    "quote": "構建一個 AI 代理團隊，本質上就是在構建一個人類協作團隊的數位鏡像。",
+    "action": "至少定義一個「規劃者」與「執行者」角色，並在兩者間加入「評論者」進行檢核，為每個角色準備獨立的 RAG 資料庫。",
+    "image": "/images/AI筆記/building-ai-agent-team.jpeg",
+    "date": "2026-04-23",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片將 AI 代理（Agents）的運作邏輯與「人類團隊協作」深度掛鉤。核心價值在於：單一大型語言模型（LLM）能力有限，但透過將其拆解為多個專業角色（如執行、規劃、評論），能產生超越個體的集體智慧，不僅提升任務成功率，更為複雜問題提供了結構化的自動化解方。 ----- 詳細重點整理 1\\. 為什麼 AI 也需要「打團戰」？ [(http://www.youtube.com/watch?v=kqj22mWIdjU&t=0)]    單一 LLM 無法解決超出其預訓練知識的複雜任務。    模仿人類團隊，將任務拆解為執行者、思考者、監督者等多種角色，能有效提升解決問題的「大腦功率」。    關鍵概念：協作優先（Collaboration First）。將複雜性分散到不同代理，比要求單一模型處理所有事更有效。 2\\. AI 代理團隊的 7 大核心角色 [(http://www.youtube.com/watch?v=kqj22mWIdjU&t=90)]    執行者 (Doer) [(http://www.youtube.com/watch?v=kqj22mWIdjU&t=9",
+    "url": "/notes/building-ai-agent-team"
+  },
+  {
+    "id": "ai-capture-decision-record",
+    "title": "AI 捕捉決策脈絡：Decision Record 五大支柱",
+    "category": "AI筆記",
+    "tags": [
+      "決策脈絡",
+      "Decision Record",
+      "AI輔助",
+      "脈絡守護",
+      "知識管理"
+    ],
+    "description": "本文探討在軟體開發與團隊協作中，決策脈絡（Context）消失所帶來的隱性成本。透過 Decision Record (DR) 機制並利用 AI 從對話記錄中提煉決策理由，讓 AI 成為脈絡守護者。",
+    "quote": "程式碼會留下，但脈絡會蒸發；我們捕捉決策，是為了給未來的自己留下一道光。",
+    "action": "複製決策對話貼入 AI Prompt 生成 DR 草案，重點校對「Why」欄位並補上「重新檢視條件」，建立 decisions/ 資料夾歸檔。",
+    "image": "/images/AI筆記/ai-capture-decision-record.jpeg",
+    "date": "2026-04-23",
+    "source_has_timestamps": false,
+    "body": "你好！我是你的影片深度萃取器。這篇文章深刻地揭示了團隊協作中常見的「記憶腐蝕」問題：我們往往記得了「做了什麼」，卻忘了「為什麼這樣做」。 透過 Decision Record (決策記錄)，我們能將 AI 從「代筆者」轉化為「脈絡守護者」。以下為你整理的精華內容： 核心摘要 本文探討了在軟體開發與團隊協作中，決策脈絡（Context）消失所帶來的巨大隱造成本。作者提出透過 Decision Record (DR) 機制，並利用 AI 快速從對話記錄中提煉決策理由與限制。核心價值在於：不再讓 AI 替我們做決定，而是讓 AI 幫我們捕捉決定背後的「為什麼」，從而避免未來的無效重複討論。 --- 詳細重點整理 1. 決策脈絡的「腐敗」與代價  理由消失現象：程式碼會留下來，但當時導致該決策的「限制」與「理由」會隨時間蒸發，導致後人需花費大量精力進行「逆向推敲」。  商業成本：團隊會陷入「重複論證」的迴圈，成員對決策的信任感降低，感覺進度越開越倒退。  關鍵概念：「決策是時間點的產物」，讓決策合理的理由是有保鮮期的。 2. Decision Record (DR) 的五大支柱  決策內容 (",
+    "url": "/notes/ai-capture-decision-record"
+  },
+  {
     "id": "the-new-application-layer",
     "title": "AI 代理人正在成為軟體的新應用層",
     "category": "AI筆記",
