@@ -1,5 +1,125 @@
 [
   {
+    "id": "why-you-dream-neuroscience",
+    "title": "神經科學揭秘：夢境是大腦保衛視覺領土的防禦機制",
+    "category": "心理學",
+    "tags": [
+      "尤里西斯合約",
+      "認知儲備",
+      "夢境機制",
+      "大腦可塑性",
+      "神經科學"
+    ],
+    "description": "大腦並非固定不變的器官，而是高度動態、競爭的神經系統，具備終身適應的「可塑性」，透過主動挑戰、建立社交連結與正確使用 AI，成為自己大腦的雕刻家。",
+    "quote": "你不僅是大腦的擁有者，更是它的雕刻家。",
+    "action": "3-N 挑戰法則：每週嘗試新事物（Novelty）、每日深度社交（Network）、針對壞習慣設計尤里西斯合約（Negotiation）",
+    "image": "/images/心理學/why-you-dream-neuroscience.jpeg",
+    "date": "2026-04-24",
+    "source_has_timestamps": true,
+    "body": "你好！我是你的內容分析師與生活啟發導師。這段來自《The Diary Of A CEO》對史丹佛神經科學家 David Eagleman 的深度訪談，為我們揭示了大腦驚人的適應力，以及我們如何透過意識與工具來重塑自我。 以下為你整理的影片精華萃取： 核心摘要 大腦並非固定不變的器官，而是一個高度動態、競爭的神經系統。影片強調大腦具備終身適應的「可塑性」，我們能透過主動挑戰、建立社交連結與正確使用 AI，成為自己大腦的雕刻家，進而預防認知衰退並優化心智。 --- 詳細重點整理 1. 大腦是「對抗者的團隊」與尤里西斯合約 [(http://www.youtube.com/watch?v=m-nnyNZ0TQ0&t=197)]  大腦並非單一意志，而是由無數相互競爭的神經網路組成（例如：想吃餅乾的欲望 vs. 想健康的理智）。  關鍵概念：尤里西斯合約 (Ulysses Contract) [(http://www.youtube.com/watch?v=m-nnyNZ0TQ0&t=326)]：透過現在的行為（如：清空家裡的酒精）來約束未來可能軟弱的自己，這比單純靠意志力更有效。 2. 認知",
+    "url": "/notes/why-you-dream-neuroscience"
+  },
+  {
+    "id": "howard-marks-investment-philosophy",
+    "title": "Howard Marks 投資哲學：風險控制與心理韌性的智慧",
+    "category": "影片筆記",
+    "tags": [
+      "心理偏誤",
+      "風險控制",
+      "價值投資",
+      "複利",
+      "投資哲學"
+    ],
+    "description": "本影片由橡樹資本（Oaktree Capital）共同創辦人 Howard Marks 主講，深度解析其投資哲學的核心：如何在市場情緒波動中保持清醒。",
+    "quote": "優秀的投資並非來自買入好東西，而是來自於把東西買得好。",
+    "action": "建立 3-V 投資評估法則：Value 分析內在價值、Vulnerability 脆弱性檢查、Voice 觀察市場心理溫度",
+    "image": "/images/影片筆記/howard-marks-investment-philosophy.jpeg",
+    "date": "2026-04-24",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片由橡樹資本（Oaktree Capital）共同創辦人 Howard Marks 主講，深度解析其投資哲學的核心：如何在市場情緒波動中保持清醒。他強調投資並非單純追求高收益，而是關於風險控制、心理韌性與對週期的敬畏。透過「少輸即是贏」的邏輯，他教導我們在樂觀與悲觀的極端擺盪中，如何透過結構化思維建立長期穩健的財富基礎。 --- 詳細重點整理 1. 市場溫度的感知與心理偏誤 [(http://www.youtube.com/watch?v=Nac62xsvk0I&t=445)]  認知失調 (Cognitive Dissonance)：投資者傾向於拒絕與其預設立場相左的資訊。當市場樂觀時，負面消息會被自動過濾；當負面情緒累積到臨界點，市場會瞬間從「完美無瑕」轉向「毫無希望」。  樂觀預設值：投資本質上是建立在樂觀之上的行為（將資金交予他人以期未來獲得更多），因此市場往往具備向上衝刺的動能，但也容易因此忽視潛在風險。  關鍵概念：心理擺盪。市場總是在極端之間切換，投資者不應成為擺盪的一部分，而應成為觀察擺盪的人。 2. 「業餘網球」哲學：少輸就是贏 [(http://www",
+    "url": "/notes/howard-marks-investment-philosophy"
+  },
+  {
+    "id": "how-spies-analyze-you",
+    "title": "間諜如何解讀你：HUMINT 人類情報與行為分析技術",
+    "category": "心理學",
+    "tags": [
+      "基線行為",
+      "身體語言",
+      "心理熱點",
+      "互惠原理",
+      "好感原則"
+    ],
+    "description": "間諜技術的核心在於「人類情報」（HUMINT），透過系統化觀察基線行為、捕捉情緒熱點與運用誘導技巧，精準找出他人的恐懼與慾望，身體如何誠實洩漏心理狀態。",
+    "quote": "在充滿表演與修飾的世界裡，真誠（Authenticity）不僅是美德，更是最強大的鎧甲。",
+    "action": "練習 B-H-A 觀察法則：建立基線（Baseline）、捕捉熱點（Hotspot）、自我覺察（Awareness）",
+    "image": "/images/心理學/how-spies-analyze-you.jpeg",
+    "date": "2026-04-24",
+    "source_has_timestamps": true,
+    "body": "您好，我是您的影片深度萃取器。 透過分析這段來自「Spy Wars: Declassified」的內容，我為您提煉了關於間諜如何讀心、影響他人以及如何將這些技巧應用於自我成長的核心精華。 核心摘要 間諜技術的核心在於「人類情報」（HUMINT），透過系統化觀察基線行為、捕捉情緒熱點與運用誘導技巧，精準找出他人的恐懼與慾望。影片揭示了身體如何誠實地洩漏心理狀態，引導我們從「自動駕駛」模式轉向深度覺察，最終強調「真誠」才是最高級的防禦與影響力。 --- 詳細重點整理 1. 基線行為：解讀他人的起點 [(http://www.youtube.com/watch?v=om67n8SGXHc&t=163)]  所有的分析都始於觀察一個人在放鬆狀態下的「正常」樣貌（如說話速度、坐姿、笑容）。  關鍵概念：偏離（Deviation）。間諜尋找的是行為與基線不符的瞬間，這通常意味著環境觸發了某種內在情緒反應。 2. 身體的資訊洩漏：無法隱藏的真相 [(http://www.youtube.com/watch?v=om67n8SGXHc&t=242)]  大腦會將心理狀態轉化為物理反應，如瞳孔放大、肌肉",
+    "url": "/notes/how-spies-analyze-you"
+  },
+  {
+    "id": "enterprise-ai-context-infrastructure",
+    "title": "企業 AI 的未來：情境基礎設施才是核心競爭力",
+    "category": "AI筆記",
+    "tags": [
+      "情境碎片化",
+      "情境基礎設施",
+      "知識圖譜",
+      "模組化AI",
+      "可移植性"
+    ],
+    "description": "企業 AI 的重大範式轉移：模型已成為可替換商品，企業專屬的情境才是核心資產。透過知識圖譜解決資訊碎片化與孤島效應，建立獨立於供應商且具邏輯一致性的 AI 大腦。",
+    "quote": "AI 時代的真正資產，不是你寫的提示詞，而是你公司持續演進的情境圖譜。",
+    "action": "用 3-2-1 情境整理法則：識別 3 個核心實體、清理 2 種過時數據、建立 1 個中央知識來源",
+    "image": "/images/AI筆記/enterprise-ai-context-infrastructure.jpeg",
+    "date": "2026-04-24",
+    "source_has_timestamps": true,
+    "body": "你好！我是你的影片深度萃取器。這段影片來自 NODES AI 2026 大會，由 AI 產品專家 Manuel 分享企業 AI 的未來趨勢。他精準地指出：未來的競爭力不在於誰擁有最強的模型，而是在於誰能建立最完善的「情境基礎設施（Context Infrastructure）」。 以下為你整理的精華內容： 核心摘要 這段演講揭示了企業 AI 的重大範式轉移：模型（LLM）已成為可替換的商品，而企業專屬的情境（Context）才是核心資產。透過知識圖譜（Knowledge Graph）解決資訊碎片化與孤島效應，企業能建立一個獨立於供應商、可移植且具備邏輯一致性的 AI 大腦，從而驅動更精準的自動化決策。 --- 詳細重點整理 1. 企業 AI 面臨的兩大痛點 [(http://www.youtube.com/watch?v=jR6o6yZkkB8&t=100)]  情境碎片化（Context Fragmentation）：同一術語（如「客戶」）在不同部門有不同定義，導致 AI 產出幻覺與性能低落。  孤島陷阱（Silo Trap）：企業常用的 CRM 或 SEO 工具內建 AI，其邏輯被",
+    "url": "/notes/enterprise-ai-context-infrastructure"
+  },
+  {
+    "id": "economics-drives-business",
+    "title": "七大微觀經濟學原理：決定企業成敗的底層邏輯",
+    "category": "影片筆記",
+    "tags": [
+      "成本曲線",
+      "邊際思維",
+      "市場力量",
+      "資訊不對稱",
+      "稀缺資源"
+    ],
+    "description": "七個決定企業成敗的微觀經濟學原理，揭示經營者必須從直覺轉向數據驅動的「經濟學思維」，透過優化成本曲線、精確分配稀缺資源及利用心理偏誤建立市場競爭力。",
+    "quote": "你的真實優先順序，不在於你說了什麼，而是在於你把有限的資源投入在哪裡。",
+    "action": "執行 M-B-N 效率法則：先持續投入最賺錢渠道（More），再優化效率（Better），最後開發新管道（New）",
+    "image": "/images/影片筆記/economics-drives-business.jpeg",
+    "date": "2026-04-24",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片深度解析了七個決定企業成敗的微觀經濟學原理，揭示了為何有些企業能輕鬆擴張，而有些則注定失敗。核心觀點在於：經營者必須從直覺轉向數據驅動的「經濟學思維」，透過優化成本曲線、精確分配稀缺資源，以及利用心理偏誤建立市場競爭力，從而突破成長瓶頸。 --- 詳細重點整理 1. 成本曲線與機會工具 [(http://www.youtube.com/watch?v=F8lC4nhA8UY&t=73)]  企業的潛力取決於其固定成本與變動成本的結構。服務業通常具備低固定成本但高變動成本，這會導致擴張時複雜度激增。  關鍵概念：高利潤機會工具。要從低門檻的服務業轉向高門檻的軟體（SAS）或規模化品牌，利用「邊際成本趨近於零」的特性實現指數級成長。 2. 邊際思維：多做、做得更好、嘗試新事物 [(http://www.youtube.com/watch?v=F8lC4nhA8UY&t=440)]  決策不應看平均值，而應看「再多一單位」的投入是否能帶來相應產出。  當增加廣告預算或業務員不再顯著提升利潤時，即達到均衡點（Equilibrium Point）。  關鍵概念：More-Bet",
+    "url": "/notes/economics-drives-business"
+  },
+  {
+    "id": "agentic-commerce",
+    "title": "代理式商務崛起：AI 從助手進化為代理人的時代轉型",
+    "category": "AI筆記",
+    "tags": [
+      "代理式商務",
+      "效能躍遷",
+      "跨域整合",
+      "算力",
+      "AI可見度"
+    ],
+    "description": "當前的 AI 浪潮已從單純的諮詢工具進化為具備執行力的「代理式商務」，改變企業採購與銷售邏輯，要求個人轉型為跨域整合的「聰明指揮家」。",
+    "quote": "人類悠悠歲月，只有我們這一代人有機會成為第一代 AI 的指揮家。",
+    "action": "每週挑選一項重複性工作完全交給 AI Agent 框架處理，並打造技術與管理兩條腿的 ∏ 型跨域能力",
+    "image": "/images/AI筆記/agentic-commerce.jpeg",
+    "date": "2026-04-24",
+    "source_has_timestamps": true,
+    "body": "你好！我是你的內容分析師與生活啟發導師。這段影片深入探討了 AI 從「助手」演變為「代理人」（Agent）的典範轉移，對於企業生存與個人職涯規劃具有極高的啟發性。以下是我為你精煉的深度萃取報告： 核心摘要 當前的 AI 浪潮已從單純的諮詢工具進化為具備執行力的「代理式商務」（Agentic Commerce）。這不僅改變了企業的採購與銷售邏輯，更要求個人從追求速度的「快工作者」轉型為具備跨域整合能力的「聰明指揮家」，以避免在 AI 自動化鏈條中被邊緣化。 ----- 詳細重點整理 1\\. 代理式商務的興起：企業的生存之戰 [(http://www.youtube.com/watch?v=90IpVeAUIbM&t=71)]    代理式商務 (Agentic Commerce)：未來的企業採購將由 AI Agent 自動尋找供應商並下單。若公司未將產品資訊 AI 化，無法被代理人搜尋到，將面臨「滅頂之災」。    關鍵概念：AI 可見度。未來企業的核心競爭力在於你的服務是否能被 AI 代理人理解並納入自動化採購清單中 [(http://www.youtube.com/watch?v=9",
+    "url": "/notes/agentic-commerce"
+  },
+  {
     "id": "workplace-layoff-legal-guide",
     "title": "職場暗黑整頓術：勞基法資遣與開除的法律攻防",
     "category": "學習筆記",
