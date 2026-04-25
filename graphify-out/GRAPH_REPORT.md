@@ -1,102 +1,102 @@
-# Graph Report - _notes  (2026-04-25)
+# Graph Report - ./_notes  (2026-04-26)
 
 ## Corpus Check
-- 1155 files · ~99,999 words
+- 285 files · ~99,999 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1155 nodes · 1190 edges · 87 communities detected
-- Extraction: 77% EXTRACTED · 23% INFERRED · 0% AMBIGUOUS · INFERRED: 279 edges (avg confidence: 0.79)
+- 1178 nodes · 1233 edges · 87 communities detected
+- Extraction: 76% EXTRACTED · 24% INFERRED · 0% AMBIGUOUS · INFERRED: 290 edges (avg confidence: 0.79)
 - Token cost: 0 input · 0 output
 
 ## Community Hubs (Navigation)
-- [[_COMMUNITY_Claude Agent & Harness|Claude Agent & Harness]]
-- [[_COMMUNITY_Salary Negotiation Tactics|Salary Negotiation Tactics]]
-- [[_COMMUNITY_AI Agent Context Governance|AI Agent Context Governance]]
-- [[_COMMUNITY_AI Content & Economic Impact|AI Content & Economic Impact]]
-- [[_COMMUNITY_AI Knowledge Capture|AI Knowledge Capture]]
-- [[_COMMUNITY_Agentic Commerce & AI Economy|Agentic Commerce & AI Economy]]
-- [[_COMMUNITY_AI Era Solo Venture|AI Era Solo Venture]]
-- [[_COMMUNITY_AI Design & Dev Automation|AI Design & Dev Automation]]
-- [[_COMMUNITY_AI Engineering & PM Practice|AI Engineering & PM Practice]]
-- [[_COMMUNITY_AI Product Management|AI Product Management]]
-- [[_COMMUNITY_Claude Code Architecture|Claude Code Architecture]]
-- [[_COMMUNITY_AI Safety & AGI|AI Safety & AGI]]
-- [[_COMMUNITY_Claude Browser & Web Tools|Claude Browser & Web Tools]]
-- [[_COMMUNITY_LLM Security & MCP Tools|LLM Security & MCP Tools]]
-- [[_COMMUNITY_Personal Development & Mindset|Personal Development & Mindset]]
-- [[_COMMUNITY_Empire Building & Office Politics|Empire Building & Office Politics]]
-- [[_COMMUNITY_AI Knowledge Graph & Ontology|AI Knowledge Graph & Ontology]]
-- [[_COMMUNITY_Finance & Property Strategy|Finance & Property Strategy]]
-- [[_COMMUNITY_Voice AI & Telephony|Voice AI & Telephony]]
-- [[_COMMUNITY_Obsidian PKM Plugins|Obsidian PKM Plugins]]
-- [[_COMMUNITY_Managing Up Weak Managers|Managing Up Weak Managers]]
-- [[_COMMUNITY_Dog Behavior & Psychology|Dog Behavior & Psychology]]
-- [[_COMMUNITY_Agentic Engineering Pillars|Agentic Engineering Pillars]]
-- [[_COMMUNITY_Business Economics Principles|Business Economics Principles]]
-- [[_COMMUNITY_Amazon Interview Prep|Amazon Interview Prep]]
-- [[_COMMUNITY_AI Presentation Automation|AI Presentation Automation]]
-- [[_COMMUNITY_Wealth Building with Debt|Wealth Building with Debt]]
-- [[_COMMUNITY_Influence Without Authority|Influence Without Authority]]
-- [[_COMMUNITY_Enterprise AI Context Value|Enterprise AI Context Value]]
-- [[_COMMUNITY_Decision Hygiene & Records|Decision Hygiene & Records]]
-- [[_COMMUNITY_AI Era Self-Promotion|AI Era Self-Promotion]]
-- [[_COMMUNITY_AI Agent Future Practice|AI Agent Future Practice]]
-- [[_COMMUNITY_AI Revolution Leadership|AI Revolution Leadership]]
-- [[_COMMUNITY_AI Coding Techniques|AI Coding Techniques]]
-- [[_COMMUNITY_AI Context Window Design|AI Context Window Design]]
-- [[_COMMUNITY_AI Design Leadership|AI Design Leadership]]
-- [[_COMMUNITY_AI Engineer Career Shift|AI Engineer Career Shift]]
-- [[_COMMUNITY_AI Startup Revenue Sprint|AI Startup Revenue Sprint]]
-- [[_COMMUNITY_Wellness & Anti-Cancer|Wellness & Anti-Cancer]]
-- [[_COMMUNITY_Workplace Narrative & Influence|Workplace Narrative & Influence]]
-- [[_COMMUNITY_AI Evaluation Methods|AI Evaluation Methods]]
-- [[_COMMUNITY_Handling Political Operators|Handling Political Operators]]
-- [[_COMMUNITY_Nvidia & Physical AI|Nvidia & Physical AI]]
-- [[_COMMUNITY_Finance & Risk Philosophy|Finance & Risk Philosophy]]
-- [[_COMMUNITY_Scrum in AI Era|Scrum in AI Era]]
-- [[_COMMUNITY_AI Era Thinking Habits|AI Era Thinking Habits]]
-- [[_COMMUNITY_Claude Code Memory Patterns|Claude Code Memory Patterns]]
-- [[_COMMUNITY_AI Era Career Development|AI Era Career Development]]
-- [[_COMMUNITY_Brain & Self Identity|Brain & Self Identity]]
-- [[_COMMUNITY_Dog Shadow Behavior|Dog Shadow Behavior]]
-- [[_COMMUNITY_AI Agent Economy 2026|AI Agent Economy 2026]]
-- [[_COMMUNITY_Claude Mythos & Eval|Claude Mythos & Eval]]
-- [[_COMMUNITY_Claude Managed Agents|Claude Managed Agents]]
-- [[_COMMUNITY_Delivery Cadence Collapse|Delivery Cadence Collapse]]
-- [[_COMMUNITY_AI Output vs Setup Mindset|AI Output vs Setup Mindset]]
-- [[_COMMUNITY_CLI Agent Native Tools|CLI Agent Native Tools]]
-- [[_COMMUNITY_Desire & Learning Psychology|Desire & Learning Psychology]]
-- [[_COMMUNITY_Gemini Voice Agent API|Gemini Voice Agent API]]
-- [[_COMMUNITY_Grey Rock & Narcissism Defense|Grey Rock & Narcissism Defense]]
-- [[_COMMUNITY_Strong Mindset & Partnership|Strong Mindset & Partnership]]
-- [[_COMMUNITY_Tension Headache Relief|Tension Headache Relief]]
-- [[_COMMUNITY_AI Agent Dev Principles|AI Agent Dev Principles]]
-- [[_COMMUNITY_Handling Bad Managers|Handling Bad Managers]]
-- [[_COMMUNITY_Anti-Aging Habits|Anti-Aging Habits]]
-- [[_COMMUNITY_AI Civilization & Memory|AI Civilization & Memory]]
-- [[_COMMUNITY_AI Code Review Tools|AI Code Review Tools]]
-- [[_COMMUNITY_AI Behavioral Prediction Limits|AI Behavioral Prediction Limits]]
-- [[_COMMUNITY_AI-Driven Product Design|AI-Driven Product Design]]
-- [[_COMMUNITY_AI Intent Security|AI Intent Security]]
-- [[_COMMUNITY_Format-Agnostic AI Thinking|Format-Agnostic AI Thinking]]
-- [[_COMMUNITY_Enterprise RBAC Architecture|Enterprise RBAC Architecture]]
-- [[_COMMUNITY_Human Survival Under AI|Human Survival Under AI]]
-- [[_COMMUNITY_Modern System Architecture|Modern System Architecture]]
-- [[_COMMUNITY_Mitochondria & Longevity|Mitochondria & Longevity]]
-- [[_COMMUNITY_Strategic Use of Adversaries|Strategic Use of Adversaries]]
-- [[_COMMUNITY_Markdown for LLMs|Markdown for LLMs]]
-- [[_COMMUNITY_Layoff Defense Strategy|Layoff Defense Strategy]]
-- [[_COMMUNITY_Marginal Economic Thinking|Marginal Economic Thinking]]
-- [[_COMMUNITY_Search Index Scripts|Search Index Scripts]]
-- [[_COMMUNITY_Workplace Legal Defense|Workplace Legal Defense]]
-- [[_COMMUNITY_AI Social Media Automation|AI Social Media Automation]]
-- [[_COMMUNITY_Hip Recovery Exercises|Hip Recovery Exercises]]
-- [[_COMMUNITY_iPhone Productivity Tips|iPhone Productivity Tips]]
-- [[_COMMUNITY_Strategic Scarcity & Visibility|Strategic Scarcity & Visibility]]
-- [[_COMMUNITY_Developer Productivity Paradox|Developer Productivity Paradox]]
-- [[_COMMUNITY_Economic Incentive Alignment|Economic Incentive Alignment]]
-- [[_COMMUNITY_Claude Code Workflow Modes|Claude Code Workflow Modes]]
+- [[_COMMUNITY_AI 多代理人協作架構|AI 多代理人協作架構]]
+- [[_COMMUNITY_AI 輔助軟件工程實務|AI 輔助軟件工程實務]]
+- [[_COMMUNITY_薪資談判策略全集|薪資談判策略全集]]
+- [[_COMMUNITY_AI 代理脈絡圖譜治理|AI 代理脈絡圖譜治理]]
+- [[_COMMUNITY_AI 驅動內容創作系統|AI 驅動內容創作系統]]
+- [[_COMMUNITY_AI 決策記錄與脈絡擷取|AI 決策記錄與脈絡擷取]]
+- [[_COMMUNITY_代理商務與 AI 指揮架構|代理商務與 AI 指揮架構]]
+- [[_COMMUNITY_AI 時代獨立創業槓桿|AI 時代獨立創業槓桿]]
+- [[_COMMUNITY_AI 驅動設計自動化|AI 驅動設計自動化]]
+- [[_COMMUNITY_Claude Code 記憶系統比較|Claude Code 記憶系統比較]]
+- [[_COMMUNITY_AI 時代產品管理轉型|AI 時代產品管理轉型]]
+- [[_COMMUNITY_Claude Code 六層架構|Claude Code 六層架構]]
+- [[_COMMUNITY_AI 安全與對齊問題|AI 安全與對齊問題]]
+- [[_COMMUNITY_瀏覽器代理與網路爬蟲|瀏覽器代理與網路爬蟲]]
+- [[_COMMUNITY_LLM 安全漏洞防護|LLM 安全漏洞防護]]
+- [[_COMMUNITY_個人成長心態修煉|個人成長心態修煉]]
+- [[_COMMUNITY_職場帝國建構策略|職場帝國建構策略]]
+- [[_COMMUNITY_知識本體與上下文圖譜|知識本體與上下文圖譜]]
+- [[_COMMUNITY_資產法律與訂閱陷阱|資產法律與訂閱陷阱]]
+- [[_COMMUNITY_Gemini 語音代理人部署|Gemini 語音代理人部署]]
+- [[_COMMUNITY_Obsidian 知識管理系統|Obsidian 知識管理系統]]
+- [[_COMMUNITY_職場弱主管應對策略|職場弱主管應對策略]]
+- [[_COMMUNITY_犬隻情感與心理學|犬隻情感與心理學]]
+- [[_COMMUNITY_代理工程五大支柱|代理工程五大支柱]]
+- [[_COMMUNITY_商業經濟學與行為分析|商業經濟學與行為分析]]
+- [[_COMMUNITY_亞馬遜行為面試技巧|亞馬遜行為面試技巧]]
+- [[_COMMUNITY_Marp AI 簡報自動化|Marp AI 簡報自動化]]
+- [[_COMMUNITY_富人槓桿財富策略|富人槓桿財富策略]]
+- [[_COMMUNITY_無職權影響力建立|無職權影響力建立]]
+- [[_COMMUNITY_企業 AI 脈絡決策追蹤|企業 AI 脈絡決策追蹤]]
+- [[_COMMUNITY_決策記錄與代理經濟|決策記錄與代理經濟]]
+- [[_COMMUNITY_AI 時代自我價值說明|AI 時代自我價值說明]]
+- [[_COMMUNITY_AI 代理人現況實踐|AI 代理人現況實踐]]
+- [[_COMMUNITY_領導者 AI 轉型思維|領導者 AI 轉型思維]]
+- [[_COMMUNITY_AI 上下文視窗理論|AI 上下文視窗理論]]
+- [[_COMMUNITY_AI 創意設計導演角色|AI 創意設計導演角色]]
+- [[_COMMUNITY_AI 工程師職涯轉型|AI 工程師職涯轉型]]
+- [[_COMMUNITY_AI 新創 90 天獲利|AI 新創 90 天獲利]]
+- [[_COMMUNITY_抗癌健康生活方式|抗癌健康生活方式]]
+- [[_COMMUNITY_職場政治與晉升策略|職場政治與晉升策略]]
+- [[_COMMUNITY_AI 評估與 LLM 評審|AI 評估與 LLM 評審]]
+- [[_COMMUNITY_職場政治操縱者防禦|職場政治操縱者防禦]]
+- [[_COMMUNITY_NVIDIA GPU 與 AI 基礎設施|NVIDIA GPU 與 AI 基礎設施]]
+- [[_COMMUNITY_財務風險哲學與富豪類型|財務風險哲學與富豪類型]]
+- [[_COMMUNITY_AI 時代敏捷方法論|AI 時代敏捷方法論]]
+- [[_COMMUNITY_AI 時代思維習慣與心態|AI 時代思維習慣與心態]]
+- [[_COMMUNITY_Claude Code 記憶模式|Claude Code 記憶模式]]
+- [[_COMMUNITY_AI 時代高主動性職涯|AI 時代高主動性職涯]]
+- [[_COMMUNITY_大腦自我認同建構|大腦自我認同建構]]
+- [[_COMMUNITY_犬隻跟蹤行為心理學|犬隻跟蹤行為心理學]]
+- [[_COMMUNITY_2026 AI 代理人經濟趨勢|2026 AI 代理人經濟趨勢]]
+- [[_COMMUNITY_Claude 精簡設計哲學|Claude 精簡設計哲學]]
+- [[_COMMUNITY_Claude 託管代理人服務|Claude 託管代理人服務]]
+- [[_COMMUNITY_交付加速與 DevOps|交付加速與 DevOps]]
+- [[_COMMUNITY_避免配置成癮增加產出|避免配置成癮增加產出]]
+- [[_COMMUNITY_CLI 終端生產力工具|CLI 終端生產力工具]]
+- [[_COMMUNITY_學習動機與訊息過載|學習動機與訊息過載]]
+- [[_COMMUNITY_Google 語音 AI 更新|Google 語音 AI 更新]]
+- [[_COMMUNITY_灰岩效應與認知靈活性|灰岩效應與認知靈活性]]
+- [[_COMMUNITY_心態修煉與精英反自學|心態修煉與精英反自學]]
+- [[_COMMUNITY_運動健康修復習慣|運動健康修復習慣]]
+- [[_COMMUNITY_AI 代理人開發原則|AI 代理人開發原則]]
+- [[_COMMUNITY_惡劣主管應對與出走|惡劣主管應對與出走]]
+- [[_COMMUNITY_抗老化生物節律習慣|抗老化生物節律習慣]]
+- [[_COMMUNITY_AI 代理文明記憶外化|AI 代理文明記憶外化]]
+- [[_COMMUNITY_AI 程式碼審查對抗|AI 程式碼審查對抗]]
+- [[_COMMUNITY_AI 預測人類行為限制|AI 預測人類行為限制]]
+- [[_COMMUNITY_AI 重新定義產品設計|AI 重新定義產品設計]]
+- [[_COMMUNITY_AI 意圖洗白安全威脅|AI 意圖洗白安全威脅]]
+- [[_COMMUNITY_格式無關的 AI 思維|格式無關的 AI 思維]]
+- [[_COMMUNITY_企業 RBAC 權限架構|企業 RBAC 權限架構]]
+- [[_COMMUNITY_AI 時代人類生存策略|AI 時代人類生存策略]]
+- [[_COMMUNITY_現代軟體架構基礎|現代軟體架構基礎]]
+- [[_COMMUNITY_逆齡粒線體優化|逆齡粒線體優化]]
+- [[_COMMUNITY_戰略隱形與權力運用|戰略隱形與權力運用]]
+- [[_COMMUNITY_LLM 網頁 Markdown 轉換|LLM 網頁 Markdown 轉換]]
+- [[_COMMUNITY_職場裁員法律防護|職場裁員法律防護]]
+- [[_COMMUNITY_邊際思考商業法則|邊際思考商業法則]]
+- [[_COMMUNITY_搜尋索引重建腳本|搜尋索引重建腳本]]
+- [[_COMMUNITY_職場性騷擾法律防護|職場性騷擾法律防護]]
+- [[_COMMUNITY_AI 社群媒體自動化|AI 社群媒體自動化]]
+- [[_COMMUNITY_馬步髖關節復健|馬步髖關節復健]]
+- [[_COMMUNITY_iPhone 檔案管理技巧|iPhone 檔案管理技巧]]
+- [[_COMMUNITY_策略性隱身與稀缺性|策略性隱身與稀缺性]]
+- [[_COMMUNITY_軟工產能悖論|軟工產能悖論]]
+- [[_COMMUNITY_激勵對齊經濟學|激勵對齊經濟學]]
+- [[_COMMUNITY_Claude Code 隔離工作模式|Claude Code 隔離工作模式]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `Obsidian 必裝插件：新手打造第二大腦的 8 款神器` - 13 edges
@@ -105,10 +105,10 @@
 4. `Decision Record (DR)` - 8 edges
 5. `Claude Code 6-Layer Architecture` - 7 edges
 6. `Model Context Protocol (MCP)` - 7 edges
-7. `帝國主義建設` - 6 edges
-8. `IAM四階段成熟度模型` - 6 edges
-9. `AI知識系統的革命性轉變：從健忘到複利` - 6 edges
-10. `Claude Code代理人團隊與TMUX實戰` - 6 edges
+7. `六大記憶層級系統` - 7 edges
+8. `帝國主義建設` - 6 edges
+9. `IAM四階段成熟度模型` - 6 edges
+10. `AI知識系統的革命性轉變：從健忘到複利` - 6 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `語境/私有數據` --semantically_similar_to--> `Open Brain 開放大腦`  [INFERRED] [semantically similar]
@@ -117,390 +117,425 @@
   _notes/dog-eye-contact-guide.md → _notes/dog-love-neuroscience.md
 - `系統優於目標` --semantically_similar_to--> `治理工程（Harness Engineering）`  [INFERRED] [semantically similar]
   _notes/redefining-intelligence-self-evolution.md → _notes/harness-engineering-from-openai.md
-- `Agentic Loop (Core While Loop)` --semantically_similar_to--> `Programmatic Tool Calling (程式化工具調用)`  [INFERRED] [semantically similar]
-  _notes/claude-code-six-layer-architecture.md → _notes/the-future-of-mcp.md
+- `Programmatic Tool Calling (程式化工具調用)` --semantically_similar_to--> `Agentic Loop (Core While Loop)`  [INFERRED] [semantically similar]
+  _notes/the-future-of-mcp.md → _notes/claude-code-six-layer-architecture.md
 - `多模態 AI 助理（語音與視覺感知）` --semantically_similar_to--> `AI 代理人作為新應用層`  [INFERRED] [semantically similar]
   _notes/add-telephony-gemini-live-agent.md → _notes/the-new-application-layer.md
 
 ## Hyperedges (group relationships)
-- **AI時代角色轉型：PM/設計師/工程師共同轉向品味與判斷** — claude_design_team_sprint_role_transformation, anthropic_pm_fast_iteration_pm_taste, ai_coding_for_real_engineers_code_taste, how_to_become_builder_pm_builder_pm [INFERRED 0.85]
-- **Claude Code 記憶層級系統：從 Markdown 到雲端大腦** — claude_code_memory_systems_compared_claude_md, claude_code_memory_systems_compared_session_start_hook, claude_code_memory_systems_compared_mem_search, claude_code_memory_systems_compared_mempalace, claude_code_memory_systems_compared_cloud_brain [EXTRACTED 0.95]
-- **代理人上下文管理模式：跨工具的統一解法** — claude_code_workflows_explained_context_rot, claude_code_project_management_upgrade_context_management, claude_code_memory_systems_compared_claude_md, ai_coding_for_real_engineers_smart_zone [INFERRED 0.80]
+- **** — ai_knowledge_system_revolution_primary, ai_knowledge_system_self_evolving_primary, ai_research_workflow_claude_notebooklm_obsidian_primary [EXTRACTED 1.00]
+- **迭代改善系統：反饋迴路、垃圾回收日與系統優於目標** — redefining_feedback_loop, harness_garbage_collection, redefining_systems_over_goals [INFERRED 0.78]
+- **** — ai_software_paradigm_main, ai_engineer_transformation_main, ai_era_engineer_career_bet_main [INFERRED 0.90]
+- **** — claude_code_six_dimensional_memory_system_main, claude_code_hidden_features_optimization_main, claude_cowork_project_features_main [INFERRED 0.85]
+- **AI知識管理三角：情境基礎設施、決策記錄、脈絡圖** — enterprise_ai_context_infrastructure_context_infrastructure, ai_capture_decision_record_decision_record, ai_capture_decision_record_context_graph, enterprise_ai_context_infrastructure_knowledge_graph [INFERRED 0.82]
+- **** — ai_era_boss_main, ai_era_human_role_main, ai_era_core_skill_judgment_main [INFERRED 0.85]
+- **Robert Greene 的權力哲學（隱身、自控、流動）** — learn_to_disappear_strategic_invisibility, learn_to_disappear_dynamic_adaptation, how_to_use_enemies_self_control, how_to_use_enemies_mental_fluidity [EXTRACTED 0.92]
+- **創業獲利與韌性方法論** —  [INFERRED 0.90]
+- **上下文圖譜三合一主題** —  [INFERRED 0.90]
+- **AI代理安全治理三重奏** — ai_agent_iam_maturity_model_main, ai_agent_destructive_decisions_main, ai_agent_context_graph_governance_main [INFERRED 0.80]
+- **** — claude_ai_agent_team_deep_dive_main, claude_code_agent_teams_tmux_main, claude_code_ai_marketing_team_main [INFERRED 0.85]
+- **狗狗情感與依附連結主題群** —  [INFERRED 0.90]
+- **AI代理時代軟體工程轉型** —  [INFERRED 0.90]
+- **解雇生命週期（解雇主管→被解雇談判→跳級推翻）** — 14_how_to_fire_managers_main, 15_negotiating_when_fired_main, 13_skip_overruling_firing_main [EXTRACTED 1.00]
+- **** — claude_code_ai_agent_architecture_deep_dive_main, claude_code_leak_deep_analysis_main, claude_code_internal_architecture_main [INFERRED 0.95]
+- **AI時代人類適應策略：系統思考、治理工程與個體代理力** — redefining_systems_thinking, harness_engineering, ai_safety_individual_agency [INFERRED 0.82]
+- **自動化衝擊應對框架：廉價程式碼、認知勞動替代與硬資產防禦** — harness_code_cheap, ai_safety_cognitive_labor_automation, ai_safety_hard_assets [INFERRED 0.75]
+- **AI 時代軟體交付系統設計** —  [INFERRED 0.88]
+- **代理架構-Harness-評測閉環** — ai_agent_four_species_main, ai_agent_long_running_blueprint_main, ai_agent_evaluation_system_design_main [INFERRED 0.82]
+- **** — ai_evaluation_guide_primary, ai_evaluation_systematic_quality_primary, ai_product_evals_primary [EXTRACTED 1.00]
+- **** — ai_era_product_management_primary, ai_era_software_engineering_primary, ai_era_solo_company_primary [INFERRED 0.90]
+- **Context Reduction Strategies (Prompt Caching + Progressive Discovery + Context Slimming)** — claude_code_six_layer_architecture_prompt_caching, the_future_of_mcp_progressive_discovery, the_future_of_mcp_context_slimming [INFERRED 0.85]
+- **Agent Safety & Control Mechanisms (Deny-First + Execution Contracts + 10-Step Pipeline)** — claude_code_six_layer_architecture_deny_first_architecture, claude_code_six_layer_architecture_ten_step_pipeline, rethinking_ai_agents_execution_contracts [INFERRED 0.78]
+- **Agentic Architecture Paradigm (6-Layer Arch + Harness Engineering + MCP Connectivity)** — claude_code_six_layer_architecture_six_layer_architecture, rethinking_ai_agents_harness_engineering, the_future_of_mcp_connectivity_tech_stack [INFERRED 0.82]
+- **多代理專業分工協作模式 (Google+Gemini+BuildingTeam)** — building_ai_agent_team_seven_roles, gemini_enterprise_agent_platform_a2a, google_cloud_next_26_keynote_digital_task_forces [INFERRED 0.80]
+- **企業AI代理完整生命週期模式 (構建-評估-部署-優化)** — google_agents_cli_agents_cli, gemini_enterprise_agent_platform_adk, gemini_enterprise_agent_platform_agent_optimizer, google_agents_cli_evaluation_harness, google_agents_cli_secure_deployment [EXTRACTED 0.90]
+- **AI 代理協議生態系（MCP + ACP + 應用層架構）** — ai_agent_protocols_mcp, ai_agent_protocols_acp, new_app_layer_ai_agents, gergely_enterprise_ai_infra [INFERRED 0.85]
+- **上下文/脈絡圖譜決策追蹤體系** — ai_agent_context_graph_essentials_main, ai_agent_context_graph_governance_main, ai_agents_context_graph_decision_tracing_main [EXTRACTED 1.00]
+- **人類行為分析框架：心理偏誤、基線行為、認知失調** — how_spies_analyze_you_baseline_behavior, how_spies_analyze_you_hotspot, howard_marks_investment_philosophy_cognitive_dissonance, economics_drives_business_bounded_rationality, how_spies_analyze_you_liking_principle [INFERRED 0.75]
+- **** — ai_context_window_desktop_main, ai_context_window_wisc_main, ai_cost_optimization_main [INFERRED 0.85]
+- **AI 時代工程師角色演化（代理調度員、機甲、引導式開發）** — gergely_mech_suit_engineer, ai_agent_protocols_guided_development, new_app_layer_application_layer_dominance, gergely_leaving_priors [INFERRED 0.80]
+- **Ethan 重組/帝國/兵變三位一體** — 01_empire_building_main, 03_managing_out_via_reorgs_main, 04_bad_managers_and_mutiny_main [EXTRACTED 1.00]
+- **AI代理化轉型：代理式商務、效能躍遷、∏型人才** — agentic_commerce_agentic_commerce, agentic_commerce_performance_leap, agentic_commerce_pi_talent, agentic_commerce_ai_conductor, agentic_commerce_compute_replaces_labor [EXTRACTED 0.90]
+- **薪資談判全套實戰手冊** —  [EXTRACTED 0.95]
+- **精準措辭與政治溝通群集** — 05_political_messaging_careful_phrasing, 10_backchanneling_main, 15_negotiating_when_fired_graceful_exit, 01_empire_building_quid_pro_quo [INFERRED 0.85]
+- **上下文隔離模式：Fork、Worktree、子代理人共同解決 Context Rot** — claude_code_skill_chaining_context_optimization_context_fork, claude_code_workflows_explained_worktree, claude_code_workflows_explained_subagents, claude_code_workflows_explained_context_rot [INFERRED 0.85]
+- **AI 時代 PM 角色演化：Builder PM、極速迭代、品味決策三位一體** — how_to_become_builder_pm_builder_pm, anthropic_pm_fast_iteration_pm_role_shift, anthropic_pm_fast_iteration_product_taste, claude_design_team_sprint_role_transformation [INFERRED 0.82]
+- **記憶與 RAG 系統：claude.md、mem-search、Memory Bank 跨工具知識持久化** — claude_code_memory_systems_compared_claude_md, claude_code_memory_systems_compared_mem_search, google_cloud_next_26_developer_keynote_memory_bank, claude_code_memory_systems_compared_cloud_brain [INFERRED 0.78]
 
 ## Communities
 
-### Community 0 - "Claude Agent & Harness"
+### Community 0 - "AI 多代理人協作架構"
 Cohesion: 0.04
 Nodes (54): Auto Research 自動化研究框架, 扇出與扇入架構 (Fan-out/Fan-in), 代理裝載器 (Harness), Claude AI代理團隊深度課程解析, autoCompactPercentageOverride, Exit Code 2 Hook 控制, Claude Code 十二個進階設定技巧, settings.json 進階設定 (+46 more)
 
-### Community 1 - "Salary Negotiation Tactics"
+### Community 1 - "AI 輔助軟件工程實務"
+Cohesion: 0.06
+Nodes (43): 代碼品味（Code Taste）守門員, LLM 認知極限（聰明區/愚笨區）, 深層模組架構（Deep Modules）, Grill Me 深度對齊技巧, AI 聰明區 vs 愚笨區 (Smart/Dumb Zone), TDD 測試驅動開發（AI 回饋環）, 垂直切片/曳光彈開發法 (Tracer Bullets), 垂直切片開發法（Tracer Bullets） (+35 more)
+
+### Community 2 - "薪資談判策略全集"
 Cohesion: 0.05
 Nodes (42): 錨點策略與推回話術, 收到Offer後的標準操作, 績效條款, 薪資談判一頁式速查表, 不用Email談判原則, 徹底坦率(Radical Candor)精神, 資訊不對稱消除, 建立談判自信與消除摩擦 (+34 more)
 
-### Community 2 - "AI Agent Context Governance"
+### Community 3 - "AI 代理脈絡圖譜治理"
 Cohesion: 0.06
 Nodes (39): 決策軌跡, 制度記憶, 脈絡圖譜與決策軌跡, 委託授權Token交換, 上下文圖譜治理架構, 來源追溯與操作信任, AI代理毀滅性決策風險, 社交工程情感勒索 (+31 more)
 
-### Community 3 - "AI Content & Economic Impact"
+### Community 4 - "AI 驅動內容創作系統"
 Cohesion: 0.06
 Nodes (38): 內容瀑布分發, 慾望地圖, 知識泉源監控, AI 一人內容創作系統, 幽靈 GDP, 智力溢價回撤, AI 摧毀全球經濟, 優質房貸危機 (+30 more)
 
-### Community 4 - "AI Knowledge Capture"
+### Community 5 - "AI 決策記錄與脈絡擷取"
 Cohesion: 0.06
 Nodes (37): AI輔助生成DR草案 (5分鐘原則), 決策脈絡腐敗 (Context Decay), Decision Record (DR) 決策記錄, 決策「Why」理由捕捉機制, 重新檢視條件 (Revisit Conditions), 協作優先架構 (Collaboration First), 因才適用模型選擇策略, 評論者代理 (Critic Agent) (+29 more)
 
-### Community 5 - "Agentic Commerce & AI Economy"
+### Community 6 - "代理商務與 AI 指揮架構"
 Cohesion: 0.06
 Nodes (37): 1-2-3 指揮家法則, 代理式商務 (Agentic Commerce), AI指揮家 (AI Conductor), AI可見度 (AI Visibility), 算力換人力 (Compute Replaces Labor), 組織負能 (Organizational Inertia), 效能躍遷 (Performance Leap), ∏型人才 (Pi-shaped Talent) (+29 more)
 
-### Community 6 - "AI Era Solo Venture"
+### Community 7 - "AI 時代獨立創業槓桿"
 Cohesion: 0.06
 Nodes (36): AI員工, 生產槓桿, 編排 Orchestrate, AI時代一人公司的新常態, 木桶理論, Keith Rabois, Keith Rabois AI時代世界級團隊建設, 執行速率 Velocity (+28 more)
 
-### Community 7 - "AI Design & Dev Automation"
+### Community 8 - "AI 驅動設計自動化"
 Cohesion: 0.06
 Nodes (36): 設計系統 Design System, Stitch 2.0結合AI的網站設計自動化, Shadcn UI, Stitch 2.0, 代理工作流, 開發者體驗 DevX, AI轉型的關鍵：開發者體驗與組織系統痛點, 務實組織轉型 (+28 more)
 
-### Community 8 - "AI Engineering & PM Practice"
-Cohesion: 0.06
-Nodes (36): 代碼品味守門員 (Engineer as Taste Gatekeeper), 深層模組架構 (Deep Modules), TDD 測試驅動開發 (AI反饋環), 100%自動化法則, Claude Co-work (非代碼任務整合), 常青發佈室 (Evergreen Launch Room), 極速迭代文化 (Fast Iteration Culture), 產品品味決策 (PM Taste Decision) (+28 more)
+### Community 9 - "Claude Code 記憶系統比較"
+Cohesion: 0.09
+Nodes (29): claude.md 原生記憶系統, 跨工具雲端大腦（Mem0/Open Brain）, LLM Wiki 互聯知識庫, mem-search 語義搜索插件, 六大記憶層級系統, MemPalace 記憶宮殿框架, Session Start Hook 自動注入, Session Start Hook 自動注入 (+21 more)
 
-### Community 9 - "AI Product Management"
+### Community 10 - "AI 時代產品管理轉型"
 Cohesion: 0.07
 Nodes (28): 反待辦清單, 產品鐵三角, AI時代的產品管理轉型：全端通才的崛起, 全端通才 Triple Threat, AI代理人, 企業AI轉型, 工程師變魔法師, AI時代的軟體工程轉型：工程師變魔法師 (+20 more)
 
-### Community 10 - "Claude Code Architecture"
+### Community 11 - "Claude Code 六層架構"
 Cohesion: 0.1
 Nodes (27): Agentic Loop (Core While Loop), Context Window & Token Economics (Quadratic Tax), Deny-First Architecture (Guardrails), Extended Thinking (ReAct Framework), MCP Tools (Layer in System Prompt), Prompt Caching (90% Cost Reduction), Claude Code 6-Layer Architecture, Subagents (Parallel Delegation) (+19 more)
 
-### Community 11 - "AI Safety & AGI"
+### Community 12 - "AI 安全與對齊問題"
 Cohesion: 0.11
 Nodes (24): AGI 2年內衝擊所有職業, 通用人工智慧（AGI）, 控制難題（Alignment Problem）, 認知勞動自動化, 教育體系崩潰與重新定義, 硬資產防禦, 個體代理力（Agency）, 程式碼廉價化 (+16 more)
 
-### Community 12 - "Claude Browser & Web Tools"
+### Community 13 - "瀏覽器代理與網路爬蟲"
 Cohesion: 0.09
 Nodes (23): Claude瀏覽器擴充功能代理人, 提示詞注入風險 (Prompt Injection), 錄製與排程功能 (Shortcuts), Firecrawl 網頁抓取引擎, Claude Code結合Firecrawl爬蟲, Schema 定義精簡資料擷取, Codeex 雙重 Agent 校驗, /dream 記憶做夢模式 (+15 more)
 
-### Community 13 - "LLM Security & MCP Tools"
+### Community 14 - "LLM 安全漏洞防護"
 Cohesion: 0.11
 Nodes (23): AI Gateway 防禦層, 資料中毒與供應鏈漏洞, OWASP LLM 十大安全威脅, 提示詞注入攻擊, MCP2CLI 解決上下文膨脹, 運行時 MCP 轉 CLI, 技能系統 Skills, Token 效率優化 (+15 more)
 
-### Community 14 - "Personal Development & Mindset"
+### Community 15 - "個人成長心態修煉"
 Cohesion: 0.1
 Nodes (22): 筆記本紀律, 個人發展投資, Jim Rohn 成功心態與個人發展, 從小自律開始, 初學者之心, 隨機騙局與倖存者偏差, 頂尖1%自我教育書單, 逆思維與科學家心態 (+14 more)
 
-### Community 15 - "Empire Building & Office Politics"
+### Community 16 - "職場帝國建構策略"
 Cohesion: 0.1
 Nodes (21): 好人是負債, 人頭數量化陷阱, 帝國主義建設, 利益交換與口頭協議, 敘事者角色（重組敘事）, 搶奪職責範疇, 1% 實驗法則, 為老闆解決問題 (+13 more)
 
-### Community 16 - "AI Knowledge Graph & Ontology"
+### Community 17 - "知識本體與上下文圖譜"
 Cohesion: 0.1
 Nodes (21): 語義消歧與脈絡流失, 本體論 Ontology, Context Graph 為 AI 優化的知識圖譜, RDF 與屬性圖, 委託授權與全鏈條追蹤, 知識型存取控制 KBAC, 上下文圖譜作為代理企業控制平面, GraphRAG 知識圖譜增強 (+13 more)
 
-### Community 17 - "Finance & Property Strategy"
+### Community 18 - "資產法律與訂閱陷阱"
 Cohesion: 0.1
 Nodes (21): 黑暗模式, 所有權, 訂閱制陷阱, 房產贈與稅務陷阱, 資產傳承策略, 公告現值, 產業聚落效應, 矽盾 (+13 more)
 
-### Community 18 - "Voice AI & Telephony"
+### Community 19 - "Gemini 語音代理人部署"
 Cohesion: 0.11
 Nodes (21): 音訊格式轉換（PCM 24kHz vs mu-law 8kHz）, Google Cloud Run 雲端部署, Gemini 1.5 Flash Live API, 多模態 AI 助理（語音與視覺感知）, Twilio 媒體串流與 WebSocket 整合, ACP（代理客戶端協議）, AI 原生桌面應用（去終端化）, 引導式開發（產品經理與 AI 協作） (+13 more)
 
-### Community 19 - "Obsidian PKM Plugins"
+### Community 20 - "Obsidian 知識管理系統"
 Cohesion: 0.16
 Nodes (20): 1-3-3 安裝法則, Calendar（日曆插件）, 降低認知負擔, 每日筆記（Daily Notes）, Floating Captions, 心流保護, 輸入即整理（資訊獲取）, 靈感捕捉（Capture） (+12 more)
 
-### Community 20 - "Managing Up Weak Managers"
+### Community 21 - "職場弱主管應對策略"
 Cohesion: 0.11
 Nodes (19): 職場能動性, 創造個人槓桿, 應對軟弱主管, 雨傘 vs 漏斗主管, 建構性解雇風險, 提供撤退之門, 如何解雇主管, 績效改善計畫 PIP (+11 more)
 
-### Community 21 - "Dog Behavior & Psychology"
+### Community 22 - "犬隻情感與心理學"
 Cohesion: 0.12
 Nodes (19): 規則一致性, 狗狗情感傷害的十種行為, 威脅訊號與柔和眼神, 狗狗情感需求三支柱, 穩定生活節律, 安全基地陪伴, 僵硬凝視攻擊預兆, 催產素綁架迴路 (+11 more)
 
-### Community 22 - "Agentic Engineering Pillars"
+### Community 23 - "代理工程五大支柱"
 Cohesion: 0.12
 Nodes (19): 程式碼庫優化, 複利工程, 上下文工程, 代理工程五大支柱, 主觀美學量化, 上下文重置策略, Claude前端多代理Harness, 衝刺契約機制 (+11 more)
 
-### Community 23 - "Business Economics Principles"
+### Community 24 - "商業經濟學與行為分析"
 Cohesion: 0.13
 Nodes (18): 有限理性 (Bounded Rationality), 資訊不對稱 (Information Asymmetry), 市場力量 (Market Power), 基線行為 (Baseline Behavior), B-H-A 觀察法則, 身體語言洩漏 (Body Language Leakage), 誘導與互惠原理 (Elicitation & Reciprocity), 情緒熱點 (Hotspot / Psychological Charge) (+10 more)
 
-### Community 24 - "Amazon Interview Prep"
+### Community 25 - "亞馬遜行為面試技巧"
 Cohesion: 0.12
 Nodes (16): 領導力原則, Amazon行為面試的三個評估維度, 預測式面試思維, 複雜度判斷力影響力三維度, 極度誠實, 億萬富翁的30年人生智慧, 過程導向成長, 地位陷阱 (+8 more)
 
-### Community 25 - "AI Presentation Automation"
+### Community 26 - "Marp AI 簡報自動化"
 Cohesion: 0.13
 Nodes (16): Claude Code 整合簡報, 強制視覺化學習法, Markdown 簡報生態, Marp AI 簡報自動化, GitHub 雲端同步備份, 專案自動化導入流程, Obsidian AI 第二大腦工作流, 自動化路由指令 (+8 more)
 
-### Community 26 - "Wealth Building with Debt"
+### Community 27 - "富人槓桿財富策略"
 Cohesion: 0.13
 Nodes (16): 資產抵押貸款, Buy Borrow Die 策略, 槓桿資產思維, 富人債務致富底層邏輯, CAC與LTV比例, 商業指標三位一體, 利潤率(Margins), 創業擁抱麻煩事與轉型 (+8 more)
 
-### Community 27 - "Influence Without Authority"
+### Community 28 - "無職權影響力建立"
 Cohesion: 0.13
 Nodes (15): Amazon Cloud Drive 故事, 無職權的影響力, 風格對齊（解雇隱因）, 願景故事傳播, 人際膠帶（組織破碎現實）, 跳級主管推翻解雇, 社交台階, Mike Tyson 拳頭名言 (+7 more)
 
-### Community 28 - "Enterprise AI Context Value"
+### Community 29 - "企業 AI 脈絡決策追蹤"
 Cohesion: 0.14
 Nodes (15): 決策軌跡捕捉, 聲明式開發, 企業情境圖譜核心價值, 世界模型, 冷啟動痛點, Git Hooks自動同步, Graphify專案知識圖譜, 71倍Token優化 (+7 more)
 
-### Community 29 - "Decision Hygiene & Records"
+### Community 30 - "決策記錄與代理經濟"
 Cohesion: 0.13
 Nodes (15): 決策衛生, 決策紀錄法, 會議效率, 代理人經濟, 可程式化貨幣, 實體資產代幣化, AI原生思維, 提示工程 (+7 more)
 
-### Community 30 - "AI Era Self-Promotion"
+### Community 31 - "AI 時代自我價值說明"
 Cohesion: 0.15
 Nodes (15): 4-W 檢索法則（What/Why/Warning/Wrestle）, 解釋工件（Explanation Artifact）, 將解釋視為核心產物（原則二）, 四大核心問題框架, 微交易與公開運作（原則三與四）, AI讓產出免費：品味與理解力才是真正競爭力, 生產力溢出（Productivity Overflow）, 解釋工件的設計理由：證明人類意圖存在 (+7 more)
 
-### Community 31 - "AI Agent Future Practice"
+### Community 32 - "AI 代理人現況實踐"
 Cohesion: 0.15
 Nodes (14): 暗黑工廠模式, 致命三要素提示詞注入, AI代理現狀與代理工程, 紅綠測試驅動開發, LLM as a judge, AI代理四層評測體系, 機率性系統CI, 程式碼輔助Harness (+6 more)
 
-### Community 32 - "AI Revolution Leadership"
+### Community 33 - "領導者 AI 轉型思維"
 Cohesion: 0.22
 Nodes (13): 1-3-3 轉型法則, AI 代理人客服應用, AI 作為決策與策略參與者, AI 轉型 vs. 數位轉型, 老闆生產力優先原則, 資料水管架構（Data Pipeline for AI）, 組織再造的 DeepMind 模式, 領導者的自我革命 (+5 more)
 
-### Community 33 - "AI Coding Techniques"
-Cohesion: 0.15
-Nodes (13): Grill Me 技巧 / 深度對齊機制, AI 聰明區 vs 愚笨區 (Smart/Dumb Zone), 垂直切片/曳光彈開發法 (Tracer Bullets), claude.md 原生記憶系統, mem-search 語義搜索插件 (RAG), MemPalace 記憶宮殿框架, Session Start Hook 自動注入, Agentic OS / Claude Desktop 代理作業系統 (+5 more)
-
-### Community 34 - "AI Context Window Design"
+### Community 34 - "AI 上下文視窗理論"
 Cohesion: 0.21
 Nodes (12): 3-P 提問法則, 桌面理論, 迷失在中間/上下文腐蝕, 上下文視窗：桌面非記憶, WISC 架構上下文管理, 上下文腐敗與注意力衰減, 子代理隔離模式, WISC 四大策略 (+4 more)
 
-### Community 35 - "AI Design Leadership"
+### Community 35 - "AI 創意設計導演角色"
 Cohesion: 0.18
 Nodes (12): 具象詞彙設計, 視覺權重階層, AI 設計創意總監指南, Stitch 設計工具, 21st.dev 微互動組件, AI Slop 廉價感, Claude Code 擊碎AI廉價感, Skill UI 逆向工程 (+4 more)
 
-### Community 36 - "AI Engineer Career Shift"
+### Community 36 - "AI 工程師職涯轉型"
 Cohesion: 0.18
 Nodes (12): Agent 友善程式碼庫, AI 原生工程師崛起, 循序漸進管理 Agent, 最後一哩路品味, 擴增派 Augment, 工程師職涯賭注二選一, 對新體驗開放性, 取代派 Replace (+4 more)
 
-### Community 37 - "AI Startup Revenue Sprint"
+### Community 37 - "AI 新創 90 天獲利"
 Cohesion: 0.18
 Nodes (12): Higgsfield AI, 每日產品迭代, AI創業：2人團隊90天達成百萬年營收心法, 高客單價利基市場, 分配智能 Allocating Intelligence, 在地脈絡優勢, AI創業：分配智能將成為未來企業的核心競爭力, 品味與洞察力 (+4 more)
 
-### Community 38 - "Wellness & Anti-Cancer"
+### Community 38 - "抗癌健康生活方式"
 Cohesion: 0.18
 Nodes (12): 腸道健康與益生菌, 低醣生酮飲食, 生活型態醫學, 蔡松彥醫師抗癌養生心法, 複合動作重訓, 彈性飲食法, 健身減脂時間軸與策略, 漸進式減脂策略 (+4 more)
 
-### Community 39 - "Workplace Narrative & Influence"
+### Community 39 - "職場政治與晉升策略"
 Cohesion: 0.17
 Nodes (12): 跨部門盟友, 職場政治運作, 禮貌虛構, 可預測性, 升遷潛規則, 可見度, 決策鏈, 表現與感知落差 (+4 more)
 
-### Community 40 - "AI Evaluation Methods"
+### Community 40 - "AI 評估與 LLM 評審"
 Cohesion: 0.22
 Nodes (11): 二元分類, Hamel Husain, LLM裁判, AI評估機制實戰指南：從查看Log開始, 錯誤分析, 失敗模式, AI評估：系統化提升產品品質, Brain Trust / Ankur Goyal (+3 more)
 
-### Community 41 - "Handling Political Operators"
+### Community 41 - "職場政治操縱者防禦"
 Cohesion: 0.2
 Nodes (10): 應對政治操控者, 動機診斷, 合理推諉, 豪豬哲學, 應對跨組織難相處人物, 肉盾機制, 軟性威懾（冰球哲學）, 情感認可 (+2 more)
 
-### Community 42 - "Nvidia & Physical AI"
+### Community 42 - "NVIDIA GPU 與 AI 基礎設施"
 Cohesion: 0.2
 Nodes (10): CUDA 生態系護城河, 物理 AI 與具身智能, NVIDIA GTC 2026 AI 工廠, 代幣生成工業革命, 深層技術自主研發, Otter.ai 語音 AI 創業, 語音成為企業主要介面, GP/LP 結構與退出機制 (+2 more)
 
-### Community 43 - "Finance & Risk Philosophy"
+### Community 43 - "財務風險哲學與富豪類型"
 Cohesion: 0.22
 Nodes (9): 生活自動化規律, 金融風險生活哲學, 風險與不確定性區分, 收入轉資產, 企業家原型, 百萬富翁五種人格原型, 金本位瓦解, IMF收割機制 (+1 more)
 
-### Community 44 - "Scrum in AI Era"
+### Community 44 - "AI 時代敏捷方法論"
 Cohesion: 0.25
 Nodes (9): AI代理時代的Scrum轉變, 回顧與展示原則留存, 速率機制瓦解, SDLC 到 ADLC 轉變, 平行子代理開發, PRD與技能文件, 協調能力勝於人數, 一人公司迷思 (+1 more)
 
-### Community 45 - "AI Era Thinking Habits"
+### Community 45 - "AI 時代思維習慣與心態"
 Cohesion: 0.22
 Nodes (9): 認知偏誤, 元認知, 思考習慣, 聚焦與賦予意義, 四季法則, 六大需求, 90秒原則, 情緒管理 (+1 more)
 
-### Community 46 - "Claude Code Memory Patterns"
+### Community 46 - "Claude Code 記憶模式"
 Cohesion: 0.25
 Nodes (9): 記憶衰減與晉升機制 (Decay & Promotion), Hooks自動注入記憶機制 (sessionStart), 記憶分層 (Token優化 25k→7k), 漸進式揭露記憶檢索 (Progressive Disclosure), 記憶系統六大建築基石, Agent Runtime 託管執行環境, Memory Bank 代理長期記憶, Model Armor 安全治理 (PII/Prompt Injection) (+1 more)
 
-### Community 47 - "AI Era Career Development"
+### Community 47 - "AI 時代高主動性職涯"
 Cohesion: 0.25
 Nodes (8): Bill Gurley, 數位導師, 高主動性 High Agency, AI 時代追隨好奇心, 行動主體性 Agency, Elad Gil, AI 時代創業破局, 多產品矩陣護城河
 
-### Community 48 - "Brain & Self Identity"
+### Community 48 - "大腦自我認同建構"
 Cohesion: 0.29
 Nodes (8): 3-S重塑法則, 感知建構產物, 大腦建構自我意識, 內心雜音轉化, 5-MeO-DMT實驗, 預設模式網路DMN瓦解, Bryan Johnson迷幻藥大腦重置, 神經可塑性
 
-### Community 49 - "Dog Shadow Behavior"
+### Community 49 - "犬隻跟蹤行為心理學"
 Cohesion: 0.29
 Nodes (8): 族群守護本能, 狗狗如影隨形心理學, 催產素連結, 分離焦慮, 頂漿腺氣味, 狗狗嗅聞化學履歷, 三億嗅覺受體, 社會參照引導
 
-### Community 50 - "AI Agent Economy 2026"
+### Community 50 - "2026 AI 代理人經濟趨勢"
 Cohesion: 0.29
 Nodes (7): 環境化企業, 創辦人與代理人適配, 2026 AI 代理人經濟趨勢, 結果導向定價, Agent Teams + Git Worktree, Orchestrator 任務拆解, 獨立沙盒環境
 
-### Community 51 - "Claude Mythos & Eval"
+### Community 51 - "Claude 精簡設計哲學"
 Cohesion: 0.29
 Nodes (7): 自動化評估門檻 Eval Gate, Claude Mythos 模型與簡化哲學, 提示詞簡化苦澀教訓, 階梯式進化 Step Change, Markdown First 格式策略, Claude 使用限制與 Token 優化, Token 是 AI 的貨幣
 
-### Community 52 - "Claude Managed Agents"
+### Community 52 - "Claude 託管代理人服務"
 Cohesion: 0.29
 Nodes (7): AI 雲端員工概念, 憑證保險箱, MCP 伺服器, Claude Managed Agents 託管代理人平台, 技能插件化 Plugins, Claude Skills AI 工作夥伴系統, 排程任務自動化
 
-### Community 53 - "Delivery Cadence Collapse"
+### Community 53 - "交付加速與 DevOps"
 Cohesion: 0.38
 Nodes (7): 以決策點取代故事點估算, 交付時間崩縮與組織瓶頸暴露, 審查節奏重新設計, 瓶頸應在想法速度, 按需預覽環境, DevOps 五大可預測瓶頸於 AI 開發, 單件流 Single-piece Flow
 
-### Community 54 - "AI Output vs Setup Mindset"
+### Community 54 - "避免配置成癮增加產出"
 Cohesion: 0.33
 Nodes (6): 高主動性High Agency, 產出導向反設置成癮, Setup Porn設置色情, 技能漸進揭露與精簡上下文, 漸進式揭露, 遞迴式技能構建
 
-### Community 55 - "CLI Agent Native Tools"
+### Community 55 - "CLI 終端生產力工具"
 Cohesion: 0.33
 Nodes (6): Agent-Native 特性, CLI-Anything 軟體 Agent 化工具, 七階段全自動 Pipeline, LazyGit 終端機 Git 介面, 終端機開發效率 CLI 工具集, Zoxide 智慧 cd
 
-### Community 56 - "Desire & Learning Psychology"
+### Community 56 - "學習動機與訊息過載"
 Cohesion: 0.33
 Nodes (6): 資訊超載與反思, 對經驗的高度開放性, 認知好奇心的心理驅動與代價, 注意力經濟, 拋棄式軟體時代與注意力瓶頸, 主動 AI 與信任階梯
 
-### Community 57 - "Gemini Voice Agent API"
+### Community 57 - "Google 語音 AI 更新"
 Cohesion: 0.33
 Nodes (6): Gemini Live API語音代理, 多模態影音互動, WebSocket低延遲串流, Gemini Drive整合, Google AI工具升級, NotebookLM知識庫
 
-### Community 58 - "Grey Rock & Narcissism Defense"
+### Community 58 - "灰岩效應與認知靈活性"
 Cohesion: 0.4
 Nodes (6): 情緒價值切斷, 灰岩效應心理策略, 自戀型人格防禦, 認知靈活性, 高智商七種隱藏優勢, 模式識別引擎
 
-### Community 59 - "Strong Mindset & Partnership"
+### Community 59 - "心態修煉與精英反自學"
 Cohesion: 0.33
 Nodes (6): 戰友而非港灣, 共同成長擇偶, 強者思維, 馬基維利權力觀, 自學者, 門檻許可證制度
 
-### Community 60 - "Tension Headache Relief"
+### Community 60 - "運動健康修復習慣"
 Cohesion: 0.33
 Nodes (6): 等長收縮, 頸部釋放, 緊張性頭痛舒緩, 胰島素控制, 餐後散步, Zone 2運動
 
-### Community 61 - "AI Agent Dev Principles"
+### Community 61 - "AI 代理人開發原則"
 Cohesion: 0.4
 Nodes (5): 鋸齒狀能力分佈, Karpathy十大開發原則, AI代理人調度員, 超級個人貢獻者Super IC, 停滯即風險
 
-### Community 62 - "Handling Bad Managers"
+### Community 62 - "惡劣主管應對與出走"
 Cohesion: 0.5
 Nodes (4): 平行移動策略, 壞主管與兵變, 跳級主管的管理成本, 社會證明（集體兵變）
 
-### Community 63 - "Anti-Aging Habits"
+### Community 63 - "抗老化生物節律習慣"
 Cohesion: 0.5
 Nodes (4): 晝夜節律與晨間日光, 12 項逆轉老化習慣, 粒線體功能, Seth Capehart 醫師
 
-### Community 64 - "AI Civilization & Memory"
+### Community 64 - "AI 代理文明記憶外化"
 Cohesion: 0.67
 Nodes (4): 文化累積, AI代理人文明外部化, 記憶外傳, 社會性湧現
 
-### Community 65 - "AI Code Review Tools"
+### Community 65 - "AI 程式碼審查對抗"
 Cohesion: 0.67
 Nodes (4): 對抗性審查, C-P-E 法則, 防禦性編程, 雙模型對抗性程式碼審查
 
-### Community 66 - "AI Behavioral Prediction Limits"
+### Community 66 - "AI 預測人類行為限制"
 Cohesion: 0.67
 Nodes (4): 對齊訓練, 規範性偏誤, AI預測人類行為的局限性, RLHF
 
-### Community 67 - "AI-Driven Product Design"
+### Community 67 - "AI 重新定義產品設計"
 Cohesion: 0.5
 Nodes (4): Claude Co-work, Jenny Wen, AI重新定義產品設計流程, 原型開發
 
-### Community 68 - "AI Intent Security"
+### Community 68 - "AI 意圖洗白安全威脅"
 Cohesion: 0.67
 Nodes (4): 意圖洗白, 關鍵字依賴, AI安全漏洞：意圖洗白攻擊手法, 淺層訓練
 
-### Community 69 - "Format-Agnostic AI Thinking"
+### Community 69 - "格式無關的 AI 思維"
 Cohesion: 0.5
 Nodes (4): 格式無關 Format Agnostic, AI思考：格式無關的意義處理, 模型中間層工作坊, 柏拉圖表徵
 
-### Community 70 - "Enterprise RBAC Architecture"
+### Community 70 - "企業 RBAC 權限架構"
 Cohesion: 0.5
 Nodes (4): 審計日誌, 企業級RBAC架構設計, 多租戶隔離, 模組動作權限命名
 
-### Community 71 - "Human Survival Under AI"
+### Community 71 - "AI 時代人類生存策略"
 Cohesion: 0.5
 Nodes (4): 80%腦力工作取代, 擁抱痛苦的修煉, AI衝擊人類生存策略, 真實情感連結屏障
 
-### Community 72 - "Modern System Architecture"
+### Community 72 - "現代軟體架構基礎"
 Cohesion: 0.5
 Nodes (4): 多層快取策略, CQRS 讀寫分離, 延遲決策原則, 現代架構 101 簡單即最佳
 
-### Community 73 - "Mitochondria & Longevity"
+### Community 73 - "逆齡粒線體優化"
 Cohesion: 0.5
 Nodes (4): 冷熱暴露刺激, 168 間歇性斷食, 粒線體修復逆轉老化, 避免種子油毒害
 
-### Community 74 - "Strategic Use of Adversaries"
+### Community 74 - "戰略隱形與權力運用"
 Cohesion: 0.5
 Nodes (4): 權力的本質（對抗無力感）, 自我掌控（所有領導力的基石）, 社交劇場（角色扮演與面具）, Ego 管理（不蓋過上司光芒）
 
-### Community 75 - "Markdown for LLMs"
+### Community 75 - "LLM 網頁 Markdown 轉換"
 Cohesion: 0.67
 Nodes (4): 資訊降噪（De-noising LLM 輸入）, Markdown 作為 LLM 的理想語言, Mozilla Readability + Turndown 內容提取技術, MD-This-Page 開源工具
 
-### Community 76 - "Layoff Defense Strategy"
+### Community 76 - "職場裁員法律防護"
 Cohesion: 0.67
 Nodes (4): 員工職場防禦機制, 勞基法資遣與開除規範, 績效改善計畫 (PIP), 薪資結構設計 (固定 vs 變動)
 
-### Community 77 - "Marginal Economic Thinking"
+### Community 77 - "邊際思考商業法則"
 Cohesion: 0.5
 Nodes (4): 成本曲線 (Cost Curve), 邊際思維 (Marginal Thinking), M-B-N 效率法則, More-Better-New 框架
 
-### Community 78 - "Search Index Scripts"
+### Community 78 - "搜尋索引重建腳本"
 Cohesion: 1.0
 Nodes (2): buildIndex(), parseFrontMatter()
 
-### Community 79 - "Workplace Legal Defense"
+### Community 79 - "職場性騷擾法律防護"
 Cohesion: 1.0
 Nodes (3): 法律證明缺口, 職場性騷擾隱藏機制, 履歷清洗
 
-### Community 80 - "AI Social Media Automation"
+### Community 80 - "AI 社群媒體自動化"
 Cohesion: 0.67
 Nodes (3): Claude Code引擎, AI經紀人社群自動化, Voice DNA語氣風格
 
-### Community 81 - "Hip Recovery Exercises"
+### Community 81 - "馬步髖關節復健"
 Cohesion: 1.0
 Nodes (3): 離心加載訓練, 馬步髖部修復練習, 久坐臀肌沉睡
 
-### Community 82 - "iPhone Productivity Tips"
+### Community 82 - "iPhone 檔案管理技巧"
 Cohesion: 0.67
 Nodes (3): 批次去背與掃描, iPhone檔案App隱藏功能, SMB私人雲端
 
-### Community 83 - "Strategic Scarcity & Visibility"
+### Community 83 - "策略性隱身與稀缺性"
 Cohesion: 0.67
 Nodes (3): 稀缺價值（缺席與出席的權力遊戲）, 戰略隱身術, 言語節制
 
-### Community 84 - "Developer Productivity Paradox"
+### Community 84 - "軟工產能悖論"
 Cohesion: 1.0
 Nodes (2): 生產力悖論（AI 使用感知與實際產出落差）, Token Maxing（指標武器化現象）
 
-### Community 85 - "Economic Incentive Alignment"
+### Community 85 - "激勵對齊經濟學"
 Cohesion: 1.0
 Nodes (2): 激勵機制對齊 (Incentive Alignment), 稀缺性與資源分配 (Scarcity & Resource Allocation)
 
-### Community 86 - "Claude Code Workflow Modes"
+### Community 86 - "Claude Code 隔離工作模式"
 Cohesion: 1.0
-Nodes (2): 操作員模式 (Operator Mode), Worktree 工作樹 (claude -w)
+Nodes (2): 操作員模式（Operator Mode）, Worktree 工作樹隔離
 
 ## Knowledge Gaps
-- **496 isolated node(s):** `人頭數量化陷阱`, `好人是負債`, `為老闆解決問題`, `僕人領導敘事`, `1% 實驗法則` (+491 more)
+- **499 isolated node(s):** `人頭數量化陷阱`, `好人是負債`, `為老闆解決問題`, `僕人領導敘事`, `1% 實驗法則` (+494 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **Thin community `Developer Productivity Paradox`** (2 nodes): `生產力悖論（AI 使用感知與實際產出落差）`, `Token Maxing（指標武器化現象）`
+- **Thin community `軟工產能悖論`** (2 nodes): `生產力悖論（AI 使用感知與實際產出落差）`, `Token Maxing（指標武器化現象）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Economic Incentive Alignment`** (2 nodes): `激勵機制對齊 (Incentive Alignment)`, `稀缺性與資源分配 (Scarcity & Resource Allocation)`
+- **Thin community `激勵對齊經濟學`** (2 nodes): `激勵機制對齊 (Incentive Alignment)`, `稀缺性與資源分配 (Scarcity & Resource Allocation)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Claude Code Workflow Modes`** (2 nodes): `操作員模式 (Operator Mode)`, `Worktree 工作樹 (claude -w)`
+- **Thin community `Claude Code 隔離工作模式`** (2 nodes): `操作員模式（Operator Mode）`, `Worktree 工作樹隔離`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Obsidian 第二大腦檢索` connect `Claude Agent & Harness` to `Claude Browser & Web Tools`?**
-  _High betweenness centrality (0.002) - this node is a cross-community bridge._
 - **Are the 2 inferred relationships involving `情境基礎設施 (Context Infrastructure)` (e.g. with `脈絡圖 (Context Graph)` and `代理式商務 (Agentic Commerce)`) actually correct?**
   _`情境基礎設施 (Context Infrastructure)` has 2 INFERRED edges - model-reasoned connections that need verification._
 - **Are the 3 inferred relationships involving `Claude Code 6-Layer Architecture` (e.g. with `Harness Engineering (裝具工程)` and `OS Analogy (LLM=CPU, Harness=OS)`) actually correct?**
   _`Claude Code 6-Layer Architecture` has 3 INFERRED edges - model-reasoned connections that need verification._
 - **What connects `人頭數量化陷阱`, `好人是負債`, `為老闆解決問題` to the rest of the system?**
-  _496 weakly-connected nodes found - possible documentation gaps or missing edges._
-- **Should `Claude Agent & Harness` be split into smaller, more focused modules?**
+  _499 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Should `AI 多代理人協作架構` be split into smaller, more focused modules?**
   _Cohesion score 0.04 - nodes in this community are weakly interconnected._
-- **Should `Salary Negotiation Tactics` be split into smaller, more focused modules?**
+- **Should `AI 輔助軟件工程實務` be split into smaller, more focused modules?**
+  _Cohesion score 0.06 - nodes in this community are weakly interconnected._
+- **Should `薪資談判策略全集` be split into smaller, more focused modules?**
   _Cohesion score 0.05 - nodes in this community are weakly interconnected._
-- **Should `AI Agent Context Governance` be split into smaller, more focused modules?**
+- **Should `AI 代理脈絡圖譜治理` be split into smaller, more focused modules?**
   _Cohesion score 0.06 - nodes in this community are weakly interconnected._
