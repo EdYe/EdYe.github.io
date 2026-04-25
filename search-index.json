@@ -1,5 +1,205 @@
 [
   {
+    "id": "office-politics-smart-people-guide",
+    "title": "聰明人在職場政治中失去的：7大個人權力開關完全指南",
+    "category": "影片筆記",
+    "tags": [
+      "社交資本",
+      "權威信號",
+      "組織識讀力",
+      "敘事控制",
+      "認知權威"
+    ],
+    "description": "這段影片揭示了職場政治並非「爾虞我詐」的負面標籤，而是由 7 個電力開關組成的「個人權力商數 (PPQ)」。許多優秀人才因忽視規則而被邊緣化，影片透過揭露隱形地圖，教導如何將努力轉化為影響力。",
+    "quote": "忽視這場遊戲並不會讓它消失，只會讓對手佔盡優勢。",
+    "action": "每月與3位關鍵影響者非正式互動、每週在公開會議中提出深刻觀點、挑選1個核心問題主動分析並提出長期對策。",
+    "image": "/images/影片筆記/office-politics-smart-people-guide.jpeg",
+    "date": "2026-04-25",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片揭示了職場政治並非「爾虞我詐」的負面標籤，而是由 7 個電力開關組成的「個人權力商數 (PPQ)」。許多優秀人才因忽視規則而被邊緣化，影片透過揭露隱形地圖，教導如何將努力轉化為酬勞與影響力，保護自己免受有毒職場環境的侵害。 --- 詳細重點整理 1. 基礎開關：建立你的權力基石  社交資本 (Social Capital) [(http://www.youtube.com/watch?v=5fLvncrd36g&t=216)]：職場充滿「圈內人偏誤」，領導層偏好提拔熟悉的人。埋頭苦幹會導致孤立，必須主動進入關鍵人物的視線。      關鍵概念：讓工作成果透過對的人發聲，而非指望工作會自己說話。  權威信號 (Authority Signal) [(http://www.youtube.com/watch?v=5fLvncrd36g&t=278)]：利用「信心」與「近接效應 (Proximity)」建立專業形象。例如在老闆辦公室附近舉辦會議，透過細微接觸建立正面印象。      關鍵概念：你的自信具有傳染力，當你不質疑自己時，別人才不敢質疑你。  資訊優勢 (Infor",
+    "url": "/notes/office-politics-smart-people-guide"
+  },
+  {
+    "id": "how-to-become-builder-pm",
+    "title": "如何成為開發型產品經理：Builder PM 的 AI 時代生存指南",
+    "category": "影片筆記",
+    "tags": [
+      "Builder PM",
+      "代理人迴圈",
+      "n8n工作流",
+      "Claude Code",
+      "委派自動化"
+    ],
+    "description": "影片揭示了 PM 職涯的典範轉移：利用 AI 工具（如 n8n, Claude Code, OpenClaw）將傳統需耗時數月的產品研發流程，壓縮至數天內完成。核心在於透過「代理人迴圈」（Agentic Loop）實現自動化。",
+    "quote": "現在是 PM 閃耀的時刻。只要你掌握了技巧，你可以將工作委派給代理人，讓它 365 天、24 小時不間斷地比你做得更好。",
+    "action": "前3週學 n8n 基礎、中4週用 Claude Code 自動化日常工作、後2週練習委派長時程任務給 AI 代理人。",
+    "image": "/images/影片筆記/how-to-become-builder-pm.jpeg",
+    "date": "2026-04-25",
+    "source_has_timestamps": true,
+    "body": "這是一場由 Aakash Gupta 訪談前 Google/Meta/Amazon/Microsoft 資深產品經理 Mahesh Yadav 的深度對話。影片核心圍繞著一個嶄新的職業身分：「開發型產品經理」(Builder PM)，探討在 AI 代理人（Agents）時代，PM 如何從單純的規格撰寫者，轉變為能獨立開發原型、甚至自動化自身工作的「超級個體」。 核心摘要 影片揭示了 PM 職涯的典範轉移：利用 AI 工具（如 n8n, Claude Code, OpenClaw）將傳統需耗時數月的產品研發流程，壓縮至數天內完成。核心價值在於透過「代理人迴圈」（Agentic Loop）實現自動化，讓 PM 能在不依賴開發者的情況下，親手打造出具備市場訊號的首個產品版本。 --- 詳細重點整理 1. 定義「開發型產品經理」(Builder PM) [(http://www.youtube.com/watch?v=PL7908aNeSE&t=293)]  定義：能直接與客戶溝通、確認需求，並在不與任何開發者對話的情況下，獨自開發出產品的第一個版本並獲取前 10 位客戶。  關鍵概念：「AI",
+    "url": "/notes/how-to-become-builder-pm"
+  },
+  {
+    "id": "google-cloud-next-26-developer-keynote",
+    "title": "Google Cloud Next 26 開發者主題演講：自主代理人時代全面來臨",
+    "category": "影片筆記",
+    "tags": [
+      "代理人框架",
+      "A2A協議",
+      "長期記憶",
+      "主動修復",
+      "代理人身分"
+    ],
+    "description": "本次演講展示了 Gemini Enterprise Agent Platform 的全面演進，宣告開發者已進入「自主代理人（Autonomous Agents）」時代。AI 從單純對話框轉向具備技能、記憶與自我修復能力的生產級系統。",
+    "quote": "不要只是跟我聊聊改變，而是與我夥伴協作，安全地實施改變。",
+    "action": "模組化建立具備單一技能的代理人，串接向量資料庫實現記憶化，並導入追蹤機制監控推理節點偏差。",
+    "image": "/images/影片筆記/google-cloud-next-26-developer-keynote.jpg",
+    "date": "2026-04-25",
+    "source_has_timestamps": true,
+    "body": "你好，我是你的影片深度萃取器。針對這場 Google Cloud Next '26 Developer Keynote，我為你提煉了以下核心價值與行動方案： 核心摘要 本次演講展示了 Gemini Enterprise Agent Platform 的全面演進，宣告開發者已進入「自主代理人（Autonomous Agents）」時代。透過將 AI 從單純的對話框轉向具備技能（Skills）、記憶（Memory）與自我修復能力的生產級系統，幫助開發者在繁忙的開發流程中實現高效協作與安全治理。 --- 詳細重點整理 1. 代理人開發框架：ADK 與 MCP [(http://www.youtube.com/watch?v=A01DQ8xy7Q&t=210)]  重點內容：透過代理人開發套件（ADK）與模型上下文協定（MCP），開發者能輕鬆為代理人賦予「技能」與「工具」。演講中以馬拉松規劃為例，展示代理人如何調用 Google Maps 資料與地理資訊系統（GIS）來設計路線。  關鍵概念：模組化代理（Modular Agents）。不再建立全能但笨重的模型，而是由具備特定專業技能的小型代理",
+    "url": "/notes/google-cloud-next-26-developer-keynote"
+  },
+  {
+    "id": "claude-design-team-sprint",
+    "title": "Claude Design：原型即產品，30分鐘完成團隊一個Sprint",
+    "category": "影片筆記",
+    "tags": [
+      "Claude Design",
+      "原型開發",
+      "角色轉型",
+      "團隊組織",
+      "設計工具"
+    ],
+    "description": "Anthropic 推出的 Claude Design 並非單純的 Figma 競爭對手，而是「模型手稿（Mockup）時代」的終結者。它透過將自然語言直接轉化為可運行的代碼原型，打通了從創意到開發的最後一哩路。",
+    "quote": "手稿已經絕種，現在你的原型就是你的產品。",
+    "action": "採用「1小時探索→10分鐘批判→1次定案」法則，以原型取代傳統文件驅動討論。",
+    "image": "/images/影片筆記/claude-design-team-sprint.jpeg",
+    "date": "2026-04-25",
+    "source_has_timestamps": true,
+    "body": "你好，我是你的影片深度萃取器。針對這段關於 Anthropic 推出 Claude Design 的深度分析影片，我為你提煉了核心價值與行動指南。 核心摘要 Anthropic 推出的 Claude Design 並非單純的 Figma 競爭對手，而是「模型手稿（Mockup）時代」的終結者。它透過將自然語言直接轉化為可運行的代碼原型，打通了從創意到開發的最後一哩路。這場變革的核心在於：原型不再是近似值，原型即是產品本身，這將大幅壓縮執行成本，並將團隊的價值重心從「手藝勞動」轉向「策略判斷」。 --- 詳細重點整理 1. Claude Design 的核心定位：終結手稿與交付 [(http://www.youtube.com/watch?v=KlPxWaY91rE&t=11)]  它是 Anthropic 生態系（Code, Co-work, Design）的最後一塊拼圖，旨在消除傳統設計到開發之間的「翻譯損失」。  關鍵概念：原型即代碼。因為 AI 是學習代碼（HTML/CSS/SVG）長大的，而非 Figma 專有格式，所以直接生成代碼才是 AI 設計的最短路徑。 2. 八大顛覆性",
+    "url": "/notes/claude-design-team-sprint"
+  },
+  {
+    "id": "claude-code-workflows-explained",
+    "title": "Claude Code 五種工作流模式全解析：從序列流到自主模式",
+    "category": "影片筆記",
+    "tags": [
+      "子代理人",
+      "上下文隔離",
+      "Worktree工作樹",
+      "代理人團隊",
+      "自主模式"
+    ],
+    "description": "這段影片深入解析了 Claude Code 的五種進階工作流模式，旨在教導使用者如何從單純的「一對一對話」轉型為「管理開發團隊」的思維。透過善用內建子代理人、並行終端，避免上下文腐爛。",
+    "quote": "別把 Claude Code 只當成一個工具，要把他當成你的開發團隊來經營。",
+    "action": "善用 Explore/Plan/General 子代理人，使用 claude -w 建立 Worktree 隔離環境，以 -p 旗標自動化重複任務。",
+    "image": "/images/影片筆記/claude-code-workflows-explained.jpeg",
+    "date": "2026-04-25",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段影片深入解析了 Claude Code 的五種進階工作流模式，旨在教導使用者如何從單純的「一對一對話」轉型為「管理開發團隊」的思維。透過善用內建子代理人、並行終端、自動化腳本與實驗性的團隊協作功能，開發者能有效避免「上下文腐爛（Context Rot）」，極大化開發效率與代碼品質。 --- 詳細重點整理 1. 隱藏的內建子代理人 (Built-in Sub-agents) [(http://www.youtube.com/watch?v=38t5UBCa4OI&t=47)]  重點內容說明：Claude Code 在背後會根據任務複雜度自動啟動三種子代理人：      Explore：使用 Haiku 模型，唯讀模式，負責快速搜索與總結檔案資訊。      Plan：在 /plan 模式下啟動，負責在制定策略前研究代碼庫。      General Purpose：使用 Sonnet 模型，具備完全的讀寫權限，處理複雜的多步驟任務。  關鍵概念：上下文隔離。子代理人擁有獨立的上下文視窗，能防止主對話內容過於臃腫。 2. 模式一：序列流 (Sequential Flow) ",
+    "url": "/notes/claude-code-workflows-explained"
+  },
+  {
+    "id": "claude-code-project-management-upgrade",
+    "title": "Claude Desktop 升級為代理作業系統：多會話與專案管理",
+    "category": "影片筆記",
+    "tags": [
+      "脈絡管理",
+      "多重會話",
+      "側邊欄計畫",
+      "分格視圖",
+      "檔案系統整合"
+    ],
+    "description": "Claude Desktop App 最近悄悄釋出的更新，徹底打破了過去單一對話的局限，引進多會話並行、側邊欄計畫檢視與檔案系統直接互動。這讓使用者能將 AI 視為「Agentic OS」。",
+    "quote": "AI 不只是用來聊天，它是你管理業務脈絡與進化的代理作業系統。",
+    "action": "在桌面版為每個客戶或專案建立專屬資料夾，使用 Split View 左側提問、右側開側邊欄 Plan 同步對照。",
+    "image": "/images/影片筆記/claude-code-project-management-upgrade.jpg",
+    "date": "2026-04-25",
+    "source_has_timestamps": true,
+    "body": "你好！我是你的內容分析師與生活啟發導師。這段影片深入解析了 Claude Desktop App 的重大更新，這不僅僅是軟體的優化，更是將 AI 從「單一對話工具」轉型為「主動式專案管理系統」的轉折點。 以下是為你準備的深度萃取報告： 核心摘要 Claude Desktop App 最近悄悄釋出的更新，徹底打破了過去單一對話的局限，引進多會話並行、側邊欄計畫檢視與檔案系統直接互動。這讓使用者能將 AI 視為一個「Agentic OS」（代理作業系統），在統一的介面中管理複雜的商務脈絡與多個子專案，大幅提升從邏輯構思到執行產出的效率。 --- 詳細重點整理 1. 從「孤立對話」進化到「專案思維」 [(http://www.youtube.com/watch?v=rW7NvKnIEqk&t=43)]  過去的對話彼此隔離，缺乏全域視野；現在透過桌面版，可以建立結構化的文件目錄，讓 AI 理解整體的業務背景。  關鍵概念：脈絡管理 (Context Management) 是決定 AI 產出品質的核心。 2. 多重會話 (Multiple Sessions) 的平行處理 [(http://w",
+    "url": "/notes/claude-code-project-management-upgrade"
+  },
+  {
+    "id": "claude-code-memory-systems-compared",
+    "title": "Claude Code 六大記憶系統全比較：從 Markdown 到雲端大腦",
+    "category": "影片筆記",
+    "tags": [
+      "記憶層級",
+      "語義搜索",
+      "記憶宮殿",
+      "知識互聯",
+      "雲端大腦"
+    ],
+    "description": "這部影片深度解析了 Claude Code 的六個記憶層級，從原生的 Markdown 文件到跨平台的雲端資料庫系統。核心價值在於解決 AI 的「內容腐蝕」（Context Rot）問題，教導如何精準提取跨專案的關鍵決策。",
+    "quote": "記憶系統的價值不在於存儲了多少資訊，而在於 AI 能否在正確的時間，為你提取正確的脈絡。",
+    "action": "先建立精簡的 claude.md，使用超過一週後設定 Hook 自動注入，跨月時安裝 mem-search 語義搜索。",
+    "image": "/images/影片筆記/claude-code-memory-systems-compared.jpeg",
+    "date": "2026-04-25",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片深度解析了 Claude Code 的六個記憶層級，從原生的 Markdown 文件到跨平台的雲端資料庫系統。核心價值在於解決 AI 的「內容腐蝕」（Context Rot）問題，教導使用者如何透過結構化管理，讓 AI 在不超載上下文的情況下，精準提取跨專案、跨時間的關鍵決策與知識。 --- 詳細重點整理 1. 層級一：原生 Markdown 記憶系統 [(http://www.youtube.com/watch?v=UHVFcUzAGlM&t=97)]  重點內容：介紹 claude.md 與 memory.mmd 的基本用法。claude.md 應放置專案規則與風格，而 memory.mmd 則是 AI 自動記錄的索引。  關鍵概念：「避免過載」。建議 claude.md 保持在 200 行以內，過多資訊應存於外部文件並透過索引引用，以防上下文遺忘。 2. 層級二：可靠性增強與自動注入 [(http://www.youtube.com/watch?v=UHVFcUzAGlM&t=391)]  重點內容：透過設定「Session Start Hook」（會話啟動鉤子",
+    "url": "/notes/claude-code-memory-systems-compared"
+  },
+  {
+    "id": "anthropic-pm-fast-iteration",
+    "title": "Anthropic 產品團隊如何比所有人更快：PM 角色的典範轉移",
+    "category": "影片筆記",
+    "tags": [
+      "PM角色轉移",
+      "極速迭代",
+      "產品品味",
+      "AI槓桿",
+      "自動化法則"
+    ],
+    "description": "這段訪談深入剖析了 Anthropic 團隊如何透過「極低流程、高目標感」的文化，將 AI 產品的開發週期從半年縮短至數天。核心在於：PM 的價值已從「資源協調」轉向「品味決策」與「消除阻礙」。",
+    "quote": "職業是虛構的，如果你理解了約束條件，你就能找出該做什麼，然後直接去做。",
+    "action": "記錄3天內重複3次以上的枯燥任務，挑選5項以AI初步自動化，再打磨1項至100%自動化。",
+    "image": "/images/影片筆記/anthropic-pm-fast-iteration.jpeg",
+    "date": "2026-04-25",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這段訪談深入剖析了 Anthropic 團隊如何透過「極低流程、高目標感」的文化，將 AI 產品的開發週期從半年縮短至數天。核心價值在於：在 AI 時代，產品經理（PM）的價值已從「資源協調」轉向「品味決策」與「消除阻礙」。這是一場關於如何在高變動的技術浪潮中，保持冷靜樂觀並運用工具實現極致槓桿的實戰教學。 --- 詳細重點整理 1. AI 時代下 PM 角色的範式轉移 [(http://www.youtube.com/watch?v=PplmzlgE0kg&t=308)]  在 AI 出現前，開發成本高且週期長（6-12 個月），PM 側重於跨團隊協調。  現在代碼生成成本極低，週期縮短至 1 個月甚至 1 天。PM 應減少對「長期路線圖」的依賴，專注於定義最核心的使用者任務與排除發佈障礙。  關鍵概念：「極速迭代」——從點子到產品交到使用者手中的時間，是衡量 PM 能力的新指標。 2. 建立高效發佈的「重複性流程」 [(http://www.youtube.com/watch?v=PplmzlgE0kg&t=472)]  研究預覽（Research Preview）：透過",
+    "url": "/notes/anthropic-pm-fast-iteration"
+  },
+  {
+    "id": "ai-token-supply-demand",
+    "title": "AI 代幣的供需革命：執行廉價化後，好點子才是稀缺資源",
+    "category": "影片筆記",
+    "tags": [
+      "AI代幣需求",
+      "生產力躍升",
+      "好點子稀缺",
+      "供應鏈限制",
+      "幻影GDP"
+    ],
+    "description": "本影片深入探討了 AI 代幣需求爆炸性成長對全球經濟的衝擊。隨著「執行成本」因 AI 而趨於廉價，傳統的生產力模型正在崩解。這場變革不僅是工具的升級，更是財富與階級的重新洗牌。",
+    "quote": "現在「執行」是廉價且豐富的，唯有能證明高昂投入價值的「好點子」才具備真正的競爭力。",
+    "action": "訂閱最高階 AI 模型增加使用量、每天問自己做的事是否有獨特價值、用節省的時間深化客戶關係與策略思考。",
+    "image": "/images/影片筆記/ai-token-supply-demand.jpeg",
+    "date": "2026-04-25",
+    "source_has_timestamps": true,
+    "body": "你好，我是你的影片深度萃取器。我已針對這段關於 AI 代幣（Token）供需與未來經濟格局的深度訪談內容進行了精密解析。 以下是為你提煉的精華內容： 核心摘要 本影片深入探討了 AI 代幣需求爆炸性成長對全球經濟的衝擊。Dylan Patel 指出，隨著「執行成本」因 AI 而趨於廉價，傳統的生產力模型正在崩解。這場變革不僅僅是工具的升級，更是財富與階級的重新洗牌——未來能存活的企業與個人，必須掌握從 Token 中榨取高價值「點子」並成功捕捉產出的能力。 --- 詳細重點整理 1. AI Token 需求的爆發與「AI 精神分裂」 [(http://www.youtube.com/watch?v=LF3aUIM57uw&t=30)]  Dylan 的公司 AI 支出在短短一年內從數萬美元激增至年化 700 萬美元，甚至直追薪資總額。  許多非技術背景的員工也開始沉迷於使用 AI 進行複雜編碼（被稱為 Claude Psychosis）。  關鍵概念：AI 不再是輔助工具，而是成為了替代部分人力執行力的核心支出，企業正面臨「選擇雇人還是購買 Token」的權衡點。 2. 生產力的階躍：",
+    "url": "/notes/ai-token-supply-demand"
+  },
+  {
+    "id": "ai-coding-for-real-engineers",
+    "title": "AI 時代工程師的進化：從編碼者到品味守門員",
+    "category": "影片筆記",
+    "tags": [
+      "認知極限",
+      "Grill Me對齊",
+      "垂直切片",
+      "TDD測試驅動",
+      "代碼品味"
+    ],
+    "description": "這場工作坊重新定義了 AI 時代下「工程師」的角色。核心價值在於：AI 並非單純的代碼編寫工具，而是需要精準「對齊」的數位夥伴。透過理解 LLM 的認知極限、建立深度對齊機制。",
+    "quote": "爛代碼庫會產生爛的 AI 代理程式。",
+    "action": "每次動工前要求 AI 提出3個問題、先寫2個失敗測試、每次commit包含從底層到前端的完整功能鏈接。",
+    "image": "/images/影片筆記/ai-coding-for-real-engineers.jpeg",
+    "date": "2026-04-25",
+    "source_has_timestamps": true,
+    "body": "您好，我是影片深度萃取器。這段來自 AI Hero Matt Pocock 的工作坊影片，為專業工程師在 AI 時代的轉型提供了一套極具實戰價值的框架。 以下是為您提煉的精華內容： 核心摘要 這場工作坊重新定義了 AI 時代下「工程師」的角色。核心價值在於：AI 並非單純的代碼編寫工具，而是需要精準「對齊」的數位夥伴。透過理解 LLM 的認知極限、建立深度對齊機制（Grill Me）以及採用「垂直切片」的開發策略，工程師能將精力從繁瑣的編碼轉向更高層次的架構設計與品質管控，從而極大化開發效能。 --- 詳細重點整理 1. 理解 AI 的認知邊界：聰明區與愚笨區 [(http://www.youtube.com/watch?v=-QFHIoCo-Ko&t=187)]  聰明區 (Smart Zone)：當對話上下文較短（約 100k tokens 以內）時，AI 的注意力與邏輯推演最強。  愚笨區 (Dumb Zone)：隨者對話歷史拉長，AI 的推理能力會呈平方級下降，開始做出錯誤決策。  關鍵概念：任務原子化。開發者必須將大型任務拆解為能讓 AI 在「聰明區」內完成的微小單元。 2.",
+    "url": "/notes/ai-coding-for-real-engineers"
+  },
+  {
     "id": "why-you-dream-neuroscience",
     "title": "神經科學揭秘：夢境是大腦保衛視覺領土的防禦機制",
     "category": "心理學",

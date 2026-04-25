@@ -51,6 +51,33 @@
   },
   "nodes": [
     {
+      "label": "rebuild-index.js",
+      "file_type": "code",
+      "source_file": "scripts/rebuild-index.js",
+      "source_location": "L1",
+      "id": "scripts_rebuild_index_js",
+      "community": 76,
+      "norm_label": "rebuild-index.js"
+    },
+    {
+      "label": "parseFrontMatter()",
+      "file_type": "code",
+      "source_file": "scripts/rebuild-index.js",
+      "source_location": "L11",
+      "id": "rebuild_index_parsefrontmatter",
+      "community": 76,
+      "norm_label": "parsefrontmatter()"
+    },
+    {
+      "label": "buildIndex()",
+      "file_type": "code",
+      "source_file": "scripts/rebuild-index.js",
+      "source_location": "L45",
+      "id": "rebuild_index_buildindex",
+      "community": 76,
+      "norm_label": "buildindex()"
+    },
+    {
       "label": "\u5e1d\u570b\u4e3b\u7fa9\u5efa\u8a2d",
       "file_type": "document",
       "source_file": "_notes/01-empire-building.md",
@@ -670,7 +697,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 76,
+      "community": 77,
       "norm_label": "\u8077\u5834\u6027\u9a37\u64fe\u96b1\u85cf\u6a5f\u5236",
       "id": "12_sexual_harassment_main"
     },
@@ -683,7 +710,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 76,
+      "community": 77,
       "norm_label": "\u6cd5\u5f8b\u8b49\u660e\u7f3a\u53e3",
       "id": "12_sexual_harassment_legal_proof_gap"
     },
@@ -696,7 +723,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 76,
+      "community": 77,
       "norm_label": "\u5c65\u6b77\u6e05\u6d17",
       "id": "12_sexual_harassment_resume_cleansing"
     },
@@ -1736,7 +1763,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 77,
+      "community": 78,
       "norm_label": "ai\u7d93\u7d00\u4eba\u793e\u7fa4\u81ea\u52d5\u5316",
       "id": "ai_agent_social_media_automation_main"
     },
@@ -1749,7 +1776,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 77,
+      "community": 78,
       "norm_label": "voice dna\u8a9e\u6c23\u98a8\u683c",
       "id": "ai_agent_social_media_automation_voice_dna"
     },
@@ -1762,7 +1789,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 77,
+      "community": 78,
       "norm_label": "claude code\u5f15\u64ce",
       "id": "ai_agent_social_media_automation_claude_code"
     },
@@ -6455,7 +6482,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 49,
+      "community": 50,
       "norm_label": "claude managed agents \u8a17\u7ba1\u4ee3\u7406\u4eba\u5e73\u53f0",
       "id": "claude_managed_agents_primary"
     },
@@ -6468,7 +6495,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 49,
+      "community": 50,
       "norm_label": "mcp \u4f3a\u670d\u5668",
       "id": "claude_managed_agents_mcp_servers"
     },
@@ -6481,7 +6508,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 49,
+      "community": 50,
       "norm_label": "\u6191\u8b49\u4fdd\u96aa\u7bb1",
       "id": "claude_managed_agents_credential_vaults"
     },
@@ -6494,7 +6521,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 49,
+      "community": 50,
       "norm_label": "ai \u96f2\u7aef\u54e1\u5de5\u6982\u5ff5",
       "id": "claude_managed_agents_ai_cloud_employee"
     },
@@ -6507,7 +6534,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 50,
+      "community": 49,
       "norm_label": "claude mythos \u6a21\u578b\u8207\u7c21\u5316\u54f2\u5b78",
       "id": "claude_mythos_primary"
     },
@@ -6520,7 +6547,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 50,
+      "community": 49,
       "norm_label": "\u968e\u68af\u5f0f\u9032\u5316 step change",
       "id": "claude_mythos_step_change"
     },
@@ -6533,7 +6560,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 50,
+      "community": 49,
       "norm_label": "\u63d0\u793a\u8a5e\u7c21\u5316\u82e6\u6f80\u6559\u8a13",
       "id": "claude_mythos_prompt_simplify"
     },
@@ -6546,7 +6573,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 50,
+      "community": 49,
       "norm_label": "\u81ea\u52d5\u5316\u8a55\u4f30\u9580\u6abb eval gate",
       "id": "claude_mythos_eval_gate"
     },
@@ -6559,7 +6586,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 49,
+      "community": 50,
       "norm_label": "claude skills ai \u5de5\u4f5c\u5925\u4f34\u7cfb\u7d71",
       "id": "claude_skills_primary"
     },
@@ -6572,7 +6599,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 49,
+      "community": 50,
       "norm_label": "\u6280\u80fd\u63d2\u4ef6\u5316 plugins",
       "id": "claude_skills_plugins"
     },
@@ -6585,7 +6612,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 49,
+      "community": 50,
       "norm_label": "\u6392\u7a0b\u4efb\u52d9\u81ea\u52d5\u5316",
       "id": "claude_skills_scheduled_tasks"
     },
@@ -6598,7 +6625,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 50,
+      "community": 49,
       "norm_label": "claude \u4f7f\u7528\u9650\u5236\u8207 token \u512a\u5316",
       "id": "claude_usage_limits_primary"
     },
@@ -6611,7 +6638,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 50,
+      "community": 49,
       "norm_label": "token \u662f ai \u7684\u8ca8\u5e63",
       "id": "claude_usage_limits_token_currency"
     },
@@ -6624,7 +6651,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 50,
+      "community": 49,
       "norm_label": "markdown first \u683c\u5f0f\u7b56\u7565",
       "id": "claude_usage_limits_markdown_first"
     },
@@ -8236,7 +8263,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 78,
+      "community": 79,
       "norm_label": "\u99ac\u6b65\u9ad6\u90e8\u4fee\u5fa9\u7df4\u7fd2",
       "id": "horse_stance_hip_recovery_main"
     },
@@ -8249,7 +8276,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 78,
+      "community": 79,
       "norm_label": "\u4e45\u5750\u81c0\u808c\u6c89\u7761",
       "id": "horse_stance_hip_recovery_sedentary_damage"
     },
@@ -8262,7 +8289,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 78,
+      "community": 79,
       "norm_label": "\u96e2\u5fc3\u52a0\u8f09\u8a13\u7df4",
       "id": "horse_stance_hip_recovery_eccentric_loading"
     },
@@ -8366,7 +8393,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 79,
+      "community": 80,
       "norm_label": "iphone\u6a94\u6848app\u96b1\u85cf\u529f\u80fd",
       "id": "iphone_files_app_hidden_features_main"
     },
@@ -8379,7 +8406,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 79,
+      "community": 80,
       "norm_label": "\u6279\u6b21\u53bb\u80cc\u8207\u6383\u63cf",
       "id": "iphone_files_app_hidden_features_batch_processing"
     },
@@ -8392,7 +8419,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 79,
+      "community": 80,
       "norm_label": "smb\u79c1\u4eba\u96f2\u7aef",
       "id": "iphone_files_app_hidden_features_smb_sharing"
     },
@@ -12487,7 +12514,7 @@
       "captured_at": "2026-04-22",
       "author": "Robert Greene",
       "contributor": null,
-      "community": 80,
+      "community": 81,
       "norm_label": "\u6230\u7565\u96b1\u8eab\u8853",
       "id": "learn_to_disappear_strategic_invisibility"
     },
@@ -12500,7 +12527,7 @@
       "captured_at": "2026-04-22",
       "author": "Robert Greene",
       "contributor": null,
-      "community": 80,
+      "community": 81,
       "norm_label": "\u8a00\u8a9e\u7bc0\u5236",
       "id": "learn_to_disappear_verbal_restraint"
     },
@@ -12526,7 +12553,7 @@
       "captured_at": "2026-04-22",
       "author": "Robert Greene",
       "contributor": null,
-      "community": 80,
+      "community": 81,
       "norm_label": "\u7a00\u7f3a\u50f9\u503c(\u7f3a\u5e2d\u8207\u51fa\u5e2d\u7684\u6b0a\u529b\u904a\u6232)",
       "id": "learn_to_disappear_scarcity_value"
     },
@@ -12864,7 +12891,7 @@
       "captured_at": "2026-04-22",
       "author": "Gergely Orosz",
       "contributor": null,
-      "community": 81,
+      "community": 82,
       "norm_label": "token maxing(\u6307\u6a19\u6b66\u5668\u5316\u73fe\u8c61)",
       "id": "gergely_token_maxing"
     },
@@ -12877,7 +12904,7 @@
       "captured_at": "2026-04-22",
       "author": "Gergely Orosz",
       "contributor": null,
-      "community": 81,
+      "community": 82,
       "norm_label": "\u751f\u7522\u529b\u6096\u8ad6(ai \u4f7f\u7528\u611f\u77e5\u8207\u5be6\u969b\u7522\u51fa\u843d\u5dee)",
       "id": "gergely_productivity_paradox"
     },
@@ -13579,9 +13606,9 @@
       "captured_at": null,
       "author": "Manuel",
       "contributor": null,
-      "id": "enterprise_ai_context_infrastructure_context_fragmentation",
       "community": 5,
-      "norm_label": "\u60c5\u5883\u788e\u7247\u5316 (context fragmentation)"
+      "norm_label": "\u60c5\u5883\u788e\u7247\u5316 (context fragmentation)",
+      "id": "enterprise_ai_context_infrastructure_context_fragmentation"
     },
     {
       "label": "\u5b64\u5cf6\u9677\u9631 (Silo Trap)",
@@ -13592,9 +13619,9 @@
       "captured_at": null,
       "author": "Manuel",
       "contributor": null,
-      "id": "enterprise_ai_context_infrastructure_silo_trap",
       "community": 5,
-      "norm_label": "\u5b64\u5cf6\u9677\u9631 (silo trap)"
+      "norm_label": "\u5b64\u5cf6\u9677\u9631 (silo trap)",
+      "id": "enterprise_ai_context_infrastructure_silo_trap"
     },
     {
       "label": "\u60c5\u5883\u57fa\u790e\u8a2d\u65bd (Context Infrastructure)",
@@ -13605,9 +13632,9 @@
       "captured_at": null,
       "author": "Manuel",
       "contributor": null,
-      "id": "enterprise_ai_context_infrastructure_context_infrastructure",
       "community": 5,
-      "norm_label": "\u60c5\u5883\u57fa\u790e\u8a2d\u65bd (context infrastructure)"
+      "norm_label": "\u60c5\u5883\u57fa\u790e\u8a2d\u65bd (context infrastructure)",
+      "id": "enterprise_ai_context_infrastructure_context_infrastructure"
     },
     {
       "label": "\u77e5\u8b58\u5716\u8b5c (Knowledge Graph)",
@@ -13618,9 +13645,9 @@
       "captured_at": null,
       "author": "Manuel",
       "contributor": null,
-      "id": "enterprise_ai_context_infrastructure_knowledge_graph",
       "community": 5,
-      "norm_label": "\u77e5\u8b58\u5716\u8b5c (knowledge graph)"
+      "norm_label": "\u77e5\u8b58\u5716\u8b5c (knowledge graph)",
+      "id": "enterprise_ai_context_infrastructure_knowledge_graph"
     },
     {
       "label": "\u672c\u9ad4\u8ad6\u5c0e\u5411 (Ontology-based Schema)",
@@ -13631,9 +13658,9 @@
       "captured_at": null,
       "author": "Manuel",
       "contributor": null,
-      "id": "enterprise_ai_context_infrastructure_ontology_based",
       "community": 5,
-      "norm_label": "\u672c\u9ad4\u8ad6\u5c0e\u5411 (ontology-based schema)"
+      "norm_label": "\u672c\u9ad4\u8ad6\u5c0e\u5411 (ontology-based schema)",
+      "id": "enterprise_ai_context_infrastructure_ontology_based"
     },
     {
       "label": "\u6642\u9593\u611f\u77e5\u8a18\u61b6 (Temporal Memory)",
@@ -13644,9 +13671,9 @@
       "captured_at": null,
       "author": "Manuel",
       "contributor": null,
-      "id": "enterprise_ai_context_infrastructure_temporal_memory",
       "community": 5,
-      "norm_label": "\u6642\u9593\u611f\u77e5\u8a18\u61b6 (temporal memory)"
+      "norm_label": "\u6642\u9593\u611f\u77e5\u8a18\u61b6 (temporal memory)",
+      "id": "enterprise_ai_context_infrastructure_temporal_memory"
     },
     {
       "label": "\u53d7\u63a7\u57f7\u884c (Governed Execution)",
@@ -13657,9 +13684,9 @@
       "captured_at": null,
       "author": "Manuel",
       "contributor": null,
-      "id": "enterprise_ai_context_infrastructure_governed_execution",
       "community": 5,
-      "norm_label": "\u53d7\u63a7\u57f7\u884c (governed execution)"
+      "norm_label": "\u53d7\u63a7\u57f7\u884c (governed execution)",
+      "id": "enterprise_ai_context_infrastructure_governed_execution"
     },
     {
       "label": "\u53ef\u79fb\u690d\u6027 (Portability)",
@@ -13670,9 +13697,9 @@
       "captured_at": null,
       "author": "Manuel",
       "contributor": null,
-      "id": "enterprise_ai_context_infrastructure_portability",
       "community": 5,
-      "norm_label": "\u53ef\u79fb\u690d\u6027 (portability)"
+      "norm_label": "\u53ef\u79fb\u690d\u6027 (portability)",
+      "id": "enterprise_ai_context_infrastructure_portability"
     },
     {
       "label": "\u6df7\u5408\u641c\u7d22\u6280\u8853 (Hybrid Search)",
@@ -13683,9 +13710,9 @@
       "captured_at": null,
       "author": "Manuel",
       "contributor": null,
-      "id": "enterprise_ai_context_infrastructure_hybrid_search",
       "community": 5,
-      "norm_label": "\u6df7\u5408\u641c\u7d22\u6280\u8853 (hybrid search)"
+      "norm_label": "\u6df7\u5408\u641c\u7d22\u6280\u8853 (hybrid search)",
+      "id": "enterprise_ai_context_infrastructure_hybrid_search"
     },
     {
       "label": "\u6a21\u7d44\u5316AI\u52a9\u7406 (Modular AI Assistant)",
@@ -13696,9 +13723,9 @@
       "captured_at": null,
       "author": "Manuel",
       "contributor": null,
-      "id": "enterprise_ai_context_infrastructure_modular_ai_assistant",
       "community": 5,
-      "norm_label": "\u6a21\u7d44\u5316ai\u52a9\u7406 (modular ai assistant)"
+      "norm_label": "\u6a21\u7d44\u5316ai\u52a9\u7406 (modular ai assistant)",
+      "id": "enterprise_ai_context_infrastructure_modular_ai_assistant"
     },
     {
       "label": "3-2-1 \u60c5\u5883\u6574\u7406\u6cd5\u5247",
@@ -13709,9 +13736,9 @@
       "captured_at": null,
       "author": "Manuel",
       "contributor": null,
-      "id": "enterprise_ai_context_infrastructure_321_rule",
       "community": 5,
-      "norm_label": "3-2-1 \u60c5\u5883\u6574\u7406\u6cd5\u5247"
+      "norm_label": "3-2-1 \u60c5\u5883\u6574\u7406\u6cd5\u5247",
+      "id": "enterprise_ai_context_infrastructure_321_rule"
     },
     {
       "label": "\u6c7a\u7b56\u8108\u7d61\u8150\u6557 (Decision Context Decay)",
@@ -13722,9 +13749,9 @@
       "captured_at": null,
       "author": "Chuck Griess",
       "contributor": null,
-      "id": "ai_capture_decision_record_decision_context_decay",
       "community": 5,
-      "norm_label": "\u6c7a\u7b56\u8108\u7d61\u8150\u6557 (decision context decay)"
+      "norm_label": "\u6c7a\u7b56\u8108\u7d61\u8150\u6557 (decision context decay)",
+      "id": "ai_capture_decision_record_decision_context_decay"
     },
     {
       "label": "Decision Record (DR)",
@@ -13735,9 +13762,9 @@
       "captured_at": null,
       "author": "Chuck Griess",
       "contributor": null,
-      "id": "ai_capture_decision_record_decision_record",
       "community": 5,
-      "norm_label": "decision record (dr)"
+      "norm_label": "decision record (dr)",
+      "id": "ai_capture_decision_record_decision_record"
     },
     {
       "label": "DR\u6b04\u4f4d\uff1a\u6c7a\u7b56\u5167\u5bb9 (What)",
@@ -13748,9 +13775,9 @@
       "captured_at": null,
       "author": "Chuck Griess",
       "contributor": null,
-      "id": "ai_capture_decision_record_what_field",
       "community": 5,
-      "norm_label": "dr\u6b04\u4f4d:\u6c7a\u7b56\u5167\u5bb9 (what)"
+      "norm_label": "dr\u6b04\u4f4d:\u6c7a\u7b56\u5167\u5bb9 (what)",
+      "id": "ai_capture_decision_record_what_field"
     },
     {
       "label": "DR\u6b04\u4f4d\uff1a\u7406\u7531 (Why)",
@@ -13761,9 +13788,9 @@
       "captured_at": null,
       "author": "Chuck Griess",
       "contributor": null,
-      "id": "ai_capture_decision_record_why_field",
       "community": 5,
-      "norm_label": "dr\u6b04\u4f4d:\u7406\u7531 (why)"
+      "norm_label": "dr\u6b04\u4f4d:\u7406\u7531 (why)",
+      "id": "ai_capture_decision_record_why_field"
     },
     {
       "label": "DR\u6b04\u4f4d\uff1a\u88ab\u5426\u6c7a\u65b9\u6848 (Alternatives)",
@@ -13774,9 +13801,9 @@
       "captured_at": null,
       "author": "Chuck Griess",
       "contributor": null,
-      "id": "ai_capture_decision_record_alternatives_field",
       "community": 5,
-      "norm_label": "dr\u6b04\u4f4d:\u88ab\u5426\u6c7a\u65b9\u6848 (alternatives)"
+      "norm_label": "dr\u6b04\u4f4d:\u88ab\u5426\u6c7a\u65b9\u6848 (alternatives)",
+      "id": "ai_capture_decision_record_alternatives_field"
     },
     {
       "label": "DR\u6b04\u4f4d\uff1a\u91cd\u65b0\u6aa2\u8996\u689d\u4ef6 (Revisit Conditions)",
@@ -13787,9 +13814,9 @@
       "captured_at": null,
       "author": "Chuck Griess",
       "contributor": null,
-      "id": "ai_capture_decision_record_revisit_conditions",
       "community": 5,
-      "norm_label": "dr\u6b04\u4f4d:\u91cd\u65b0\u6aa2\u8996\u689d\u4ef6 (revisit conditions)"
+      "norm_label": "dr\u6b04\u4f4d:\u91cd\u65b0\u6aa2\u8996\u689d\u4ef6 (revisit conditions)",
+      "id": "ai_capture_decision_record_revisit_conditions"
     },
     {
       "label": "AI\u8f14\u52a9DR\u5de5\u4f5c\u6d41 (AI-assisted DR Workflow)",
@@ -13800,9 +13827,9 @@
       "captured_at": null,
       "author": "Chuck Griess",
       "contributor": null,
-      "id": "ai_capture_decision_record_ai_workflow",
       "community": 5,
-      "norm_label": "ai\u8f14\u52a9dr\u5de5\u4f5c\u6d41 (ai-assisted dr workflow)"
+      "norm_label": "ai\u8f14\u52a9dr\u5de5\u4f5c\u6d41 (ai-assisted dr workflow)",
+      "id": "ai_capture_decision_record_ai_workflow"
     },
     {
       "label": "5\u5206\u9418\u539f\u5247 (Five-Minute Principle)",
@@ -13813,9 +13840,9 @@
       "captured_at": null,
       "author": "Chuck Griess",
       "contributor": null,
-      "id": "ai_capture_decision_record_five_minute_principle",
       "community": 5,
-      "norm_label": "5\u5206\u9418\u539f\u5247 (five-minute principle)"
+      "norm_label": "5\u5206\u9418\u539f\u5247 (five-minute principle)",
+      "id": "ai_capture_decision_record_five_minute_principle"
     },
     {
       "label": "CRAFT\u65b9\u6cd5\u8ad6",
@@ -13826,9 +13853,9 @@
       "captured_at": null,
       "author": "Chuck Griess",
       "contributor": null,
-      "id": "ai_capture_decision_record_craft_methodology",
       "community": 5,
-      "norm_label": "craft\u65b9\u6cd5\u8ad6"
+      "norm_label": "craft\u65b9\u6cd5\u8ad6",
+      "id": "ai_capture_decision_record_craft_methodology"
     },
     {
       "label": "\u8108\u7d61\u5716 (Context Graph)",
@@ -13839,9 +13866,9 @@
       "captured_at": null,
       "author": "Chuck Griess",
       "contributor": null,
-      "id": "ai_capture_decision_record_context_graph",
       "community": 5,
-      "norm_label": "\u8108\u7d61\u5716 (context graph)"
+      "norm_label": "\u8108\u7d61\u5716 (context graph)",
+      "id": "ai_capture_decision_record_context_graph"
     },
     {
       "label": "\u8a8d\u77e5\u5931\u8abf (Cognitive Dissonance)",
@@ -13852,9 +13879,9 @@
       "captured_at": null,
       "author": "Howard Marks",
       "contributor": null,
-      "id": "howard_marks_investment_philosophy_cognitive_dissonance",
       "community": 22,
-      "norm_label": "\u8a8d\u77e5\u5931\u8abf (cognitive dissonance)"
+      "norm_label": "\u8a8d\u77e5\u5931\u8abf (cognitive dissonance)",
+      "id": "howard_marks_investment_philosophy_cognitive_dissonance"
     },
     {
       "label": "\u5fc3\u7406\u64fa\u76ea (Psychological Pendulum)",
@@ -13865,9 +13892,9 @@
       "captured_at": null,
       "author": "Howard Marks",
       "contributor": null,
-      "id": "howard_marks_investment_philosophy_psychological_pendulum",
       "community": 22,
-      "norm_label": "\u5fc3\u7406\u64fa\u76ea (psychological pendulum)"
+      "norm_label": "\u5fc3\u7406\u64fa\u76ea (psychological pendulum)",
+      "id": "howard_marks_investment_philosophy_psychological_pendulum"
     },
     {
       "label": "\u696d\u9918\u7db2\u7403\u54f2\u5b78\uff1a\u5c11\u8f38\u5c31\u662f\u8d0f",
@@ -13878,9 +13905,9 @@
       "captured_at": null,
       "author": "Howard Marks",
       "contributor": null,
-      "id": "howard_marks_investment_philosophy_amateur_tennis_philosophy",
       "community": 22,
-      "norm_label": "\u696d\u9918\u7db2\u7403\u54f2\u5b78:\u5c11\u8f38\u5c31\u662f\u8d0f"
+      "norm_label": "\u696d\u9918\u7db2\u7403\u54f2\u5b78:\u5c11\u8f38\u5c31\u662f\u8d0f",
+      "id": "howard_marks_investment_philosophy_amateur_tennis_philosophy"
     },
     {
       "label": "\u98a8\u96aa\u63a7\u5236 (Risk Control)",
@@ -13891,9 +13918,9 @@
       "captured_at": null,
       "author": "Howard Marks",
       "contributor": null,
-      "id": "howard_marks_investment_philosophy_risk_control",
       "community": 22,
-      "norm_label": "\u98a8\u96aa\u63a7\u5236 (risk control)"
+      "norm_label": "\u98a8\u96aa\u63a7\u5236 (risk control)",
+      "id": "howard_marks_investment_philosophy_risk_control"
     },
     {
       "label": "\u50f9\u683c vs. \u50f9\u503c (Price vs. Value)",
@@ -13904,9 +13931,9 @@
       "captured_at": null,
       "author": "Howard Marks",
       "contributor": null,
-      "id": "howard_marks_investment_philosophy_value_vs_price",
       "community": 22,
-      "norm_label": "\u50f9\u683c vs. \u50f9\u503c (price vs. value)"
+      "norm_label": "\u50f9\u683c vs. \u50f9\u503c (price vs. value)",
+      "id": "howard_marks_investment_philosophy_value_vs_price"
     },
     {
       "label": "Un-buying \u908f\u8f2f\uff08\u53cd\u5411\u8cfc\u8cb7\uff09",
@@ -13917,9 +13944,9 @@
       "captured_at": null,
       "author": "Howard Marks",
       "contributor": null,
-      "id": "howard_marks_investment_philosophy_unbuying_logic",
       "community": 22,
-      "norm_label": "un-buying \u908f\u8f2f(\u53cd\u5411\u8cfc\u8cb7)"
+      "norm_label": "un-buying \u908f\u8f2f(\u53cd\u5411\u8cfc\u8cb7)",
+      "id": "howard_marks_investment_philosophy_unbuying_logic"
     },
     {
       "label": "\u9577\u671f\u4e3b\u7fa9\u8207\u8907\u5229 (Compounding)",
@@ -13930,9 +13957,9 @@
       "captured_at": null,
       "author": "Howard Marks",
       "contributor": null,
-      "id": "howard_marks_investment_philosophy_compounding",
       "community": 22,
-      "norm_label": "\u9577\u671f\u4e3b\u7fa9\u8207\u8907\u5229 (compounding)"
+      "norm_label": "\u9577\u671f\u4e3b\u7fa9\u8207\u8907\u5229 (compounding)",
+      "id": "howard_marks_investment_philosophy_compounding"
     },
     {
       "label": "3-V \u6295\u8cc7\u8a55\u4f30\u6cd5\u5247",
@@ -13943,9 +13970,9 @@
       "captured_at": null,
       "author": "Howard Marks",
       "contributor": null,
-      "id": "howard_marks_investment_philosophy_3v_rule",
       "community": 22,
-      "norm_label": "3-v \u6295\u8cc7\u8a55\u4f30\u6cd5\u5247"
+      "norm_label": "3-v \u6295\u8cc7\u8a55\u4f30\u6cd5\u5247",
+      "id": "howard_marks_investment_philosophy_3v_rule"
     },
     {
       "label": "\u6210\u672c\u66f2\u7dda (Cost Curve)",
@@ -13956,9 +13983,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "economics_drives_business_cost_curve",
       "community": 75,
-      "norm_label": "\u6210\u672c\u66f2\u7dda (cost curve)"
+      "norm_label": "\u6210\u672c\u66f2\u7dda (cost curve)",
+      "id": "economics_drives_business_cost_curve"
     },
     {
       "label": "\u908a\u969b\u601d\u7dad (Marginal Thinking)",
@@ -13969,9 +13996,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "economics_drives_business_marginal_thinking",
       "community": 75,
-      "norm_label": "\u908a\u969b\u601d\u7dad (marginal thinking)"
+      "norm_label": "\u908a\u969b\u601d\u7dad (marginal thinking)",
+      "id": "economics_drives_business_marginal_thinking"
     },
     {
       "label": "More-Better-New \u6846\u67b6",
@@ -13982,9 +14009,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "economics_drives_business_more_better_new",
       "community": 75,
-      "norm_label": "more-better-new \u6846\u67b6"
+      "norm_label": "more-better-new \u6846\u67b6",
+      "id": "economics_drives_business_more_better_new"
     },
     {
       "label": "\u5e02\u5834\u529b\u91cf (Market Power)",
@@ -13995,9 +14022,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "economics_drives_business_market_power",
       "community": 22,
-      "norm_label": "\u5e02\u5834\u529b\u91cf (market power)"
+      "norm_label": "\u5e02\u5834\u529b\u91cf (market power)",
+      "id": "economics_drives_business_market_power"
     },
     {
       "label": "\u8cc7\u8a0a\u4e0d\u5c0d\u7a31 (Information Asymmetry)",
@@ -14008,9 +14035,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "economics_drives_business_information_asymmetry",
       "community": 22,
-      "norm_label": "\u8cc7\u8a0a\u4e0d\u5c0d\u7a31 (information asymmetry)"
+      "norm_label": "\u8cc7\u8a0a\u4e0d\u5c0d\u7a31 (information asymmetry)",
+      "id": "economics_drives_business_information_asymmetry"
     },
     {
       "label": "\u6709\u9650\u7406\u6027 (Bounded Rationality)",
@@ -14021,9 +14048,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "economics_drives_business_bounded_rationality",
       "community": 22,
-      "norm_label": "\u6709\u9650\u7406\u6027 (bounded rationality)"
+      "norm_label": "\u6709\u9650\u7406\u6027 (bounded rationality)",
+      "id": "economics_drives_business_bounded_rationality"
     },
     {
       "label": "\u6fc0\u52f5\u6a5f\u5236\u5c0d\u9f4a (Incentive Alignment)",
@@ -14034,9 +14061,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "economics_drives_business_incentive_alignment",
-      "community": 82,
-      "norm_label": "\u6fc0\u52f5\u6a5f\u5236\u5c0d\u9f4a (incentive alignment)"
+      "community": 83,
+      "norm_label": "\u6fc0\u52f5\u6a5f\u5236\u5c0d\u9f4a (incentive alignment)",
+      "id": "economics_drives_business_incentive_alignment"
     },
     {
       "label": "\u7a00\u7f3a\u6027\u8207\u8cc7\u6e90\u5206\u914d (Scarcity & Resource Allocation)",
@@ -14047,9 +14074,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "economics_drives_business_scarcity_resource_allocation",
-      "community": 82,
-      "norm_label": "\u7a00\u7f3a\u6027\u8207\u8cc7\u6e90\u5206\u914d (scarcity & resource allocation)"
+      "community": 83,
+      "norm_label": "\u7a00\u7f3a\u6027\u8207\u8cc7\u6e90\u5206\u914d (scarcity & resource allocation)",
+      "id": "economics_drives_business_scarcity_resource_allocation"
     },
     {
       "label": "M-B-N \u6548\u7387\u6cd5\u5247",
@@ -14060,9 +14087,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "economics_drives_business_mbn_rule",
       "community": 75,
-      "norm_label": "m-b-n \u6548\u7387\u6cd5\u5247"
+      "norm_label": "m-b-n \u6548\u7387\u6cd5\u5247",
+      "id": "economics_drives_business_mbn_rule"
     },
     {
       "label": "\u57fa\u7dda\u884c\u70ba (Baseline Behavior)",
@@ -14073,9 +14100,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "how_spies_analyze_you_baseline_behavior",
       "community": 22,
-      "norm_label": "\u57fa\u7dda\u884c\u70ba (baseline behavior)"
+      "norm_label": "\u57fa\u7dda\u884c\u70ba (baseline behavior)",
+      "id": "how_spies_analyze_you_baseline_behavior"
     },
     {
       "label": "\u8eab\u9ad4\u8a9e\u8a00\u6d29\u6f0f (Body Language Leakage)",
@@ -14086,9 +14113,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "how_spies_analyze_you_body_language_leakage",
       "community": 22,
-      "norm_label": "\u8eab\u9ad4\u8a9e\u8a00\u6d29\u6f0f (body language leakage)"
+      "norm_label": "\u8eab\u9ad4\u8a9e\u8a00\u6d29\u6f0f (body language leakage)",
+      "id": "how_spies_analyze_you_body_language_leakage"
     },
     {
       "label": "\u60c5\u7dd2\u71b1\u9ede (Hotspot / Psychological Charge)",
@@ -14099,9 +14126,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "how_spies_analyze_you_hotspot",
       "community": 22,
-      "norm_label": "\u60c5\u7dd2\u71b1\u9ede (hotspot / psychological charge)"
+      "norm_label": "\u60c5\u7dd2\u71b1\u9ede (hotspot / psychological charge)",
+      "id": "how_spies_analyze_you_hotspot"
     },
     {
       "label": "\u8a98\u5c0e\u8207\u4e92\u60e0\u539f\u7406 (Elicitation & Reciprocity)",
@@ -14112,9 +14139,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "how_spies_analyze_you_elicitation_reciprocity",
       "community": 22,
-      "norm_label": "\u8a98\u5c0e\u8207\u4e92\u60e0\u539f\u7406 (elicitation & reciprocity)"
+      "norm_label": "\u8a98\u5c0e\u8207\u4e92\u60e0\u539f\u7406 (elicitation & reciprocity)",
+      "id": "how_spies_analyze_you_elicitation_reciprocity"
     },
     {
       "label": "\u597d\u611f\u539f\u5247 (Liking Principle)",
@@ -14125,9 +14152,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "how_spies_analyze_you_liking_principle",
       "community": 22,
-      "norm_label": "\u597d\u611f\u539f\u5247 (liking principle)"
+      "norm_label": "\u597d\u611f\u539f\u5247 (liking principle)",
+      "id": "how_spies_analyze_you_liking_principle"
     },
     {
       "label": "\u4eba\u985e\u60c5\u5831 (HUMINT)",
@@ -14138,9 +14165,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "how_spies_analyze_you_humint",
       "community": 22,
-      "norm_label": "\u4eba\u985e\u60c5\u5831 (humint)"
+      "norm_label": "\u4eba\u985e\u60c5\u5831 (humint)",
+      "id": "how_spies_analyze_you_humint"
     },
     {
       "label": "B-H-A \u89c0\u5bdf\u6cd5\u5247",
@@ -14151,9 +14178,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "how_spies_analyze_you_bha_rule",
       "community": 22,
-      "norm_label": "b-h-a \u89c0\u5bdf\u6cd5\u5247"
+      "norm_label": "b-h-a \u89c0\u5bdf\u6cd5\u5247",
+      "id": "how_spies_analyze_you_bha_rule"
     },
     {
       "label": "\u5927\u8166\u53ef\u5851\u6027 (Brain Plasticity)",
@@ -14164,9 +14191,9 @@
       "captured_at": null,
       "author": "David Eagleman",
       "contributor": null,
-      "id": "why_you_dream_neuroscience_brain_plasticity",
       "community": 5,
-      "norm_label": "\u5927\u8166\u53ef\u5851\u6027 (brain plasticity)"
+      "norm_label": "\u5927\u8166\u53ef\u5851\u6027 (brain plasticity)",
+      "id": "why_you_dream_neuroscience_brain_plasticity"
     },
     {
       "label": "\u5c24\u91cc\u897f\u65af\u5408\u7d04 (Ulysses Contract)",
@@ -14177,9 +14204,9 @@
       "captured_at": null,
       "author": "David Eagleman",
       "contributor": null,
-      "id": "why_you_dream_neuroscience_ulysses_contract",
       "community": 5,
-      "norm_label": "\u5c24\u91cc\u897f\u65af\u5408\u7d04 (ulysses contract)"
+      "norm_label": "\u5c24\u91cc\u897f\u65af\u5408\u7d04 (ulysses contract)",
+      "id": "why_you_dream_neuroscience_ulysses_contract"
     },
     {
       "label": "\u8a8d\u77e5\u5132\u5099 (Cognitive Reserve)",
@@ -14190,9 +14217,9 @@
       "captured_at": null,
       "author": "David Eagleman",
       "contributor": null,
-      "id": "why_you_dream_neuroscience_cognitive_reserve",
       "community": 5,
-      "norm_label": "\u8a8d\u77e5\u5132\u5099 (cognitive reserve)"
+      "norm_label": "\u8a8d\u77e5\u5132\u5099 (cognitive reserve)",
+      "id": "why_you_dream_neuroscience_cognitive_reserve"
     },
     {
       "label": "\u5922\u5883\u8996\u89ba\u9818\u571f\u9632\u79a6\u6a5f\u5236",
@@ -14203,9 +14230,9 @@
       "captured_at": null,
       "author": "David Eagleman",
       "contributor": null,
-      "id": "why_you_dream_neuroscience_dream_visual_territory",
       "community": 5,
-      "norm_label": "\u5922\u5883\u8996\u89ba\u9818\u571f\u9632\u79a6\u6a5f\u5236"
+      "norm_label": "\u5922\u5883\u8996\u89ba\u9818\u571f\u9632\u79a6\u6a5f\u5236",
+      "id": "why_you_dream_neuroscience_dream_visual_territory"
     },
     {
       "label": "REM\u7761\u7720\u9031\u671f",
@@ -14216,9 +14243,9 @@
       "captured_at": null,
       "author": "David Eagleman",
       "contributor": null,
-      "id": "why_you_dream_neuroscience_rem_sleep",
       "community": 5,
-      "norm_label": "rem\u7761\u7720\u9031\u671f"
+      "norm_label": "rem\u7761\u7720\u9031\u671f",
+      "id": "why_you_dream_neuroscience_rem_sleep"
     },
     {
       "label": "AI\u4f5c\u70ba\u5fc3\u667a\u6469\u6258\u8eca (AI as Cognitive Tool)",
@@ -14229,9 +14256,9 @@
       "captured_at": null,
       "author": "David Eagleman",
       "contributor": null,
-      "id": "why_you_dream_neuroscience_ai_as_cognitive_tool",
       "community": 5,
-      "norm_label": "ai\u4f5c\u70ba\u5fc3\u667a\u6469\u6258\u8eca (ai as cognitive tool)"
+      "norm_label": "ai\u4f5c\u70ba\u5fc3\u667a\u6469\u6258\u8eca (ai as cognitive tool)",
+      "id": "why_you_dream_neuroscience_ai_as_cognitive_tool"
     },
     {
       "label": "\u826f\u6027 vs. \u60e1\u6027\u6469\u64e6 (Benign vs. Malign Friction)",
@@ -14242,9 +14269,9 @@
       "captured_at": null,
       "author": "David Eagleman",
       "contributor": null,
-      "id": "why_you_dream_neuroscience_benign_vs_malign_friction",
       "community": 5,
-      "norm_label": "\u826f\u6027 vs. \u60e1\u6027\u6469\u64e6 (benign vs. malign friction)"
+      "norm_label": "\u826f\u6027 vs. \u60e1\u6027\u6469\u64e6 (benign vs. malign friction)",
+      "id": "why_you_dream_neuroscience_benign_vs_malign_friction"
     },
     {
       "label": "3-N \u6311\u6230\u6cd5\u5247",
@@ -14255,9 +14282,9 @@
       "captured_at": null,
       "author": "David Eagleman",
       "contributor": null,
-      "id": "why_you_dream_neuroscience_3n_rule",
       "community": 5,
-      "norm_label": "3-n \u6311\u6230\u6cd5\u5247"
+      "norm_label": "3-n \u6311\u6230\u6cd5\u5247",
+      "id": "why_you_dream_neuroscience_3n_rule"
     },
     {
       "label": "\u4ee3\u7406\u5f0f\u5546\u52d9 (Agentic Commerce)",
@@ -14268,9 +14295,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_commerce_agentic_commerce",
       "community": 5,
-      "norm_label": "\u4ee3\u7406\u5f0f\u5546\u52d9 (agentic commerce)"
+      "norm_label": "\u4ee3\u7406\u5f0f\u5546\u52d9 (agentic commerce)",
+      "id": "agentic_commerce_agentic_commerce"
     },
     {
       "label": "AI\u53ef\u898b\u5ea6 (AI Visibility)",
@@ -14281,9 +14308,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_commerce_ai_visibility",
       "community": 5,
-      "norm_label": "ai\u53ef\u898b\u5ea6 (ai visibility)"
+      "norm_label": "ai\u53ef\u898b\u5ea6 (ai visibility)",
+      "id": "agentic_commerce_ai_visibility"
     },
     {
       "label": "\u6548\u80fd\u8e8d\u9077 (Performance Leap)",
@@ -14294,9 +14321,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_commerce_performance_leap",
       "community": 5,
-      "norm_label": "\u6548\u80fd\u8e8d\u9077 (performance leap)"
+      "norm_label": "\u6548\u80fd\u8e8d\u9077 (performance leap)",
+      "id": "agentic_commerce_performance_leap"
     },
     {
       "label": "\u220f\u578b\u4eba\u624d (Pi-shaped Talent)",
@@ -14307,9 +14334,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_commerce_pi_talent",
       "community": 5,
-      "norm_label": "\u220f\u578b\u4eba\u624d (pi-shaped talent)"
+      "norm_label": "\u220f\u578b\u4eba\u624d (pi-shaped talent)",
+      "id": "agentic_commerce_pi_talent"
     },
     {
       "label": "AI\u6307\u63ee\u5bb6 (AI Conductor)",
@@ -14320,9 +14347,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_commerce_ai_conductor",
       "community": 5,
-      "norm_label": "ai\u6307\u63ee\u5bb6 (ai conductor)"
+      "norm_label": "ai\u6307\u63ee\u5bb6 (ai conductor)",
+      "id": "agentic_commerce_ai_conductor"
     },
     {
       "label": "\u7b97\u529b\u63db\u4eba\u529b (Compute Replaces Labor)",
@@ -14333,9 +14360,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_commerce_compute_replaces_labor",
       "community": 5,
-      "norm_label": "\u7b97\u529b\u63db\u4eba\u529b (compute replaces labor)"
+      "norm_label": "\u7b97\u529b\u63db\u4eba\u529b (compute replaces labor)",
+      "id": "agentic_commerce_compute_replaces_labor"
     },
     {
       "label": "\u7d44\u7e54\u8ca0\u80fd (Organizational Inertia)",
@@ -14346,9 +14373,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_commerce_organizational_inertia",
       "community": 5,
-      "norm_label": "\u7d44\u7e54\u8ca0\u80fd (organizational inertia)"
+      "norm_label": "\u7d44\u7e54\u8ca0\u80fd (organizational inertia)",
+      "id": "agentic_commerce_organizational_inertia"
     },
     {
       "label": "1-2-3 \u6307\u63ee\u5bb6\u6cd5\u5247",
@@ -14359,12 +14386,48 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_commerce_123_conductor_rule",
       "community": 5,
-      "norm_label": "1-2-3 \u6307\u63ee\u5bb6\u6cd5\u5247"
+      "norm_label": "1-2-3 \u6307\u63ee\u5bb6\u6cd5\u5247",
+      "id": "agentic_commerce_123_conductor_rule"
     }
   ],
   "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/rebuild-index.js",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "scripts_rebuild_index_js",
+      "_tgt": "rebuild_index_parsefrontmatter",
+      "source": "scripts_rebuild_index_js",
+      "target": "rebuild_index_parsefrontmatter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/rebuild-index.js",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_src": "scripts_rebuild_index_js",
+      "_tgt": "rebuild_index_buildindex",
+      "source": "scripts_rebuild_index_js",
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/rebuild-index.js",
+      "source_location": "L56",
+      "weight": 1.0,
+      "_src": "rebuild_index_buildindex",
+      "_tgt": "rebuild_index_parsefrontmatter",
+      "source": "rebuild_index_parsefrontmatter",
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
+    },
     {
       "relation": "rationale_for",
       "confidence": "EXTRACTED",
