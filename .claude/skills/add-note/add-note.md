@@ -3,6 +3,8 @@ name: add-note
 description: 新增單張視覺筆記到 Gallery 網站
 user-invocable: true
 argument-hint: "<檔名（不含副檔名）> [--dry-run]"
+context: fork
+agent: general-purpose
 ---
 
 # /add-note - 新增單張視覺筆記
