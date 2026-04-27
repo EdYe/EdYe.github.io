@@ -1,5 +1,45 @@
 [
   {
+    "id": "iam-for-ai",
+    "title": "AI 代理系統的身分與存取管理：四階段成熟度模型",
+    "category": "影片筆記",
+    "tags": [
+      "IAM安全",
+      "AI代理",
+      "身分驗證",
+      "動態授權",
+      "零信任"
+    ],
+    "description": "本影片深入探討了 AI 代理人（AI Agents）系統中的身分與存取管理（IAM）策略。隨著 AI 從單純的工具演變為具有自主權的代理系統，傳統的 API 金",
+    "quote": "安全不是一次性的安裝，而是隨系統進化而不斷演進的成熟過程。",
+    "action": "清查所有AI代理API金鑰，為每個代理建立獨立非人身分並實施短效憑證機制。",
+    "image": "/images/影片筆記/iam-for-ai.jpeg",
+    "date": "2026-04-28",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本影片深入探討了 AI 代理人（AI Agents）系統中的身分與存取管理（IAM）策略。隨著 AI 從單純的工具演變為具有自主權的代理系統，傳統的 API 金鑰管理已不足夠。透過四個階段的「成熟度模型」，我們能從混亂的臨時開發過度到具備自適應、實時防護的安全體系，確保 AI 在發揮生產力的同時，不成為企業的安全漏洞。 --- 詳細重點整理 1. AI 代理系統面臨的四大核心風險 [(http://www.youtube.com/watch?v=e8ela6puxig&t=69)] 在建構 agentic 系統時，必須優先解決以下風險：  確立責任歸屬 (Accountability)：傳統開發以專案為單位，但非決定性（Non-deterministic）的 AI 系統需要將責任具體化到代理人本身。  執行最小特權 (Least Privilege)：避免產生「超級代理人」，應限制代理人僅能存取完成特定任務所需的最小資源。 [(http://www.youtube.com/watch?v=e8ela6puxig&t=137)]  防止濫用 (Prevent Abuse)：無論",
+    "url": "/notes/iam-for-ai"
+  },
+  {
+    "id": "gateways-are-all-you-need",
+    "title": "企業 MCP 網關架構：統一信任根與去中心化管理",
+    "category": "影片筆記",
+    "tags": [
+      "MCP架構",
+      "網關",
+      "信任根",
+      "代理架構",
+      "企業安全"
+    ],
+    "description": "當前企業導入 MCP 面臨可觀測性、權限控管與安全性三大瓶頸。本影片主張：與其逐一審核零散的 MCP 伺服器，企業應建立一個「網關（Gateway）」作為統一的",
+    "quote": "安全團隊的最終目標不是審核每一個工具，而是核准一個能讓工具安全運作的平台。",
+    "action": "建立MCP網關統一處理身分驗證與日誌追蹤，以D-C-O法則推動企業AI落地。",
+    "image": "/images/影片筆記/gateways-are-all-you-need.jpeg",
+    "date": "2026-04-28",
+    "source_has_timestamps": true,
+    "body": "這份筆記由知識管理專家為您整理，深入分析 Anthropic 工程師 Karan Sampath 針對「模型上下文協議（MCP）在企業級應用」的實務見解，探討為何「網關（Gateway）」是解決 AI 代理落地痛點的核心關鍵。 [核心摘要] 當前企業導入 MCP 面臨可觀測性、權限控管與安全性三大瓶頸。本影片主張：與其逐一審核零散的 MCP 伺服器，企業應建立一個「網關（Gateway）」作為統一的信任根（Root of Trust）。透過將基礎設施（鑑權、代理、安全隧道）與業務邏輯分離，企業能實現「開發去中心化、管理中心化」的架構，從而將 AI 代理的效能從單點工具提升至企業級的規模化應用。 --- [詳細重點整理] 1. 企業導入 MCP 的三大阻礙 [(http://www.youtube.com/watch?v=CD6R4Wf3jnY&t=104)] 企業在嘗試應用 MCP 時，常遇到被稱為「三頭海德拉 (The Three-Headed Hydra)」的技術挑戰：  可觀測性：難以追蹤誰在使用工具、哪些工具失效。  權限控管：無法細粒度地限制特定部門（如法務、研發）對敏感資料",
+    "url": "/notes/gateways-are-all-you-need"
+  },
+  {
     "id": "claude-code-skill-chaining-context-optimization",
     "title": "Claude Code 技能鏈接優化降低上下文膨脹",
     "category": "影片筆記",
