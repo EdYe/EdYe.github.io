@@ -1,7 +1,7 @@
-# Graph Report - _notes  (2026-04-28)
+# Graph Report - .  (2026-04-30)
 
 ## Corpus Check
-- 0 files · ~99,999 words
+- 1 files · ~19,933,355 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -22,7 +22,7 @@
 - [[_COMMUNITY_Community 9|Community 9]]
 - [[_COMMUNITY_Community 10|Community 10]]
 - [[_COMMUNITY_Community 11|Community 11]]
-- [[_COMMUNITY_企業 AI 安全架構|企業 AI 安全架構]]
+- [[_COMMUNITY_Community 12|Community 12]]
 - [[_COMMUNITY_Community 13|Community 13]]
 - [[_COMMUNITY_Community 14|Community 14]]
 - [[_COMMUNITY_Community 15|Community 15]]
@@ -178,7 +178,7 @@ Nodes (28): 反待辦清單, 產品鐵三角, AI時代的產品管理轉型：�
 Cohesion: 0.1
 Nodes (27): Agentic Loop (Core While Loop), Context Window & Token Economics (Quadratic Tax), Deny-First Architecture (Guardrails), Extended Thinking (ReAct Framework), MCP Tools (Layer in System Prompt), Prompt Caching (90% Cost Reduction), Claude Code 6-Layer Architecture, Subagents (Parallel Delegation) (+19 more)
 
-### Community 12 - "企業 AI 安全架構"
+### Community 12 - "Community 12"
 Cohesion: 0.1
 Nodes (26): 代理架構分離（Agent-Data Separation）, D-C-O 法則（解耦-中心化-開放）, 企業級落差（Enterprise Gap）, MCP Gateway（企業網關）, MCP 註冊表（Registry）, 中介解耦（Middleware Decoupling）, 協議落差（Protocol Gap）, 為何網關優於註冊表（設計理由） (+18 more)
 
@@ -495,8 +495,6 @@ Nodes (2): 操作員模式（Operator Mode）, Worktree 工作樹隔離
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `開發型產品經理（Builder PM）` connect `Community 1` to `Community 9`?**
-  _High betweenness centrality (0.002) - this node is a cross-community bridge._
 - **Why does `/insights 行為分析報告` connect `Community 14` to `Community 0`?**
   _High betweenness centrality (0.002) - this node is a cross-community bridge._
 - **Are the 2 inferred relationships involving `情境基礎設施 (Context Infrastructure)` (e.g. with `脈絡圖 (Context Graph)` and `代理式商務 (Agentic Commerce)`) actually correct?**
@@ -509,3 +507,5 @@ _Questions this graph is uniquely positioned to answer:_
   _Cohesion score 0.06 - nodes in this community are weakly interconnected._
 - **Should `Community 2` be split into smaller, more focused modules?**
   _Cohesion score 0.05 - nodes in this community are weakly interconnected._
+- **Should `Community 3` be split into smaller, more focused modules?**
+  _Cohesion score 0.06 - nodes in this community are weakly interconnected._

@@ -50,27 +50,27 @@
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L1",
+      "id": "scripts_rebuild_index_js",
       "community": 79,
-      "norm_label": "rebuild-index.js",
-      "id": "scripts_rebuild_index_js"
+      "norm_label": "rebuild-index.js"
     },
     {
       "label": "parseFrontMatter()",
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L11",
+      "id": "rebuild_index_parsefrontmatter",
       "community": 79,
-      "norm_label": "parsefrontmatter()",
-      "id": "rebuild_index_parsefrontmatter"
+      "norm_label": "parsefrontmatter()"
     },
     {
       "label": "buildIndex()",
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L45",
+      "id": "rebuild_index_buildindex",
       "community": 79,
-      "norm_label": "buildindex()",
-      "id": "rebuild_index_buildindex"
+      "norm_label": "buildindex()"
     },
     {
       "label": "\u5e1d\u570b\u4e3b\u7fa9\u5efa\u8a2d",
@@ -15356,9 +15356,9 @@
       "captured_at": null,
       "author": "Karan Sampath (Anthropic)",
       "contributor": null,
-      "id": "gateways_are_all_you_need_mcp_gateway",
       "community": 12,
-      "norm_label": "mcp gateway(\u4f01\u696d\u7db2\u95dc)"
+      "norm_label": "mcp gateway(\u4f01\u696d\u7db2\u95dc)",
+      "id": "gateways_are_all_you_need_mcp_gateway"
     },
     {
       "label": "\u4fe1\u4efb\u6839\uff08Root of Trust\uff09",
@@ -15369,9 +15369,9 @@
       "captured_at": null,
       "author": "Karan Sampath (Anthropic)",
       "contributor": null,
-      "id": "gateways_are_all_you_need_root_of_trust",
       "community": 12,
-      "norm_label": "\u4fe1\u4efb\u6839(root of trust)"
+      "norm_label": "\u4fe1\u4efb\u6839(root of trust)",
+      "id": "gateways_are_all_you_need_root_of_trust"
     },
     {
       "label": "\u4f01\u696d\u7d1a\u843d\u5dee\uff08Enterprise Gap\uff09",
@@ -15382,9 +15382,9 @@
       "captured_at": null,
       "author": "Karan Sampath (Anthropic)",
       "contributor": null,
-      "id": "gateways_are_all_you_need_enterprise_gap",
       "community": 12,
-      "norm_label": "\u4f01\u696d\u7d1a\u843d\u5dee(enterprise gap)"
+      "norm_label": "\u4f01\u696d\u7d1a\u843d\u5dee(enterprise gap)",
+      "id": "gateways_are_all_you_need_enterprise_gap"
     },
     {
       "label": "\u4e09\u982d\u6d77\u5fb7\u62c9\uff1a\u53ef\u89c0\u6e2c\u6027\u3001\u6b0a\u9650\u63a7\u7ba1\u3001\u5b89\u5168\u6027",
@@ -15395,9 +15395,9 @@
       "captured_at": null,
       "author": "Karan Sampath (Anthropic)",
       "contributor": null,
-      "id": "gateways_are_all_you_need_three_headed_hydra",
       "community": 12,
-      "norm_label": "\u4e09\u982d\u6d77\u5fb7\u62c9:\u53ef\u89c0\u6e2c\u6027\u3001\u6b0a\u9650\u63a7\u7ba1\u3001\u5b89\u5168\u6027"
+      "norm_label": "\u4e09\u982d\u6d77\u5fb7\u62c9:\u53ef\u89c0\u6e2c\u6027\u3001\u6b0a\u9650\u63a7\u7ba1\u3001\u5b89\u5168\u6027",
+      "id": "gateways_are_all_you_need_three_headed_hydra"
     },
     {
       "label": "\u5354\u8b70\u843d\u5dee\uff08Protocol Gap\uff09",
@@ -15408,9 +15408,9 @@
       "captured_at": null,
       "author": "Karan Sampath (Anthropic)",
       "contributor": null,
-      "id": "gateways_are_all_you_need_protocol_gap",
       "community": 12,
-      "norm_label": "\u5354\u8b70\u843d\u5dee(protocol gap)"
+      "norm_label": "\u5354\u8b70\u843d\u5dee(protocol gap)",
+      "id": "gateways_are_all_you_need_protocol_gap"
     },
     {
       "label": "\u4e2d\u4ecb\u89e3\u8026\uff08Middleware Decoupling\uff09",
@@ -15421,9 +15421,9 @@
       "captured_at": null,
       "author": "Karan Sampath (Anthropic)",
       "contributor": null,
-      "id": "gateways_are_all_you_need_middleware_decoupling",
       "community": 12,
-      "norm_label": "\u4e2d\u4ecb\u89e3\u8026(middleware decoupling)"
+      "norm_label": "\u4e2d\u4ecb\u89e3\u8026(middleware decoupling)",
+      "id": "gateways_are_all_you_need_middleware_decoupling"
     },
     {
       "label": "RBAC\uff08\u57fa\u65bc\u89d2\u8272\u7684\u5b58\u53d6\u63a7\u5236\uff09",
@@ -15434,9 +15434,9 @@
       "captured_at": null,
       "author": "Karan Sampath (Anthropic)",
       "contributor": null,
-      "id": "gateways_are_all_you_need_rbac",
       "community": 12,
-      "norm_label": "rbac(\u57fa\u65bc\u89d2\u8272\u7684\u5b58\u53d6\u63a7\u5236)"
+      "norm_label": "rbac(\u57fa\u65bc\u89d2\u8272\u7684\u5b58\u53d6\u63a7\u5236)",
+      "id": "gateways_are_all_you_need_rbac"
     },
     {
       "label": "\u4ee3\u7406\u67b6\u69cb\u5206\u96e2\uff08Agent-Data Separation\uff09",
@@ -15447,9 +15447,9 @@
       "captured_at": null,
       "author": "Karan Sampath (Anthropic)",
       "contributor": null,
-      "id": "gateways_are_all_you_need_agent_data_separation",
       "community": 12,
-      "norm_label": "\u4ee3\u7406\u67b6\u69cb\u5206\u96e2(agent-data separation)"
+      "norm_label": "\u4ee3\u7406\u67b6\u69cb\u5206\u96e2(agent-data separation)",
+      "id": "gateways_are_all_you_need_agent_data_separation"
     },
     {
       "label": "D-C-O \u6cd5\u5247\uff08\u89e3\u8026-\u4e2d\u5fc3\u5316-\u958b\u653e\uff09",
@@ -15460,9 +15460,9 @@
       "captured_at": null,
       "author": "Karan Sampath (Anthropic)",
       "contributor": null,
-      "id": "gateways_are_all_you_need_dco_principle",
       "community": 12,
-      "norm_label": "d-c-o \u6cd5\u5247(\u89e3\u8026-\u4e2d\u5fc3\u5316-\u958b\u653e)"
+      "norm_label": "d-c-o \u6cd5\u5247(\u89e3\u8026-\u4e2d\u5fc3\u5316-\u958b\u653e)",
+      "id": "gateways_are_all_you_need_dco_principle"
     },
     {
       "label": "MCP \u8a3b\u518a\u8868\uff08Registry\uff09",
@@ -15473,9 +15473,9 @@
       "captured_at": null,
       "author": "Karan Sampath (Anthropic)",
       "contributor": null,
-      "id": "gateways_are_all_you_need_mcp_registry",
       "community": 12,
-      "norm_label": "mcp \u8a3b\u518a\u8868(registry)"
+      "norm_label": "mcp \u8a3b\u518a\u8868(registry)",
+      "id": "gateways_are_all_you_need_mcp_registry"
     },
     {
       "label": "AI \u4ee3\u7406 IAM \u56db\u968e\u6bb5\u6210\u719f\u5ea6\u6a21\u578b",
@@ -15486,9 +15486,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_iam_maturity_model",
       "community": 12,
-      "norm_label": "ai \u4ee3\u7406 iam \u56db\u968e\u6bb5\u6210\u719f\u5ea6\u6a21\u578b"
+      "norm_label": "ai \u4ee3\u7406 iam \u56db\u968e\u6bb5\u6210\u719f\u5ea6\u6a21\u578b",
+      "id": "iam_for_ai_iam_maturity_model"
     },
     {
       "label": "\u6210\u719f\u5ea6\u968e\u6bb5\u4e00\uff1a\u81e8\u6642\u6027\u7ba1\u7406\uff08Ad-hoc\uff09",
@@ -15499,9 +15499,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_stage1_adhoc",
       "community": 12,
-      "norm_label": "\u6210\u719f\u5ea6\u968e\u6bb5\u4e00:\u81e8\u6642\u6027\u7ba1\u7406(ad-hoc)"
+      "norm_label": "\u6210\u719f\u5ea6\u968e\u6bb5\u4e00:\u81e8\u6642\u6027\u7ba1\u7406(ad-hoc)",
+      "id": "iam_for_ai_stage1_adhoc"
     },
     {
       "label": "\u6210\u719f\u5ea6\u968e\u6bb5\u4e8c\uff1a\u5efa\u7acb\u57fa\u790e\u67b6\u69cb\uff08Foundation\uff09",
@@ -15512,9 +15512,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_stage2_foundation",
       "community": 12,
-      "norm_label": "\u6210\u719f\u5ea6\u968e\u6bb5\u4e8c:\u5efa\u7acb\u57fa\u790e\u67b6\u69cb(foundation)"
+      "norm_label": "\u6210\u719f\u5ea6\u968e\u6bb5\u4e8c:\u5efa\u7acb\u57fa\u790e\u67b6\u69cb(foundation)",
+      "id": "iam_for_ai_stage2_foundation"
     },
     {
       "label": "\u6210\u719f\u5ea6\u968e\u6bb5\u4e09\uff1a\u589e\u5f37\u578b\u7ba1\u63a7\uff08Enhanced\uff09",
@@ -15525,9 +15525,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_stage3_enhanced",
       "community": 12,
-      "norm_label": "\u6210\u719f\u5ea6\u968e\u6bb5\u4e09:\u589e\u5f37\u578b\u7ba1\u63a7(enhanced)"
+      "norm_label": "\u6210\u719f\u5ea6\u968e\u6bb5\u4e09:\u589e\u5f37\u578b\u7ba1\u63a7(enhanced)",
+      "id": "iam_for_ai_stage3_enhanced"
     },
     {
       "label": "\u6210\u719f\u5ea6\u968e\u6bb5\u56db\uff1a\u81ea\u9069\u61c9\u5b89\u5168\uff08Adaptive\uff09",
@@ -15538,9 +15538,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_stage4_adaptive",
       "community": 12,
-      "norm_label": "\u6210\u719f\u5ea6\u968e\u6bb5\u56db:\u81ea\u9069\u61c9\u5b89\u5168(adaptive)"
+      "norm_label": "\u6210\u719f\u5ea6\u968e\u6bb5\u56db:\u81ea\u9069\u61c9\u5b89\u5168(adaptive)",
+      "id": "iam_for_ai_stage4_adaptive"
     },
     {
       "label": "\u975e\u4eba\u8eab\u5206\u6a19\u8b58\uff08Non-human Identities\uff09",
@@ -15551,9 +15551,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_non_human_identity",
       "community": 12,
-      "norm_label": "\u975e\u4eba\u8eab\u5206\u6a19\u8b58(non-human identities)"
+      "norm_label": "\u975e\u4eba\u8eab\u5206\u6a19\u8b58(non-human identities)",
+      "id": "iam_for_ai_non_human_identity"
     },
     {
       "label": "\u6700\u5c0f\u7279\u6b0a\u539f\u5247\uff08Least Privilege\uff09",
@@ -15564,9 +15564,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_least_privilege",
       "community": 12,
-      "norm_label": "\u6700\u5c0f\u7279\u6b0a\u539f\u5247(least privilege)"
+      "norm_label": "\u6700\u5c0f\u7279\u6b0a\u539f\u5247(least privilege)",
+      "id": "iam_for_ai_least_privilege"
     },
     {
       "label": "\u81e8\u6642\u6027\u6191\u8b49\uff08Ephemeral Credentials\uff09",
@@ -15577,9 +15577,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_ephemeral_credentials",
       "community": 12,
-      "norm_label": "\u81e8\u6642\u6027\u6191\u8b49(ephemeral credentials)"
+      "norm_label": "\u81e8\u6642\u6027\u6191\u8b49(ephemeral credentials)",
+      "id": "iam_for_ai_ephemeral_credentials"
     },
     {
       "label": "\u96f6\u4fe1\u4efb\u9069\u61c9\uff08Zero Trust Adaptive\uff09",
@@ -15590,9 +15590,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_zero_trust_adaptive",
       "community": 12,
-      "norm_label": "\u96f6\u4fe1\u4efb\u9069\u61c9(zero trust adaptive)"
+      "norm_label": "\u96f6\u4fe1\u4efb\u9069\u61c9(zero trust adaptive)",
+      "id": "iam_for_ai_zero_trust_adaptive"
     },
     {
       "label": "\u6301\u7e8c\u6027\u9a57\u8b49\uff08Continuous Authentication\uff09",
@@ -15603,9 +15603,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_continuous_authentication",
       "community": 12,
-      "norm_label": "\u6301\u7e8c\u6027\u9a57\u8b49(continuous authentication)"
+      "norm_label": "\u6301\u7e8c\u6027\u9a57\u8b49(continuous authentication)",
+      "id": "iam_for_ai_continuous_authentication"
     },
     {
       "label": "\u5b89\u5168\u8cc7\u8a0a\u8207\u4e8b\u4ef6\u7ba1\u7406\uff08SIEM\uff09",
@@ -15616,9 +15616,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_siem",
       "community": 12,
-      "norm_label": "\u5b89\u5168\u8cc7\u8a0a\u8207\u4e8b\u4ef6\u7ba1\u7406(siem)"
+      "norm_label": "\u5b89\u5168\u8cc7\u8a0a\u8207\u4e8b\u4ef6\u7ba1\u7406(siem)",
+      "id": "iam_for_ai_siem"
     },
     {
       "label": "\u5be6\u6642\u6b0a\u9650\u64a4\u56de\uff08Real-time Revocation\uff09",
@@ -15629,9 +15629,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_real_time_revocation",
       "community": 12,
-      "norm_label": "\u5be6\u6642\u6b0a\u9650\u64a4\u56de(real-time revocation)"
+      "norm_label": "\u5be6\u6642\u6b0a\u9650\u64a4\u56de(real-time revocation)",
+      "id": "iam_for_ai_real_time_revocation"
     },
     {
       "label": "\u8cac\u4efb\u6b78\u5c6c\uff08Accountability\uff09",
@@ -15642,9 +15642,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_accountability",
       "community": 12,
-      "norm_label": "\u8cac\u4efb\u6b78\u5c6c(accountability)"
+      "norm_label": "\u8cac\u4efb\u6b78\u5c6c(accountability)",
+      "id": "iam_for_ai_accountability"
     },
     {
       "label": "AI \u4ee3\u7406\u56db\u5927\u6838\u5fc3\u98a8\u96aa",
@@ -15655,9 +15655,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_ai_agent_security_risks",
       "community": 12,
-      "norm_label": "ai \u4ee3\u7406\u56db\u5927\u6838\u5fc3\u98a8\u96aa"
+      "norm_label": "ai \u4ee3\u7406\u56db\u5927\u6838\u5fc3\u98a8\u96aa",
+      "id": "iam_for_ai_ai_agent_security_risks"
     },
     {
       "label": "\u70ba\u4f55\u7db2\u95dc\u512a\u65bc\u8a3b\u518a\u8868\uff08\u8a2d\u8a08\u7406\u7531\uff09",
@@ -15668,9 +15668,9 @@
       "captured_at": null,
       "author": "Karan Sampath (Anthropic)",
       "contributor": null,
-      "id": "gateways_are_all_you_need_rationale_gateway_over_registry",
       "community": 12,
-      "norm_label": "\u70ba\u4f55\u7db2\u95dc\u512a\u65bc\u8a3b\u518a\u8868(\u8a2d\u8a08\u7406\u7531)"
+      "norm_label": "\u70ba\u4f55\u7db2\u95dc\u512a\u65bc\u8a3b\u518a\u8868(\u8a2d\u8a08\u7406\u7531)",
+      "id": "gateways_are_all_you_need_rationale_gateway_over_registry"
     },
     {
       "label": "\u70ba\u4f55\u63a1\u7528\u6f38\u9032\u5f0f\u6210\u719f\u5ea6\u6a21\u578b\uff08\u8a2d\u8a08\u7406\u7531\uff09",
@@ -15681,9 +15681,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "iam_for_ai_rationale_maturity_progression",
       "community": 12,
-      "norm_label": "\u70ba\u4f55\u63a1\u7528\u6f38\u9032\u5f0f\u6210\u719f\u5ea6\u6a21\u578b(\u8a2d\u8a08\u7406\u7531)"
+      "norm_label": "\u70ba\u4f55\u63a1\u7528\u6f38\u9032\u5f0f\u6210\u719f\u5ea6\u6a21\u578b(\u8a2d\u8a08\u7406\u7531)",
+      "id": "iam_for_ai_rationale_maturity_progression"
     }
   ],
   "links": [
@@ -15695,9 +15695,9 @@
       "weight": 1.0,
       "_src": "scripts_rebuild_index_js",
       "_tgt": "rebuild_index_parsefrontmatter",
-      "confidence_score": 1.0,
       "source": "scripts_rebuild_index_js",
-      "target": "rebuild_index_parsefrontmatter"
+      "target": "rebuild_index_parsefrontmatter",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -15707,9 +15707,9 @@
       "weight": 1.0,
       "_src": "scripts_rebuild_index_js",
       "_tgt": "rebuild_index_buildindex",
-      "confidence_score": 1.0,
       "source": "scripts_rebuild_index_js",
-      "target": "rebuild_index_buildindex"
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -15719,9 +15719,9 @@
       "weight": 1.0,
       "_src": "rebuild_index_buildindex",
       "_tgt": "rebuild_index_parsefrontmatter",
-      "confidence_score": 1.0,
       "source": "rebuild_index_parsefrontmatter",
-      "target": "rebuild_index_buildindex"
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
     },
     {
       "relation": "rationale_for",
@@ -30490,8 +30490,8 @@
       "source_file": "_notes/gateways-are-all-you-need.md",
       "source_location": "line 33",
       "weight": 1.0,
-      "_src": "gateways_are_all_you_need_three_headed_hydra",
-      "_tgt": "gateways_are_all_you_need_mcp_gateway",
+      "_src": "gateways_are_all_you_need_mcp_gateway",
+      "_tgt": "gateways_are_all_you_need_three_headed_hydra",
       "source": "gateways_are_all_you_need_mcp_gateway",
       "target": "gateways_are_all_you_need_three_headed_hydra"
     },
@@ -30502,8 +30502,8 @@
       "source_file": "_notes/gateways-are-all-you-need.md",
       "source_location": "line 29-36",
       "weight": 1.0,
-      "_src": "gateways_are_all_you_need_mcp_registry",
-      "_tgt": "gateways_are_all_you_need_mcp_gateway",
+      "_src": "gateways_are_all_you_need_mcp_gateway",
+      "_tgt": "gateways_are_all_you_need_mcp_registry",
       "source": "gateways_are_all_you_need_mcp_gateway",
       "target": "gateways_are_all_you_need_mcp_registry"
     },
@@ -30562,8 +30562,8 @@
       "source_file": "_notes/gateways-are-all-you-need.md",
       "source_location": "line 64-68",
       "weight": 1.0,
-      "_src": "gateways_are_all_you_need_dco_principle",
-      "_tgt": "gateways_are_all_you_need_mcp_gateway",
+      "_src": "gateways_are_all_you_need_mcp_gateway",
+      "_tgt": "gateways_are_all_you_need_dco_principle",
       "source": "gateways_are_all_you_need_mcp_gateway",
       "target": "gateways_are_all_you_need_dco_principle"
     },
@@ -30574,8 +30574,8 @@
       "source_file": "_notes/gateways-are-all-you-need.md",
       "source_location": "line 29-41",
       "weight": 1.0,
-      "_src": "gateways_are_all_you_need_rationale_gateway_over_registry",
-      "_tgt": "gateways_are_all_you_need_mcp_gateway",
+      "_src": "gateways_are_all_you_need_mcp_gateway",
+      "_tgt": "gateways_are_all_you_need_rationale_gateway_over_registry",
       "source": "gateways_are_all_you_need_mcp_gateway",
       "target": "gateways_are_all_you_need_rationale_gateway_over_registry"
     },
@@ -30610,8 +30610,8 @@
       "source_file": "_notes/iam-for-ai.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "iam_for_ai_ephemeral_credentials",
-      "_tgt": "gateways_are_all_you_need_root_of_trust",
+      "_src": "gateways_are_all_you_need_root_of_trust",
+      "_tgt": "iam_for_ai_ephemeral_credentials",
       "source": "gateways_are_all_you_need_root_of_trust",
       "target": "iam_for_ai_ephemeral_credentials"
     },
@@ -30634,8 +30634,8 @@
       "source_file": "_notes/iam-for-ai.md",
       "source_location": null,
       "weight": 0.78,
-      "_src": "iam_for_ai_siem",
-      "_tgt": "gateways_are_all_you_need_three_headed_hydra",
+      "_src": "gateways_are_all_you_need_three_headed_hydra",
+      "_tgt": "iam_for_ai_siem",
       "source": "gateways_are_all_you_need_three_headed_hydra",
       "target": "iam_for_ai_siem"
     },
@@ -30682,8 +30682,8 @@
       "source_file": "_notes/gateways-are-all-you-need.md",
       "source_location": "line 29-32",
       "weight": 1.0,
-      "_src": "gateways_are_all_you_need_rationale_gateway_over_registry",
-      "_tgt": "gateways_are_all_you_need_mcp_registry",
+      "_src": "gateways_are_all_you_need_mcp_registry",
+      "_tgt": "gateways_are_all_you_need_rationale_gateway_over_registry",
       "source": "gateways_are_all_you_need_mcp_registry",
       "target": "gateways_are_all_you_need_rationale_gateway_over_registry"
     },
@@ -30754,8 +30754,8 @@
       "source_file": "_notes/iam-for-ai.md",
       "source_location": "line 15",
       "weight": 1.0,
-      "_src": "iam_for_ai_rationale_maturity_progression",
-      "_tgt": "iam_for_ai_iam_maturity_model",
+      "_src": "iam_for_ai_iam_maturity_model",
+      "_tgt": "iam_for_ai_rationale_maturity_progression",
       "source": "iam_for_ai_iam_maturity_model",
       "target": "iam_for_ai_rationale_maturity_progression"
     },
@@ -30874,8 +30874,8 @@
       "source_file": "_notes/iam-for-ai.md",
       "source_location": "line 24",
       "weight": 1.0,
-      "_src": "iam_for_ai_ai_agent_security_risks",
-      "_tgt": "iam_for_ai_least_privilege",
+      "_src": "iam_for_ai_least_privilege",
+      "_tgt": "iam_for_ai_ai_agent_security_risks",
       "source": "iam_for_ai_least_privilege",
       "target": "iam_for_ai_ai_agent_security_risks"
     },
@@ -30886,8 +30886,8 @@
       "source_file": "_notes/iam-for-ai.md",
       "source_location": "line 23",
       "weight": 1.0,
-      "_src": "iam_for_ai_ai_agent_security_risks",
-      "_tgt": "iam_for_ai_accountability",
+      "_src": "iam_for_ai_accountability",
+      "_tgt": "iam_for_ai_ai_agent_security_risks",
       "source": "iam_for_ai_accountability",
       "target": "iam_for_ai_ai_agent_security_risks"
     }

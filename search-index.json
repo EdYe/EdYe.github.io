@@ -1,5 +1,65 @@
 [
   {
+    "id": "matt-pocock-skills-lightweight-ai-dev",
+    "title": "反框架工程哲學：Matt Pocock 技能庫的輕量化 AI 開發之道",
+    "category": "AI筆記",
+    "tags": [
+      "反框架哲學",
+      "決策樹解析",
+      "上下文複利",
+      "結構化除錯",
+      "數據蒸餾"
+    ],
+    "description": "Matt Pocock 釋出的 skills 專案在 GitHub 上引發轟動，其核心價值在於對抗當前 AI 代理框架過度「重型化」的趨勢。它不依賴複雜的編排器，而是利用極簡的 Markdown 模組解決 AI 幻覺與溝通低效率。",
+    "quote": "工程開發的答案不在於更沉重的流程，而在於能適應你大腦運作的小型組件。",
+    "action": "採納 G-T-D 法則：在下指令前要求 AI 質詢設計意圖，堅持測試先行，即時固化對話共識為文件。",
+    "image": "/images/AI筆記/matt-pocock-skills-lightweight-ai-dev.jpeg",
+    "date": "2026-04-30",
+    "source_has_timestamps": true,
+    "body": "這是一份針對 Matt Pocock 開源的 .claude 技能庫（skills 專案）的深度分析與執行指南。 [核心摘要] Matt Pocock 釋出的 skills 專案在 GitHub 上引發轟動，其核心價值在於對抗當前 AI 代理框架過度「重型化」的趨勢。它不依賴複雜的編排器，而是利用極簡的 Markdown 模組（技能）來解決 AI 幻覺 與 溝通低效率。這套系統將主導權還給工程師，透過「先質詢再執行」的邏輯，大幅降低開發成本與錯誤率。 [詳細重點整理] 1. 反框架的工程哲學 [(http://www.youtube.com/watch?v=m8U0dPfuoN8&t=75)] 拒絕 GSD 或 spec-kit 等重量級代理流程，因為它們常導致開發者失去控制權並產生難以解決的 Bug。主張工程難題應透過小型、可組合的組件來適應人類大腦，而非增加流程負擔。  關鍵概念：可組合建築塊 (Composable Building Blocks) 2. 核心技能：Grill Me（深度質詢） [(http://www.youtube.com/watch?v=m8U0dPfuoN",
+    "url": "/notes/matt-pocock-skills-lightweight-ai-dev"
+  },
+  {
+    "id": "karpathy-software-3-agentic-engineering",
+    "title": "Software 3.0：從氛圍編程到智能體工程的範式轉移",
+    "category": "AI筆記",
+    "tags": [
+      "氛圍編程",
+      "Software 3.0",
+      "可驗證性",
+      "智能體工程",
+      "上下文複利"
+    ],
+    "description": "本影片揭示了程式開發範式的根本轉移：從手寫邏輯轉向與「具備智慧的編譯器」（LLM）協作。Andrej Karpathy 指出，開發者正從 Software 2.0（數據驅動）邁向 Software 3.0（提示詞與上下文驅動）。",
+    "quote": "你可以外包你的思考，但你永遠無法外包你的理解。",
+    "action": "採用 D-V-A 法則：導演（明確目標與約束）、驗證（建立自動化測試）、適配（根據 AI 反饋快速調整提示）。",
+    "image": "/images/AI筆記/karpathy-software-3-agentic-engineering.jpg",
+    "date": "2026-04-30",
+    "source_has_timestamps": false,
+    "body": "這是一份針對 Andrej Karpathy 於 AI Ascent 2026 訪談（From Vibe Coding to Agentic Engineering）的深度技術分析與知識筆記。 [核心摘要] 本影片揭示了程式開發範式的根本轉移：從手寫邏輯轉向與「具備智慧的編譯器」（LLM）協作。Andrej Karpathy 指出，開發者正從 Software 2.0（數據驅動）邁向 Software 3.0（提示詞與上下文驅動）。這解決了傳統開發中環境配置繁瑣、跨平台適配困難的痛點。核心貢獻在於定義了「氛圍編程 (Vibe Coding)」向「智能體工程 (Agentic Engineering)」演進的必然性，強調未來開發者的價值不再是產出代碼，而是具備高標準的可驗證性 (Verifiability) 與深刻的系統理解。 --- [詳細重點整理] 1. 工程師的集體焦慮：為何連專家都覺得落後？ 2024 年底是一個分水嶺，大模型輸出的代碼區塊從「需要修改」轉變為「直接正確」。開發者進入了依靠直覺與模型協作的階段。  關鍵概念：氛圍編程 (Vibe Coding)：一種不依賴嚴謹邏輯",
+    "url": "/notes/karpathy-software-3-agentic-engineering"
+  },
+  {
+    "id": "claude-context-maintenance-craft",
+    "title": "餵給 Claude 正確脈絡：CRAFT 脈絡維護的工程實踐",
+    "category": "AI筆記",
+    "tags": [
+      "脈絡溫機",
+      "修正迴圈",
+      "結構化專案事實",
+      "脈絡漂移",
+      "CRAFT法則"
+    ],
+    "description": "本文揭示工程師使用 Claude 時產出品質差異的根源：脈絡差距。冷啟動提示僅能獲得中位數水準的答案，且因忽視專案特定約束，導致修正成本過高，使 AI 槓桿率從預期的 70% 降至 30%。",
+    "quote": "不知道什麼還沒決定的 AI，會自己幫你決定。通常做得很糟。",
+    "action": "採用 CRAFT 法則：為每個新專案建立脈絡圖，並在每個 Sprint 結束後花 15 分鐘更新內容。",
+    "image": "/images/AI筆記/claude-context-maintenance-craft.jpeg",
+    "date": "2026-04-30",
+    "source_has_timestamps": false,
+    "body": "這份報告分析了來自 Business + Build 的文章《我們如何餵給 Claude 它需要的脈絡》，深入探討如何透過脈絡維護（Context Maintenance）將 AI 從產生「隨機才華」的工具，轉化為具備「專案意識」的高效協作者。 --- [核心摘要] 本文揭示了工程師在使用 Claude 時產出品質差異的根源：脈絡差距。冷啟動提示（Cold-start prompting）僅能獲得中位數水準的答案，且因忽視專案特定約束，導致修正成本過高，使 AI 槓桿率從預期的 70% 降至 30%。解決方案是導入 CRAFT 脈絡圖 (Context Graph)——一份包含專案身分、架構、決策記錄等七大維度的活文件。透過將脈絡維護視為一種營運實踐，團隊能確保 AI 產出具備一致性，並大幅提升新成員的上手速度與決策清晰度。 --- [詳細重點整理] 1. 產出一致性的陷阱 同樣的模型與技術能力，產出差異在於是否進行「脈絡溫機」。未經鋪陳的請求會導致 AI 在專案細節上失準，工程師若花更多時間修正 AI 的錯誤，則失去了自動化的意義。  關鍵概念：脈絡溫機 (Context Warmi",
+    "url": "/notes/claude-context-maintenance-craft"
+  },
+  {
     "id": "iam-for-ai",
     "title": "AI 代理系統的身分與存取管理：四階段成熟度模型",
     "category": "影片筆記",
