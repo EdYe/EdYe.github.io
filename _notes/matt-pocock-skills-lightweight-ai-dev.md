@@ -12,32 +12,32 @@ source_has_timestamps: true
 
 這是一份針對 Matt Pocock 開源的 `.claude` 技能庫（skills 專案）的深度分析與執行指南。
 
-[核心摘要]
+## 核心摘要
 Matt Pocock 釋出的 `skills` 專案在 GitHub 上引發轟動，其核心價值在於對抗當前 AI 代理框架過度「重型化」的趨勢。它不依賴複雜的編排器，而是利用極簡的 Markdown 模組（技能）來解決 **AI 幻覺** 與 **溝通低效率**。這套系統將主導權還給工程師，透過「先質詢再執行」的邏輯，大幅降低開發成本與錯誤率。
 
-[詳細重點整理]
+## 詳細重點整理
 
-**1. 反框架的工程哲學 [[01:15](http://www.youtube.com/watch?v=m8U0dPfuoN8&t=75)]**
+### 1. 反框架的工程哲學 [[01:15](http://www.youtube.com/watch?v=m8U0dPfuoN8&t=75)]
 拒絕 GSD 或 spec-kit 等重量級代理流程，因為它們常導致開發者失去控制權並產生難以解決的 Bug。主張工程難題應透過小型、可組合的組件來適應人類大腦，而非增加流程負擔。
 * 關鍵概念：**可組合建築塊 (Composable Building Blocks)**
 
-**2. 核心技能：Grill Me（深度質詢） [[02:53](http://www.youtube.com/watch?v=m8U0dPfuoN8&t=173)]**
+### 2. 核心技能：Grill Me（深度質詢） [[02:53](http://www.youtube.com/watch?v=m8U0dPfuoN8&t=173)]
 這是專案中最受歡迎的技能。在執行任何變更前，AI 會不斷向開發者提問，直到解析完決策樹的每個分支。這避免了 AI 在資訊不足時自行腦補（ hallucination）。
 * 關鍵概念：**決策樹解析 (Decision Tree Resolution)**
 
-**3. 契約化領域語言：Grill with Docs [[03:14](http://www.youtube.com/watch?v=m8U0dPfuoN8&t=194)]**
+### 3. 契約化領域語言：Grill with Docs [[03:14](http://www.youtube.com/watch?v=m8U0dPfuoN8&t=194)]
 在質詢過程中，將專案特有的術語與邏輯寫入 `contract.mmd` 文件。這使得 AI 在下一次對話中能立即理解上下文，無需重複解釋。
 * 關鍵概念：**上下文複利 (Contextual Compounding)**
 
-**4. 結構化除錯與 TDD [[03:27](http://www.youtube.com/watch?v=m8U0dPfuoN8&t=207)]**
+## 4. 結構化除錯與 TDD [[03:27](http://www.youtube.com/watch?v=m8U0dPfuoN8&t=207)]
 引入嚴格的「紅-綠-重構」循環，並針對 Bug 修復建立結構化路徑：重現 (Reproduce) -> 極簡化 (Minimize) -> 假設 (Hypothesize) -> 檢測 (Instrument) -> 修復 (Fix)。
 * 關鍵概念：**結構化偵錯循環 (Structured Debugging Loop)**
 
-**5. 效率優化：Caveman Mode [[05:28](http://www.youtube.com/watch?v=m8U0dPfuoN8&t=328)]**
+## 5. 效率優化：Caveman Mode [[05:28](http://www.youtube.com/watch?v=m8U0dPfuoN8&t=328)]
 透過過濾冠詞、填充詞等冗餘資訊，將 AI 的輸出壓縮約 75%。這不僅節省 Token 成本，更提高工程師閱讀關鍵資訊的速度。
 * 關鍵概念：**數據蒸餾 (Data Distillation)**
 
-[技術/數據對比]
+## 技術/數據對比
 
 | 比較項目 | 傳統 Agent 框架 (如 Spec-kit/BMAD) | Matt Pocock 的 Skills 方案 |
 | :--- | :--- | :--- |
@@ -46,7 +46,9 @@ Matt Pocock 釋出的 `skills` 專案在 GitHub 上引發轟動，其核心價�
 | **資源消耗** | Token 消耗高且不可控 | **Caveman Mode** 可節省 75% 輸出量 |
 | **系統複雜度** | 高（需安裝大量依賴） | 極低 (110 KB，僅為 Markdown 與 Shell) |
 
-[結論與行動建議]
+---
+
+## 結論與行動建議
 
 * **啟發金句：** 「工程開發的答案不在於更沉重的流程，而在於能適應你大腦運作的小型組件。」
 * **具體行動建議：** 採納 **G-T-D 法則 (Grill-Test-Document)**
