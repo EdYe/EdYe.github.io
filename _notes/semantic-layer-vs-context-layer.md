@@ -111,7 +111,7 @@ LLM 擅長編造答案但缺乏對「真相」與「組織界限」的理解。�
 
 ### 真實世界使用情境：投資評估與盡職調查代理（Due Diligence Agents）的語意層與情境層
 
-![一張圖示，描繪情境層、情境圖譜與語意層之間的重疊與差異](overlap_and_differences_between_the_context_layer_context_graphs_and_the_semantic_layer.jpeg)
+![一張圖示，描繪情境層、情境圖譜與語意層之間的重疊與差異](../images/AI筆記/overlap_and_differences_between_the_context_layer_context_graphs_and_the_semantic_layer.jpeg)
 
 *圖表標題：描繪情境層（Context Layer）、情境圖譜（Context Graphs）與語意層（Semantic Layer）之間重疊與差異的視覺化示意圖*
 
