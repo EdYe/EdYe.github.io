@@ -1,5 +1,45 @@
 [
   {
+    "id": "claude-code-real-engineering",
+    "title": "Claude Code 實戰：多階段計劃管理大型工程任務",
+    "category": "影片筆記",
+    "tags": [
+      "Claude Code",
+      "Plan Mode",
+      "多階段計劃",
+      "GitHub Issue",
+      "上下文管理"
+    ],
+    "description": "處理大型工程任務時，單一上下文視窗往往不夠用。本影片展示以多階段計劃驅動 Claude Code 的實戰工作流，讓 AI 輔助開發從混亂變成可重複、可追蹤的工程流程。",
+    "quote": "重要的不是你在做什麼，而是你怎麼做它——大型任務的成敗，在第一行程式碼之前就已決定。",
+    "action": "採用 P-C-E 法則：Plan（先進規劃模式）→ Commit（每階段結束即提交）→ Externalize（用 GitHub Issue 持久化計劃）",
+    "image": "/images/影片筆記/claude-code-real-engineering.jpeg",
+    "date": "2026-05-01",
+    "source_has_timestamps": true,
+    "body": "核心摘要 處理大型工程任務時，單一上下文視窗往往不夠用。本影片展示一套以 多階段計劃（Multi-Phase Plan） 驅動 Claude Code 的實戰工作流：先強制規劃、再分段執行、以 GitHub Issue 作為跨對話橋樑，配合極簡記憶規則，讓 AI 輔助開發從混亂變成可重複、可追蹤的工程流程。 --- 詳細重點整理 1. 用語音輸入與 Plan Mode 啟動任務  用語音輸入工具將任務需求口述為初始 prompt，不需要精心撰寫。啟動 Claude Code 時，透過 Shift+Tab 切換到底部左側的 Plan Mode（規劃模式），強制 AI 在任何大型任務前先制定計劃，而非直接產出程式碼。 關鍵概念：Plan Mode（規劃模式） — 阻止 Claude Code 立即寫程式，改為先探索程式庫、提問、輸出計劃。 --- 2. 探索子代理 + 澄清問題迴圈  Plan Mode 啟動後，Claude Code 自動派出 探索子代理（Explore Sub-Agent） 掃描現有程式庫結構，再以互動式多步驟表單的形式提出澄清問題（如：用 positional arg",
+    "url": "/notes/claude-code-real-engineering"
+  },
+  {
+    "id": "agents-vs-workflows",
+    "title": "Agent vs Workflow：架構定義與選擇準則",
+    "category": "影片筆記",
+    "tags": [
+      "Agent",
+      "Workflow",
+      "工具呼叫迴圈",
+      "平行化",
+      "架構設計"
+    ],
+    "description": "多數開發者（包括 OpenAI）混用「Agent」與「Workflow」兩個概念。Anthropic 給出明確區分：Agent 是 LLM 自行決定何時停止的迴圈；Workflow 是預先定義程式碼路徑的有向流程。",
+    "quote": "An agent is a loop where the LLM decides when to stop — everything else is a workflow.",
+    "action": "設計 AI 系統前先問：通往解答的路徑是否已知？已知→Workflow 並積極優化；未知→Agent 並加 max_steps 保護。",
+    "image": "/images/影片筆記/agents-vs-workflows.jpeg",
+    "date": "2026-05-01",
+    "source_has_timestamps": true,
+    "body": "核心摘要 多數開發者（包括 OpenAI）混用「Agent」與「Workflow」兩個概念。Anthropic 在 Building Effective Agents 一文中給出明確區分：Agent 是一個由 LLM 自行決定何時停止的迴圈；Workflow 是事先寫死程式碼路徑的有向流程。這個區分不只是語意問題，而是決定系統架構、可優化性與可靠性的關鍵設計判斷。 --- 詳細重點整理 1. OpenAI Agent Kit 的命名誤用  內容：OpenAI 發布 Agent Kit，宣稱讓開發者「可視化設計 Agent 工作流」。但其展示的範例實為：確定性步驟 → 越獄防護過濾器 → 路由 LLM 呼叫 → 三個分支路徑。這是一個預先定義好所有程式碼路徑的有向圖，並非 Agent。 關鍵概念：命名膨脹（Agent Inflation） — 行銷導向的術語濫用掩蓋了架構本質 2. Anthropic 的權威定義：Agent = 迴圈  內容：Anthropic 在 2024 年 12 月發布的 Building Effective Agents 正式確立定義。Agent 的本質是 多次",
+    "url": "/notes/agents-vs-workflows"
+  },
+  {
     "id": "semantic-layer-vs-context-layer",
     "title": "語意層與情境層：何時用知識圖譜 vs 情境圖譜",
     "category": "AI筆記",
@@ -56,7 +96,7 @@
     "image": "/images/AI筆記/matt-pocock-skills-lightweight-ai-dev.jpeg",
     "date": "2026-04-30",
     "source_has_timestamps": true,
-    "body": "這是一份針對 Matt Pocock 開源的 .claude 技能庫（skills 專案）的深度分析與執行指南。 [核心摘要] Matt Pocock 釋出的 skills 專案在 GitHub 上引發轟動，其核心價值在於對抗當前 AI 代理框架過度「重型化」的趨勢。它不依賴複雜的編排器，而是利用極簡的 Markdown 模組（技能）來解決 AI 幻覺 與 溝通低效率。這套系統將主導權還給工程師，透過「先質詢再執行」的邏輯，大幅降低開發成本與錯誤率。 [詳細重點整理] 1. 反框架的工程哲學 [(http://www.youtube.com/watch?v=m8U0dPfuoN8&t=75)] 拒絕 GSD 或 spec-kit 等重量級代理流程，因為它們常導致開發者失去控制權並產生難以解決的 Bug。主張工程難題應透過小型、可組合的組件來適應人類大腦，而非增加流程負擔。  關鍵概念：可組合建築塊 (Composable Building Blocks) 2. 核心技能：Grill Me（深度質詢） [(http://www.youtube.com/watch?v=m8U0dPfuoN",
+    "body": "這是一份針對 Matt Pocock 開源的 .claude 技能庫（skills 專案）的深度分析與執行指南。 核心摘要 Matt Pocock 釋出的 skills 專案在 GitHub 上引發轟動，其核心價值在於對抗當前 AI 代理框架過度「重型化」的趨勢。它不依賴複雜的編排器，而是利用極簡的 Markdown 模組（技能）來解決 AI 幻覺 與 溝通低效率。這套系統將主導權還給工程師，透過「先質詢再執行」的邏輯，大幅降低開發成本與錯誤率。 詳細重點整理 1. 反框架的工程哲學 [(http://www.youtube.com/watch?v=m8U0dPfuoN8&t=75)] 拒絕 GSD 或 spec-kit 等重量級代理流程，因為它們常導致開發者失去控制權並產生難以解決的 Bug。主張工程難題應透過小型、可組合的組件來適應人類大腦，而非增加流程負擔。  關鍵概念：可組合建築塊 (Composable Building Blocks) 2. 核心技能：Grill Me（深度質詢） [(http://www.youtube.com/watch?v=m8U0dPfuoN8&t=",
     "url": "/notes/matt-pocock-skills-lightweight-ai-dev"
   },
   {
