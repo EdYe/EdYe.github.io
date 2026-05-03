@@ -1,5 +1,65 @@
 [
   {
+    "id": "skill-system-vs-mega-skill",
+    "title": "技能系統 vs 巨型技能：模組化 AI 工作流設計",
+    "category": "影片筆記",
+    "tags": [
+      "技能系統",
+      "巨型技能",
+      "漸進式揭露",
+      "技能庫",
+      "自動化工作流"
+    ],
+    "description": "多數人使用 Claude Code Skills 的方式有根本性錯誤：要麼孤立使用單一技能，要麼將所有功能塞入龐大的巨型技能，兩者都",
+    "quote": "技能不是孤立的終點，也不是包山包海的怪物——它們是設計來插入技能系統的模組化元件。",
+    "action": "將最常重複的工作流拆解為 3 個獨立技能，透過編排技能串聯成自動化系統，Small + Focused + Reusable。",
+    "image": "/images/影片筆記/skill-system-vs-mega-skill.jpeg",
+    "date": "2026-05-03",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 多數人使用 Claude Code Skills 的方式有根本性錯誤：要麼完全孤立使用單一技能，要麼將所有功能塞入一個龐大的「巨型技能」。這兩種做法都破壞了 Anthropic 原本設計 Skills 的核心精神——模組化與可組合性。本影片提出「Skill Systems（技能系統）」框架，讓多個小型、專注的技能透過一個編排技能（Orchestrator Skill）串聯成端到端自動化工作流，彻底解決重複手動中繼的痛點。 [詳細重點整理] 1. 孤立使用技能的問題  下載一個文案撰寫技能（如 copywriting skill），用它產出一篇 LinkedIn 文章。你確實得到了輸出，但主題研究、找配圖、排程發布都還是手動完成。本質上你只是在用一個更複雜的 ChatGPT——技能沒有串連，你仍是流程中的「人工接線生」。  關鍵概念：技能孤立化（Skill Isolation）——將技能當成最終輸出點，而非流程中的一個環節。 2. 巨型技能（Mega-Skill）的反效果  另一個極端是將研究、撰寫、重新包裝、排程全部壓縮進一個超過 1,000 行的 skill.md 文件",
+    "url": "/notes/skill-system-vs-mega-skill"
+  },
+  {
+    "id": "google-pm-ai-agent-startup-workflow",
+    "title": "Google PM 用 21 AI Agent 組建完整新創開發團隊",
+    "category": "影片筆記",
+    "tags": [
+      "AI Agent",
+      "系統分析師",
+      "語音規格",
+      "視覺接地",
+      "機構知識"
+    ],
+    "description": "Google PM Gabor Mayer 揭示了一套以 21個 Claude Code AI Agent 組建完整新創開發團隊的方法論，涵蓋系統分析師、設計師",
+    "quote": "Vibe Coding 只是難以維護的低品質程式碼的重新包裝。",
+    "action": "先建立 Agent 鷹架與工具連接，用語音口述取代鍵盤輸入提升規格密度，每張前端 Ticket 必須附上視覺截圖。",
+    "image": "/images/影片筆記/google-pm-ai-agent-startup-workflow.jpeg",
+    "date": "2026-05-03",
+    "source_has_timestamps": true,
+    "body": "以下是這部影片的結構化深度筆記： [核心摘要] Google PM Gabor Mayer 揭示了一套以 21個 Claude Code AI Agent 組建完整新創開發團隊的方法論，涵蓋系統分析師、設計師、前端/後端工程師、法律顧問等角色。核心痛點在於：一次性大 Prompt 的 Vibe Coding 會導致上下文壓縮、規格細節靜默丟失，最終產出難以維護的低品質程式碼。透過分工細化的 Agent 團隊 + Confluence/Jira/Figma 工具鏈，可在數小時內將產品構想推進到 TestFlight。 [youtube](https://www.youtube.com) [詳細重點整理] 1. 21-Agent 新創作業系統架構 [00:00–04:57] Gabor 建立了一個涵蓋完整公司職能的 Agent 團隊，每個 Agent 有獨立的 Markdown 定義文件，存入 Claude Code 的 project memory： [youtube](https://www.youtube.com) - System Analyst Agent（系統分析師）：最核心的",
+    "url": "/notes/google-pm-ai-agent-startup-workflow"
+  },
+  {
+    "id": "creating-your-own-agentic-os",
+    "title": "建立 Agentic OS 讓 AI 穩定產出的底層架構",
+    "category": "影片筆記",
+    "tags": [
+      "Agentic OS",
+      "情境管理",
+      "記憶系統",
+      "技能系統",
+      "Claude Code"
+    ],
+    "description": "AI 工具輸出品質差的根本原因不是提示詞寫得不好，而是缺乏一套 Agentic OS。透過靜態身份情境、記憶層、可重複技能",
+    "quote": "AI 輸出品質的差距，不在於誰的提示詞寫得更好，而在於誰在工具底層建了更聰明的結構。",
+    "action": "先用 AI 訪問自己生成 user.md，加入 Session Hook 與語義記憶，封裝第一個重複流程為技能，串成排程工作流。",
+    "image": "/images/影片筆記/creating-your-own-agentic-os.jpeg",
+    "date": "2026-05-03",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] AI 工具（如 Claude Code）輸出品質差的根本原因不是提示詞寫得不好，而是缺乏一套Agentic OS（智能代理作業系統）。這套系統透過「靜態身份情境 + 記憶層 + 可重複技能 + 自動化排程工作流 + 多客戶架構」，解決了 LLM 開箱即用時的情境失憶與通才缺陷，讓 AI 能 90% 時間穩定產出高品質結果。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 問題定義：為何輸出品質差  同樣的工具、同樣的模型，不同人卻有截然不同的成果。核心差距在於是否在工具「底層」建立了結構。Agentic OS 的本質，就是一套「聰明的情境管理系統」——透過資料夾、檔案與結構，在對的時間把對的資訊注入 AI。  關鍵概念：情境管理（Context Management） 2. 靜態情境：告訴 AI 你是誰  每個 AI 工具都會先讀取一個身份檔案（Claude Code 是 claude.md、OpenClaude 是 soul.md），作為 system prompt 的基底。建議方",
+    "url": "/notes/creating-your-own-agentic-os"
+  },
+  {
     "id": "claude-code-real-engineering",
     "title": "Claude Code 實戰：多階段計劃管理大型工程任務",
     "category": "影片筆記",
