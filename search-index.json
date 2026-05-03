@@ -40,6 +40,26 @@
     "url": "/notes/google-pm-ai-agent-startup-workflow"
   },
   {
+    "id": "cultivating-agency-over-skills-ai-era",
+    "title": "AI 時代的主動性：比技能更關鍵的競爭力",
+    "category": "影片筆記",
+    "tags": [
+      "主動性",
+      "Agency",
+      "設計媒介",
+      "可塑軟體",
+      "微小核心"
+    ],
+    "description": "在 AI 時代，真正決定個人能否脫穎而出的不是技能，而是主動性（Agency）。Notion 產品負責人 Max Schoening 透過跨界實踐",
+    "quote": "在技能觸手可及之後，真正稀缺的是主動性。而主動性的起點，只是開始動手做東西。",
+    "action": "今天找一件「一直說做不到」的事用 AI 直接嘗試，在最終交付媒材中思考，找出產品的微小超能力極致打磨。",
+    "image": "/images/影片筆記/cultivating-agency-over-skills-ai-era.jpeg",
+    "date": "2026-05-03",
+    "source_has_timestamps": true,
+    "body": "很好，已取得完整的逐字稿內容。現在整理成結構化筆記。 Why Cultivating Agency Matters More Than Cultivating Skills in the AI Era | Max Schoening (Notion) [核心摘要] 在 AI 時代，真正決定個人能否脫穎而出的不是技能，而是主動性（Agency）。Notion 產品負責人 Max Schoening 透過他在 GitHub、Heroku、Notion 的跨界實踐，闡述為何讓設計師與 PM 學習用 AI 寫程式，其目的不在「量產功能」，而是讓人真正理解所設計的媒介（medium）——從而產生更深的主體意識，打造出具有「微小超能力核心」的卓越產品。 [youtube](https://www.youtube.com) [詳細重點整理] 1. 設計師寫程式的起源故事  Notion 在建構對話介面時，因靜態 Figma 設計無法呈現 AI 的動態「感受」，Max 和兩位設計師打造了一個極簡的「原型 Playground」——一個對 LLM 友好、可以一鍵測試的隔離程式碼環境。 [youtube]",
+    "url": "/notes/cultivating-agency-over-skills-ai-era"
+  },
+  {
     "id": "creating-your-own-agentic-os",
     "title": "建立 Agentic OS 讓 AI 穩定產出的底層架構",
     "category": "影片筆記",
