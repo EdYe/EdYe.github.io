@@ -1,7 +1,7 @@
 # Graph Report - .  (2026-05-04)
 
 ## Corpus Check
-- 1 files · ~20,117,568 words
+- 1 files · ~20,183,754 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -587,7 +587,7 @@ _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `上下文圖譜治理架構` connect `Community 4` to `Community 1`?**
   _High betweenness centrality (0.003) - this node is a cross-community bridge._
-- **Why does `/insights 行為分析報告` connect `Community 17` to `Community 0`?**
+- **Why does `CRAFT 脈絡圖（Context Graph）` connect `Community 1` to `Community 4`?**
   _High betweenness centrality (0.002) - this node is a cross-community bridge._
 - **Are the 2 inferred relationships involving `情境基礎設施 (Context Infrastructure)` (e.g. with `脈絡圖 (Context Graph)` and `代理式商務 (Agentic Commerce)`) actually correct?**
   _`情境基礎設施 (Context Infrastructure)` has 2 INFERRED edges - model-reasoned connections that need verification._
