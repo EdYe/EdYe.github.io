@@ -1,5 +1,205 @@
 [
   {
+    "id": "skill-issue-ai-agents-supabase",
+    "title": "Skill Issue：用 AI 讓 Agent 真正善用 Supabase 的閉環框架",
+    "category": "AI筆記",
+    "tags": [
+      "Agent Skills",
+      "Eval驅動開發",
+      "RLS安全漏洞",
+      "Supabase",
+      "Braintrust"
+    ],
+    "description": "AI Engineer 大會工作坊揭示撰寫 Agent Skills 的核心挑戰——不是「會寫」，而是「寫得有效」。展示 Agent 在無 Skills 引導時如何產生 RLS 繞過漏洞，並提出閉環開發框架。",
+    "quote": "Write a Skill, run Evals, inspect results, iterate — stop guessing, start measuring.",
+    "action": "S-E-I 法則：Security First（建立 View 一律加 SECURITY INVOKER）→ Eval-Driven（用 Braintrust 跑評估）→ Iterate（description 以 use 開頭反覆測試）。",
+    "image": "/images/AI筆記/skill-issue-ai-agents-supabase.jpeg",
+    "date": "2026-05-06",
+    "source_has_timestamps": true,
+    "body": "Skill Issue: 如何用 AI 讓 Agent 真正善用 Supabase [核心摘要] 本場 AI Engineer 大會工作坊（2026/05/04）由 Supabase AI 工具工程師 Pedro Rodrigues 主講，揭示撰寫 Agent Skills 的核心挑戰——不是「會寫」，而是「寫得有效」。透過實際 Supabase 工作流示範，以「Performance Review App」為例，展示 Agent 在沒有 Skills 引導時如何產生 RLS（Row Level Security）繞過漏洞，並提出「撰寫 Skill → 執行 Eval → 分析結果 → 迭代」的閉環開發框架。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 什麼是 Agent Skills [00:03:09] Skills 是包含 skill.md 主檔案、reference 文件與腳本的資料夾結構，用於給 Agent 提供自定義工作流、說明文件與可執行腳本。 [youtube](https:/",
+    "url": "/notes/skill-issue-ai-agents-supabase"
+  },
+  {
+    "id": "scott-galloway-ai-not-for-you",
+    "title": "Scott Galloway：AI 不是為你打造的，財富正在加速集中",
+    "category": "影片筆記",
+    "tags": [
+      "AI就業衝擊",
+      "財富不均",
+      "關係型工作",
+      "估值敘事",
+      "職業韌性"
+    ],
+    "description": "AI 末日敘事是精心包裝的募資工具。Scott Galloway 揭示：科技 CEO 誇大 AI 對就業的威脅，本質上是為驚人估值製造合理性。真正的危機不在",
+    "quote": "AI 不會搶走你的工作，懂 AI 的人才會——而且他們不只搶一個，他們搶五個。",
+    "action": "始終保持第二螢幕專用 AI 工具，任何數位資訊立刻餵進 AI 探索應用，把 AI 能力當作 1998 年學習使用電腦一樣——這不是選項，是生存必需。",
+    "image": "/images/影片筆記/scott-galloway-ai-not-for-you.jpeg",
+    "date": "2026-05-06",
+    "source_has_timestamps": true,
+    "body": "🎙️ Scott Galloway：AI 不是為你而建，有錢人已不再需要你 [核心摘要] AI 末日敘事是精心包裝的募資工具。Scott Galloway 揭示：科技 CEO 誇大 AI 對就業的威脅，本質上是為驚人估值製造合理性。真正的危機不在於工作消失，而在於財富分配嚴重不均——只有年收入超過 20 萬美元的人對 AI 持正面態度，因為他們才是真正的受益者。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. AI 末日論是行銷手段 [00:02:45] Elon Musk 說「AI 將取代所有工作」、Sam Altman 預測「2028 年數據中心的智能將超越人類」。 Galloway 直接反駁：這些災難性預言不過是「薄薄包裝的募資話術」。若 AI 公司無法交出實際營收增長，就必須靠「大規模效率提升、裁員」的故事來支撐其瘋狂估值。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) 關鍵概念：估值合理化敘事（Valuation Ju",
+    "url": "/notes/scott-galloway-ai-not-for-you"
+  },
+  {
+    "id": "redis-ai-agent-memory-infrastructure",
+    "title": "Redis 已超越快取：AI Agent 的全方位記憶體基礎設施",
+    "category": "AI筆記",
+    "tags": [
+      "Redis",
+      "AI Agent記憶體",
+      "語義快取",
+      "RedisVL",
+      "多Agent協調"
+    ],
+    "description": "Redis 已從快取工具演進為 AI Agent 的全方位記憶體基礎設施。LangGraph、OpenAI Agents SDK、Google ADK、Microsoft Agent Framework、A2A SDK 五大框架全部原生整合 Redis。",
+    "quote": "框架戰爭的真正勝負，從來都不在推理邏輯，而在記憶體層誰設計得更好。",
+    "action": "W-M-R 法則：Redis Checkpointer（工作記憶，1ms 以下延遲）→ Agent Memory Server（長期記憶結構化）→ RedisVL + Semantic Cache（混合搜尋降低 LLM 成本 20-60%）。",
+    "image": "/images/AI筆記/redis-ai-agent-memory-infrastructure.jpeg",
+    "date": "2026-05-06",
+    "source_has_timestamps": true,
+    "body": "這部影片（ByteMonk 頻道，2026年4月30日發布）深入解析 Redis 在 2026 年已超越純快取角色，成為生產級 AI Agent 的核心基礎設施層。影片核心主張：五大主流 Agent 框架全部選擇 Redis 來解決相同的四個底層難題。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [核心摘要] Redis 已從快取工具演進為 AI Agent 的全方位記憶體基礎設施。LangGraph、OpenAI Agents SDK、Google ADK、Microsoft Agent Framework、A2A SDK 這五大框架，分別由不同公司打造，卻全部原生整合 Redis。原因在於每一個生產級 Agent 都面對相同的四個硬性需求：工作記憶、長期記憶、語義檢索、以及多 Agent 協調。Redis 一個平台即可全部解決，無需額外維運多套基礎設施。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 工作記憶：Checkp",
+    "url": "/notes/redis-ai-agent-memory-infrastructure"
+  },
+  {
+    "id": "markitdown-hidden-agent-tool",
+    "title": "MarkItDown：微軟最被低估的 Agent 工具，25 倍壓縮辦公室檔案",
+    "category": "AI筆記",
+    "tags": [
+      "MarkItDown",
+      "文件格式轉換",
+      "AI Agent知識庫",
+      "Markdown通用語",
+      "資料蒸餾"
+    ],
+    "description": "MarkItDown 是微軟開源的檔案轉換工具，能將 PDF、Excel、PowerPoint、Word、圖片等各種格式一鍵轉為 Markdown 文件，解決 AI Agent 無法解析辦公室二進位檔案的",
+    "quote": "你的 Agent 不是因為模型不夠強而失敗，而是因為它讀不懂你的檔案。",
+    "action": "M-F-V 法則：用 MarkItDown 將工作資料夾 Markdown 化（Markdown化）→ 建立統一知識庫（Flatten整平）→ 生成 Force-Directed Graph HTML 可視化（Visualize）。",
+    "image": "/images/AI筆記/markitdown-hidden-agent-tool.jpeg",
+    "date": "2026-05-06",
+    "source_has_timestamps": true,
+    "body": "Microsoft's HIDDEN Agent Tool — MarkItDown 完整筆記 頻道： Jay E | RoboNuggets｜發布日： 2025年5月3日｜片長： 10分02秒 [核心摘要] MarkItDown 是微軟開源的檔案轉換工具，能將 PDF、Excel、PowerPoint、Word、圖片等各種格式一鍵轉為 Markdown 文件，解決 AI Agent 無法解析辦公室二進位檔案的根本痛點。它已在 GitHub 上獲得超過 10 萬顆星，是目前 Agent 知識庫建構中最被低估的實用工具之一。 [詳細重點整理] 1. 為什麼 Markdown 是 AI Agent 的通用語言  Markdown 在機器可讀性與人類閱讀性之間取得完美平衡。Andrej Karpathy（前 Tesla AI 主管、OpenAI 共同創辦人）在 Sequoia 火爐談話中明確建議：優先安裝 .md 技能，而非 .sh 腳本，並呼籲用 Markdown 建立 LLM 知識庫，該推文已獲 2,000 萬次瀏覽。  關鍵概念：Markdown 通用語（Lingua Franca） ",
+    "url": "/notes/markitdown-hidden-agent-tool"
+  },
+  {
+    "id": "let-ai-agents-tell-you-what-they-need",
+    "title": "讓 AI Agent 告訴你它需要什麼：需求驅動式情境方法論",
+    "category": "AI筆記",
+    "tags": [
+      "機構知識",
+      "需求驅動式情境",
+      "部落知識",
+      "Context Gap Scanner",
+      "知識版本控制"
+    ],
+    "description": "企業 AI 的最大瓶頸不在模型能力，而在機構知識（Institutional Knowledge）的缺失與混亂。IKEA 數位部門 Staff Engineer 提出「需求驅動式情境」方法論",
+    "quote": "你不需要先整理知識庫，再讓 Agent 上工；你需要讓 Agent 上工，才能知道知識庫少了什麼。",
+    "action": "F-D-C 法則：Fail First 讓 Agent 面對真實任務先失敗、Discover Gaps 收集缺口清單、Curate & Commit 補充後 commit 到 GitHub，重複迭代。",
+    "image": "/images/AI筆記/let-ai-agents-tell-you-what-they-need.jpeg",
+    "date": "2026-05-06",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 企業 AI 的最大瓶頸不在模型能力，而在機構知識（Institutional Knowledge）的缺失與混亂。IKEA 數位部門的 Staff Engineer Raj Navakoti 提出「需求驅動式情境（Demand-Driven Context）」方法論：不再由人工整理知識庫塞給 AI，而是讓 Agent 面對真實任務、在失敗中主動暴露知識缺口，由此漸進式地構建高品質、可信任的知識區塊（Context Blocks）。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 企業 AI 的真實困境  用電影《記憶拼圖（Memento）》類比：AI 推理能力極強，但沒有機構的「脈絡記憶」，每次都得從零開始。McKinsey 數據顯示，88% 的企業使用 AI，但只創造了 6% 的價值。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) 關鍵概念：機構知識鴻溝（Institutional Knowledge Gap） 2.",
+    "url": "/notes/let-ai-agents-tell-you-what-they-need"
+  },
+  {
+    "id": "high-eq-social-skills-altruism-rules",
+    "title": "高情商社交公式：利他精神 × 制定規矩的雙軸法則",
+    "category": "心理學",
+    "tags": [
+      "情緒價值",
+      "人際邊界",
+      "軟性拒絕",
+      "利他精神",
+      "社交格局"
+    ],
+    "description": "這支影片解決了「老好人困境」的核心痛點：只會利他會讓你成為便利貼女孩（工具人），只會立規矩則顯得自私孤立。Anna 提出「利他精神 × 制定規矩」的雙軸社交公式",
+    "quote": "利他讓你受歡迎，規矩讓你被珍惜；兩者缺一，人際關係都只剩半套。",
+    "action": "每次社交前問：①今天為對方提供了什麼價值？②底線有沒有被侵犯？需要開口說清楚嗎？養成這兩個反思習慣即是 A-R 法則的日常實踐。",
+    "image": "/images/心理學/high-eq-social-skills-altruism-rules.jpeg",
+    "date": "2026-05-06",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 這支影片解決了「老好人困境」的核心痛點：只會利他會讓你成為便利貼女孩（工具人），只會立規矩則顯得自私孤立。Anna 提出「利他精神 × 制定規矩」的雙軸社交公式，讓普通人在職場與人際關係中既受歡迎、又被尊重，徹底升級社交格局。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 利他精神跟你想的不一樣  多數人以為利他需要有錢有勢才能做到，但真正的利他體現在日常對話中。 高社交認可度的人不強調自己的成就，而是提供情緒價值、關注對方感興趣的話題、給予有用建議。即使是普通人，能提供情緒支撐、獨立思考、或可靠執行力，都是利他的具體形式。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop)  關鍵概念：情緒價值（Emotional Value） 2. 高段位社交必修課——制定規矩  光靠利他容易成為「Mr. Nice」，好人緣但沒有被珍惜。 社交的本質是利益交換，當你有明確的底線與規矩，對方才會感覺你是「有個性、值得尊重」的人。Ann",
+    "url": "/notes/high-eq-social-skills-altruism-rules"
+  },
+  {
+    "id": "fortify-gate-deployment-checklist",
+    "title": "Fortify Gate：部署前十分鐘清單，讓「完成」有明確答案",
+    "category": "AI筆記",
+    "tags": [
+      "Fortify Gate",
+      "部署前驗證",
+      "可觀測性",
+      "問責機制",
+      "AI開發品質"
+    ],
+    "description": "Fortify Gate 是一份部署前必須全數通過的書面條件清單，專為三到五人的小型快速迭代團隊設計。AI 輔助開發壓縮了品質把關時間，導致「完成」的定義因角色不同而",
+    "quote": "原型出貨靠的是希望；產品出貨靠的是數據。",
+    "action": "任何重要交付前問四個問題：能在 SLA 時限內還原嗎？最可能的三種失敗是什麼？有無已上線的指標？誰是那個 72 小時內負責的人？",
+    "image": "/images/AI筆記/fortify-gate-deployment-checklist.jpeg",
+    "date": "2026-05-06",
+    "source_has_timestamps": false,
+    "body": "Fortify Gate：讓「完成」成為有真實答案的問題 核心痛點解決：在 AI 加速開發的時代，小型團隊的「完成」定義因角色不同而分裂——Fortify Gate 以一份十分鐘的部署前檢查清單，將主觀判斷轉化為客觀驗證，從根本上消除週五下午的部署賭局。 [核心摘要] Fortify Gate 是一份部署前必須全數通過的書面條件清單，專為三到五人的小型快速迭代團隊設計。它解決的核心痛點是：AI 輔助開發大幅壓縮了過去靠「交接摩擦」自然產生的品質把關時間，導致四個角色（設計師、開發者、創辦人、客戶）對「完成」的定義從未真正對齊。這份清單涵蓋四大類別：回滾、已知失敗模式、遙測、所有權，共十個核取方塊，讓「出貨」從直覺判斷變成有明確答案的問題。 [詳細重點整理] 1. 問題起源：「完成」是最危險的詞 [文章前段] 在傳統開發流程中，開發一週、審查三天、QA 兩天的交接摩擦（Handoff Friction）意外扮演了安全閥的角色，迫使四個版本的「完成」在摩擦中被磨合為共識。AI 時代功能幾小時內完成、PR 幾分鐘內核准，這個安全機制消失了。調查顯示，43% 的 AI 生成程式碼變更需要在生產",
+    "url": "/notes/fortify-gate-deployment-checklist"
+  },
+  {
+    "id": "entire-map-of-money",
+    "title": "金錢完整地圖：貨幣是借款人設計的財富重分配系統",
+    "category": "影片筆記",
+    "tags": [
+      "貨幣本質",
+      "部分準備金制度",
+      "尼克森衝擊",
+      "通膨稅",
+      "信用創造"
+    ],
+    "description": "這支影片揭示了一個被刻意掩蓋的金融真相：貨幣從來不是中性的測量工具，而是一套由借款人（尤其是政府）所設計、讓儲蓄者持續失血的系統。橫跨 5,000",
+    "quote": "統治者現在掌握在那些從縮短它中獲益的人手中——這不是制度的缺陷，這就是制度本身。",
+    "action": "A-I-P 法則：將儲蓄轉化為資產（Assets）、理解通膨是系統設計（Inflation awareness）、在低利率環境適度槓桿投資生產性資產（Position as borrower）。",
+    "image": "/images/影片筆記/entire-map-of-money.jpeg",
+    "date": "2026-05-06",
+    "source_has_timestamps": true,
+    "body": "以下是這支影片「Entire Map of Money in 21 Min.」的完整結構化筆記： [核心摘要] 這支影片揭示了一個被刻意掩蓋的金融真相：貨幣從來不是中性的測量工具，而是一套由借款人（尤其是政府）所設計、讓儲蓄者持續失血的系統。透過橫跨 5,000 年的歷史——從雅浦島石幣到尼克森衝擊——完整拆解「金錢是什麼、如何被創造、誰從中獲益」，破除經濟教科書中所有主要迷思。 [詳細重點整理] 1. 金錢的本質：共識，不是物體  雅浦島居民用重達四噸的石灰石圓盤作為貨幣，石頭從不移動，甚至有一顆沉入海底的石幣依然在流通——因為全島人同意它存在且屬於某家族。凱因斯與弗里德曼兩位畢生針鋒相對的經濟學大師，讀完雅浦島的故事後異口同聲：「這些人比我們更懂貨幣。」  關鍵概念：共識即貨幣（Money as Social Agreement） 2. 以物易物神話的崩潰  主流教科書說「先有以物易物，後有貨幣」，出處是亞當·斯密 1776 年的著作，但他只是在做邏輯推演，從未查證史實。劍橋人類學家 Caroline Humphrey 窮盡畢生研究，結論是：「在任何文化、任何時代，純以物易物的經濟",
+    "url": "/notes/entire-map-of-money"
+  },
+  {
+    "id": "coding-is-solved-boris-cherny-sequoia-2026",
+    "title": "Boris Cherny：程式碼撰寫已被 AI 徹底解決，接下來是民主化",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "Loop代理",
+      "跨學科通才",
+      "軟體民主化",
+      "產品過剩"
+    ],
+    "description": "Anthropic Claude Code 的創造者 Boris Cherny，在 Sequoia AI Ascent 2026 大會上宣告：程式碼撰寫已被 AI 徹底解決。他每天靠手機管理數百個 AI Agent、每日提",
+    "quote": "最有能力寫出最好的會計軟體的人，是一位優秀的會計師，而不是工程師——因為領域知識才是難的部分，寫程式只是容易的部分。",
+    "action": "立刻在工作流程中實驗一個「永久循環代理」，把每天手動重複的事交給 AI 自動循環執行，你的角色轉為需求定義與結果驗證。",
+    "image": "/images/AI筆記/coding-is-solved-boris-cherny-sequoia-2026.jpeg",
+    "date": "2026-05-06",
+    "source_has_timestamps": true,
+    "body": "「編程已被解決，接下來呢？」— Boris Cherny × Sequoia AI Ascent 2026 [核心摘要] Anthropic Claude Code 的創造者 Boris Cherny，在 Sequoia AI Ascent 2026 大會上宣告：對他而言，程式碼撰寫已被 AI 徹底解決。他每天靠手機管理數百個 AI Agent、每日提交數十個 PR，並預言未來幾年軟體開發將像印刷術一樣民主化——領域專家（如會計師）將比工程師更能寫出好的行業軟體，AI 帶來的是「新文藝復興」而非程式員的末日。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. Claude Code 的誕生起源  Claude Code 是在 Anthropic 內部孵化器 Anthropic Labs 中「意外」誕生的，由 Boris 和少數幾位成員打造，同期產品還包括 MCP 與桌面應用程式。早期六個月幾乎毫無用武之地，真正的爆炸性成長始於 Opus 4 模型發佈之後，此後每一代模型發佈都帶來新的增長拐點。 [y",
+    "url": "/notes/coding-is-solved-boris-cherny-sequoia-2026"
+  },
+  {
+    "id": "ai-thin-ice-moment-job-audit",
+    "title": "AI 薄冰時刻：T-C-L-D 四象限審計你的工作脆弱性",
+    "category": "影片筆記",
+    "tags": [
+      "T-C-L-D審計",
+      "職業脆弱性",
+      "問題持守",
+      "耐久工作",
+      "績效盲點"
+    ],
+    "description": "AI 不需要取代你的整份工作才能讓你陷入危機——它只需要侵蝕工作中足夠多的「例行片段」，當下一次外部衝擊來臨，剩下的部分就無法撐起你的角色",
+    "quote": "領先者是那些能在組織強迫更新自我形象之前，主動更新自我形象的人。",
+    "action": "每兩週做一次 T-C-L-D 自我審計，計算 T+C 比例；把回收的時間投入 D（耐久工作），而非更多 C（商品工作）。",
+    "image": "/images/影片筆記/ai-thin-ice-moment-job-audit.jpeg",
+    "date": "2026-05-06",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] AI 不需要取代你的整份工作才能讓你陷入危機——它只需要侵蝕工作中足夠多的「例行片段」，當下一次外部衝擊來臨（裁員、重組、預算凍結），剩下的部分就再也無法撐起你的角色價值。本影片提供一套 T-C-L-D 四象限審計法，幫你在組織強迫你改變之前，主動重新校準職涯方向。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 工作正在被掏空，而非取代  行事曆滿檔、主管滿意、工作持續交付，卻不代表你是安全的。最危險的時刻，是「工作仍存在，但愈來愈不需要你」。旅行社的歷史案例正是此模式：Expedia 沒有一夜消滅旅行社，而是先讓例行訂票層喪失防禦力，等到外部衝擊（經濟衰退）來臨，組織才快速重組。知識工作者正面臨同樣的「能力過剩懸掛」（capability overhang），多數公司尚未圍繞 AI 重組，但帳單遲早要付。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) 關鍵概念： 能力過剩懸掛（Capability Overhan",
+    "url": "/notes/ai-thin-ice-moment-job-audit"
+  },
+  {
     "id": "youtube-one-million-income-strategy",
     "title": "YouTube 業配百萬心法：信任資產與單位時間定價法則",
     "category": "影片筆記",
