@@ -1,5 +1,145 @@
 [
   {
+    "id": "running-ai-native-engineering-org",
+    "title": "打造 AI-Native 工程組織：重寫舊流程的實戰指南",
+    "category": "影片筆記",
+    "tags": [
+      "AI原生組織",
+      "瓶頸轉移",
+      "JIT規劃",
+      "強制Dogfooding",
+      "工程流程"
+    ],
+    "description": "當 AI Coding 工具從個人輔助升級為組織預設工作模式，原本為「昂貴的人工編碼」所設計的流程（Design Doc、Code Ownership、六個月 Roadmap）會悄悄失效。",
+    "quote": "What served you prior may not serve you any longer.——曾經有效的，不代表現在依然有效。",
+    "action": "找出你團隊中「最吵鬧的一個工作流」，問自己「它現在仍然服務原本的目的嗎？」，若答案模糊，先把它砍掉，觀察三週。",
+    "image": "/images/影片筆記/running-ai-native-engineering-org.jpeg",
+    "date": "2026-05-09",
+    "source_has_timestamps": true,
+    "body": "Running an AI-Native Engineering Org 核心洞察： 當 AI 程式碼生成能力讓工程頻寬不再是瓶頸，組織的流程、審查機制與團隊結構本身才是真正需要重構的物件。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [核心摘要] 本影片由 Anthropic Claude Code 工程總監 Fiona Fung 主講，揭示了一個關鍵痛點：當 AI Coding 工具從個人輔助升級為組織預設工作模式，原本為「昂貴的人工編碼」所設計的流程（Design Doc、Code Ownership、六個月 Roadmap）會悄悄失效。影片系統性地分享了 Claude Code 團隊如何識別瓶頸轉移，並重寫團隊規範，讓 AI-native 組織能持續高速且高品質地交付。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 瓶頸已轉移，舊流程悄悄失效  過去「工程頻寬昂貴」催生了瀑布式、敏捷式開發、預規劃、Code Owner",
+    "url": "/notes/running-ai-native-engineering-org"
+  },
+  {
+    "id": "playground-in-production",
+    "title": "Playground in Production：用 Pydantic AI 在生產環境持續優化 Agent",
+    "category": "AI筆記",
+    "tags": [
+      "生產可觀測性",
+      "GEPA",
+      "Managed Variables",
+      "線上評估",
+      "Pydantic AI"
+    ],
+    "description": "部署 AI Agent 只是起點，真正的挑戰是在不重新部署的情況下持續優化生產環境中的 Agent 表現。Pydantic CEO Samuel Colvin 展示了「生產環境→評估→自動優化」閉環工作流",
+    "quote": "部署 Agent 只是開始，生產環境中的每一次 Trace，都是讓 Agent 變得更聰明的原料。",
+    "action": "將所有硬編碼的 Prompt 字串遷移至 Logfire Managed Variables，並從現有生產 Traces 中挑選 50-100 筆案例建立評估資料集。",
+    "image": "/images/AI筆記/playground-in-production.jpeg",
+    "date": "2026-05-09",
+    "source_has_timestamps": false,
+    "body": "[核心摘要] 部署 AI Agent 只是起點，真正的挑戰是在不重新部署的情況下持續優化生產環境中的 Agent 表現。 Pydantic CEO Samuel Colvin 展示了一套完整的「生產環境 → 評估 → 自動優化」閉環工作流，核心工具為 Pydantic AI、Logfire 與 GEPA（自動 Prompt 進化），解決了「上線後無法快速迭代 Prompt 與模型」的核心痛點。 [startuphub](https://www.startuphub.ai/ai-news/artificial-intelligence/2026/samuel-colvin-on-optimizing-ai-agents-in-production) [詳細重點整理] 1. Playground in Prod — 生產即實驗場  傳統開發流程中，Prompt 調整必須走 CI/CD 才能上線，導致迭代速度極慢。 這個工作坊主張將生產環境本身視為「Playground」，透過 Logfire 內建的 LLM Playground 直接測試 Prompt，每次請求都自動被 trace，實現即",
+    "url": "/notes/playground-in-production"
+  },
+  {
+    "id": "memory-dreaming-self-learning-agents",
+    "title": "Memory 與 Dreaming：Anthropic 讓 Agent 持續自我學習的新原語",
+    "category": "影片筆記",
+    "tags": [
+      "Agent記憶",
+      "Dreaming",
+      "記憶蒸餾",
+      "連續自我學習",
+      "Anthropic"
+    ],
+    "description": "記憶體（Memory）與夢境（Dreaming）是 Anthropic 為 Claude Managed Agents 推出的兩項新原語，解決了 AI Agent 在長時間運行中「無法跨 session 持續學習」的核心痛點。",
+    "quote": "奪走工作的不是 AI，而是那個讓 AI 每天都比昨天更聰明的人。",
+    "action": "為 Agent 建立分層記憶庫（唯讀知識庫＋讀寫工作記憶），並在任務完成後定時觸發 Dreaming 自動優化記憶品質。",
+    "image": "/images/影片筆記/memory-dreaming-self-learning-agents.jpeg",
+    "date": "2026-05-09",
+    "source_has_timestamps": true,
+    "body": "🧠 Memory and Dreaming for Self-Learning Agents 影片來源： Anthropic 工程師 Mahes（平台團隊 PM）於 2026 年 5 月 8 日發表的 24 分鐘技術演講。 [核心摘要] 記憶體（Memory）與夢境（Dreaming） 是 Anthropic 為 Claude Managed Agents 推出的兩項新原語（Primitive），解決了 AI Agent 在長時間運行中「無法跨 session 持續學習」的核心痛點。Memory 讓 Agent 在任務執行中即時讀寫知識；Dreaming 則在 Agent 空閒時批次分析跨 session 的錯誤模式與學習成果，自動更新並優化記憶狀態，實現真正的「自我演化 Agent」。 [詳細重點整理] 1. Agent 演化路線圖  Anthropic 的 Agent 能力原語演進順序如下： - MCP（工具與外部資料存取） - Claude Code / Agent SDK（強大的執行環境） - Skills（2025年10月）：讓 Agent 學習新技能並分享給其他 Agen",
+    "url": "/notes/memory-dreaming-self-learning-agents"
+  },
+  {
+    "id": "entire-map-of-economics",
+    "title": "19 分鐘經濟學全圖：7 大市場原則拆解反直覺真相",
+    "category": "影片筆記",
+    "tags": [
+      "經濟學",
+      "激勵機制",
+      "機會成本",
+      "價格機制",
+      "比較優勢"
+    ],
+    "description": "本影片濃縮了 Thomas Sowell 700 頁鉅著《Basic Economics》的精華，用 7 個核心原則揭示「反直覺但無可辯駁」的經濟真相——從「對富人加稅反而讓窮人更窮」到「價格管制必然造成短缺」",
+    "quote": "理解經濟學不會讓你變富，但它會讓你不可能被愚弄。",
+    "action": "做決策前先問「這個政策在獎勵什麼行為？」，遇到讓你憤怒的價格，先問「這個價格在告訴我什麼？」",
+    "image": "/images/影片筆記/entire-map-of-economics.jpeg",
+    "date": "2026-05-09",
+    "source_has_timestamps": true,
+    "body": "Entire Map of ECONOMICS in 19 Minutes 核心摘要： 本影片濃縮了 Thomas Sowell 700 頁鉅著《Basic Economics》的精華，用 7 個核心原則揭示「反直覺但無可辯駁」的經濟真相——從「對富人加稅反而讓窮人更窮」到「價格管制必然造成短缺」，系統性地拆解政府介入市場的致命錯誤，並將每條經濟法則轉化為個人財務與職涯的決策工具。 [核心摘要] 影片以 Thomas Sowell 的《Basic Economics》為基礎，在 19 分鐘內呈現 7 大市場經濟原則，解決一個核心痛點：大多數人因不理解經濟運作邏輯，長期被政策與直覺所欺騙。透過真實政策失敗案例（馬里蘭州、紐約租管、辛巴威、印度），影片證明市場訊號的不可替代性，並引導觀者將這些規律應用於個人決策。 [詳細重點整理] 1. 人們回應的是激勵，而非意圖  馬里蘭州對百萬富翁加稅，預計增收 1.06 億美元，卻導致 2,000 名富翁遷離，最終損失 2.57 億美元稅收。奧勒岡州同樣的實驗，損失更為慘烈。關鍵概念：激勵相容原則（Incentive Compatibility） —",
+    "url": "/notes/entire-map-of-economics"
+  },
+  {
+    "id": "brian-chesky-airbnb-ai-era",
+    "title": "Brian Chesky：AI 時代重塑 Airbnb 的創辦人模式",
+    "category": "影片筆記",
+    "tags": [
+      "AI Founder Mode",
+      "設計思維",
+      "消費者AI",
+      "組織扁平化",
+      "11星體驗"
+    ],
+    "description": "Brian Chesky 以工業設計師的視角，提出在 AI 時代企業家必須進入「AI Founder Mode」——比過去的 Founder Mode 更深入細節、更扁平化管理。他認為 AI 不會取代人，而是一塊等待探索的新畫布",
+    "quote": "寧可讓 100 個人瘋狂愛你，也不要讓 100 萬人覺得你還不錯。",
+    "action": "別急著做 100 城市的功能，先在一個城市做到讓 100 個人愛上它；審視每週有多少時間在「管工作」vs「管人情緒」。",
+    "image": "/images/影片筆記/brian-chesky-airbnb-ai-era.jpeg",
+    "date": "2026-05-09",
+    "source_has_timestamps": true,
+    "body": "這是 Airbnb CEO Brian Chesky 接受 Patrick O'Shaughnessy 訪談的深度對話，探討 AI 時代的領導哲學、設計思維與公司重塑策略。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [核心摘要] Brian Chesky 以工業設計師的視角，提出在 AI 時代企業家必須進入「AI Founder Mode」——比過去的 Founder Mode 更深入細節、更扁平化管理。他認為 AI 不會取代人，而是一塊等待探索的新畫布，下一波爆發點在消費者 AI，而非企業 AI。核心痛點是：大多數創辦人把公司交給職業經理人後失去方向感，而 AI 時代要求領導者不僅懂人，還必須「管理工作本身，而非管理人。」 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 工業設計的底層邏輯  從 Rhode Island School of Design 的訓練出發，工業設計不同於建築或平面設計的核心在於：商業成功即設計成功",
+    "url": "/notes/brian-chesky-airbnb-ai-era"
+  },
+  {
+    "id": "agentic-search-context-engineering",
+    "title": "Agentic Search：Context Engineering 的核心解法",
+    "category": "影片筆記",
+    "tags": [
+      "Context Engineering",
+      "Agentic Search",
+      "RAG",
+      "工具設計",
+      "語意搜尋"
+    ],
+    "description": "Context Engineering 的核心挑戰不是模型本身，而是「如何把正確的資訊放入 LLM 的 Context Window」。Leonie 提出大膽論點：Context Engineering 有 80% 都是 Agentic Search 問題。",
+    "quote": "好的搜尋極其困難，這正是為什麼我們需要多種搜尋技術——沒有銀彈，只有適合當下的組合。",
+    "action": "為已知高頻查詢打造專用低門檻工具，記錄 Agent 每次工具呼叫行為，並以三段式結構撰寫 Tool Description。",
+    "image": "/images/影片筆記/agentic-search-context-engineering.jpeg",
+    "date": "2026-05-09",
+    "source_has_timestamps": true,
+    "body": "Agentic Search for Context Engineering 講者： Leonie Monigatti（Elastic）｜來源： AI Engineer Conference, 2026/05/08 [核心摘要] Context Engineering（情境工程） 的核心挑戰不是模型本身，而是「如何把正確的資訊放入 LLM 的 Context Window」。Leonie 提出大膽論點：Context Engineering 有 80% 都是 Agentic Search 問題。影片系統性地拆解了不同搜尋工具（語意搜尋、通用查詢工具、Shell Tool、Agent Skill）的適用場景與失效邊界，並提供在實際生產環境中組合這些工具的實戰架構。 [youtube](https://www.youtube.com/?app=desktop&hl=zh-tw) [詳細重點整理] 1. Context Engineering 的本質定義  Context Engineering 是指從所有可能的 Context Sources（本地檔案、資料庫、網路、長期記憶）中，決定「哪",
+    "url": "/notes/agentic-search-context-engineering"
+  },
+  {
+    "id": "agent-observability-complete-guide",
+    "title": "Agent 可觀測性完整指南：從 Eval 到自我診斷",
+    "category": "影片筆記",
+    "tags": [
+      "Agent可觀測性",
+      "自我診斷",
+      "隱式訊號",
+      "語意A/B測試",
+      "組合爆炸"
+    ],
+    "description": "Agent 失敗不同於傳統軟體錯誤——它們是非確定性的、無界的，且隨著複雜度與部署規模提升，單靠 eval 已不足以保障品質。本場工作坊帶來一套實戰可行的 Agent 可觀測性框架",
+    "quote": "當人類再也無法監控 agent 並找出其問題時，agent 就已經遠超我們的掌控——這是當代最重要的問題之一。",
+    "action": "立即在現有 agent 的 System Prompt 加入自我診斷工具，並導向 Slack webhook——這是成本最低、洞察最豐富的可觀測性起點。",
+    "image": "/images/影片筆記/agent-observability-complete-guide.jpeg",
+    "date": "2026-05-09",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Agent 失敗不同於傳統軟體錯誤——它們是非確定性的、無界的，且隨著複雜度與部署規模提升，單靠 eval 已不足以保障品質。本場工作坊由 Raindrop 團隊帶來一套實戰可行的 Agent 可觀測性框架，涵蓋顯式訊號、隱式訊號分類器、Regex 監控，以及最創新的自我診斷機制（Self-Diagnostics），解決了「AI agent 上線後根本不知道哪裡出問題」的核心痛點。 [詳細重點整理] 1. 為何 Eval 已不夠用  傳統 eval 採「測試輸入 → 驗證輸出」模式，但現代 agent 擁有指數級增長的工具組合、多層子 agent 架構與記憶來源，輸入空間無法窮舉。組合爆炸（Combinatorial Explosion） 使 eval 的覆蓋率趨近於零，監控生產環境遠比測試更重要。  關鍵概念：組合爆炸（Combinatorial Explosion） 2. 訊號的兩大類型  Agent 監控需建立完整的訊號體系： | 類型 | 範例 | 特性 | |------|------|------| | 顯式訊號（Explicit Signals） | 工具錯",
+    "url": "/notes/agent-observability-complete-guide"
+  },
+  {
     "id": "skill-issue-ai-agents-supabase",
     "title": "Skill Issue：用 AI 讓 Agent 真正善用 Supabase 的閉環框架",
     "category": "AI筆記",
