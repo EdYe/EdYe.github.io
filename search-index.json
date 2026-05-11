@@ -1,5 +1,45 @@
 [
   {
+    "id": "hierarchical-memory-context-management-agents",
+    "title": "階層式記憶體：AI Agent 上下文管理的三層演進",
+    "category": "影片筆記",
+    "tags": [
+      "上下文管理",
+      "記憶體架構",
+      "Agent設計",
+      "子代理人",
+      "長對話評估"
+    ],
+    "description": "當 AI Agent 面對海量 trace 資料時，上下文視窗爆滿是導致失敗的根本原因，而非提示詞品質。Arize 團隊在打造自家 AI agent「Alex」的過程中，歷經「截斷→摘要→智慧截斷＋記憶體」三個演進階段，最終以頭尾保留＋可檢索記憶體倉庫＋子代理人分工的架構，成功突破上下文困境。",
+    "quote": "Agent 的失敗不來自提示詞，而來自上下文。",
+    "action": "設計 AI 產品時，先問「agent 看到什麼」再問「prompt 怎麼寫」，並建立長對話評估機制主動測試 10+ 輪後的表現。",
+    "image": "/images/影片筆記/hierarchical-memory-context-management-agents.jpeg",
+    "date": "2026-05-11",
+    "source_has_timestamps": true,
+    "body": "🧠 階層式記憶體：AI Agent 的上下文管理實戰 影片資訊： AI Engineer 研討會演講，2026年5月10日  講者： Sally-Ann DeLucia，Arize AI 產品負責人 [核心摘要] 當 AI Agent 面對海量 trace 資料時，上下文視窗爆滿是導致失敗的根本原因，而非提示詞品質。Arize 團隊在打造自家 AI agent「Alex」的過程中，歷經「截斷→摘要→智慧截斷＋記憶體」三個演進階段，最終以 頭尾保留 ＋ 可檢索記憶體倉庫 ＋ 子代理人分工 的架構，成功突破上下文困境。  [詳細重點整理] 1. 問題起源：惡性循環  Alex 以 Arize 自身的 trace/span 資料為輸入分析對象，但每次執行都會產生更多 span，導致上下文不斷膨脹，觸碰 token 上限後失敗，失敗紀錄又寫回 span，形成無法逃脫的迴圈。  關鍵概念： 上下文惡性循環（Vicious Context Loop） — 分析資料的系統，被其所分析的資料所束縛。 2. 失敗方案一：暴力截斷  只保留前 100 個字元，其餘丟棄。短期看似可行，但追問（follow",
+    "url": "/notes/hierarchical-memory-context-management-agents"
+  },
+  {
+    "id": "claude-github-scale-caching-advisors",
+    "title": "GitHub 大規模部署 Claude：Caching、Evaluation 與 Advisor 策略",
+    "category": "影片筆記",
+    "tags": [
+      "規模化部署",
+      "Prompt Caching",
+      "Evaluation Harness",
+      "Advisor Pattern",
+      "成本效益"
+    ],
+    "description": "GitHub Copilot 團隊將 Claude 部署給數百萬開發者，在 Chat、CLI、Coding Agent 與 Code Review 等場景中大規模使用，成為 Claude Platform 最苛刻的企業客戶之一。本影片由 GitHub CPO Mario Rodriguez 與 Anthropic 的 Brad Abrams 共同拆解：如何在規模化部署中同時提升品質、壓低成本",
+    "quote": "品質向上、成本向下，不是魚與熊掌的取捨，而是工程架構的設計問題。",
+    "action": "所有靜態 system prompt 立即啟用 Prompt Caching，建立評估流水線，複雜任務採用 Advisor Pattern 分離策略層與執行層。",
+    "image": "/images/影片筆記/claude-github-scale-caching-advisors.jpeg",
+    "date": "2026-05-11",
+    "source_has_timestamps": true,
+    "body": "🎯 [核心摘要] GitHub Copilot 團隊將 Claude 部署給數百萬開發者，在 Chat、CLI、Coding Agent 與 Code Review 等場景中大規模使用，成為 Claude Platform 最苛刻的企業客戶之一 。本影片由 GitHub CPO Mario Rodriguez 與 Anthropic 的 Brad Abrams 共同拆解：如何在規模化部署中同時提升品質、壓低成本，核心技術涵蓋 Caching（快取）、Evaluation Harness（評估框架） 與全新的 Advisor Strategy（顧問策略） 。 [youtube](https://www.youtube.com/watch?v=y5TmF6o6xk) [詳細重點整理] 1. 大規模部署挑戰  GitHub Copilot 的使用者規模達數百萬開發者，橫跨多個產品線（Chat、CLI、Coding Agent、Code Review）。在如此龐大的規模下，成本效益（Cost Efficiency） 與 輸出品質（Output Quality） 成為無法迴避的核心張力。 關鍵",
+    "url": "/notes/claude-github-scale-caching-advisors"
+  },
+  {
     "id": "running-ai-native-engineering-org",
     "title": "打造 AI-Native 工程組織：重寫舊流程的實戰指南",
     "category": "影片筆記",
