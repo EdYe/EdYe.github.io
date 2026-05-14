@@ -1,5 +1,85 @@
 [
   {
+    "id": "trillion-dollar-agentic-workflow",
+    "title": "兆元代理工作流商機：實作層才是真正的戰場",
+    "category": "AI筆記",
+    "tags": [
+      "AI代理人",
+      "實作層",
+      "企業部署",
+      "私募股權",
+      "工作流程"
+    ],
+    "description": "AI 代理人的企業部署戰，真正的戰場是「實作層」——將模型、資料與工作流程整合為可執行業務動作的那一層，而非模型本身之爭。",
+    "quote": "企業 AI 的瓶頸不在模型本身，而在於代理人如何在企業內部被建構與運作。",
+    "action": "找到核心業務物件，深度打通其實作層：工作流程設計、資料存取、授權範圍、評估與稽核",
+    "image": "/images/AI筆記/trillion-dollar-agentic-workflow.jpeg",
+    "date": "2026-05-15",
+    "source_has_timestamps": true,
+    "body": "兆元代理工作流商機正在降臨 [核心摘要] AI 代理人（Agent）的企業部署戰，表面上看起來是 OpenAI 與 Anthropic 的模型之爭，但真正的戰場是「實作層（Implementation Layer）」——也就是將模型、資料與工作流程整合為可執行業務動作的那一層。私募股權（PE）、超大規模雲端服務商（Hyperscaler）與企業三方力量正同時向這個層級聚攏，形成一場搶奪數兆美元價值的實作層戰爭。 [詳細重點整理] 1. 三股力量的匯聚  金融資本（PE）、超大規模雲端廠商、與企業三方正同時收斂到同一個問題上：如何讓 AI 代理人在企業內部真正落地。PE 長期以 SaaS 為核心投資標的，但 SaaS 的成長指標與獲利能力在 AI 衝擊下全面惡化；超大規模廠商發現，不能只待在矽谷會議室，必須派前線工程師深入客戶端作業——Palantir 的「前線部署工程師（Forward Deployed Engineers）」模式被明確點名為正確方向。 2. 兆元商機的本質  代理人可以完整執行「整條工作流程（Entire Workflow）」，而非只回答問題。達成工作流程 100% ",
+    "url": "/notes/trillion-dollar-agentic-workflow"
+  },
+  {
+    "id": "ship-real-agents-evals",
+    "title": "Ship Real Agents：AI Agent 的完整 Eval Pipeline 建構指南",
+    "category": "AI筆記",
+    "tags": [
+      "Agent評估",
+      "Vibes Problem",
+      "LLM評審",
+      "追蹤",
+      "迴歸測試"
+    ],
+    "description": "大多數 AI Agent 上線前的測試方式是「跑幾個 Query 看起來對就好」——稱之為 Vibes Problem。這種方式無法捕捉迴歸錯誤、無法整合進 CI/CD 流程。",
+    "quote": "選對 Eval 比調整 Eval 更重要；同一個 Agent，Correctness Eval 0分，Faithfulness Eval 13分滿分。",
+    "action": "先建立 Trace，分類失敗根因，用實驗框架量化每次 Prompt 改動效果，而非靠直覺判斷",
+    "image": "/images/AI筆記/ship-real-agents-evals.jpeg",
+    "date": "2026-05-15",
+    "source_has_timestamps": true,
+    "body": "以下是本影片的完整結構化筆記： Ship Real Agents: Hands-On Evals for Agentic Applications 講者：Laurie Voss（Arize AI 開發者體驗主管）｜AI Engineer Conference，2026年5月14日 [核心摘要] 大多數 AI Agent 上線前的測試方式是「跑幾個 Query 看起來對就好」——Laurie 稱之為 Vibes Problem（直覺測試問題）。這種方式無法捕捉迴歸錯誤、無法整合進 CI/CD 流程，也無法告訴你修改一個 Prompt 是否同時破壞了其他三件事。本工作坊從零建構一個完整的 Eval Pipeline，對象是一個金融分析 Agent，涵蓋 Tracing（追蹤）、失敗根因分類、Code Eval、LLM-as-a-Judge 評估，到最終能夠「量化証明」Prompt 改善效果的實驗框架。 [youtube](https://www.youtube.com/watch?v=eMlx5fFNoYc) [詳細重點整理] 1. 為什麼需要 Eval？ Vibes Problem（直覺",
+    "url": "/notes/ship-real-agents-evals"
+  },
+  {
+    "id": "grill-with-docs-ddd-skill",
+    "title": "停用 /grill-me：用通用語言與 ADR 解決 AI 記憶斷層",
+    "category": "AI筆記",
+    "tags": [
+      "通用語言",
+      "領域驅動設計",
+      "ADR",
+      "context.md",
+      "AI編程"
+    ],
+    "description": "/grill-me skill 的根本缺陷在於每次新 session 都得重新解釋專案術語，共識無法被持久化。引入 DDD 的通用語言概念，開發出進化版 /grill-with-docs 解決記憶斷層痛點。",
+    "quote": "The same techniques that work with humans also work with AI——讓人類協作更順暢的溝通框架，同樣讓人機協作更精準。",
+    "action": "為專案建立 context.md 定義術語，重要決策寫 ADR，改用 /grill-with-docs 開啟每次 AI 編程 session",
+    "image": "/images/AI筆記/grill-with-docs-ddd-skill.jpeg",
+    "date": "2026-05-15",
+    "source_has_timestamps": true,
+    "body": "📝 停用 /grill-me？更強的 AI 編程技法來了 影片： I stopped using /grill-me for coding. Here's what I use instead | Matt Pocock | 2026-05-14  [youtube](https://www.youtube.com/watch?v=DrC6PZgijsc) [核心摘要] /grill-me skill 雖廣受好評，但其根本缺陷在於——每次新 session 都得重新解釋專案術語，共識無法被持久化。作者引入 領域驅動設計（DDD） 中的「通用語言（Ubiquitous Language）」概念，開發出進化版 /grill-with-docs，將訪談過程與術語文件化機制合而為一，解決了 AI 對話「記憶斷層」的痛點。 [youtube](https://www.youtube.com/watch?v=DrC6PZgijsc) [詳細重點整理] 1. /grill-me 的成功與限制 [00:00–02:47] /grill-me skill 的核心機制是讓 LLM 像偵探一樣逐層追問，直",
+    "url": "/notes/grill-with-docs-ddd-skill"
+  },
+  {
+    "id": "agent-observability-mind-the-gap",
+    "title": "AI Agent 可觀測性：縮短偵測到診斷的落差",
+    "category": "AI筆記",
+    "tags": [
+      "可觀測性",
+      "Agent評估",
+      "OpenTelemetry",
+      "追蹤診斷",
+      "紅隊測試"
+    ],
+    "description": "AI Agent 在生產環境中具有不確定性，隨著模型更換、Prompt 調整、邊緣案例累積，Agent 的實際行為與預期需求之間的「落差」會悄然擴大。",
+    "quote": "可觀測性的真正價值，不是讓你知道出了什麼錯，而是讓你縮短從偵測到診斷的時間。",
+    "action": "從建置第一天就接入追蹤與評估，善用 Observe Skill 自動生成測試資料並回滾最佳 Prompt",
+    "image": "/images/AI筆記/agent-observability-mind-the-gap.jpeg",
+    "date": "2026-05-15",
+    "source_has_timestamps": true,
+    "body": "Mind the Gap (In your Agent Observability) Amy Boyd & Nitya Narasimhan, Microsoft | AI Engineer 大會 — 2026年5月14日 [核心摘要] AI Agent 在生產環境中具有不確定性（Non-determinism），隨著模型更換、Prompt 調整、邊緣案例累積，Agent 的實際行為與預期需求之間的「落差（Gap）」會悄然擴大。本影片展示 Microsoft Foundry 的完整可觀測性（Observability）技術棧，涵蓋追蹤、評估、紅隊測試，並示範如何透過一個 Coding Agent Skill，從零自動生成評估資料集、優化 Prompt 並回滾至最佳版本，解決「不知道自己不知道什麼問題」的核心痛點。 [詳細重點整理] 1. 為什麼要「Mind the Gap」 「Mind the Gap」不只是倫敦地鐵的警示語，更是 Agent 可觀測性的精準比喻： - 月台（Platform）= 需求，列車（Train）= Agent——兩者之間存在不確定的落差 - Agent 上線後",
+    "url": "/notes/agent-observability-mind-the-gap"
+  },
+  {
     "id": "pinecone-demoted-vector-search",
     "title": "Pinecone 降級向量搜尋：AI Agent 時代的知識層架構",
     "category": "AI筆記",
