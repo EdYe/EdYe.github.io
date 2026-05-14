@@ -1,5 +1,25 @@
 [
   {
+    "id": "datadog-100-ai-agents",
+    "title": "Datadog 部署百個 AI Agent 的實戰架構設計原則",
+    "category": "AI筆記",
+    "tags": [
+      "AI Agent",
+      "評估體系",
+      "模型無關性",
+      "DevSecOps",
+      "持久執行"
+    ],
+    "description": "Datadog 工程/AI 總監 Diamond Bishop 基於部署超過 100 個 AI Agent 的實戰經驗，揭示 AI Agent 從「能跑」到「能在生產環境自主運行」的關鍵落差。核心貢獻在於提出一套具備可複製性的 Agent 架構設計原則——涵蓋介面設計",
+    "quote": "「Intelligence 不再是瓶頸，你的架構才是。」",
+    "action": "沒有評估體系不上線任何 Agent，將所有介面設計為 Agent 可用的第一類介面，並用記憶系統解耦業務知識與底層模型",
+    "image": "/images/AI筆記/datadog-100-ai-agents.jpeg",
+    "date": "2026-05-14",
+    "source_has_timestamps": true,
+    "body": "影片成功擷取！以下是這場來自 Agentic AI Foundation 大會（2026年5月11日）的精華筆記。 [核心摘要] Datadog 工程/AI 總監 Diamond Bishop 基於部署超過 100 個 AI Agent 的實戰經驗，揭示 AI Agent 從「能跑」到「能在生產環境自主運行」的關鍵落差。核心貢獻在於提出一套具備可複製性的 Agent 架構設計原則——涵蓋介面設計、持久性執行、評估體系與模型無關性——幫助工程團隊為「下一個一千個 Agent」做好準備。 [youtube](https://www.youtube.com/watch?v=F0T92oxulVE) [詳細重點整理] 1. Datadog 三大生產 Agent  Datadog 目前已有三個正式上線的 AI Agent，各自針對 DevSecOps 中最耗人力的任務： [youtube](https://www.youtube.com/watch?v=F0T92oxulVE) - Bits AI SRE：自主調查警報，目標是讓工程師不再凌晨兩點被叫醒 - Bits AI Dev：分析服務錯誤與",
+    "url": "/notes/datadog-100-ai-agents"
+  },
+  {
     "id": "cicd-is-dead",
     "title": "CI/CD Is Dead — 代理時代的持續運算革命",
     "category": "AI筆記",
