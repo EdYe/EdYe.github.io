@@ -1,5 +1,25 @@
 [
   {
+    "id": "cicd-is-dead",
+    "title": "CI/CD Is Dead — 代理時代的持續運算革命",
+    "category": "AI筆記",
+    "tags": [
+      "持續運算",
+      "Agent Loop",
+      "合併佇列",
+      "多宇宙探索",
+      "CI轉型"
+    ],
+    "description": "傳統 CI/CD 是為「人類每週推送一兩個 diff」設計的序列化流程。當 AI Agent 以千倍規模持續產生 PR 時，runner 飽和、快取失效、merge queue 序列化瓶頸等問題使整個架構崩潰。",
+    "quote": "You, as a human, are the agent — and now the machines are replacing that role in the loop, but not the intent.",
+    "action": "以 Intent → Validate-in-loop → Merge-by-intent 三步驟重構開發流程，讓 build/test 內嵌於 Agent harness，review 從看 diff 轉向確認意圖是否達成。",
+    "image": "/images/AI筆記/cicd-is-dead.jpeg",
+    "date": "2026-05-14",
+    "source_has_timestamps": true,
+    "body": "CI/CD Is Dead — 代理時代的持續運算革命 來源影片： AI Engineer Conference — Madison Faulkner (NEA 合夥人) × Hugo Santos (Namespace CEO) 時長： 18分37秒 ｜ 發布日期： 2026年5月13日 [核心摘要] 傳統 CI/CD 是為「人類每週推送一兩個 diff」設計的序列化流程。當 AI Agent 以千倍規模持續產生 PR 時，runner 飽和、快取失效、merge queue 序列化瓶頸等問題使整個架構崩潰。本演講提出以持續運算（Continuous Compute）取代 CI/CD，將驗證內嵌至 Agent Loop，並以「意圖＋結果」取代 diff review，讓 merge queue 演化為支援多宇宙平行探索的高效能基礎設施。 [詳細重點整理] 1. 傳統 CI/CD 為何在 Agent 規模下崩潰  - 人類開發者每週僅提交 1~2 個 PR，冷啟動 Docker build、本地快取暖機都被人類延遲所掩蓋 - Agent 規模下：N 個 repo × N 個 PR，大量",
+    "url": "/notes/cicd-is-dead"
+  },
+  {
     "id": "hierarchical-memory-context-management-agents",
     "title": "階層式記憶體：AI Agent 上下文管理的三層演進",
     "category": "影片筆記",
