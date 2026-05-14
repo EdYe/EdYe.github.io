@@ -1,5 +1,25 @@
 [
   {
+    "id": "goal-slash-command-claude-code",
+    "title": "Claude Code /goal 功能：設定目標讓 AI Agent 自主運行數小時",
+    "category": "AI筆記",
+    "tags": [
+      "/goal功能",
+      "Definition of Done",
+      "Token效率",
+      "Claude Code",
+      "AI Agent"
+    ],
+    "description": "`/goal` 功能徹底改變 AI Agent 的操作模式——過去開發者需要逐 prompt 引導 Agent，現在只需設定一個「完成條件（Definition of Done）」，Agent 就能自主運行數小時甚至數天，直到達成目標為止。",
+    "quote": "不要設定任務，要設定目標；Agent 的工作不是執行指令，而是達成條件。",
+    "action": "每次啟動 /goal 時，撰寫精確的 Definition of Done + Acceptance Criteria，這是決定 Agent 能否一次到位的核心變數。",
+    "image": "/images/AI筆記/goal-slash-command-claude-code.jpeg",
+    "date": "2026-05-14",
+    "source_has_timestamps": true,
+    "body": "🤖 AI Agent 的未來已來臨：Claude Code 與 Codex 的 /goal 功能深解 [核心摘要] /goal 功能徹底改變 AI Agent 的操作模式——過去開發者需要逐 prompt 引導 Agent，現在只需設定一個「完成條件（Definition of Done）」，Agent 就能自主運行數小時甚至數天，直到達成目標為止。這解決了長時間任務需要人工監督的核心痛點，讓真正的「無人值守自動化」成為可能。 [youtube](https://www.youtube.com/?app=desktop&hl=zh-tw) [詳細重點整理] 1. /goal 功能是什麼？ /goal（目標驅動迴圈） 是 Claude Code 與 OpenAI Codex 同步推出的新功能。使用者輸入 /goal 後設定完成條件，Agent 會持續工作直到該條件被滿足。 [youtube](https://www.youtube.com/?app=desktop&hl=zh-tw) - 此功能最初由 Codex 在兩週前率先推出，隨後 Anthropic 跟進實作 - 技術機制：每完",
+    "url": "/notes/goal-slash-command-claude-code"
+  },
+  {
     "id": "datadog-100-ai-agents",
     "title": "Datadog 部署百個 AI Agent 的實戰架構設計原則",
     "category": "AI筆記",
