@@ -1,5 +1,25 @@
 [
   {
+    "id": "pinecone-demoted-vector-search",
+    "title": "Pinecone 降級向量搜尋：AI Agent 時代的知識層架構",
+    "category": "AI筆記",
+    "tags": [
+      "向量搜尋",
+      "RAG",
+      "AI Agent",
+      "知識圖譜",
+      "記憶體架構"
+    ],
+    "description": "傳統 RAG + 向量搜尋架構的根本問題：它是為「問答型聊天機器人」設計的，而非為「執行任務的 AI Agent」設計的。Pinecone 自己承認向量搜尋「不夠用」，SAP 砸下超過 10 億歐元佈局 AI 記憶",
+    "quote": "不要先選資料庫，先寫下你的 Agent 為了完成工作需要接收什麼。",
+    "action": "打開現有 Agent 執行日誌，統計重新發現成本，找出最便宜的學習入口。",
+    "image": "/images/AI筆記/pinecone-demoted-vector-search.jpeg",
+    "date": "2026-05-14",
+    "source_has_timestamps": true,
+    "body": "Pinecone Just Demoted Vector Search. Here's the Knowledge Layer. 核心論點： 在 AI Agent 時代，記憶體系統已成為最關鍵的基礎設施戰場。傳統向量搜尋（RAG）是為聊天機器人設計的，無法滿足 AI Agent 對「結構化知識組合」的需求。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [核心摘要] 傳統 RAG + 向量搜尋架構的根本問題：它是為「問答型聊天機器人」設計的，而非為「執行任務的 AI Agent」設計的。Pinecone 自己承認向量搜尋「不夠用」，SAP 砸下超過 10 億歐元佈局 AI 記憶體基礎設施，Google、Microsoft、Cloudflare 全數跟進。「重新發現問題（Rediscovery Problem）」 正讓 Agent 的運算資源耗損高達 85%，而更大的 Context Window 並不能根本解決這個問題。 [youtube](https://www.youtube.com/?hl=zh-tw&app=d",
+    "url": "/notes/pinecone-demoted-vector-search"
+  },
+  {
     "id": "goal-slash-command-claude-code",
     "title": "Claude Code /goal 功能：設定目標讓 AI Agent 自主運行數小時",
     "category": "AI筆記",
