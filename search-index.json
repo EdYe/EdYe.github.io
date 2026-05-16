@@ -1,5 +1,225 @@
 [
   {
+    "id": "prompt-injection-ai-security",
+    "title": "Prompt Injection：AI Agent 的隱形攻擊與多層防禦架構",
+    "category": "AI筆記",
+    "tags": [
+      "Prompt Injection",
+      "AI安全",
+      "間接注入攻擊",
+      "最小權限",
+      "Planner-Executor架構"
+    ],
+    "description": "AI Agent 的核心弱點在於 LLM 無法區分「開發者指令」與「外部內容」，兩者對模型都是同一條 token 流。攻擊者只需在 Agent 日後讀取的內容中植入惡意指令，即可劫持 Agent 行為，在使用者毫無察覺的情況下竊取資料。",
+    "quote": "使用者沒有做錯任何事，模型完全照指令行動——只是服從了錯誤的人。",
+    "action": "永遠給 Agent 最小工具權限，將規劃與執行邏輯架構隔離，所有不可逆操作加入人工確認節點。",
+    "image": "/images/AI筆記/prompt-injection-ai-security.jpeg",
+    "date": "2026-05-17",
+    "source_has_timestamps": true,
+    "body": "Prompt Injection，清晰解說 Prompt Injection（提示注入） 是一種針對 AI Agent 的攻擊技術：攻擊者將惡意指令藏在 Agent 會讀取的外部內容中（如電子郵件、網頁），迫使模型服從攻擊者的意圖而非開發者的設計。這支影片（ByteByteGo，2026/05/13）以 Gmail AI 助理為例，清晰說明攻擊機制與多層防禦架構。 [核心摘要] AI Agent 的核心弱點在於 LLM 無法區分「開發者指令」與「外部內容」——兩者對模型來說都是同一條 token 流。攻擊者只需在 Agent 日後會讀取的內容中植入惡意指令，即可劫持 Agent 的行為，在使用者毫無察覺的情況下竊取資料或執行惡意操作。 [詳細重點整理] 1. Prompt 的混合結構  Agent 的 Prompt 混合了兩種來源：開發者的系統指令，以及 Agent 讀取的外部內容（Email、網頁、文件）。 LLM 將兩者視為同一流，沒有硬性邊界告訴它哪部分可信、哪部分不可信，只要「看起來像指令」，模型就可能執行。  關鍵概念：Token 流無邊界性（No Hard Boundary",
+    "url": "/notes/prompt-injection-ai-security"
+  },
+  {
+    "id": "microservices-scam-modular-monolith",
+    "title": "微服務的謊言：90% 應用程式應選擇模組化單體架構",
+    "category": "AI筆記",
+    "tags": [
+      "微服務",
+      "模組化單體",
+      "康威定律",
+      "複雜度預算",
+      "AI放大效應"
+    ],
+    "description": "微服務並非「現代架構」的同義詞，而是一種組織擴展工具，帶有龐大的運維稅。大多數中小型工程團隊過早採用微服務，實際上建造的是「分散式單體」。模組化單體才是 90% 應用程式的正確答案，業界已有 42% 的組織正在回頭整合服務。",
+    "quote": "Monolith 不是失敗，Microservice 不是成熟。緊耦合才是失敗，意外分散才是不成熟。目標永遠是邏輯的模組化，程式跑在哪裡，只是你應該隨時能改變的部署細節。",
+    "action": "先量測內部服務延遲與基礎設施費用，只在能說出具體擴展或組織問題時才從模組化單體抽取服務，先對齊團隊業務領域所有權再碰部署邊界。",
+    "image": "/images/AI筆記/microservices-scam-modular-monolith.jpeg",
+    "date": "2026-05-17",
+    "source_has_timestamps": true,
+    "body": "🎯 [核心摘要] 微服務並非「現代架構」的同義詞，而是一種組織擴展工具，帶有龐大的運維稅。大多數中小型工程團隊過早採用微服務，實際上建造的是「分散式單體」——兼具兩者的缺點，卻無兩者的優點。影片核心論點：模組化單體（Modular Monolith）才是 90% 應用程式的正確答案，且業界已有 42% 的組織正在回頭整合服務。 [youtube](https://www.youtube.com/watch?v=DTDo67u6JyQ) [詳細重點整理] 1. 分散式單體問題  你以為拆分了單體，實際上只是把耦合分散到網路上。一個規則改變，需要同時觸動五個服務、協調五次部署、跑五組整合測試。 真實案例：一個 bug 追蹤穿越 8 個服務，耗費三週才找到——一個 Service 4 的序列化錯誤。 [youtube](https://www.youtube.com/watch?v=DTDo67u6JyQ) 關鍵概念：分散式單體（Distributed Monolith）——物理分離、邏輯耦合，是最糟糕的兩全其不美。 [youtube](https://www.youtube.com/wa",
+    "url": "/notes/microservices-scam-modular-monolith"
+  },
+  {
+    "id": "leverage-domain-expertise-ai",
+    "title": "垂直 AI 的制勝關鍵：如何讓領域專業知識驅動產品",
+    "category": "AI筆記",
+    "tags": [
+      "垂直AI",
+      "領域專家",
+      "Oracle評估者架構",
+      "AI組織設計",
+      "品質評估"
+    ],
+    "description": "根據 Gartner 數據，約 50% 的生成式 AI 專案遭到放棄。核心原因是缺乏對所自動化工作流程的深層理解。Chris Lovejoy 提出 Oracle-Evaluator-Architect 三層架構，作為企業將領域專家整合進 AI 組織的核心框架。",
+    "quote": "贏得垂直 AI，根本上是一個組織問題，而不是模型問題。",
+    "action": "問自己三個問題：AI 輸出品質誰真正負責？這個人有沒有真正的決策權？品質衡量是靠人工品味還是可量測指標？",
+    "image": "/images/AI筆記/leverage-domain-expertise-ai.jpeg",
+    "date": "2026-05-17",
+    "source_has_timestamps": true,
+    "body": "如何善用領域專業知識打造更好的 AI 產品 核心論點：垂直 AI 的競爭本質是「組織問題」，而非「模型問題」。 贏家不在於擁有最強的 LLM，而在於能否建立一個「領域原生 AI 組織」，將領域專業知識系統性地嵌入產品。 [核心摘要] 根據 Gartner 的數據，去年約 50% 的生成式 AI 專案遭到放棄 。Chris Lovejoy（前醫師、Anterior 早期員工）認為，這是因為大多數企業在建置 AI 產品時，缺乏對所自動化工作流程的深層理解 。他提出「Oracle → Evaluator → Architect」三層架構，作為企業將領域專家整合進組織的核心框架。 [詳細重點整理] 1. 為何需要領域專家？[00:04:49] 前端模型已足夠好，真正的缺口是組織如何將專家判斷力運作化 。評估 AI 輸出品質本身就需要「品味」（taste），而這種品味必須來自領域經驗，無論是正式（醫師、律師）或非正式（深度業務使用者）皆然 。 關鍵概念：領域原生 AI 組織（Domain-Native AI Organization） 2. 三大角色框架 [00:02:52] | 角色 | 核心",
+    "url": "/notes/leverage-domain-expertise-ai"
+  },
+  {
+    "id": "glean-enterprise-ai-search",
+    "title": "Glean：70 億美元企業 AI 搜尋的創業故事",
+    "category": "AI筆記",
+    "tags": [
+      "企業AI搜尋",
+      "產品主導增長",
+      "策略性聚焦",
+      "企業知識摩擦",
+      "創業信念"
+    ],
+    "description": "Arvind Jain 已是獨角獸公司 Rubric 的創辦人，卻因親眼目睹自家員工每天浪費大量時間無法找到公司內部資訊，決定從零打造 Glean——一個連結企業所有資料的 AI 搜尋系統，目前估值達 70 億美元。",
+    "quote": "Don't become the person who kills your own idea.（信念，是創業者最後的護城河。）",
+    "action": "企業 AI 轉型應優先整合現有最佳工具，並將資源集中在「讓 AI 理解你的企業情境」這個核心問題上。",
+    "image": "/images/AI筆記/glean-enterprise-ai-search.jpeg",
+    "date": "2026-05-17",
+    "source_has_timestamps": false,
+    "body": "[核心摘要] Arvind Jain 已是獨角獸公司 Rubric 的創辦人，卻因親眼目睹自家員工每天浪費大量時間無法找到公司內部資訊，決定從零開始打造 Glean——一個連結企業所有資料的 AI 搜尋系統，目前估值達 70 億美元。他的核心洞察是：創業公司最強的武器是聚焦與速度，而非試圖重新發明已有人做好的技術。  [詳細重點整理] 1. 從成功出走，重新開始  在 Rubric 高速成長期間，Arvind 發現每位員工的生產力指標（程式碼產出、業務量）持續下滑。深挖後發現根本原因：員工花費大量時間卻找不到公司內部資訊與對的人。這讓他看見了一個影響「全球每間企業每位員工」的普世問題，並決定親手解決。  關鍵概念：企業知識摩擦（Enterprise Knowledge Friction）——員工因資訊分散而產生的隱性生產力損耗。 2. 兩年隱身模式打造 70 億估值  Glean 創立於 2019 年初，是全球最早的企業生成式 AI 公司之一。上市前整整兩年免費提供產品給 20 個設計合作夥伴（Design Partners），讓用戶在沒有金錢壓力的情況下產生真實使用行為與口碑。  當",
+    "url": "/notes/glean-enterprise-ai-search"
+  },
+  {
+    "id": "dr-eric-schmidt-future-of-technology",
+    "title": "Eric Schmidt：傳統程式設計時代終結，AI 架構師崛起",
+    "category": "AI筆記",
+    "tags": [
+      "AI Agent",
+      "未來科技",
+      "美中AI競賽",
+      "資本壁壘",
+      "Agentic Programming"
+    ],
+    "description": "前 Google CEO Eric Schmidt 在 SCSP AI+ Expo 以親歷烏克蘭前線的第一手觀察，勾勒由無人機、機器人與 AI 主導的未來戰爭圖景，並指出傳統程式設計時代已終結，AI 真正瓶頸不是能源而是資本規模。",
+    "quote": "你已經從蓋房子的工人，變成了建築師——而工人在你的掌控之下。",
+    "action": "停止用傳統方式管理需求文件，改為直接用 AI 工具生成 prototype，並優先掌握多 Agent 並行工作流的設計能力。",
+    "image": "/images/AI筆記/dr-eric-schmidt-future-of-technology.jpeg",
+    "date": "2026-05-17",
+    "source_has_timestamps": true,
+    "body": "Dr. Eric Schmidt：科技的未來 — SCSP AI+ Expo 爐邊對談 影片來源： SCSP（Special Competitive Studies Project）｜發布日期：2026年5月13日｜片長：40分56秒  [核心摘要] 前 Google CEO、現任 Relativity Space 執行長 Eric Schmidt 在 SCSP AI+ Expo 以親歷烏克蘭前線的第一手觀察，勾勒出一幅由無人機、機器人與 AI 主導的未來戰爭圖景，並指出傳統程式設計時代已終結、AI 的真正瓶頸不是能源而是資本規模。影片核心警示：中國 AI 能力已縮短至距美國不足六個月的差距，而開源 AI 模型的擴散正在製造無法管控的全球安全風險。 [詳細重點整理] 1. 透明戰場與無人機戰爭  烏克蘭前線士兵在壕溝中一待最少 50 天、最長 3∼4 個月，靠無人機補給飲食——任何暴露地面的移動目標都會被秒殺。 坦克、裝甲車、火砲等傳統裝備已在這種環境下失去意義，取而代之的是可無 GPS 運作、可協同群攻的機器人作戰系統。當前主戰場已移至縱深 40∼100 公里的後勤補給帶。  關鍵概",
+    "url": "/notes/dr-eric-schmidt-future-of-technology"
+  },
+  {
+    "id": "connecting-the-dots-context-graphs",
+    "title": "用 Context Graph 連結 AI 決策記憶：Neo4j 知識圖譜架構",
+    "category": "AI筆記",
+    "tags": [
+      "Context Graph",
+      "知識圖譜",
+      "Graph RAG",
+      "三層記憶架構",
+      "可解釋AI"
+    ],
+    "description": "純向量 RAG 系統只能做相似度搜索，無法保留決策脈絡與推理歷史。Context Graph 透過知識圖譜整合短期記憶、長期記憶與推理追蹤，讓 AI Agent 不只「找到資料」，更能理解「為何做此決定」，同時滿足可解釋性與合規稽核需求。",
+    "quote": "你的應用程式應成為組織的決策記憶中樞，而非另一個孤立的資料黑洞。",
+    "action": "前往 Neo4j GraphAcademy 免費修習 Context Graph 課程，並在現有 RAG 管線加入長期記憶與推理追蹤層。",
+    "image": "/images/AI筆記/connecting-the-dots-context-graphs.jpeg",
+    "date": "2026-05-17",
+    "source_has_timestamps": true,
+    "body": "🧠 Connecting the Dots with Context Graphs Speaker: Stephen Chin, Neo4j｜AI Engineer Conference, May 16, 2026｜片長：17:38 [核心摘要] 純向量 RAG 系統只能做相似度搜索，無法保留決策脈絡與推理歷史。Context Graph（情境圖譜） 透過知識圖譜整合短期記憶、長期記憶與推理追蹤，讓 AI Agent 不只「找到資料」，更能理解「為何做此決定」——同時滿足可解釋性與合規稽核需求。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 問題定義：AI 工程師的困境  工程師雖擁有強大 AI 工具，卻被工具反向控制（PR 被 Agent 審查）。企業知識散落於 Slack、CRM、各類系統中形成資訊孤島（Information Silos），導致 AI Agent 在做關鍵業務決策時嚴重缺乏上下文。 [youtube](https://www.youtube.com/?hl=zh-tw&a",
+    "url": "/notes/connecting-the-dots-context-graphs"
+  },
+  {
+    "id": "combine-skills-and-mcp",
+    "title": "結合 Skills 與 MCP 填補 Agent 上下文缺口",
+    "category": "AI筆記",
+    "tags": [
+      "MCP",
+      "Skills系統",
+      "Context Gap",
+      "安全防護",
+      "Eval驅動開發"
+    ],
+    "description": "MCP 給了 Agent 操作能力，但不給它「如何正確使用」的知識。Supabase 用真實的 Postgres 安全漏洞案例驗證：純 MCP 的 Agent 會繞過 Row Level Security 暴露資料，而加上 Skill 的 Agent 則能正確處理。",
+    "quote": "The bottom line is not the context — it's the guidance.（瓶頸不是上下文的量，而是有沒有正確的指引。）",
+    "action": "為核心產品撰寫一份 skill.md，將不可遺漏的安全規則直接內嵌，並指向最新設計文件連結，明確規範 Agent 操作順序。",
+    "image": "/images/AI筆記/combine-skills-and-mcp.jpeg",
+    "date": "2026-05-17",
+    "source_has_timestamps": true,
+    "body": "Combine Skills and MCP to Close the Context Gap 核心痛點： Agent 光有 MCP（工具整合）還不夠——沒有產品專屬的 Skill 指引，它會悄悄犯下你永遠不知道的安全漏洞。 [核心摘要] MCP 給了 Agent 操作能力，但不給它「如何正確使用」的知識。Supabase 的 Pedro Rodrigues 用一個真實的 Postgres 安全漏洞案例驗證：純 MCP 的 Agent 會繞過 Row Level Security（RLS）暴露資料，而加上 Skill 的 Agent 則能正確處理。 核心結論是：現在 Agent 的瓶頸不是「上下文量」，而是「有沒有正確的任務指引（Guidance）」。 [詳細重點整理] 1. 為什麼 MCP 單獨不夠用  Agent 在訓練資料中可能完全不知道某個產品的特定安全規則，例如 Postgres 中建立 View 時若未加 securityinvoker = true，會自動繞過底層資料表的 RLS，讓不該看到的資料外洩。 實驗結果顯示，只用 MCP 的 Agent 成功繞過 RLS、送出不",
+    "url": "/notes/combine-skills-and-mcp"
+  },
+  {
+    "id": "claude-for-pms",
+    "title": "Claude for PMs：打造自我進化的 PM 工作作業系統",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Cowork",
+      "Skills系統",
+      "PM工作流程",
+      "漸進式揭露",
+      "Super PM"
+    ],
+    "description": "歐洲第一 AIPM 意見領袖 Pawel Huryn 示範如何以 Claude 完整工具矩陣（Cowork、Code、Dispatch）打造自我進化的 PM 工作作業系統，解決 PM 只把 AI 當聊天工具的痛點，實現真正的工作流程代理。",
+    "quote": "你不能只做一個訪問用戶、管理 Backlog 的 PM——這只是在用 Photoshop 裁圖而已。",
+    "action": "把最常做的 PM 工作描述給 Claude 生成第一個 skill.md，本週連接 Gmail MCP，本月建立含 3 個 Sub-agent 角色的知識工作系統。",
+    "image": "/images/AI筆記/claude-for-pms.jpeg",
+    "date": "2026-05-17",
+    "source_has_timestamps": true,
+    "body": "🎯 [核心摘要] 這部影片由歐洲第一 AIPM 意見領袖 Pawel Huryn（Product Compass 創辦人，10K GitHub Stars）現場示範如何以 Claude 的完整工具矩陣（Cowork、Code、Dispatch）打造一套自我進化的 PM 工作作業系統。它解決了 PM 最常見的痛點：把 AI 只當聊天工具使用，卻無法真正融入工作流程、協作程式碼庫或跨裝置執行任務。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. Cowork 進階實戰示範  告別 Chat，直接在 Cowork 選取桌面資料夾，即可讓 Claude 讀取真實檔案（PDF 發票、圖片）、自動辨識重複檔、依月份建立子目錄並整理歸檔，同時支援 sub-agents 平行處理多任務（起草信件、轉換 PDF、查 CRM 同時進行）。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop)  關鍵概念：真實工作流程代理（Real Agentic Work",
+    "url": "/notes/claude-for-pms"
+  },
+  {
+    "id": "anthropic-claude-code-playbook",
+    "title": "Anthropic 發布 Claude Code 大型程式碼庫部署手冊",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "Harness架構",
+      "CLAUDE.md",
+      "MCP",
+      "大型程式碼庫"
+    ],
+    "description": "Anthropic 發布 Claude Code 大型程式碼庫部署手冊，核心論點是模型外的生態系（Harness）比模型本身更決定實際表現。手冊提出 7 個組件與 3 大模式，建立順序：CLAUDE.md 優先，MCP 最後。",
+    "quote": "Harness 比 Model 更決定結果——生態系的天花板，才是 AI 能力的天花板。",
+    "action": "立刻從根目錄建立一頁 CLAUDE.md 全局規範，並指定 DRI 負責維護，每季審查配置是否需更新。",
+    "image": "/images/AI筆記/anthropic-claude-code-playbook.jpeg",
+    "date": "2026-05-17",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Anthropic 發布了 Claude Code 大型程式碼庫部署手冊（Playbook），核心論點是：模型外的生態系（Harness）比模型本身更決定 Claude Code 的實際表現。手冊提出 7 個組件（5 個擴展點 + 2 個能力）與 3 大模式，並明確建立順序：CLAUDE.md 優先，MCP 最後，解決了大型企業在千萬行程式碼庫中部署 AI 編程工具的落地痛點。 [詳細重點整理] 1. Harness 優先論  核心概念：Harness-over-Model 論點 模型周圍的生態系——即 Harness——才是決定 Claude Code 規模化效能的關鍵，而非模型本身。Anthropic 的 Applied AI 團隊（Griffith、Lee、Concannon 等人）明確指出此論點，適用範圍涵蓋數百萬行的 Monorepo、數十年的 Legacy 系統，以及 C、C++、C#、Java、PHP 等語言。 2. Agentic Search vs. RAG  核心概念：Agentic Search（主動搜尋） 傳統 AI 編程工具依賴 RAG 嵌入索引",
+    "url": "/notes/anthropic-claude-code-playbook"
+  },
+  {
+    "id": "ai-doubles-engineering-throughput",
+    "title": "用 AI 讓工程團隊產能翻倍：Intercom 實戰紀錄",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "Skills飛輪",
+      "工程產能",
+      "平台複利",
+      "脈絡注入"
+    ],
+    "description": "Intercom 在不到一年內，透過將 Claude Code 視為「需要入職訓練的新工程師」而非通用工具，實現了工程產能倍增（2x）。核心策略：選定單一平台、全面接入生產系統、建立可重用技能資產庫。",
+    "quote": "工程師的工作是往上移動，讓 Agent 接管你今天在做的事，你去做 Agent 做不了的事。",
+    "action": "把最常重複執行的一項任務封裝成 Claude Code Skill，並在職位描述加入 AI 使用要求，公開表揚每一個 AI 工具化貢獻。",
+    "image": "/images/AI筆記/ai-doubles-engineering-throughput.jpeg",
+    "date": "2026-05-17",
+    "source_has_timestamps": true,
+    "body": "🤖 用 AI 讓工程團隊產能翻倍 — Intercom 實戰紀錄 主講人： Brian Scanlan，Intercom 資深首席工程師 來源： AI Engineer 大會，2026 年 5 月 15 日 [核心摘要] Intercom 在不到一年內，透過將 Claude Code 視為「需要入職訓練的新工程師」而非通用工具，實現了工程產能倍增（2x）。他們的核心策略是：選定單一平台、全面接入生產系統、建立可重用技能（Skills）資產庫，並將工程師的工作從「執行任務」升級為「定義問題」。 [詳細重點整理] 1. 為什麼選擇「All-in 單一平台」 過去 Intercom 讓工程師自由選擇 Copilot、Cursor、Augment 等工具，結果效果分散、難以累積優勢。 他們將此比喻為「多雲策略」——分散即意味著放棄平台複利效益。最終決策：全公司統一使用 Claude Code，2024 年 12 月決策、2025 年 1 月開始推行。 關鍵概念：平台複利（Platform Compounding） 2. 像新人入職一樣「訓練」AI  Claude Code 被接入 Inter",
+    "url": "/notes/ai-doubles-engineering-throughput"
+  },
+  {
+    "id": "agents-dont-do-standups",
+    "title": "Agents Don't Do Standups：打造後工程師時代的研發組織",
+    "category": "AI筆記",
+    "tags": [
+      "AI Agent",
+      "反向瓶頸思維",
+      "Scrum",
+      "SDLC重設計",
+      "工廠化開發"
+    ],
+    "description": "PFF 進行為期三個月對照實驗：2 名 AI 增強工程師 vs. 10 名傳統工程師，前者部署頻率達 25 倍、產出效能 10 倍，客戶滿意度從 7.5 升至 8.6/10。核心洞察：工程師已不再是瓶頸，Agent 才是。",
+    "quote": "幾個月的落後現在，就是幾個月後的六個月落後，再過不久就是一年的落後——複利在兩個方向都在運作。",
+    "action": "從非關鍵系統的重複任務開始，用 LDD 把守架構品質，分階段讓最強工程師先跑通再擴散。",
+    "image": "/images/AI筆記/agents-dont-do-standups.jpeg",
+    "date": "2026-05-17",
+    "source_has_timestamps": true,
+    "body": "Agents Don't Do Standups：打造後工程師時代的研發組織 來源： AI Engineer Conference｜Mike Spitz, PFF CTO｜2026-05-15 [核心摘要] PFF（一家體育數據公司）進行了一項為期三個月的對照實驗：2 名 AI 增強工程師 vs. 10 名傳統工程師，結果前者的部署頻率達到 25 倍、產出效能 10 倍，且客戶滿意度從 7.5 升至 8.6/10。核心洞察是：工程師已不再是瓶頸，Agent 才是。這迫使整個 SDLC 流程必須重新設計——從 Scrum 到 Standup，全數崩解。  [詳細重點整理] 1. 案例背景與問題痛點  PFF 擁有每年 1 億次頁面瀏覽、900 萬次選秀草稿，卻只有 20 名工程師、正在落後競爭對手。CTO Mike Spitz 從 2025 年 11 月開始個人實驗，並在 2026 年 1–3 月進行正式對照研究。  關鍵概念： 反向瓶頸思維（Inverted Bottleneck Mindset）——不問「如何讓工程師更快」，而問「如何讓 Agent 更快」。 2. 實驗數據對比  |",
+    "url": "/notes/agents-dont-do-standups"
+  },
+  {
     "id": "trillion-dollar-agentic-workflow",
     "title": "兆元代理工作流商機：實作層才是真正的戰場",
     "category": "AI筆記",
