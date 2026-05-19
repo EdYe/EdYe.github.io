@@ -1,5 +1,125 @@
 [
   {
+    "id": "ray-dalio-commencement-2026",
+    "title": "Ray Dalio：長島大學畢業典禮演講 2026",
+    "category": "影片筆記",
+    "tags": [
+      "Ray Dalio",
+      "人生原則",
+      "痛苦與進步",
+      "冥想",
+      "生命三階段"
+    ],
+    "description": "Ray Dalio 在畢業 55 年後重返長島大學（LIU），以親身經歷為 2026 屆畢業生濃縮一生最重要的智慧：成功不靠學歷，而靠「與現實相遇的方式」。",
+    "quote": "痛苦 + 反思 = 進步。把每一次痛苦視為一個謎題，解開它，你就得到了原則寶石。",
+    "action": "每當遭遇挫折，立刻問自己：這次的現實給了我什麼訊號？我的哪個假設是錯的？下次應該怎麼做？",
+    "image": "/images/影片筆記/ray-dalio-commencement-2026.jpeg",
+    "date": "2026-05-19",
+    "source_has_timestamps": true,
+    "body": "🎓 Ray Dalio：長島大學畢業典禮演講 2026 影片時長： 16 分 29 秒 ｜ 發布日期： 2026 年 5 月 15 日 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [核心摘要] Ray Dalio 在畢業 55 年後重返長島大學（LIU），以親身經歷為 2026 屆畢業生濃縮一生最重要的智慧：成功不靠學歷，而靠「與現實相遇的方式」。他解決的核心痛點是：大多數畢業生帶著傲慢與錯誤的成功定義踏入人生第二階段，卻不知道如何從失敗中萃取原則、真正活出自己的人生。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 生命三階段框架  人生分為三大階段，截然不同： - 第一階段：學習，依賴他人（學生時期） - 第二階段：工作，他人依賴你（現在即將踏入） - 第三階段：自由，將所學傳承下去（Dalio 現在所在的位置）  關鍵概念：人生弧線（Life Arc） — 了解自己現在處於哪個階段，才能做出對的選擇。 [youtube]",
+    "url": "/notes/ray-dalio-commencement-2026"
+  },
+  {
+    "id": "prove-it-economy-ai-marketing",
+    "title": "實證經濟來臨：AI 時代行銷人必須建立真相層",
+    "category": "AI筆記",
+    "tags": [
+      "實證經濟",
+      "詮釋經濟",
+      "真相層",
+      "AI行銷",
+      "Agent可讀性"
+    ],
+    "description": "注意力經濟（Attention Economy）正在死去，詮釋經濟（Interpretation Economy）已然降臨。當 AI 成為買家與品牌之間的第一道關卡，行銷的核心任務從「搶奪眼球」轉變為「讓 AI 讀懂你」。",
+    "quote": "詮釋層會將你平均化。不要害怕有立場，不要害怕具體——這才是在所有人都用 AI 工具製造噪音的世界中脫穎而出的方法。",
+    "action": "審查官網是否有結構化的產品規格、可引用的第三方數據、JSON-LD schema 標記，讓 AI 搜尋你的產品時能給出有主見的推薦",
+    "image": "/images/AI筆記/prove-it-economy-ai-marketing.jpeg",
+    "date": "2026-05-19",
+    "source_has_timestamps": true,
+    "body": "🎯 [核心摘要] 注意力經濟（Attention Economy）正在死去，詮釋經濟（Interpretation Economy）已然降臨。 當 AI 成為買家與品牌之間的第一道關卡，行銷的核心任務從「搶奪眼球」轉變為「讓 AI 讀懂你」。大多數行銷人仍在優化舊的注意力遊戲，卻錯過了真正的槓桿點：為 AI Agent 建立一層可信、可解析、可驗證的真相層（Truth Layer）。 [詳細重點整理] 1. 注意力經濟的終結  過去 25 年，整個網路經濟建立在「搶注意力」之上——Google 廣告、SEO、LinkedIn 貼文，本質都是讓人類眼球看見你。但現在，ChatGPT、Claude 等 AI Agent 已成為買家第一個詢問的對象，它們代替人類做研究、篩選選項、甚至下單。 關鍵概念：詮釋經濟（Interpretation Economy） — 整個網路內容被 AI 過濾與詮釋，人類直接接觸品牌的機會大幅減少。 2. AI 做購物的真實案例  影片作者購買音響系統時，完全透過 Claude 和 ChatGPT 完成選購流程：輸入房間尺寸、預算、偏好音色，AI 即給出精準推薦",
+    "url": "/notes/prove-it-economy-ai-marketing"
+  },
+  {
+    "id": "claude-code-setup-for-nontechnical-pms",
+    "title": "非技術型 PM 的 Claude Code 完整建構指南",
+    "category": "AI筆記",
+    "tags": [
+      "Claude Code",
+      "產品經理",
+      "多Agent架構",
+      "Builder PM",
+      "Lovable"
+    ],
+    "description": "本集揭示了一個非技術型 PM 被困於 Jira/PowerPoint 官僚角色的根本痛點，並提出一套可操作的 4 階層 Builder PM 框架——從 Lovable 到 Claude Code、再到 Cursor + Vercel",
+    "quote": "你的工作不是管理 backlog，而是推動改變整個 Squad 看待自己角色的方式。",
+    "action": "用 Lovable 建一個給自己用的個人工具，再把 Claude Code Desktop App 的 GitHub Connector 連接到那個 Repo",
+    "image": "/images/AI筆記/claude-code-setup-for-nontechnical-pms.jpeg",
+    "date": "2026-05-19",
+    "source_has_timestamps": true,
+    "body": "非技術型 PM 的 Claude Code 完整建構指南 [核心摘要] 本集揭示了一個非技術型 PM 被困於 Jira/PowerPoint 官僚角色的根本痛點，並提出一套可操作的4 階層 Builder PM 框架——從 Lovable 到 Claude Code、再到 Cursor + Vercel，最終進化為多 Agent 自動化架構。核心貢獻在於揭露一個「無人記錄的 Lovable + Claude Code 橋接工法」，讓非技術 PM 能在不懂部署的情況下獨立出貨產品。 詳細重點整理 1. 非技術 PM 的核心困境  多數非技術 PM 本質上是美化的交付經理（Glorified Delivery Manager），卡在 Jira、Linear 和 PowerPoint 之間，完全依賴工程師出貨。AI 原生組織已改變這個現實——Shopify CEO 的 GitHub 貢獻紀錄全是綠色，小型超強團隊人人都在推送 feature 到 Production。 關鍵概念：Product Owner 文化陷阱 2. 第一層：從 Lovable 開始  從個人專案開始（家族度假屋預約系統",
+    "url": "/notes/claude-code-setup-for-nontechnical-pms"
+  },
+  {
+    "id": "build-agents-that-run-for-hours",
+    "title": "打造長時間穩定運行的 AI Agent：P-G-E 三角架構",
+    "category": "AI筆記",
+    "tags": [
+      "長時間Agent",
+      "Planner-Generator-Evaluator",
+      "Context衰退",
+      "Harness設計",
+      "對抗性評估"
+    ],
+    "description": "長時間運行的 AI Agent（5–12小時）面臨三大核心痛點：Context 衰退（Context Rot）、規劃能力不足、模型無法客觀評判自身輸出。本演講揭示 Anthropic 如何透過「Planner-Generator-Evaluator」三角架構",
+    "quote": "前沿不會縮小，它只是移動。",
+    "action": "在 Claude Code 或任何 Agentic Workflow 中加入獨立的「批評者 Agent」，讓它用 Playwright 實際操作 App，而非用同一個 Session 自我審查",
+    "image": "/images/AI筆記/build-agents-that-run-for-hours.jpeg",
+    "date": "2026-05-19",
+    "source_has_timestamps": true,
+    "body": "以下是這支來自 AI Engineer 大會（2026年5月18日） 的技術演講筆記，主講者為 Anthropic 的 Ash Prabaker 與 Andrew Wilson： [核心摘要] 長時間運行的 AI Agent（5–12小時）面臨三大核心痛點：Context 衰退（Context Rot）、規劃能力不足、模型無法客觀評判自身輸出。本演講揭示 Anthropic 如何透過「Planner-Generator-Evaluator」三角架構與對抗性評估（Adversarial Evaluation）突破這些限制，讓 Agent 在長時間任務中保持連貫性與產品品質。 [youtube](https://www.youtube.com/?hl=zh-TW) [詳細重點整理] 1. 長時間 Agent 的三大挑戰  - Context 問題：Context Window 有限導致「失憶」；越接近尾端越出現 Context Rot（上下文腐敗），甚至引發 Context Sense Anxiety（上下文焦慮），模型會倉皇草率地結束任務。 - 規劃問題：模型傾向一次性生成（One-Sh",
+    "url": "/notes/build-agents-that-run-for-hours"
+  },
+  {
+    "id": "ai-investment-five-levers-workflow",
+    "title": "五大槓桿：從工作流程形狀決定 AI 投資策略",
+    "category": "AI筆記",
+    "tags": [
+      "AI投資",
+      "工作流程",
+      "資本配置",
+      "自動化策略",
+      "五大槓桿"
+    ],
+    "description": "Gartner 預測 40% 以上的 Agentic AI 專案將在 2027 年底前遭到砍殺，原因不在技術本身，而在於企業跳過了最關鍵的一步：釐清工作流程的形狀（Workflow Shape）。",
+    "quote": "不要自動化你無法描述的事情。",
+    "action": "拆解部門內所有離散工作流程，對每個工作流程獨立使用五大槓桿做決策，而非一次性 AI 策略",
+    "image": "/images/AI筆記/ai-investment-five-levers-workflow.jpeg",
+    "date": "2026-05-19",
+    "source_has_timestamps": true,
+    "body": "5 Levers That Separate Winning AI Investments from Disasters 頻道： AI News & Strategy Daily | Nate B Jones 發布日期： 2026年5月17日｜片長：約40分鐘 [核心摘要] Gartner 預測 40% 以上的 Agentic AI 專案將在 2027 年底前遭到砍殺，原因不在技術本身，而在於企業跳過了最關鍵的一步：釐清工作流程的形狀（Workflow Shape）。本影片提出一套以「工作流程為決策單元」的 AI 資本配置框架，透過「自動化、建構、購買、招聘、等待」五大槓桿，幫助主管避開 AI 投資陷阱，將資源集中在真正創造槓桿效益的地方。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. AI 投資本質是資本配置問題  AI 策略不是技術問題，而是工作流程（Workflow）如何創造價值的問題。模型選擇、供應商選擇都是下游決策；真正坐在根部的是「這份工作的形狀是什麼、怎麼創造價值」。大多數團隊直接",
+    "url": "/notes/ai-investment-five-levers-workflow"
+  },
+  {
+    "id": "ai-harnesses-deep-dive",
+    "title": "AI Harnesses 深度解析：讓黑箱模型可靠落地",
+    "category": "AI筆記",
+    "tags": [
+      "AI Harness",
+      "確定性驗證",
+      "Guardrail",
+      "Context壓縮",
+      "Agent可靠性"
+    ],
+    "description": "AI Harness（代理人框架）是包圍模型的所有控制機制總稱，其目的是將不確定的黑箱模型錨定在穩定、可控的環境中。代理人失敗通常不是提示詞問題，而是 Harness 問題。",
+    "quote": "我沒有修改任何一行提示詞，只是建了一個 Harness——結果卻天差地別。",
+    "action": "下次 Agent 表現不佳時，先檢查 Harness 架構，再考慮修改 prompt；所有涉及外部系統的 Agent 都應加入 Verify Step",
+    "image": "/images/AI筆記/ai-harnesses-deep-dive.jpeg",
+    "date": "2026-05-19",
+    "source_has_timestamps": true,
+    "body": "AI Harnesses 深度解析：讓黑箱模型可靠落地 核心問題不在提示詞，而在架構。 這場演講展示了如何用一個 AI Harness 讓 GPT-3.5 Turbo 這種老舊模型，在不修改任何提示詞的情況下，成功自主完成「登入 Hacker News 並點讚」的任務。 [核心摘要] AI Harness（代理人框架） 是包圍模型的所有控制機制總稱，其目的是將不確定的黑箱模型錨定在穩定、可控的環境中。 演講的核心論點是：代理人失敗通常不是提示詞問題，而是 Harness 問題。透過逐步添加 Guardrails、Verify Step 與 Login Handler，一個無法可靠完成任務的 Agent 變得完全可用——全程未修改任何 prompt。 [詳細重點整理] 1. 為何需要 Harness  模型是黑箱：供應商可隨時降版、token 有上限、輸出具隨機性。Harness 的核心價值是「可靠性（Reliability）」——讓 Agent 做到它該做的事，無論底層模型如何。就像登山者用繩索固定於岩壁，Harness 讓模型無法「偏軌」。  關鍵概念：黑箱模型的不可控性（Model",
+    "url": "/notes/ai-harnesses-deep-dive"
+  },
+  {
     "id": "agent-skills-building-wrong",
     "title": "智能體技能確實有效但多數建構方式是錯誤的",
     "category": "AI筆記",
