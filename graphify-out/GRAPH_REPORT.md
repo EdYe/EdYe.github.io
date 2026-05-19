@@ -1,7 +1,7 @@
-# Graph Report - .  (2026-05-17)
+# Graph Report - .  (2026-05-19)
 
 ## Corpus Check
-- 1 files · ~20,516,032 words
+- 1 files · ~20,440,822 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -592,9 +592,7 @@ Nodes (1): 不借錢原則
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `上下文圖譜治理架構` connect `Community 5` to `Community 1`?**
-  _High betweenness centrality (0.002) - this node is a cross-community bridge._
-- **Why does `CRAFT 脈絡圖（Context Graph）` connect `Community 1` to `Community 5`?**
+- **Why does `/insights 行為分析報告` connect `Community 18` to `Community 0`?**
   _High betweenness centrality (0.002) - this node is a cross-community bridge._
 - **Are the 2 inferred relationships involving `情境基礎設施 (Context Infrastructure)` (e.g. with `脈絡圖 (Context Graph)` and `代理式商務 (Agentic Commerce)`) actually correct?**
   _`情境基礎設施 (Context Infrastructure)` has 2 INFERRED edges - model-reasoned connections that need verification._
@@ -606,3 +604,5 @@ _Questions this graph is uniquely positioned to answer:_
   _Cohesion score 0.04 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
   _Cohesion score 0.06 - nodes in this community are weakly interconnected._
+- **Should `Community 2` be split into smaller, more focused modules?**
+  _Cohesion score 0.05 - nodes in this community are weakly interconnected._
