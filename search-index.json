@@ -1,5 +1,45 @@
 [
   {
+    "id": "dont-build-slop-ai-agent-maturity-framework",
+    "title": "Don''t Build Slop：AI Agent 四級成熟度框架",
+    "category": "AI筆記",
+    "tags": [
+      "成熟度框架",
+      "五條鐵律",
+      "Kanban",
+      "雲端部署",
+      "系統提示精簡"
+    ],
+    "description": "這場演講的核心貢獻在於為 AI Agent 建構者提供一套反「質量低劣」（Slop）的方法論。Ara Khan 將 Agent 開發拆分為四個成熟度等級，並提出",
+    "quote": "Frontier 模型如此強大，你能做的最好的事就是讓開——每一條你加進去的指令，都在賭你沒有讓它變更糟。",
+    "action": "系統提示往少寫，用 Kanban 管理 Agent 工作流，驗證後直上雲端",
+    "image": "/images/AI筆記/dont-build-slop-ai-agent-maturity-framework.jpeg",
+    "date": "2026-05-20",
+    "source_has_timestamps": true,
+    "body": "Don't Build Slop：AI Agent 四級成熟度框架 主講人： Ara Khan（Cline）｜來源： AI Engineer Conference，2026年5月19日 [核心摘要] 這場演講的核心貢獻在於為 AI Agent 建構者提供一套反「質量低劣」（Slop）的方法論。Ara Khan 將 Agent 開發拆分為四個成熟度等級，並提出五條鐵律，幫助開發者從快速驗證走到雲端生產規模。核心洞察是：Frontier 模型越強，系統提示應越短，過多指令反而導致「感官超載」，讓模型表現退化。 [詳細重點整理] 1. 四級 Agent 成熟度框架  Ara 將 Agent 開發的旅程分為四個清晰階段 ： | 等級 | 名稱 | 核心行動 | 適用場景 | |------|------|----------|----------| | Level 1 | 框架原型 | 使用 LangChain、LangGraph 等框架 | 30分鐘快速驗證 PMF | | Level 2 | 自建 Agent | 從零實作，遵守五條鐵律 | 需要客製化、準備上線 | | Level 3 |",
+    "url": "/notes/dont-build-slop-ai-agent-maturity-framework"
+  },
+  {
+    "id": "ai-sovereignty-constraints-what-breaks",
+    "title": "在主權限制下建構 AI 時，究竟哪些環節會壞掉",
+    "category": "AI筆記",
+    "tags": [
+      "主權AI",
+      "四大主權支柱",
+      "技術負債暴露",
+      "可觀測性",
+      "Haystack"
+    ],
+    "description": "AI 主權（Sovereign AI）是企業在 GDPR、EU AI Act 等法規壓力下必須面對的架構設計問題。本演講揭示一個隱藏痛點：多數 AI 系統早在架",
+    "quote": "大多數 AI 系統的主權問題，早在第一行程式碼寫下時就已種下——而不是在你被稽核的那天。",
+    "action": "立即審查現有 AI 系統所有外部 API 呼叫的資料流向，採用模型可替換架構",
+    "image": "/images/AI筆記/ai-sovereignty-constraints-what-breaks.jpeg",
+    "date": "2026-05-20",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] AI 主權（Sovereign AI）是企業在 GDPR、EU AI Act 等法規壓力下必須面對的架構設計問題。本演講揭示一個隱藏痛點：多數 AI 系統早在架構設計時，就已默默違反主權原則（例如將歐盟公民資料送往美國 API）。講者透過「四大主權支柱」框架，系統性梳理當你試圖將既有 AI 系統「補丁式改造」為主權架構時，每個環節具體會發生什麼破壞，並提供一份三題自我檢查清單。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 主權 AI 的技術定義  主權 AI 不是政策口號，而是技術控制能力：對資料流、模型選擇、基礎架構、可觀測性與操作流程的顯式控制。演講者來自 deepset（Haystack 框架母公司），客戶包含 Airbus、Bosch、西門子及歐盟委員會等組織。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) 關鍵概念：主權 AI（Sovereign AI） 2. 四大主權支柱  | 支柱 | 核心問題 |",
+    "url": "/notes/ai-sovereignty-constraints-what-breaks"
+  },
+  {
     "id": "ai-adoption-fails-without-os-redesign",
     "title": "AI 導入失敗的根本原因：企業作業系統層未被重新設計",
     "category": "AI筆記",
