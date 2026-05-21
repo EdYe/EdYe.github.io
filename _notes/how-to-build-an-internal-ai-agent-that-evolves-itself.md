@@ -1,10 +1,7 @@
-圖片檔案尚未存在，image 欄位用 TODO 標記副檔名。以下是完整輸出：
-
-```markdown
 ---
 title: '如何打造能自我進化的 AI 內部代理人'
 date: 2026-05-21
-image: /images/AI筆記/how-to-build-an-internal-ai-agent-that-evolves-itself.TODO
+image: /images/AI筆記/how-to-build-an-internal-ai-agent-that-evolves-itself.jpeg
 category: AI筆記
 tags: [AI Ops代理人, 自進化架構, Claude Code, 程式碼即知識庫, 指令集記憶]
 description: '自進化 AI 內部代理人（Self-Evolving Internal Agent）解決了新創公司在人力有限時如何規模化運營的核心痛點。'
@@ -85,6 +82,3 @@ Answer This 是一家為科學研究工作流程建構 AI 代理人的新創公�
 # [參考連結]
 
 - 原始影片：[How to Build an Internal AI Agent That Evolves Itself — YC Root Access](https://youtu.be/DGD9b8K42lk?si=0KlamISPpM6dJRum) [youtube](https://www.youtube.com/watch?v=yQNILxENRt0)
-```
-
-image 欄位的副檔名標記為 `TODO`，待實際圖片放入 `images/AI筆記/` 後再確認副檔名並更新。

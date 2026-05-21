@@ -1,10 +1,7 @@
-圖片檔案尚未存在，image 欄位標記為 TODO。以下是完整的 Jekyll .md 檔案內容：
-
-```markdown
 ---
 title: '掌控 AI Agent 的五大基礎設施控制層'
 date: 2026-05-21
-image: /images/AI筆記/these-5-infrastructure-giants-secretly-rule-ai.TODO
+image: /images/AI筆記/these-5-infrastructure-giants-secretly-rule-ai.jpeg
 category: AI筆記
 tags: [Agent治理, 委派授權, 語意治理, 可觀測性, 基礎設施控制層]
 description: '真正決定 AI Agent 能否上線的，不是 OpenAI 或 Anthropic，而是掌控 Agent 基礎設施控制層的五類公司：Runtime、Identity、Data、Payments、Observability'
@@ -107,8 +104,3 @@ Agent 的失敗模式與一般軟體不同：**呼叫了錯誤工具但語法完
 
 - 原始影片：[https://youtu.be/woGB2vr5wTg](https://youtu.be/woGB2vr5wTg) 
 - 完整 Prompt Pack 與 Substack 深度文章：[https://natesnewsletter.substack.com/p/agent-infrastructure-control-layer](https://natesnewsletter.substack.com/p/agent-infrastructure-control-layer)
-```
-
----
-
-注意：`image` 欄位標記為 `TODO`，因為 `images/AI筆記/these-5-infrastructure-giants-secretly-rule-ai.*` 目前不存在任何副檔名的檔案。請先將圖片放到對應路徑後再更新此欄位。

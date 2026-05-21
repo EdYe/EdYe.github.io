@@ -1,10 +1,7 @@
-圖片尚未存在，image 欄位標記為 TODO。以下是完整的 Jekyll .md 檔案內容：
-
-```markdown
 ---
 title: 'Claude 思考槓桿：自適應推理的成本效益控制'
 date: 2026-05-21
-image: TODO
+image: /images/AI筆記/the-thinking-lever.jpeg
 category: AI筆記
 tags: [思考槓桿, 努力等級, 自適應思考, 成本效益, 任務分層]
 description: '此影片為 Anthropic 於 2026 年 5 月 6 日舉辦的開發者大會「Code w/ Claude 2026」的技術場次，由 Anthropic 的'
@@ -98,6 +95,3 @@ Claude 目前提供五個努力等級，由低到高分別為 `low`、`medium`�
 - 🎥 原始影片：https://youtu.be/T7KqH7kYnE4
 - 📄 官方 Session 頁面：https://claude.com/code-with-claude/session/sf-the-thinking-lever [claude](https://claude.com/code-with-claude/session/sf-the-thinking-lever)
 - 📖 Effort API 文件：https://platform.claude.com/docs/en/build-with-claude/effort [platform.claude](https://platform.claude.com/docs/en/build-with-claude/effort)
-```
-
-image 欄位標記為 `TODO`，因為 `images/AI筆記/the-thinking-lever.*` 尚無任何圖片存在，請補上圖片後再改為正確路徑（格式：`/images/AI筆記/the-thinking-lever.jpeg`）。

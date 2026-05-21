@@ -1,5 +1,145 @@
 [
   {
+    "id": "these-5-infrastructure-giants-secretly-rule-ai",
+    "title": "掌控 AI Agent 的五大基礎設施控制層",
+    "category": "AI筆記",
+    "tags": [
+      "Agent治理",
+      "委派授權",
+      "語意治理",
+      "可觀測性",
+      "基礎設施控制層"
+    ],
+    "description": "真正決定 AI Agent 能否上線的，不是 OpenAI 或 Anthropic，而是掌控 Agent 基礎設施控制層的五類公司：Runtime、Identity、Data、Payments、Observability",
+    "quote": "Agent 不遵守組織架構圖，你的治理模型必須彌補這個缺口。",
+    "action": "在 Agent 功能規劃時套用 7 問框架建立控制地圖，每個控制點指定技術選型與負責團隊，缺一不可上線。",
+    "image": "/images/AI筆記/these-5-infrastructure-giants-secretly-rule-ai.jpeg",
+    "date": "2026-05-21",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 真正決定 AI Agent 能否上線的，不是 OpenAI 或 Anthropic，而是掌控Agent 基礎設施控制層的五類公司：Runtime（Cloudflare/AWS）、Identity（Auth0/Okta）、Data（Snowflake/Databricks）、Payments（Stripe）、Observability（Datadog）。模型只是生產流程的一個環節，這五層基礎設施才是決定 Agent 能否安全交付的真正守門人。  [詳細重點整理] 1. 運算力不是全部  模型能力與 GPU 算力只決定 AI 能否「被服務」，但當 Agent 開始自主行動後，真正的瓶頸轉移到：Agent 跑在哪裡？記得什麼？為誰行動？能花多少錢？誰能叫停它？ 這些問題必須由基礎設施層來回答，而非模型本身。  關鍵概念：Agent 可治理性（Agent Governability） 2. Runtime 控制點  模型本身是無狀態的（Stateless），但真實 Agent 需要記憶、斷線後能恢復、能執行排程任務。Cloudflare 以 Durable Object 架構解決",
+    "url": "/notes/these-5-infrastructure-giants-secretly-rule-ai"
+  },
+  {
+    "id": "the-thinking-lever",
+    "title": "Claude 思考槓桿：自適應推理的成本效益控制",
+    "category": "AI筆記",
+    "tags": [
+      "思考槓桿",
+      "努力等級",
+      "自適應思考",
+      "成本效益",
+      "任務分層"
+    ],
+    "description": "此影片為 Anthropic 於 2026 年 5 月 6 日舉辦的開發者大會「Code w/ Claude 2026」的技術場次，由 Anthropic 的",
+    "quote": "思考不是越多越好，而是恰到好處才是智慧。",
+    "action": "依任務複雜度對應 effort 等級（E-M-H 分層法則），以最低可接受等級控制成本。",
+    "image": "/images/AI筆記/the-thinking-lever.jpeg",
+    "date": "2026-05-21",
+    "source_has_timestamps": true,
+    "body": "🎬 The Thinking Lever — Code w/ Claude 2026 重點筆記 [核心摘要] 此影片為 Anthropic 於 2026 年 5 月 6 日舉辦的開發者大會「Code w/ Claude 2026」的技術場次 ，由 Anthropic 的 Matt Bleifer 主講 。核心主題是：Claude 的自適應思考（Adaptive Thinking）機制讓開發者擁有一個全新的決策槓桿——控制 Claude 「要思考多深」，並在成本、延遲與回答品質三者之間取得最佳平衡 。 [claude](https://claude.com/code-with-claude/session/sf-the-thinking-lever) [詳細重點整理] 1. 核心問題的提出  過去，開發者對 Claude 的推理深度幾乎沒有控制權。現在，透過思考預算（Thinking Budget）與努力等級（Effort Level），開發者可以精確決定「這個任務值得 Claude 花多少算力去思考」 。 [claude](https://claude.com/code-with-c",
+    "url": "/notes/the-thinking-lever"
+  },
+  {
+    "id": "skill-issue-lessons-from-skilling-up-coding-agents-to-use-langfuse",
+    "title": "Skill 讓 AI 編碼代理跳過文件爬取的六條實戰洞察",
+    "category": "影片筆記",
+    "tags": [
+      "Skill文件",
+      "漸進式上下文",
+      "Langfuse",
+      "目標函數對齊",
+      "編碼代理"
+    ],
+    "description": "Skill（技能文件）讓 AI 編碼代理能跳過 478 頁文件爬取、直接獲取最新上下文，解決了預訓練資料過時（hallucinated API）與導入路徑不明兩大痛點。",
+    "quote": "Skill 不是靜態文件快取，是代理的導航手冊——一旦過期，越快越有害。",
+    "action": "為內部工具建立 skill.md 並附上搜尋端點，讓 AI 代理準確取用最新資訊",
+    "image": "/images/影片筆記/skill-issue-lessons-from-skilling-up-coding-agents-to-use-langfuse.jpeg",
+    "date": "2026-05-21",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Skill（技能文件）讓 AI 編碼代理能跳過 478 頁文件爬取、直接獲取最新上下文，解決了預訓練資料過時（hallucinated API）與導入路徑不明兩大痛點。Marc Klingen（Langfuse 共同創辦人）分享了六條實戰洞察，核心是：Skill 不是靜態文件，而是動態導航系統，須搭配追蹤（tracing）才能持續演化。 [詳細重點整理] 1. Skill 的心智模型：工作流程與全自主代理之間的橋樑  傳統工作流程可靠但無法處理跨域問題（如「同時重置密碼＋更換 Email」），全自主代理靈活卻難以預測。Skill 是結構化捷徑，讓代理能可靠地漸進式獲取所需上下文。  關鍵概念：漸進式上下文揭露（Progressive Context Disclosure）  2. 沒有 Skill 時的失敗模式  當 Claude Code 直接被要求為專案新增 Langfuse 追蹤時，會先依過時的預訓練上下文生成錯誤的 instrumentation，執行失敗後才去抓最新文件修正——導致整個流程冗長，且最終 trace 只有 2 個 LLM 呼叫，代理的內部行為完全不",
+    "url": "/notes/skill-issue-lessons-from-skilling-up-coding-agents-to-use-langfuse"
+  },
+  {
+    "id": "how-to-build-an-internal-ai-agent-that-evolves-itself",
+    "title": "如何打造能自我進化的 AI 內部代理人",
+    "category": "AI筆記",
+    "tags": [
+      "AI Ops代理人",
+      "自進化架構",
+      "Claude Code",
+      "程式碼即知識庫",
+      "指令集記憶"
+    ],
+    "description": "自進化 AI 內部代理人（Self-Evolving Internal Agent）解決了新創公司在人力有限時如何規模化運營的核心痛點。",
+    "quote": "讓代理人不只能完成任務，更能在遇到不會的任務時，自己建立完成它的能力。",
+    "action": "用 Claude Code CLI 建立任務佇列、給予唯讀程式碼庫、配備編碼子代理人與可自編 instructions.md，快速複製自進化 AI Ops 代理人架構",
+    "image": "/images/AI筆記/how-to-build-an-internal-ai-agent-that-evolves-itself.jpeg",
+    "date": "2026-05-21",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 自進化 AI 內部代理人（Self-Evolving Internal Agent）解決了新創公司在人力有限時如何規模化運營的核心痛點。Answer This 以 2 位全職員工達成超過 200 萬美元 ARR，關鍵在於打造了一個能自行擴充工具集、處理逾 100 封每日郵件、關閉 400+ 支援工單的 AI Ops 代理人，且整個系統可被非技術人員直接透過 Slack 訓練與修正。 [詳細重點整理] 1. 代理人的核心效益  Answer This 是一家為科學研究工作流程建構 AI 代理人的新創公司，靠著內部 AI Ops 代理人，兩名全職員工撐起了超過 200 萬美元 ARR 。這個代理人每天處理 100+ 封電子郵件、自動關閉客服工單、更新 CRM，還能即時回答業務問題，例如「某個潛在客戶的狀態是什麼？」，無需再切換多個應用程式查找 。 [youtube](https://www.youtube.com/watch?v=yQNILxENRt0) 關鍵概念：AI Ops 代理人（AI Ops Agent）——將原本需要人工的重複性業務操作，統一交由 AI 代理人處理。",
+    "url": "/notes/how-to-build-an-internal-ai-agent-that-evolves-itself"
+  },
+  {
+    "id": "how-to-build-a-self-improving-company-with-ai",
+    "title": "打造遞迴自我改進公司：AI 原生組織架構",
+    "category": "影片筆記",
+    "tags": [
+      "遞迴自我改進",
+      "Token經濟",
+      "DRI",
+      "組織可讀性",
+      "軟體無常性"
+    ],
+    "description": "多數公司仍像羅馬軍團——靠人工傳遞資訊上下流動。Tom Blomfield 主張，AI 不是讓員工「生產力提升 20%」的副駕駛工具，而是能重新定義公司架構的基",
+    "quote": "如果沒有被記錄，對 AI 來說它就不存在。",
+    "action": "錄製所有重要會議並存入可查詢資料庫，為每個業務功能設計遞迴自我改進迴圈",
+    "image": "/images/影片筆記/how-to-build-a-self-improving-company-with-ai.jpeg",
+    "date": "2026-05-21",
+    "source_has_timestamps": true,
+    "body": "How to Build a Self-Improving Company with AI YC Root Access｜Tom Blomfield（YC General Partner）｜2026年5月19日｜片長 13:28 這支影片的核心貢獻是：將公司從「羅馬軍團式的階層組織」徹底重新想像為一組「遞迴自我改進的 AI 迴圈」，解決了傳統組織中人類作為資訊傳遞節點所造成的速度瓶頸與人力成本問題。 [核心摘要] 多數公司仍像羅馬軍團——靠人工傳遞資訊上下流動。Tom Blomfield 主張，AI 不是讓員工「生產力提升 20%」的副駕駛工具，而是能重新定義公司架構的基礎設施。透過建立遞迴自我改進迴圈（Recursive Self-Improving Loop），公司可以在創辦人睡覺時持續進化，讓 token 消耗取代人頭成本，成為下一代競爭優勢的核心指標。 [詳細重點整理] 1. 公司即羅馬軍團  現代公司的組織架構與羅馬軍團如出一轍——嵌套式階層、固定的管理跨度，人類作為資訊在上下層之間流動的媒介。Jack Dorsey 的推文點出這個問題：階層組織是我們預設的「經濟單位組織方式",
+    "url": "/notes/how-to-build-a-self-improving-company-with-ai"
+  },
+  {
+    "id": "ast-grep-solves-the-problem-every-ai-coder-has",
+    "title": "ast-grep 解決 AI 程式代理的隱藏漏洞",
+    "category": "AI筆記",
+    "tags": [
+      "AI代理",
+      "AST",
+      "程式碼搜尋",
+      "ast-grep",
+      "Claude Code"
+    ],
+    "description": "所有主流 AI 程式代理（Claude Code、Cursor、Copilot）都共用一個根本盲點：依賴文字搜尋（text search）而非程式碼結構搜尋。這導致代理誤判字串為真實程式碼呼叫，開啟不必要的檔案、消耗大量 token、並讓你多付費。",
+    "quote": "你的 AI 代理每次 refactor 都多付出 122% 的代價——這不是 AI 的問題，是搜尋工具的問題。",
+    "action": "立即安裝 ast-grep 並在 refactor 提示中加入「Use ast-grep to find」，30 秒完成、每月省下 ~$15。",
+    "image": "/images/AI筆記/ast-grep-solves-the-problem-every-ai-coder-has.jpeg",
+    "date": "2026-05-21",
+    "source_has_timestamps": true,
+    "body": "ast-grep 解決 AI 程式代理的隱藏漏洞 [核心摘要] 所有主流 AI 程式代理（Claude Code、Cursor、Copilot）都共用一個根本盲點：依賴文字搜尋（text search）而非程式碼結構搜尋。這導致代理誤判字串為真實程式碼呼叫，開啟不必要的檔案、消耗大量 token、並讓你多付費。ast-grep 透過 Tree-sitter AST 解析，讓代理真正「讀懂」程式碼結構，可將搜尋誤報率降低超過 50%，直接削減每位開發者每月約 $15 的無謂支出。 [youtube](https://www.youtube.com) [詳細重點整理] 1. AI 代理的共同盲點  所有 AI 程式代理的搜尋底層都是文字比對（text search），它只看字元，無法區分「真正的函式呼叫」與「在字串或註解裡出現的相同文字」。當你要求清理 debug logs 時，代理找到 164 個結果，其中有許多只是測試 fixture 裡的字串 \"console.log('hi')\"——它並非真實呼叫，但代理照樣打開整個檔案並向你收費。 [youtube](https://www.yo",
+    "url": "/notes/ast-grep-solves-the-problem-every-ai-coder-has"
+  },
+  {
+    "id": "any-to-any-building-native-multimodal-agents",
+    "title": "Any-to-Any：Gemini 原生多模態 Agentic AI 架構解析",
+    "category": "影片筆記",
+    "tags": [
+      "多模態架構",
+      "生成即工具",
+      "音訊架構",
+      "Reasoning Agent",
+      "Gemini"
+    ],
+    "description": "這支由 Google DeepMind Developer Relations 工程師 Patrick Löber 主講的技術演講，完整拆解了 Any-to-Any（任意模態對任意模態）的 Agentic AI 架構。",
+    "quote": "模型不是因為匹配了像素，而是因為它真正理解了世界。",
+    "action": "避免串接模型思維，改用 Gemini API 的 Tool Call 機制讓統一模型同時處理理解與生成",
+    "image": "/images/影片筆記/any-to-any-building-native-multimodal-agents.jpeg",
+    "date": "2026-05-21",
+    "source_has_timestamps": true,
+    "body": "Any-to-Any: Building Native Multimodal Agents [核心摘要] 這支由 Google DeepMind Developer Relations 工程師 Patrick Löber 主講的技術演講 ，完整拆解了 Any-to-Any（任意模態對任意模態） 的 Agentic AI 架構。核心痛點在於：傳統 AI Pipeline 將理解與生成分離（文字模型 → 圖像模型串接），導致世界知識無法貫穿整個生成流程。Gemini 原生多模態架構的出現，讓理解與生成共用同一個世界模型，徹底打破這個斷層。 [ai](https://www.ai.engineer/europe/schedule) [詳細重點整理] 1. 多模態輸入能力：超長上下文理解 [約 00:00–05:00] Gemini 可原生攝取 PDF、影片、音訊等多模態輸入，單次支援高達 9 小時以上的音訊或影片 。這打破了「模態壁壘」，讓 Agent 能夠以統一的世界語境理解跨格式內容。 [youtube](https://www.youtube.com/?app=desktop&hl=z",
+    "url": "/notes/any-to-any-building-native-multimodal-agents"
+  },
+  {
     "id": "dont-build-slop-ai-agent-maturity-framework",
     "title": "Don''t Build Slop：AI Agent 四級成熟度框架",
     "category": "AI筆記",
