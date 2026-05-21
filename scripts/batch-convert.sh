@@ -53,23 +53,32 @@ for md_file in "$RAW_DIR"/*.md; do
     continue
   fi
 
+  # 預先從原始檔名計算 slug（作為 Claude 給 TODO 時的 fallback）
+  ENG_SLUG=$(printf '%s' "$base" | tr '[:upper:]' '[:lower:]' \
+    | sed 's/[^a-z0-9]/-/g' | sed 's/-\+/-/g' | sed 's/^-//;s/-$//')
+
   echo ""
   echo "🔄 處理中：$base"
 
-  # ── 修正重點：用 temp file 建立 prompt，避免引號衝突 ──
+  # ── 用 temp file 建立 prompt，避免引號衝突 ──
   TMPFILE=$(mktemp -t claude_prompt)
   STDERR_TMP=$(mktemp -t claude_stderr)
   trap 'rm -f "$TMPFILE" "$STDERR_TMP"' EXIT
 
   {
     printf "請讀取 CLAUDE.md 的格式規範，然後處理以下說明文件。\n\n"
+    printf "重要指示：\n"
+    printf "- 只輸出純粹的 Jekyll Markdown 檔案內容，第一行必須是 ---（Front Matter 開頭）\n"
+    printf "- 不要任何說明文字，不要用 \`\`\` 代碼框包裹輸出\n"
+    printf "- image 欄位必須填寫完整路徑，禁止使用 TODO 佔位，圖片副檔名為 .%s\n" "$img_ext"
+    printf "- 英文檔名建議使用：%s\n\n" "$ENG_SLUG"
     printf "今天日期：%s\n" "$TODAY"
     printf "原始檔名（不含副檔名）：%s\n\n" "$base"
     printf "說明文件內容：\n"
     printf "=====開始=====\n"
     cat "$md_file"
     printf "\n=====結束=====\n\n"
-    printf "請輸出完整的 Jekyll .md 檔案內容（只輸出檔案內容本身，不要任何前言或解釋）：\n"
+    printf "請輸出完整的 Jekyll .md 檔案內容：\n"
     printf "1. Front Matter（依照 CLAUDE.md 規範，包含 title/date/image/category/tags/description，以及 quote/action/source_has_timestamps，並加入 source_raw: %s）\n" "$base"
     printf "2. 空一行\n"
     printf "3. 原始說明文件完整正文（不修改任何文字）\n"
@@ -91,22 +100,43 @@ for md_file in "$RAW_DIR"/*.md; do
   rm -f "$STDERR_TMP"
   trap - EXIT
 
+  # ── 後處理：若 Claude 把輸出包在 ```markdown 代碼框裡，提取其中內容 ──
+  if ! printf '%s\n' "$OUTPUT" | head -1 | grep -q '^---$'; then
+    EXTRACTED=$(printf '%s\n' "$OUTPUT" | python3 -c "
+import sys, re
+content = sys.stdin.read()
+m = re.search(r'\`\`\`markdown\n(.*?)\n\`\`\`', content, re.DOTALL)
+print(m.group(1) if m else content, end='')
+")
+    if printf '%s\n' "$EXTRACTED" | head -1 | grep -q '^---$'; then
+      OUTPUT="$EXTRACTED"
+    fi
+  fi
+
   # 從輸出提取 category
-  CATEGORY=$(echo "$OUTPUT" | grep '^category:' | head -1 \
+  CATEGORY=$(printf '%s\n' "$OUTPUT" | grep '^category:' | head -1 \
     | sed "s/category: *//;s/'//g;s/\"//g" | tr -d '\r\n ')
 
   if [ -z "$CATEGORY" ]; then
     CATEGORY="學習筆記"
   fi
 
-  # Bug 修正：從 Claude 輸出的 image 欄位提取英文檔名，確保圖片路徑一致
+  # 從 image 欄位提取英文檔名
   IMG_FIELD=$(printf '%s\n' "$OUTPUT" | grep '^image:' | head -1 \
     | sed "s|image: *||;s|'||g;s|\"||g" | tr -d '\r\n ')
   ENG_BASE=$(basename "$IMG_FIELD" | sed 's/\.[^.]*$//')
 
-  if [ -z "$ENG_BASE" ]; then
-    echo "⚠️  無法從輸出提取英文檔名，使用原始檔名：$base"
-    ENG_BASE="$base"
+  # ── Bug 修正：ENG_BASE 為空或 TODO 時，改用預計算的 slug ──
+  if [ -z "$ENG_BASE" ] || [ "$ENG_BASE" = "TODO" ]; then
+    echo "⚠️  image 欄位無有效檔名（${ENG_BASE:-空}），改用預計算檔名：$ENG_SLUG"
+    ENG_BASE="$ENG_SLUG"
+    # 同步修正輸出中的 image 欄位
+    CORRECT_IMG="/images/${CATEGORY}/${ENG_BASE}.${img_ext}"
+    OUTPUT=$(printf '%s\n' "$OUTPUT" | sed "s|^image:.*|image: ${CORRECT_IMG}|")
+  # ── Bug 修正：image 副檔名為 .TODO 時，替換為實際副檔名 ──
+  elif printf '%s\n' "$IMG_FIELD" | grep -q '\.TODO$'; then
+    echo "⚠️  image 副檔名為 .TODO，修正為 .${img_ext}"
+    OUTPUT=$(printf '%s\n' "$OUTPUT" | sed "s|^\(image: .*\)\.TODO$|\1.${img_ext}|")
   fi
 
   # 建立圖片目錄並複製（使用英文檔名）
