@@ -1,5 +1,65 @@
 [
   {
+    "id": "memory-dreaming-agents-ravi",
+    "title": "Memory 與 Dreaming：Anthropic Ravi 解說 Agent 自學習架構",
+    "category": "影片筆記",
+    "tags": [
+      "Agent記憶",
+      "Dreaming",
+      "記憶全局優化",
+      "企業級控制",
+      "跨Session協調"
+    ],
+    "description": "Anthropic 正式推出 Memory（記憶）與 Dreaming（夢境）兩大功能，為 Claude Managed Agents 建立自學習能力。Memory 讓 Agent 跨任務、跨 Session 保留學習成果；Dreaming 則是一個離線的非同步流程，自動分析多個 Agent 的歷史 Session，找出錯誤模式與低效行為，並全域優化記憶內容。",
+    "quote": "共享且持續進化的記憶，為每個 Agent 墊高了起點；Dreaming 則讓這個起點繼續往上推。",
+    "action": "為 Agent 建立分層記憶結構（組織級唯讀 + 任務級讀寫），並設定定期或 Session 結束觸發的 Dreaming 流程。",
+    "image": "/images/影片筆記/memory-dreaming-agents-ravi.jpeg",
+    "date": "2026-05-22",
+    "source_has_timestamps": true,
+    "body": "🧠 Memory and Dreaming for Self-Learning Agents 主講人：Ravi（Anthropic Platform 團隊 API Knowledge Lead） [核心摘要] Anthropic 正式推出 Memory（記憶）與 Dreaming（夢境）兩大功能，為 Claude Managed Agents 建立自學習能力。Memory 讓 Agent 跨任務、跨 Session 保留學習成果；Dreaming 則是一個離線的非同步流程，自動分析多個 Agent 的歷史 Session，找出錯誤模式與低效行為，並全域優化記憶內容。兩者共同解決了「每次任務從零開始」的根本痛點，讓 Agent 群體像組織一樣持續進化。 [youtube](https://www.youtube.com/?app=desktop&hl=zh-tw) [詳細重點整理] 1. Agent 能力進化時間軸  - 2024 年：發布 MCP（Model Context Protocol），讓模型以規範化方式存取外部工具與資料 - 2025 年：發布 Claude Code + ",
+    "url": "/notes/memory-dreaming-agents-ravi"
+  },
+  {
+    "id": "handoff-skill-context-isolation",
+    "title": "/handoff 技能：用任務切片解決上下文汙染問題",
+    "category": "影片筆記",
+    "tags": [
+      "上下文預算",
+      "Compact限制",
+      "任務切片",
+      "Sub-Agent迴路",
+      "工具中立"
+    ],
+    "description": "/handoff 技能解決了 AI 編程工作階段中的上下文汙染問題。當一個工作階段進行到一半，需要分支處理另一個任務時，既不想中斷現有進度、也不想用 compact 覆蓋狀態，/handoff 能將當前 session 的精要壓縮為一份 Markdown 文件，無縫傳遞給全新的獨立 Agent。",
+    "quote": "把任務邊界管理清楚，就是讓 AI 保持聰明的最佳方法。",
+    "action": "規劃新功能時，用 Grilling → handoff → Prototype session 的三段式流程，確保規劃與實作的 context 互不汙染。",
+    "image": "/images/影片筆記/handoff-skill-context-isolation.jpeg",
+    "date": "2026-05-22",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] /handoff 技能解決了 AI 編程工作階段中的上下文汙染問題。當一個工作階段進行到一半，需要分支處理另一個任務時，既不想中斷現有進度、也不想用 compact 覆蓋狀態，/handoff 能將當前 session 的精要壓縮為一份 Markdown 文件，無縫傳遞給全新的獨立 Agent，實現多工作階段的並行與協作。 [youtube](https://www.youtube.com/watch?v=zr-WEXAfdc) [詳細重點整理] 1. 上下文窗口的「聰明區」與「愚蠢區」  雖然 Claude 等模型宣稱支援 100 萬 token 上下文，但實際上在 ~120K token 後，Attention 機制開始分散，回應品質明顯下降，即進入「愚蠢區（Dumb Zone）」。有效工作範圍遠比標稱值小得多，因此需要主動管理 context budget。 [youtube](https://www.youtube.com/watch?v=zr-WEXAfdc)  關鍵概念：上下文預算管理（Context Budget Management） 2. Compact",
+    "url": "/notes/handoff-skill-context-isolation"
+  },
+  {
+    "id": "agent-harness-engineering",
+    "title": "代理人框架工程：讓 AI Agent 從被動等待到主動修復",
+    "category": "AI筆記",
+    "tags": [
+      "框架工程",
+      "棘輪機制",
+      "情境腐化",
+      "規劃器架構",
+      "鉤子設計"
+    ],
+    "description": "多數 AI 代理人的失敗不是模型問題，而是框架（Harness）問題。框架涵蓋所有非模型本身的元素——提示詞、工具、沙盒、鉤子、情境策略與回饋迴路。一個普通模型配上出色框架，勝過出色模型配上糟糕框架。",
+    "quote": "今日模型實際能做到的，與你看到它所做到的，之間的差距，很大程度上是框架差距。",
+    "action": "審視你的 AGENTS.md，刪除無法追溯至具體失敗的規則，並為最常遇到的代理人失敗類型新增一個預提交鉤子。",
+    "image": "/images/AI筆記/agent-harness-engineering.jpeg",
+    "date": "2026-05-22",
+    "source_has_timestamps": false,
+    "body": "代理人框架工程（Agent Harness Engineering） 核心摘要 多數 AI 代理人的失敗不是模型問題，而是框架（Harness）問題。框架涵蓋所有非模型本身的元素——提示詞、工具、沙盒、鉤子、情境策略與回饋迴路。一個普通模型配上出色框架，勝過出色模型配上糟糕框架。Viv Trivedy 的實驗證明：僅更換框架，同一個 Claude Opus 4.6 模型在 Terminal Bench 2.0 上能從前 30 名躍升至前 5 名。這篇文章的核心貢獻是：將代理人錯誤從「等待下一個模型版本」的被動宿命，轉化為可透過框架工程主動修復的「技術問題（Skill Issues）」。 詳細重點整理 1. 框架的定義與組成 [導言]  核心概念：代理人 = 模型 + 框架 模型只是輸入項之一，框架才是讓模型成為「能完成任務的代理人」的關鍵。框架包含： - 系統提示詞：CLAUDE.md、AGENTS.md、子代理提示詞 - 工具層：技能、MCP 伺服器及其描述 - 執行基礎設施：檔案系統、沙盒、瀏覽器 - 協調邏輯：子代理生成、交接、模型路由 - 確定性鉤子：壓縮、延續、語法檢查、預提",
+    "url": "/notes/agent-harness-engineering"
+  },
+  {
     "id": "these-5-infrastructure-giants-secretly-rule-ai",
     "title": "掌控 AI Agent 的五大基礎設施控制層",
     "category": "AI筆記",
@@ -116,7 +176,7 @@
     "image": "/images/AI筆記/ast-grep-solves-the-problem-every-ai-coder-has.jpeg",
     "date": "2026-05-21",
     "source_has_timestamps": true,
-    "body": "ast-grep 解決 AI 程式代理的隱藏漏洞 [核心摘要] 所有主流 AI 程式代理（Claude Code、Cursor、Copilot）都共用一個根本盲點：依賴文字搜尋（text search）而非程式碼結構搜尋。這導致代理誤判字串為真實程式碼呼叫，開啟不必要的檔案、消耗大量 token、並讓你多付費。ast-grep 透過 Tree-sitter AST 解析，讓代理真正「讀懂」程式碼結構，可將搜尋誤報率降低超過 50%，直接削減每位開發者每月約 $15 的無謂支出。 [youtube](https://www.youtube.com) [詳細重點整理] 1. AI 代理的共同盲點  所有 AI 程式代理的搜尋底層都是文字比對（text search），它只看字元，無法區分「真正的函式呼叫」與「在字串或註解裡出現的相同文字」。當你要求清理 debug logs 時，代理找到 164 個結果，其中有許多只是測試 fixture 裡的字串 \"console.log('hi')\"——它並非真實呼叫，但代理照樣打開整個檔案並向你收費。 [youtube](https://www.yo",
+    "body": "ast-grep 解決 AI 程式代理的盲點 [核心摘要] 所有主流 AI 程式代理（Claude Code、Cursor、Copilot）都依賴文字搜尋（text search）而非程式碼結構搜尋，導致大量 token 浪費。ast-grep 透過解析 AST（抽象語法樹）讓代理真正「讀懂程式碼」，在真實測試中將搜尋過數達到 122% 的 grep 過計問題徹底消除，每位開發者每月可節省約 $15 的純粹浪費成本。 [詳細重點整理] 1. AI 代理的核心盲點  所有 AI 程式代理的搜尋引擎底層都是 ripgrep（文字搜尋），它看見的是「字元串」而非「程式碼結構」。 當代理被要求清理 debug log 時，它會把測試夾具（test fixture）中的字串 \"console.log hi\" 當成真實的函式呼叫進行分析，並向你收費。 關鍵概念：結構性盲點（Structural Blindness） 2. ast-grep 的運作機制  ast-grep 以三個步驟運作： - Tree-sitter 解析：將每一行程式碼轉換成節點樹（AST），每個節點被標記為函式、呼叫、字串、註解",
     "url": "/notes/ast-grep-solves-the-problem-every-ai-coder-has"
   },
   {
