@@ -99,7 +99,7 @@ Git worktree 解決並行寫檔衝突，每個智能體在自己的分支與目�
 
 截至 2026 年初，Claude Code 在上線六個月內年化收入突破 10 億美元。這不是因為更好的提示詞，而是因為 **Anthropic 為正確的模型打造了正確的 Harness**——一個串流式的智能體循環、一個受權限管理的工具調度系統，以及一個能讓模型在任意長的對話中保持專注的上下文管理層。這套 Harness 完全可以重現，而這正是我們要打造的東西。
 
-![](../images/AI筆記/claude_code_architecture.jpg)
+<img src="../images/AI筆記/claude_code_architecture.jpg" width="1024"/>
 
 *Claude Code 架構示意圖*
 
@@ -201,7 +201,7 @@ Harness 工程是一門構建 AI 模型周圍環境的學科——而非模型�
 
 Claude Code 不是一個智能體框架，它是一個 Harness——一個在生產環境中部署的最精心設計的 Harness 之一。Anthropic 沒有構建邏輯來決定何時讀取檔案或何時執行測試，他們給了 Claude 做這些事情的工具，並信任模型來決定何時需要它們。
 
-![](../images/AI筆記/Harness_Architecture_with_Claude.jpg)
+<img src="../images/AI筆記/Harness_Architecture_with_Claude.jpg" width="1024"/>
 
 *帶有 Claude 的 Harness 架構*
 
@@ -218,7 +218,7 @@ Claude Code 架構在幾個方面遵循 Harness 工程的原則：
 
 智能體循環是所有其他一切構建的單一架構原語。在工具、權限、多智能體協調之前，有一個循環：呼叫模型、觀察它想做什麼、執行它、然後反饋結果。
 
-![](../images/AI筆記/Phase_1_Core_Agentic_Loop.jpg)
+<img src="../images/AI筆記/Phase_1_Core_Agentic_Loop.jpg" width="1024"/>
 
 *第一階段——核心智能體循環*
 
@@ -231,7 +231,7 @@ Claude Code 架構在幾個方面遵循 Harness 工程的原則：
 1. 智能體接收任務，嘗試使用工具解決問題
 2. 觀察結果，決定是繼續還是停止——全部由模型驅動，而非程式碼。
 
-![](../images/AI筆記/Minimal_While_Loop.jpg)
+<img src="../images/AI筆記/Minimal_While_Loop.jpg" width="1024"/>
 
 *最小化 While 循環*
 
@@ -400,7 +400,7 @@ Final Answer:
 1. Claude Code 附帶 18 個已登錄工具，如 bash、read、write、edit、glob、grep、WebFetch、AskUserQuestion、TodoWrite 等。
 2. 使這個系統優雅的不是工具的數量，而是添加新工具不需要對核心循環做任何更改。
 
-![](../images/AI筆記/Tool_Dispatch_Pattern.jpg)
+<img src="../images/AI筆記/Tool_Dispatch_Pattern.jpg" width="1024"/>
 
 *工具調度模式*
 
@@ -473,7 +473,7 @@ Found 2 TODO comments across 2 files:
 
 > 計劃先於行動，只有在計劃確定後才採取行動。
 
-![](../images/AI筆記/ToDo_Write.jpg)
+<img src="../images/AI筆記/ToDo_Write.jpg" width="1024"/>
 
 *TodoWrite*
 
@@ -566,7 +566,7 @@ Claude Code 的執行追蹤揭示了一個有趣的事情：它如何處理大�
 2. 它生成三個並行探索子智能體，每個都有不同的焦點，每個都在與主上下文完全隔離的環境中執行。主對話接收三個清晰的摘要。
 3. 它從不會看到產生這些摘要的數十個中間檔案讀取、grep 輸出和目錄列表。
 
-![](../images/AI筆記/Sub-agent_Context.jpg)
+<img src="../images/AI筆記/Sub-agent_Context.jpg" width="1024"/>
 
 *子智能體上下文*
 
@@ -641,7 +641,7 @@ any tool code.
 
 第三階段關於認知基礎設施——智能體超越單一對話執行，僅在需要時載入領域知識。
 
-![](../images/AI筆記/Knowledge_and_Context_Management.jpg)
+<img src="../images/AI筆記/Knowledge_and_Context_Management.jpg" width="1024"/>
 
 *知識與上下文管理*
 
@@ -654,7 +654,7 @@ Harness 工程中最昂貴的錯誤之一是將模型可能需要的所有內容
 1. 一個包含 PDF 處理指南、程式碼審查方法、部署清單和安全審計框架的系統提示詞，在每次 API 呼叫時都會消耗數千個 Token——絕大多數與模型當前正在做的事情無關。
 2. **Claude Code 用漸進式披露解決了這個問題**——這與使其技能系統成為架構上最清晰的元件之一的模式相同。
 
-![](../images/AI筆記/On-Demand_skill.jpg)
+<img src="../images/AI筆記/On-Demand_skill.jpg" width="1024"/>
 
 *按需技能*
 
@@ -713,7 +713,7 @@ Not safe to deploy without addressing the security finding.
 
 它不丟棄歷史，而是對其進行總結，保留資訊同時大幅減少 Token 佔用。摘要隨後被寫入磁碟上的持久化 Markdown 檔案，使智能體的記憶在對話重啟後依然耐用。
 
-![](../images/AI筆記/Context_Compression.jpg)
+<img src="../images/AI筆記/Context_Compression.jpg" width="1024"/>
 
 *上下文壓縮*
 
@@ -733,7 +733,7 @@ MEMORY_FILE        = Path(".agent_memory.md")
 
 上下文壓縮使對話窗口保持可管理狀態。但它解決的問題與任務追蹤不同。壓縮關於模型記住什麼，任務圖關於智能體跨對話、跨重啟、最終跨並行工作的多個智能體所承諾做什麼。
 
-![](../images/AI筆記/File_based.jpg)
+<img src="../images/AI筆記/File_based.jpg" width="1024"/>
 
 *基於檔案的任務圖*
 
@@ -781,7 +781,7 @@ def run_task_next() -> str:
 
 第四階段關於打破單智能體上限——一個上下文窗口和一個執行線程已不再足夠。在後台線程中執行慢速操作而不阻塞主循環，將並行工作流委派給持久專業智能體，用有限狀態機管理智能體間通訊，在沒有中央協調器的情況下實現自主任務認領，以及在 git worktree 級別隔離並行檔案寫入。
 
-![](../images/AI筆記/Multi-Agent_Teams.jpg)
+<img src="../images/AI筆記/Multi-Agent_Teams.jpg" width="1024"/>
 
 *多智能體團隊*
 
@@ -793,7 +793,7 @@ def run_task_next() -> str:
 
 它將操作推送到後台，繼續規劃下一步，並在操作完成時收到通知。主推理循環從不阻塞在 I/O 上。
 
-![](../images/AI筆記/Task_Execution.jpg)
+<img src="../images/AI筆記/Task_Execution.jpg" width="1024"/>
 
 *任務執行*
 
@@ -843,7 +843,7 @@ def run_bash_background(command: str, label: str = "") -> str:
 
 Claude Code 並行子智能體系統生成短暫智能體——它們為一個任務而創建並在完成後被丟棄。但真實的工程工作有跨許多任務持續的專業化。一個檔案探索專家、一個程式碼寫作專家和一個測試專家，每個都受益於關於它們正在工作的程式碼庫的累積上下文。持久隊友在多個委派任務中保留那些上下文。
 
-![](../images/AI筆記/Persistent_Teammates.jpg)
+<img src="../images/AI筆記/Persistent_Teammates.jpg" width="1024"/>
 
 *持久隊友*
 
@@ -879,7 +879,7 @@ TEAMMATES = {
 
 **沒有管理智能體何時可以通訊的協定，團隊在負載最重的時刻是不可靠的。**
 
-![](../images/AI筆記/FSM.jpg)
+<img src="../images/AI筆記/FSM.jpg" width="1024"/>
 
 *有限狀態機*
 
@@ -922,7 +922,7 @@ class ProtocolAgent:
 
 FSM 協定管理智能體間的通訊，但仍然需要一個主智能體來分配工作。對於非常大的工作負載——遷移整個程式碼庫、為數百個函數生成文件、在數千個檔案上執行分析——即使是主智能體也會成為瓶頸。自主自我分配完全移除了協調器。
 
-![](../images/AI筆記/Self-assignment.jpg)
+<img src="../images/AI筆記/Self-assignment.jpg" width="1024"/>
 
 *自我分配*
 
@@ -961,7 +961,7 @@ def claim_next_task(agent_id: str) -> dict | None:
 
 > 檔案系統不知道智能體的意圖——它只知道寫操作，兩個並發寫入產生未定義的結果。
 
-![](../images/AI筆記/Worktree.jpg)
+<img src="../images/AI筆記/Worktree.jpg" width="1024"/>
 
 *Worktree*
 
@@ -990,7 +990,7 @@ s12 >> Run two tasks in parallel:
 
 第五階段關於工作智能體和可部署智能體之間的差距——串流使模型的輸出即時可見，檔案工具通過自動快照變得可逆，權限治理通過 YAML 規則系統變得聲明式，每個工具呼叫通過生命週期事件匯流排變得可觀察，對話通過對話持久化變得耐用。
 
-![](../images/AI筆記/Production_Hardening.jpg)
+<img src="../images/AI筆記/Production_Hardening.jpg" width="1024"/>
 
 *生產強化*
 
@@ -1000,7 +1000,7 @@ s12 >> Run two tasks in parallel:
 
 在 Claude Code 中，串流不是一個功能，而是默認行為。每次互動都將 Token 串流到終端，隨著它們的生成。串流智能體和阻塞智能體之間的區別，是感覺像協作者的工具和感覺像批處理作業的工具之間的區別。
 
-![](../images/AI筆記/Real-time_token_streaming.jpg)
+<img src="../images/AI筆記/Real-time_token_streaming.jpg" width="1024"/>
 
 *即時 Token 串流*
 
@@ -1035,7 +1035,7 @@ def agent_loop_streaming(messages: list):
 
 Claude Code 提供專用檔案工具 Read、Write、Edit、Glob、Grep——不是因為 bash 不能做檔案操作，而是因為專用工具給模型提供了具有結構化輸出的精確語義操作。
 
-![](../images/AI筆記/Extended_Tools.jpg)
+<img src="../images/AI筆記/Extended_Tools.jpg" width="1024"/>
 
 *擴展工具*
 
@@ -1078,7 +1078,7 @@ def run_revert(path: str) -> str:
 
 Claude Code 的權限系統是其研究最多的架構元件之一。**這個部分將相同的三層模型實現為 YAML 配置檔案。安全策略存在於配置中，而不在程式碼中。** 更改什麼需要批准是對配置檔案的編輯，而不是部署。規則評估作為每個工具呼叫的預執行封裝器運行。
 
-![](../images/AI筆記/Rule_based_permission.jpg)
+<img src="../images/AI筆記/Rule_based_permission.jpg" width="1024"/>
 
 *基於規則的權限*
 
@@ -1133,7 +1133,7 @@ Created new requirements.txt with 7 current dependencies.
 
 Claude Code 暴露了一個鉤子系統，允許使用者將自定義邏輯附加到智能體生命週期的任何點——在工具執行之前、完成後、發生錯誤時、對話結束時。**這是團隊添加成本追蹤、審計日誌記錄、自定義批准工作流和與外部監控系統集成的方式，而無需修改智能體循環本身。**
 
-![](../images/AI筆記/Event_Bus.jpg)
+<img src="../images/AI筆記/Event_Bus.jpg" width="1024"/>
 
 *事件匯流排*
 
@@ -1169,7 +1169,7 @@ class EventBus:
 
 無法恢復的對話是無法信任長任務的對話。如果模型在複雜重構的 30 分鐘後終端關閉，一切都丟失了——不僅是對話，還有導致每個決定的推理上下文。
 
-![](../images/AI筆記/Session_Persistence.jpg)
+<img src="../images/AI筆記/Session_Persistence.jpg" width="1024"/>
 
 *對話持久化*
 
@@ -1200,7 +1200,7 @@ s17 >> :fork a3f2c891
 
 第六階段關於性能和控制——智能體從正確到快速且可操控：用 `asyncio.gather` 將多工具輪次從順序折疊為並發，通過中斷注入為使用者提供即時操控，通過提示詞快取消除冗餘的 Token 支出，以及通過官方 MCP 執行時向任何外部伺服器開放工具登錄表。
 
-![](../images/AI筆記/High-Performance_Async_Runtime.jpg)
+<img src="../images/AI筆記/High-Performance_Async_Runtime.jpg" width="1024"/>
 
 *高性能非同步執行時*
 
@@ -1213,7 +1213,7 @@ Claude Code 最顯著的性能特性之一（通過執行追蹤分析揭示）�
 1. 當 Claude 在單個輪次中返回帶有三個 grep 呼叫和兩次讀取的回應時，所有五個同時執行。輪次在最慢的單個呼叫時間內完成，而不是所有五個的總和。
 2. 對於涉及數十次讀取和搜索的程式碼庫探索任務，這種差異會顯著複合。
 
-![](../images/AI筆記/parallel_Tool%20.jpg)
+<img src="../images/AI筆記/parallel_Tool%20.jpg" width="1024"/>
 
 *並行工具*
 
@@ -1247,7 +1247,7 @@ pairs = await asyncio.gather(*[_dispatch_one(b) for b in tool_blocks])
 
 Claude Code 讓你在任務中途按 Ctrl+C 重新定向智能體，而不丟失它已完成的任何工作。智能體不崩潰，它讀取你的中斷，總結其當前進度，並等待新指令。
 
-![](../images/AI筆記/Real-time_Interrupt.jpg)
+<img src="../images/AI筆記/Real-time_Interrupt.jpg" width="1024"/>
 
 *即時中斷*
 
@@ -1291,7 +1291,7 @@ s19 >> Actually skip s03 for now and jump straight to s04 through s06.
 
 **Anthropic 提示詞快取以約 10% 的正常 Token 成本服務那些穩定前綴。** 對於在長對話中進行數百次 API 呼叫的智能體，這會複合成非常顯著的節省。
 
-![](../images/AI筆記/KV_Cache.jpg)
+<img src="../images/AI筆記/KV_Cache.jpg" width="1024"/>
 
 *KV 快取*
 
@@ -1327,7 +1327,7 @@ s20 >> Read every file in agents/ and produce a one-line summary...
 
 Claude Code 原生支援 MCP——任何兼容伺服器的工具都成為智能體工具登錄表中的一等公民。檔案系統伺服器添加檔案工具，git 伺服器添加 git 操作工具，資料庫伺服器添加查詢工具。模型呼叫所有這些工具與內置工具完全相同，無需意識到工具是本地 Python 函數還是遠端伺服器進程。
 
-![](../images/AI筆記/MCP.jpg)
+<img src="../images/AI筆記/MCP.jpg" width="1024"/>
 
 *MCP*
 
@@ -1375,7 +1375,7 @@ commit a3f2c891  Add error handling to run_write (2026-04-01)
 
 **第七階段關於用生產級替代方案替換教學實現**——基於檔案的郵箱變成 Redis pub/sub 頻道，帶有即時傳遞和跨機器支援；基本 worktree 創建變成處理真實程式碼庫表面的每個邊緣情況的完整生命週期管理器；整個系統被組裝成一個可部署的參考，連接所有機制。
 
-![](../images/AI筆記/Enterprise_Upgrades.jpg)
+<img src="../images/AI筆記/Enterprise_Upgrades.jpg" width="1024"/>
 
 *企業級升級*
 
@@ -1385,7 +1385,7 @@ commit a3f2c891  Add error handling to run_write (2026-04-01)
 
 第四階段的 JSONL 郵箱系統作為教學機制有效，但有三個基本的生產問題。它需要輪詢——隊友按計時器檢查其收件箱檔案，在消息發送和接收之間引入人工延遲。它需要並發訪問的檔案鎖定——兩個智能體同時寫入同一個檔案會產生損壞的 JSONL。而且它是單機的——郵箱檔案存在於一個檔案系統上，使分布式部署不可能。
 
-![](../images/AI筆記/Redis_Pub_Sub%20.jpg)
+<img src="../images/AI筆記/Redis_Pub_Sub%20.jpg" width="1024"/>
 
 *Redis Pub/Sub*
 
@@ -1437,7 +1437,7 @@ async def make_mailbox() -> MailboxBackend:
 
 **一個已從崩潰的先前執行中存在的分支會導致 `git worktree add` 失敗。** 生產 worktree 管理器在任何任務執行開始之前系統地處理每個邊緣情況。
 
-![](../images/AI筆記/Worktree_Lifecycle.jpg)
+<img src="../images/AI筆記/Worktree_Lifecycle.jpg" width="1024"/>
 
 *Worktree 生命週期*
 
