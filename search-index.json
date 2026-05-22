@@ -40,6 +40,26 @@
     "url": "/notes/handoff-skill-context-isolation"
   },
   {
+    "id": "building-claude-code-with-harness",
+    "title": "Harness 工程：打造可部署的 Claude Code 代理系統",
+    "category": "AI筆記",
+    "tags": [
+      "Harness工程",
+      "智能體循環",
+      "工具調度",
+      "上下文管理",
+      "多智能體"
+    ],
+    "description": "這篇文章最重要的洞察是：真正讓 Claude Code 強大的，不是模型本身，而是包在模型外層的 Harness。它把 AI 代理拆成五個核心能力",
+    "quote": "不是模型不夠強，而是大多數人沒有替模型造好 Harness。",
+    "action": "用 L-T-C-P-A 法則落地：先做主循環、schema 化工具、分層上下文、配置化權限、最後引入多智能體",
+    "image": "/images/AI筆記/building-claude-code-with-harness.jpeg",
+    "date": "2026-05-22",
+    "source_has_timestamps": false,
+    "body": "這篇文章的價值，不在於「怎麼寫提示詞」，而在於把 Claude Code 拆成一套可重建的工程系統：主循環、工具調度、上下文管理、權限治理與多智能體協作。原文由 Fareed Khan 於 2026/4/7 發表，並附有對應的 claude-code-from-scratch GitHub 倉庫可供實作參照。 [github](https://github.com/FareedKhan-dev/claude-code-from-scratch) [核心摘要] 這篇文章最重要的洞察是：真正讓 Claude Code 強大的，不是模型本身，而是包在模型外層的 Harness。它把 AI 代理拆成五個核心能力：單執行緒推理循環、型別化工具系統、可壓縮的上下文層、規則式權限治理，以及可隔離的多智能體協作。這套設計解決了長任務易失焦、工具濫用、上下文爆炸與並行衝突等痛點，讓 coding agent 從 demo 升級成可部署系統。 [詳細重點整理] 註：原始來源是文章而非影片，沒有可驗證時間戳；以下改以章節定位標示，避免虛構時間。 1. Harness 工程的本質 [章節：文章開頭]   Ha",
+    "url": "/notes/building-claude-code-with-harness"
+  },
+  {
     "id": "agent-harness-engineering",
     "title": "代理人框架工程：讓 AI Agent 從被動等待到主動修復",
     "category": "AI筆記",
