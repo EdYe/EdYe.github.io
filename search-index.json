@@ -20,6 +20,26 @@
     "url": "/notes/thermos-cup-heavy-metal-risk"
   },
   {
+    "id": "emotional-maturity-blueprint",
+    "title": "成為情感成熟大人的藍圖",
+    "category": "心理學",
+    "tags": [
+      "逆向定律",
+      "自戀",
+      "心智成熟",
+      "希望感",
+      "價值觀"
+    ],
+    "description": "《微妙的不在乎藝術》作者 Mark Manson 指出，現代自助產業的最大謬誤在於把「感覺快樂」當成人生目標。他從發展心理學、亞里斯多德美德倫理學、自我決定理論出發，構建一套從「孩子→青少年→成人」的",
+    "quote": "幸福不是你追求並達成的事，而是當你找到更有意義的事物時，自然產生的副作用。",
+    "action": "先行動，從失敗中累積反例體驗，打破身份惰性，錨定超越自我的價值觀",
+    "image": "/images/心理學/emotional-maturity-blueprint.jpeg",
+    "date": "2026-05-24",
+    "source_has_timestamps": true,
+    "body": "🧠 成為情感成熟大人的藍圖｜Mark Manson 完整訪談 Big Think｜2026年4月24日發布｜片長 68 分鐘 [核心摘要] 《微妙的不在乎藝術》作者 Mark Manson 指出，現代自助產業的最大謬誤在於把「感覺快樂」當成人生目標。他從發展心理學、亞里斯多德美德倫理學、自我決定理論出發，構建一套從「孩子→青少年→成人」的心智成熟框架，核心論點是：真正的情感成熟，來自於找到你願意為之受苦的價值觀，而非不斷追逐舒適感。 [詳細重點整理] 1. 快樂的悖論：幸福是副產品，不是目標  「快樂」被現代社會嚴重高估。Aristotle 將其分為兩類：Hedonia（快感享樂，短期多巴胺）與 Eudaimonia（深度幸福，來自有目的的生活）。現代世界全力最大化 Hedonia，但驅動生命滿足感的卻是 Eudaimonia。 艾倫·沃茨的「逆向定律（Backwards Law）」：你越追逐一個正面體驗，這個追逐本身就是一種負面體驗。越想讓人留下深刻印象，你就越覺得自己不夠；越渴望被愛，就越感到孤獨。  關鍵問題不是「什麼能讓我快樂？」而是「我願意為什麼而受苦？」 關鍵概念：逆向定",
+    "url": "/notes/emotional-maturity-blueprint"
+  },
+  {
     "id": "memory-dreaming-agents-ravi",
     "title": "Memory 與 Dreaming：Anthropic Ravi 解說 Agent 自學習架構",
     "category": "影片筆記",
