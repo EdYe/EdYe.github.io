@@ -20,6 +20,26 @@
     "url": "/notes/thermos-cup-heavy-metal-risk"
   },
   {
+    "id": "running-ai-native-engineering-org",
+    "title": "打造 AI-Native 工程組織：瓶頸已從寫程式轉移至驗證與審查",
+    "category": "影片筆記",
+    "tags": [
+      "AI原生組織",
+      "瓶頸遷移",
+      "規劃文化",
+      "人員配置",
+      "代碼審查"
+    ],
+    "description": "當 AI 輔助編碼成為組織預設工作模式時，瓶頸已從「寫程式」轉移至「驗證、審查與維護」。Anthropic Claude Code 工程負責人 Fiona Fung 分享五大組",
+    "quote": "What served you prior may no longer.——過去讓你成功的，未必還適用今天。",
+    "action": "Claudify（讓 Claude 做能做的）、Code Wins（以 Prototype 取代辯論）、Kill Old Processes（主動刪除舊流程）",
+    "image": "/images/影片筆記/running-ai-native-engineering-org.jpeg",
+    "date": "2026-05-24",
+    "source_has_timestamps": true,
+    "body": "Running an AI-Native Engineering Org 核心摘要 當 AI 輔助編碼成為組織預設工作模式時，瓶頸已從「寫程式」轉移至「驗證、審查與維護」。Anthropic Claude Code 工程負責人 Fiona Fung 透過自身帶領 Claude Code 團隊的實戰經驗，揭示了舊流程如何「悄悄失效」，並分享了五大面向的組織重塑策略——從規劃文化、代碼審查、人員配置，到知識管理，核心訴求是：持續審視舊流程是否仍有其存在意義。 [youtube](https://www.youtube.com/watch?v=l9hUGbg0Ljo) 詳細重點整理 1. 瓶頸已轉移  過去數十年，工程師的編碼時間是最稀缺的資源，所有流程（需求規劃、設計文件、Code Review）都是為了保護這個資源而設計的。 現在 Claude 已讓編碼、寫測試、重構都不再是瓶頸，新的瓶頸變成： [youtube](https://www.youtube.com/watch?v=l9hUGbg0Ljo) - Verification（驗證正確性）：產出量激增，「程式碼是否正確」更需被嚴格",
+    "url": "/notes/running-ai-native-engineering-org"
+  },
+  {
     "id": "emotional-maturity-blueprint",
     "title": "成為情感成熟大人的藍圖",
     "category": "心理學",
@@ -878,26 +898,6 @@
     "source_has_timestamps": true,
     "body": "🎯 [核心摘要] GitHub Copilot 團隊將 Claude 部署給數百萬開發者，在 Chat、CLI、Coding Agent 與 Code Review 等場景中大規模使用，成為 Claude Platform 最苛刻的企業客戶之一 。本影片由 GitHub CPO Mario Rodriguez 與 Anthropic 的 Brad Abrams 共同拆解：如何在規模化部署中同時提升品質、壓低成本，核心技術涵蓋 Caching（快取）、Evaluation Harness（評估框架） 與全新的 Advisor Strategy（顧問策略） 。 [youtube](https://www.youtube.com/watch?v=y5TmF6o6xk) [詳細重點整理] 1. 大規模部署挑戰  GitHub Copilot 的使用者規模達數百萬開發者，橫跨多個產品線（Chat、CLI、Coding Agent、Code Review）。在如此龐大的規模下，成本效益（Cost Efficiency） 與 輸出品質（Output Quality） 成為無法迴避的核心張力。 關鍵",
     "url": "/notes/claude-github-scale-caching-advisors"
-  },
-  {
-    "id": "running-ai-native-engineering-org",
-    "title": "打造 AI-Native 工程組織：重寫舊流程的實戰指南",
-    "category": "影片筆記",
-    "tags": [
-      "AI原生組織",
-      "瓶頸轉移",
-      "JIT規劃",
-      "強制Dogfooding",
-      "工程流程"
-    ],
-    "description": "當 AI Coding 工具從個人輔助升級為組織預設工作模式，原本為「昂貴的人工編碼」所設計的流程（Design Doc、Code Ownership、六個月 Roadmap）會悄悄失效。",
-    "quote": "What served you prior may not serve you any longer.——曾經有效的，不代表現在依然有效。",
-    "action": "找出你團隊中「最吵鬧的一個工作流」，問自己「它現在仍然服務原本的目的嗎？」，若答案模糊，先把它砍掉，觀察三週。",
-    "image": "/images/影片筆記/running-ai-native-engineering-org.jpeg",
-    "date": "2026-05-09",
-    "source_has_timestamps": true,
-    "body": "Running an AI-Native Engineering Org 核心洞察： 當 AI 程式碼生成能力讓工程頻寬不再是瓶頸，組織的流程、審查機制與團隊結構本身才是真正需要重構的物件。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [核心摘要] 本影片由 Anthropic Claude Code 工程總監 Fiona Fung 主講，揭示了一個關鍵痛點：當 AI Coding 工具從個人輔助升級為組織預設工作模式，原本為「昂貴的人工編碼」所設計的流程（Design Doc、Code Ownership、六個月 Roadmap）會悄悄失效。影片系統性地分享了 Claude Code 團隊如何識別瓶頸轉移，並重寫團隊規範，讓 AI-native 組織能持續高速且高品質地交付。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 瓶頸已轉移，舊流程悄悄失效  過去「工程頻寬昂貴」催生了瀑布式、敏捷式開發、預規劃、Code Owner",
-    "url": "/notes/running-ai-native-engineering-org"
   },
   {
     "id": "playground-in-production",

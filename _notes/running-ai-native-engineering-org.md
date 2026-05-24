@@ -1,120 +1,115 @@
 ---
-title: '打造 AI-Native 工程組織：重寫舊流程的實戰指南'
-date: 2026-05-09
+title: '打造 AI-Native 工程組織：瓶頸已從寫程式轉移至驗證與審查'
+date: 2026-05-24
 image: /images/影片筆記/running-ai-native-engineering-org.jpeg
 category: 影片筆記
-tags: [AI原生組織, 瓶頸轉移, JIT規劃, 強制Dogfooding, 工程流程]
-description: '當 AI Coding 工具從個人輔助升級為組織預設工作模式，原本為「昂貴的人工編碼」所設計的流程（Design Doc、Code Ownership、六個月 Roadmap）會悄悄失效。'
-quote: 'What served you prior may not serve you any longer.——曾經有效的，不代表現在依然有效。'
-action: '找出你團隊中「最吵鬧的一個工作流」，問自己「它現在仍然服務原本的目的嗎？」，若答案模糊，先把它砍掉，觀察三週。'
+tags: [AI原生組織, 瓶頸遷移, 規劃文化, 人員配置, 代碼審查]
+description: '當 AI 輔助編碼成為組織預設工作模式時，瓶頸已從「寫程式」轉移至「驗證、審查與維護」。Anthropic Claude Code 工程負責人 Fiona Fung 分享五大組'
+quote: 'What served you prior may no longer.——過去讓你成功的，未必還適用今天。'
+action: 'Claudify（讓 Claude 做能做的）、Code Wins（以 Prototype 取代辯論）、Kill Old Processes（主動刪除舊流程）'
 source_has_timestamps: true
 ---
 # Running an AI-Native Engineering Org
 
-**核心洞察：** 當 AI 程式碼生成能力讓工程頻寬不再是瓶頸，組織的流程、審查機制與團隊結構本身才是真正需要重構的物件。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop)
+## 核心摘要
+
+當 AI 輔助編碼成為組織預設工作模式時，**瓶頸已從「寫程式」轉移至「驗證、審查與維護」**。Anthropic Claude Code 工程負責人 Fiona Fung 透過自身帶領 Claude Code 團隊的實戰經驗，揭示了舊流程如何「悄悄失效」，並分享了五大面向的組織重塑策略——從規劃文化、代碼審查、人員配置，到知識管理，核心訴求是：**持續審視舊流程是否仍有其存在意義**。 [youtube](https://www.youtube.com/watch?v=l9hUGbg0Ljo)
 
 ***
 
-## [核心摘要]
+## 詳細重點整理
 
-本影片由 Anthropic Claude Code 工程總監 Fiona Fung 主講，揭示了一個關鍵痛點：**當 AI Coding 工具從個人輔助升級為組織預設工作模式**，原本為「昂貴的人工編碼」所設計的流程（Design Doc、Code Ownership、六個月 Roadmap）會悄悄失效。影片系統性地分享了 Claude Code 團隊如何識別瓶頸轉移，並重寫團隊規範，讓 AI-native 組織能持續高速且高品質地交付。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop)
+### 1. 瓶頸已轉移 [00:52]
 
-***
+過去數十年，**工程師的編碼時間**是最稀缺的資源，所有流程（需求規劃、設計文件、Code Review）都是為了保護這個資源而設計的。 現在 Claude 已讓編碼、寫測試、重構都不再是瓶頸，新的瓶頸變成： [youtube](https://www.youtube.com/watch?v=l9hUGbg0Ljo)
 
-## [詳細重點整理]
+- **Verification（驗證正確性）**：產出量激增，「程式碼是否正確」更需被嚴格把關
+- **Who reviews（誰來審查）**：角色邊界模糊，人人都在提交變更
+- **How is it maintained（如何維護）**：高吞吐量帶來更高的維護成本
 
-### 1. 瓶頸已轉移，舊流程悄悄失效 [00:02]
-
-過去「工程頻寬昂貴」催生了瀑布式、敏捷式開發、預規劃、Code Ownership 等制度。現在**程式碼生成已非瓶頸**，新的瓶頸轉向了：驗證（Verification）、程式碼審查（Code Review）、跨部門協作（Security、Legal）、以及維護成本。
-
-> **關鍵概念：** **瓶頸轉移（Bottleneck Shift）** — 流程應服務當下瓶頸，而非歷史遺留瓶頸。
+> **關鍵概念：瓶頸遷移（Bottleneck Migration）** — 就像 2000 年代從「Server Room Build Queue」到雲端 CI/CD 的轉變，AI 時代的瓶頸再次位移。
 
 ***
 
-### 2. 規劃節奏從「六個月 Roadmap」轉為 JIT 規劃 [08:44]
+### 2. 必須重寫的團隊規範 [06:55]
 
-六個月 Roadmap 的前提是「程式碼昂貴，要算好再動手」。現在 Fiona 採用 **Just-In-Time（JIT）規劃**：不寫 Design Doc，改為直接 PR 或 Prototype。產品辯論不再靠白板，而是**直接用 Claude 生成三個實作版本來比較**，讓技術辯論從抽象討論進化為「以程式碼為證據的討論」。
+以下舊流程在 Claude Code 團隊已「悄悄停止運作」： [youtube](https://www.youtube.com/watch?v=l9hUGbg0Ljo)
 
-> **關鍵概念：** **JIT 規劃（Just-In-Time Planning）** — 原型生成成本趨近於零，計劃的粒度與時效性應隨之提升。
+| 舊規範 | 新做法 |
+|---|---|
+| 長篇設計文件（Design Doc）| 討論在 PR 或 Prototype 中進行 |
+| 「誰改了這段程式？」追責思維 | 改問「你真正想找到什麼答案？讓 Claude 幫你」 |
+| 技術辯論用白板開會 | 直接生成 3 個不同版本的 PR 來比較 |
+| iOS/Android 分開獨立團隊 | 工程師可跨平台 Flex，考慮合併 |
+| Onboarding 需大量找人詢問 | 以 Claude 作為 Tech Deep Dive 的第一對象 |
 
-***
-
-### 3. Code Review：重新定義「何時需要人工審查」[13:55]
-
-Claude 負責處理 Linting、Style、簡單 Bug Fix 與補測試。人工審查則保留在三個核心場景：
-- **法律與安全敏感程式碼**（Risk Tolerance 高）
-- **信任邊界（Trust Boundary）**相關邏輯
-- **產品品味與設計感**（Product Sense）
-
-> **關鍵概念：** **Trust but Verify（信任但驗證）** — AI 審查提升速度，人工審查保衛邊界。
+> **關鍵概念：「靜默失效（Quietly Stops Working）」** — 流程往往在失效後仍被慣性執行，需定期主動稽核。
 
 ***
 
-### 4. Code Ownership 模糊化後的正確提問方式 [12:36]
+### 3. 規劃文化：Code Wins [07:52]
 
-「誰改了這段程式碼？」這個問題在 AI 協作下已失去意義，真正要追問的是：
-- 誰是這個領域的**專家**？
-- 誰可以**解答客戶問題**？
-- **怎麼自動化**這個查詢本身？
+**「Building is cheap, argument is expensive」** 是新的技術辯論準則。 與其開會白板討論，不如直接生成多版本 prototype 比較實作影響。Test-Driven Development 在 AI 輔助下也重新變得「有樂趣」——先寫測試讓它 fail，再讓 Claude 修 bug，流程體驗大幅改善。 [youtube](https://www.youtube.com/watch?v=l9hUGbg0Ljo)
 
-> **關鍵概念：** **雙重點擊提問（Double-Click Ownership）** — 所有權問題的背後是情境問題，應直接問對問題，而非找責任人。
+> **關鍵概念：Code-First Decision Making** — 以可執行的程式碼取代抽象的文字討論。
 
 ***
 
-### 5. 團隊組成：招聘策略的兩個核心 Profile [15:45]
+### 4. 人員配置：兩種核心 Profile [12:27]
 
-Fiona 重點強調兩種工程師 Profile：
-- **具產品感的創意建造者（Creative Builders with Product Sense）**：好奇心強、能快速迭代解決使用者問題
-- **深度系統專家（Deep Systems Expertise）**：分散式系統、基礎架構——這是 AI 無法輕易取代的硬核能力
+角色邊界持續模糊（設計師直接用 Claude 做 UI 修正、工程師讓 Claude 輔助內容文案），Fiona 聚焦培養兩種人才 ： [youtube](https://www.youtube.com/watch?v=l9hUGbg0Ljo)
 
-**刻意降低重視的能力**：原始程式碼產出量（Raw Throughput），因為模型已大幅補足了這一塊。
+1. **Creative Builders with Product Sense**：有產品直覺的創意建造者
+2. **Deep System Expertise**：具備深層系統架構能力的專家
 
-> **關鍵概念：** **能力稀缺重組（Capability Re-scarcity）** — AI 讓部分能力變得充裕，組織應重新押注真正稀缺的人才維度。
+「Product Sense」的培養核心方法是 **Dog Fooding（Anthropic 內部稱 Ant Fooding）**：主管必須親身使用自己團隊的產品，才能「用身體感受產品」（feel it in your bones）。
 
-***
-
-### 6. 組織扁平化與 Dogfooding 文化 [18:00]
-
-**所有管理者須先以 IC（Individual Contributor）身份上任**，親身使用 Claude Code，累積「街頭信譽（Street Cred）」，才能升為 Manager。這打破了傳統 10:1 IC:Manager 模型，保持組織高度扁平化與敏捷。
-
-> **關鍵概念：** **強制性 Dogfooding（Mandatory Dogfooding）** — 技術領導者必須成為自家產品的深度使用者，才能做出正確的工程與產品決策。
+> **關鍵概念：Ant Fooding** — 管理者親身使用產品是建立 Product Sense 的最直接路徑。
 
 ***
 
-### 7. 三大團隊強制規範（Must-Do Norms）[20:41]
+### 5. 代碼審查與知識管理的新秩序 [11:08]
 
-Claude Code 團隊強制執行的核心規範：
-1. **所有成員（含非工程職）**都使用 Claude Code
-2. **Claudify Everything** — 任何可自動化的事情，優先考慮交給 Claude
-3. **明確授權殺死舊流程（Explicit Permission to Kill Old Processes）** — 流程不會自動消亡，必須主動審查並廢除
+Code Review 由 Claude 負責風格、Lint、明顯 Bug 與規格漂移偵測，但**人類必須保留在迴圈中**，尤其是 ： [youtube](https://www.youtube.com/watch?v=l9hUGbg0Ljo)
 
-***
+- 法律合規審查
+- 風險容忍度判斷（Trust Boundary）
+- 產品品味（如 Fiona 把 Claude 的 snowman 做成「Mr. Peanut」的案例）
 
-### 8. 衡量成效的三個核心指標 [23:06]
+知識來源也從「文件」轉移至「程式碼本身即真理」——所有 Spec、規格都應 check-in 進 codebase，讓 Claude 得以直接驗證。
 
-| 指標 | 趨勢 | 說明 |
-|------|------|------|
-| **Onboarding Ramp-up Time** | ↓ 大幅縮短 | 工程師、PM、設計師上手速度 |
-| **PR Cycle Time** | ↓ 縮短 | 若沒有縮短，代表 CI/CD 等下游管線成為新瓶頸 |
-| **Claude-assisted Commit 比率** | ↑ 趨近 100% | Claude Code 團隊近四個月已無非 AI 協助提交 |
+> **關鍵概念：Code as Source of Truth（程式碼即真相）** — 文件容易過時，程式碼才是最即時的知識載體。
 
 ***
 
-## [結論與行動建議]
+## 技術/數據對比
+
+| 指標 | 導入 AI 前 | 導入後趨勢 |
+|---|---|---|
+| Onboarding Ramp-up 時間 | 較長，需頻繁向隊友詢問 | 顯著下降 |
+| PR Cycle Time | 受限工程師產能 | 下降（但需分拆各階段分析） |
+| Claude-assisted Commits | 偶爾 | 近 100%（幾乎每個 commit 都有 Claude 協作）|
+| 設計文件工作量 | 高（需長篇 Design Doc）| 大幅降低，改為 PR / Prototype |
+
+ [youtube](https://www.youtube.com/watch?v=l9hUGbg0Ljo)
+
+***
+
+## 結論與行動建議
 
 **啟發金句：**
-> **「What served you prior may not serve you any longer.」——曾經有效的，不代表現在依然有效。**
+> **「What served you prior may no longer.」**——過去讓你成功的，未必還適用今天。 [youtube](https://www.youtube.com/watch?v=l9hUGbg0Ljo)
 
-**具體行動法則：** **B-K-C 法則**
-- **B（Bottleneck）**：先找到當前真正的瓶頸在哪裡
-- **K（Kill）**：明確授權團隊殺死已無效的舊流程
-- **C（Claudify）**：把釋放出來的人力集中到 AI 無法取代的高價值工作
+**具體行動法則：C-C-K 法則**
+- **Claudify（Claude 化）**：只要 Claude 能做的，就讓 Claude 做
+- **Code Wins（程式勝出）**：以可執行的 Prototype 取代抽象辯論
+- **Kill Old Processes（主動殺死舊流程）**：給予團隊明確的「刪除舊流程許可」
 
 **生活實踐建議：**
-找出你團隊中「最吵鬧（最耗能）的一個工作流」——可能是週會、狀態報告、Design Doc、Code Review SLA——問自己一個問題：**「它現在仍然服務原本的目的嗎？」** 如果答案模糊，先把它砍掉，觀察三週，看看缺少它之後真正損失了什麼。
+立即盤點你團隊中一個「每個人都覺得低效但沒人動」的會議或流程（如每週冗長的 Status Update 會議），問自己：這個流程的原始目的是什麼？Claude 能否替代或簡化它？從最「高稅」的那個工作流開始實驗。 [youtube](https://www.youtube.com/watch?v=l9hUGbg0Ljo)
 
 ***
 
-## [參考連結]
+## 參考連結
 
-原始影片：[https://youtu.be/igO8iyca2_g](https://youtu.be/igO8iyca2_g) [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop)
+- 原始影片：[https://youtu.be/IA5LWIGqnyM](https://youtu.be/IA5LWIGqnyM)
