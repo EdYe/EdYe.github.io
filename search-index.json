@@ -40,6 +40,26 @@
     "url": "/notes/running-ai-native-engineering-org"
   },
   {
+    "id": "everyone-building-claude-code-no-evals",
+    "title": "大家都在用 Claude Code 建 Agent，卻沒有人在跑 Evals",
+    "category": "AI筆記",
+    "tags": [
+      "Evals評估",
+      "Instrumentation",
+      "Agent",
+      "Product Taste",
+      "自我改善循環"
+    ],
+    "description": "在 AI Agent 開發爆炸性成長的當下，絕大多數團隊只顧著用 Claude Code 快速搭建 Agent，卻完全忽略了 Evals（評估機制）的建立。",
+    "quote": "程式碼已經很便宜了，能讓你脫穎而出的，是你對該建什麼的判斷力。",
+    "action": "先 Trace 讓每個 Agent 步驟可見，再用 Evals 量化品質，最後建立自動改善循環（T-E-L 法則）。",
+    "image": "/images/AI筆記/everyone-building-claude-code-no-evals.jpeg",
+    "date": "2026-05-24",
+    "source_has_timestamps": true,
+    "body": "🎙️ 核心摘要 在 AI Agent 開發爆炸性成長的當下，絕大多數團隊只顧著用 Claude Code 快速搭建 Agent，卻完全忽略了 Evals（評估機制） 的建立。Arize AI 的 CPO Aparna Dhinakaran 透過一場 Live Demo，完整示範了「建置 Agent → Instrumentation → Tracing → Evals → 自我改善循環」的端到端流程，解決了 AI PM 最核心的痛點：如何知道你的 Agent 到底做得好不好？ [youtube](https://www.youtube.com/watch?v=pF4VZRU0qZA) 詳細重點整理 1. PM 的核心優勢：Product Taste  程式碼成本趨近於零的時代，Product Taste（產品品味） 才是真正的競爭 Alpha。最優秀的 PM 能聚合來自 GitHub、Slack、Discord、Gong 通話記錄、Posthog/Amplitude 等各種數據源的用戶反饋，這種跨源整合的洞察力是 AI 無法直接替代的。  關鍵概念：Context Graph（上下文",
+    "url": "/notes/everyone-building-claude-code-no-evals"
+  },
+  {
     "id": "emotional-maturity-blueprint",
     "title": "成為情感成熟大人的藍圖",
     "category": "心理學",
