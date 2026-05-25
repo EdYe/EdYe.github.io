@@ -20,6 +20,26 @@
     "url": "/notes/introducing-webmcp-agents-in-the-browser"
   },
   {
+    "id": "ai-automation-paradox",
+    "title": "AI 自動化悖論：越自動化，人類工作反而越多",
+    "category": "AI筆記",
+    "tags": [
+      "AI作業系統",
+      "超級智能體",
+      "自動化悖論",
+      "SaaS",
+      "前線部署工程師"
+    ],
+    "description": "AI 自動化的悖論：自動化越多，人類工作反而越多。Dan Shipper 以 Every 這個「活體AI實驗室」為觀察基地，提出 12 項顛覆常識的預測",
+    "quote": "模型讓昨日的人類能力變得廉價；真正的價值在於：拿著這些被凍結的人類智慧，去創造全新的東西。",
+    "action": "每週探索 Codex 或 Claude Co-work，主動把工作移入 AI OS 環境，實踐 Ride、Garden、Redesign 三步驟",
+    "image": "/images/AI筆記/ai-automation-paradox.jpeg",
+    "date": "2026-05-25",
+    "source_has_timestamps": true,
+    "body": "這是 Lenny's Podcast 的最新一集，邀請 Every 的共同創辦人暨 CEO Dan Shipper 分享對 AI 時代工作未來的大膽預測。以下是完整的結構化筆記： [核心摘要] AI 自動化的悖論：自動化越多，人類工作反而越多。Dan Shipper 以 Every 這個「活體AI實驗室」為觀察基地，提出 12 項顛覆常識的預測——從「CLI 已死」到「SaaS 末日論是蠢話」，核心論點是：模型讓昨日的人類能力商品化，但同時創造出更多需要人類判斷力的新工作。  [詳細重點整理] 1. 工作環境的分叉演化  未來工作方式將走向兩條軌道並行：一是透過 Slack 等平台與公司超級智能體（Super Agent）互動委派工作；二是所有知識工作都將發生在 Codex 或 Claude Co-work 這類「AI 作業系統」環境中，而非傳統 SaaS 介面。 - 關鍵概念：AI 作業系統（AI OS）——工作不再是「在 SaaS 裡用 AI」，而是「在 AI 環境裡跑 SaaS」。 2. 超級智能體 vs. 個人智能體  Dan 原本深信每個人都應有自己的私人智能體（如 Open",
+    "url": "/notes/ai-automation-paradox"
+  },
+  {
     "id": "thermos-cup-heavy-metal-risk",
     "title": "裝進保溫杯的是熱水，倒出來卻變成了「毒水」？",
     "category": "影片筆記",
