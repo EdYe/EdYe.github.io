@@ -1,5 +1,25 @@
 [
   {
+    "id": "introducing-webmcp-agents-in-the-browser",
+    "title": "WebMCP 與 MCP Apps：讓 Web 成為 Agent 的無限畫布",
+    "category": "AI筆記",
+    "tags": [
+      "MCP Apps",
+      "WebMCP",
+      "Agent介面",
+      "MCP Transport",
+      "瀏覽器原生API"
+    ],
+    "description": "聊天介面（Chat UI）並非 AI Agent 的終態。本演講以打造漫畫閱讀器的實戰案例，揭示了兩項革命性技術：MCP Apps 與 WebMCP，解決了「Agent 只能輸出文字牆」的核心痛點，讓 Web 平台成為真正的無限畫布。",
+    "quote": "CSS and JavaScript aren''t just the language of the web — they''re the language of interactive experiences on agents.",
+    "action": "評估現有 Web Dashboard，以 T-A-W 三層法則（Tool→App→WebMCP）逐步讓產品 Agent Ready",
+    "image": "/images/AI筆記/introducing-webmcp-agents-in-the-browser.jpeg",
+    "date": "2026-05-25",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 聊天介面（Chat UI）並非 AI Agent 的終態。本演講以打造漫畫閱讀器的實戰案例，揭示了兩項革命性技術：MCP Apps（將 HTML/CSS/JS 打包成單一檔案嵌入 Agent 介面）與 WebMCP（讓現有網頁直接成為 Agent 工具伺服器），解決了「Agent 只能輸出文字牆」的核心痛點，讓 Web 平台成為真正的無限畫布。 [詳細重點整理] 1. 講者背景與核心命題  Rachel Lee Nabors，曾任職 Mozilla、W3C、Microsoft Edge PM，React 官方文件作者。她的核心論點是：Chat 之於 Agent，就像終端機（CLI）之於桌面軟體——是過渡期，不是終點。現在的「Starfish Design」（純聊天框落地頁）要求使用者自行摸索，體驗如同 1980 年代的文字冒險遊戲。 關鍵概念：Starfish Design — 以 Chat Box 為中心、讓使用者承擔所有探索負擔的 UI 反模式。 2. MCP Transport：STDIO vs HTTP  | | STDIO（Studio） | HTTP | |-",
+    "url": "/notes/introducing-webmcp-agents-in-the-browser"
+  },
+  {
     "id": "thermos-cup-heavy-metal-risk",
     "title": "裝進保溫杯的是熱水，倒出來卻變成了「毒水」？",
     "category": "影片筆記",
