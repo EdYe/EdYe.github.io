@@ -158,7 +158,7 @@ Skills 也可以限定在特定路徑下，這樣它們只會在程式碼庫的�
 
 [**Subagents**](https://code.claude.com/docs/en/sub-agents) **將探索與編輯分離。** Subagent 是一個獨立的 Claude 執行個體，擁有自己的上下文視窗，它接受一個任務、完成工作，並只將最終結果回傳給父代理。一旦工作框架就緒，有些團隊會啟動一個唯讀的 subagent 來繪製子系統的地圖，並將結果寫入檔案，然後讓主代理在掌握完整全貌後進行編輯。
 
-![Claude Code 工作框架（harness）的擴展層概覽。](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a04aaf1c37c6196e5ee19bb_fig1-the-claude-code-harness-v1%402x.png)
+<img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a04aaf1c37c6196e5ee19bb_fig1-the-claude-code-harness-v1%402x.png" width=800/>
 
 **Claude Code 擴展層概覽。**
 
@@ -206,7 +206,7 @@ Claude 在大型程式碼庫中提供協助的能力，受限於它能否找到�
 
 擴散最快的推行案例，會在廣泛開放存取之前投入專門的基礎設施建設。一個小團隊（有時甚至只是一個人）會把工具串接好，讓 Claude 在開發者第一次接觸時就能融入他們的工作流程。在某家公司，幾位工程師打造了一系列在第一天就可使用的 plugins 與 MCPs。在另一家公司，一整個專責管理 AI 編碼工具的團隊在推行開始前就把基礎設施準備就緒。這兩個案例中，開發者的初次體驗都是高效而非令人挫折的，採用因此得以擴散。
 
-![Claude Code 推行的各個階段。](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a04e25f1984beb50dc5525b_fig2-phases-of-claude-code-rollout-v1%402x.png)
+<img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a04e25f1984beb50dc5525b_fig2-phases-of-claude-code-rollout-v1%402x.png" width=800/>
 
 如今負責這項工作的團隊通常隸屬於「開發者體驗（developer experience）」或「開發者生產力（developer productivity）」部門，這通常是負責新工程師入職培訓與開發者工具建置的職能單位。在多個組織中，正在出現一個新興角色：代理管理員（agent manager），這是一個結合產品經理（PM）與工程師的混合職能，專門負責管理 Claude Code 生態系。對於沒有專屬團隊的組織，最小可行版本是設置一位 DRI（直接負責人）：由一個人擁有對 Claude Code 配置的所有權，並擁有對設定、權限政策、plugin 市集與 CLAUDE.md 慣例做決策的權限，以及維持其與時俱進的責任。
 
@@ -220,7 +220,7 @@ Claude 在大型程式碼庫中提供協助的能力，受限於它能否找到�
 
 Claude Code 是圍繞傳統軟體工程環境設計的，其中工程師是程式碼庫的主要貢獻者，儲存庫使用 Git，且程式碼遵循標準目錄結構。大多數大型程式碼庫都符合這個模式，但非傳統設置——例如含有大量二進位資產的遊戲引擎、使用非常規版本控制的環境，或非工程師也參與貢獻的程式碼庫——需要額外的配置工作。我們的指引假設的是慣例設置，本文所描述的模式已在我們眾多客戶中發揮作用。剩餘的複雜性則需要依你的程式碼庫、工具與組織具體狀況進行判斷。這也是 Anthropic 應用 AI 團隊（Applied AI team）直接與工程團隊合作的價值所在：將這些模式轉譯為你組織的具體需求。
 
-![Claude Code 入門檢查清單。](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a04e2860abbe67418ca0f8b_fig3-getting-started-checklist-v2%402x.png)
+<img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a04e2860abbe67418ca0f8b_fig3-getting-started-checklist-v2%402x.png" width=800/>
 
 *開始使用 [Claude Code for Enterprise（企業版 Claude Code）](https://claude.com/product/claude-code/enterprise)。*
 
