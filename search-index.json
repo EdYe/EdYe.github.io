@@ -20,6 +20,46 @@
     "url": "/notes/grill-skills-9-wrong-things"
   },
   {
+    "id": "bounded-autonomy",
+    "title": "Bounded Autonomy：AI Agent 設計的有界自主性框架",
+    "category": "AI筆記",
+    "tags": [
+      "有界自主性",
+      "複雜度陷阱",
+      "Agent設計",
+      "極簡化",
+      "爆炸半徑"
+    ],
+    "description": "AI Agent 開發的最大陷阱不是技術能力不足，而是過度複雜化。Oliver 每天為 200 多個品牌生成約 4,000 個創意素材，其核心經驗是：模型天生傾向冗長，開發者也是。",
+    "quote": "永遠不要自動化一件你自己都不會做的工作。",
+    "action": "用 M-E-B 法則設計 Agent：從最少 context 開始，定義明確升級觸發條件，依爆炸半徑劃定自主邊界。",
+    "image": "/images/AI筆記/bounded-autonomy.jpeg",
+    "date": "2026-05-26",
+    "source_has_timestamps": true,
+    "body": "📝 Bounded Autonomy：在自由意志與決定論之間 影片： Angus J. McLean（Oliver AI Director）@ AI Engineer Conference，2026年4月 [核心摘要] AI Agent 開發的最大陷阱不是技術能力不足，而是過度複雜化。Oliver 每天為 200 多個品牌生成約 4,000 個創意素材，其核心經驗是：模型天生傾向冗長，開發者也是。解法不是加更多工具或上下文，而是極簡化——用最少的 context 完成任務，永遠不要自動化一件你自己都不會做的工作。 [youtube](https://www.youtube.com/watch?v=yzIE0uZFao8) [詳細重點整理] 1. 複雜度陷阱 [00:00 起] Angus 花了大量時間打造一個複雜 Agent 來生成他的履歷，最終發現四個字母就打敗它：HTML。他估計簡化帶來的效能提升高達 100 倍。 這說明了工程師常見的反模式：用 AI 解決其實根本不需要 AI 的問題。 [youtube](https://www.youtube.com/watch?v=yzIE",
+    "url": "/notes/bounded-autonomy"
+  },
+  {
+    "id": "anchoring-enterprise-genai-knowledge-graphs",
+    "title": "以知識圖譜錨定企業級 GenAI：Pfizer GraphRAG 實戰",
+    "category": "影片筆記",
+    "tags": [
+      "GenAI",
+      "知識圖譜",
+      "GraphRAG",
+      "製藥技術轉移",
+      "組織文化"
+    ],
+    "description": "Gartner 預測 30% 的 GenAI 專案將於 2025 年底被放棄，核心原因不是技術不成熟，而是缺乏真實業務場景與組織文化阻力。",
+    "quote": "Know your audience, personalize for all of them, and get your human wetware chatbot speaking the right language at the right level.",
+    "action": "向主管提案 AI 工具時，先列出 3 個財務數字（節省時間、降低成本、加速收益），再用 B-T-A 法則以知識圖譜錨定可解釋的技術底層。",
+    "image": "/images/影片筆記/anchoring-enterprise-genai-knowledge-graphs.jpeg",
+    "date": "2026-05-26",
+    "source_has_timestamps": true,
+    "body": "以知識圖譜錨定企業級 GenAI 影片來源： AI Engineer Summit 2025 紐約現場演講 講者： Jonathan Lowe（Pfizer 資深數據架構師）、Stephen Chin（Neo4j VP of Developer Relations） 時長： 約 21 分鐘 核心摘要 Gartner 預測 30% 的 GenAI 專案將於 2025 年底被放棄，核心原因不是技術不成熟，而是缺乏真實業務場景與組織文化阻力。此演講以 Pfizer 的製藥技術轉移（Technology Transfer）為真實案例，說明如何透過 GraphRAG（知識圖譜 + 向量搜尋） 架構，將數十萬份非結構化文件轉化為精準可解釋的企業知識庫，加速藥物量產、拯救更多生命。 [youtube](https://www.youtube.com/watch?v=h1wFrXKanC0) 詳細重點整理 1. GenAI 失敗率警訊  Gartner 數據顯示，GenAI 專案失敗的最大原因是沒有可貨幣化的真實業務用例。現場調查顯示，幾乎所有與會者都曾遭遇失敗或尚未上線的 GenAI 專案，這確立了",
+    "url": "/notes/anchoring-enterprise-genai-knowledge-graphs"
+  },
+  {
     "id": "introducing-webmcp-agents-in-the-browser",
     "title": "WebMCP 與 MCP Apps：讓 Web 成為 Agent 的無限畫布",
     "category": "AI筆記",
