@@ -1,5 +1,25 @@
 [
   {
+    "id": "grill-skills-9-wrong-things",
+    "title": "9 件工程師在 /grill-* 技能中常犯的錯誤",
+    "category": "影片筆記",
+    "tags": [
+      "可Grill性",
+      "上下文智慧區",
+      "主動規劃平衡",
+      "上下文保值",
+      "參數化知識"
+    ],
+    "description": "/grill-me 與 /grill-with-docs 技能是 AI Agent 規劃模式的替代工具，核心概念是透過持續問答建立對任務的「共識理解」。然而多數工程師誤用",
+    "quote": "Grilling is a conversation, not an interview. It''s your job to figure out where you''re going.",
+    "action": "規劃階段用大模型 Grill、控制 Scope 在 120K tokens 內、同一 Session 產出 PRD 並平行開兩個 Session 倍增效率",
+    "image": "/images/影片筆記/grill-skills-9-wrong-things.jpeg",
+    "date": "2026-05-26",
+    "source_has_timestamps": true,
+    "body": "9 Things People Get Wrong With /grill-\\ Skills Matt Pocock｜2026年5月25日｜片長 13:28 [核心摘要] /grill-me 與 /grill-with-docs 技能是 AI Agent 規劃模式（Plan Mode）的替代工具，核心概念是透過持續問答建立對任務的「共識理解」。然而多數工程師誤用了它——他們要麼被動接受 AI 狂問 200 題、要麼試圖在規劃階段解決本不該在此解決的問題。這支影片透過 9 個失敗模式，揭示如何精準控制 Grilling Session 的品質、範疇與效率，讓規劃真正轉化為可執行的工程決策。 [詳細重點整理] 1. 混淆高低保真度問題 [00:00–03:44] 問題分為兩類 ： - 低保真度問題（Low-Fidelity）：可直接在問答中回答，例如「這個路由的 URL 應該是什麼？」——可被「Grillable」 - 高保真度問題（High-Fidelity）：需要實際看到原型才能回答，例如「這個 UI 填表流程應該是單頁還是多頁？」——屬於「Ungrillable」 遇到 Ungril",
+    "url": "/notes/grill-skills-9-wrong-things"
+  },
+  {
     "id": "introducing-webmcp-agents-in-the-browser",
     "title": "WebMCP 與 MCP Apps：讓 Web 成為 Agent 的無限畫布",
     "category": "AI筆記",
