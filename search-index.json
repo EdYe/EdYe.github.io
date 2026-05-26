@@ -1,5 +1,21 @@
 [
   {
+    "id": "high-value-hobbies-everyone-should-master",
+    "title": "高價值嗜好：對抗螢幕成癮與AI依賴的系統化解方",
+    "category": "影片筆記",
+    "tags": [
+      "社群媒體與AI、神經科學、VIBE框架、嗜好執行、主體性"
+    ],
+    "description": "螢幕成癮與AI濫用正對大腦發動雙重攻擊——前者透過多巴胺碎片化專注力，後者透過代勞思考消滅個人主體性（Agency）。解方不是數位排毒，而是培養高價值嗜好。",
+    "quote": "機器可以複製你的輸出，但永遠無法複製產生那份輸出的人生。越是機器像人，我們就越不必像機器。",
+    "action": "用VIBE四問診斷最缺的支柱，選1-2個嗜好先做三次再決定，執行期間不拍不發專注分鐘。",
+    "image": "/images/影片筆記/high-value-hobbies-everyone-should-master.jpeg",
+    "date": "2026-05-26",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 螢幕成癮與 AI 濫用正對大腦發動雙重攻擊——前者透過多巴胺碎片化專注力，後者透過代勞思考消滅個人主體性（Agency）。解方不是數位排毒，而是培養高價值嗜好。諾貝爾獎得主研究顯示，嗜好是高效能的燃料，而非奢侈品。VIBE 框架提供了選擇正確嗜好的系統化路徑。 [詳細重點整理] 1. 大腦的雙重攻擊：社群媒體 + AI  美國人平均每天花 10 小時消費螢幕內容，帶來三大副作用： - 多巴胺耐受性上升（需要更多刺激才有相同滿足感） - 「分享優先於感受」——用手機拍攝體驗取代真實享受 - 快感缺失症（Anhedonia）：無法從平凡事物中感到快樂 Microsoft 研究 300 名專業人士發現：過度依賴 AI 者，其批判性思維近乎停擺——「你送別人去健身房，卻希望自己的身體更健康。」這是 Agency（主體性）的外包，比注意力喪失更危險。  關鍵概念：深假精通（Deepfake Mastery） — 外表看似完成，實則是空洞的輸出，毫無真實的神經成長。 2. 嗜好的神經科學邏輯  大腦只在「被現實驚喜」時才真正適應與成長。 當你滑 Feed 或讓 AI 代寫策略文件時：",
+    "url": "/notes/high-value-hobbies-everyone-should-master"
+  },
+  {
     "id": "grill-skills-9-wrong-things",
     "title": "9 件工程師在 /grill-* 技能中常犯的錯誤",
     "category": "影片筆記",
@@ -18,6 +34,26 @@
     "source_has_timestamps": true,
     "body": "9 Things People Get Wrong With /grill-\\ Skills Matt Pocock｜2026年5月25日｜片長 13:28 [核心摘要] /grill-me 與 /grill-with-docs 技能是 AI Agent 規劃模式（Plan Mode）的替代工具，核心概念是透過持續問答建立對任務的「共識理解」。然而多數工程師誤用了它——他們要麼被動接受 AI 狂問 200 題、要麼試圖在規劃階段解決本不該在此解決的問題。這支影片透過 9 個失敗模式，揭示如何精準控制 Grilling Session 的品質、範疇與效率，讓規劃真正轉化為可執行的工程決策。 [詳細重點整理] 1. 混淆高低保真度問題 [00:00–03:44] 問題分為兩類 ： - 低保真度問題（Low-Fidelity）：可直接在問答中回答，例如「這個路由的 URL 應該是什麼？」——可被「Grillable」 - 高保真度問題（High-Fidelity）：需要實際看到原型才能回答，例如「這個 UI 填表流程應該是單頁還是多頁？」——屬於「Ungrillable」 遇到 Ungril",
     "url": "/notes/grill-skills-9-wrong-things"
+  },
+  {
+    "id": "evals-for-taste-slide-agent",
+    "title": "Eval 飛輪：為 AI Agent 打造可量化的品質迭代系統",
+    "category": "影片筆記",
+    "tags": [
+      "Evals",
+      "Grader",
+      "QA Loop",
+      "評估飛輪",
+      "迭代優化"
+    ],
+    "description": "本影片以Slide Generation Agent為實戰案例，示範如何為 AI Agent 設計、校正、迭代 Eval 體系。核心痛點是多數開發者缺乏客觀衡量指標，導致 Agent 調優全憑「感覺」。",
+    "quote": "Evals 不是你做一次就忘記的東西——它們是活的制品，必須隨系統演化。",
+    "action": "先定義「成功」長什麼樣，用 Code Grader 管確定性邊界、Model Grader 管品質語意，並給 Judge 設具體錨點防止分數漂移。",
+    "image": "/images/影片筆記/evals-for-taste-slide-agent.jpeg",
+    "date": "2026-05-26",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 本影片以Slide Generation Agent為實戰案例，系統性示範如何為 AI Agent 設計、校正、迭代 Eval（評估）體系。核心痛點是：多數開發者缺乏客觀衡量指標，導致 Agent 調優全憑「感覺」、無法量化進步或退化。影片提出以Rubric 驅動的 Eval 飛輪取代主觀判斷，搭配 Code Grader + Model Grader + QA Loop 實現可重複、可行動的品質迭代。 [youtube](https://www.youtube.com/watch?v=Gz7S1v1k664) [詳細重點整理] 1. 什麼是 Evals？  Eval 是針對特定 AI 系統的系統性測試集，由「任務情境」與「評分邏輯（Grader）」組成，讓「感覺好一點」轉化為可行動的數字信號。沒有 Evals，你只能在生產環境被動等 bug；有了 Evals，你可以主動定義「成功」並驗證每次迭代是否真的提升。 [youtube](https://www.youtube.com/watch?v=Gz7S1v1k664) 關鍵概念： Eval 即成功定義的形式化（Forma",
+    "url": "/notes/evals-for-taste-slide-agent"
   },
   {
     "id": "bounded-autonomy",
