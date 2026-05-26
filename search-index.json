@@ -1,5 +1,25 @@
 [
   {
+    "id": "mcp-gateway-pattern-enterprise",
+    "title": "MCP 閘道器模式：企業悄悄採用的 AI 採購架構",
+    "category": "AI筆記",
+    "tags": [
+      "MCP閘道器",
+      "企業採購",
+      "意圖分類",
+      "安全策略",
+      "遞迴編排"
+    ],
+    "description": "大型企業正悄悄採用 MCP 閘道器模式取代繁瑣的 ERP 採購操作介面，透過統一的 ChatGPT App 與 MCP 協調器自動判別採購意圖並路由到正確後端，解決系統邊界導致的 AI 體驗斷鏈問題。",
+    "quote": "真正的 AI 轉型，不是讓員工學會新系統，而是讓系統學會消失在員工的視線之外。",
+    "action": "從公司內部最沒人想學的系統下手，用 MCP 協調器包裝成自然語言介面，快速展示 AI 實際價值。",
+    "image": "/images/AI筆記/mcp-gateway-pattern-enterprise.jpeg",
+    "date": "2026-05-26",
+    "source_has_timestamps": true,
+    "body": "The MCP Gateway Pattern Big Enterprises Are Quietly Adopting [核心摘要] 大型企業（如 PwC 客戶）正悄悄採用一種新架構：以 MCP 閘道器模式（MCP Gateway Pattern） 取代繁瑣的 ERP 與採購系統操作介面。核心痛點是——技術採購人員（研究、機器人、營運部門）不願深入學習複雜的後端系統。透過一個統一的 ChatGPT App + MCP 協調器，系統自動判別採購意圖並路由到正確後端，解決了系統邊界導致的 AI 體驗斷鏈問題。 [詳細重點整理] 1. 企業採購的真實痛點  技術採購人員——無論是 AI 研究員、機器人工程師還是營運人員——都不願意學習 ERP 和採購系統的複雜操作介面。 他們的目標只是「買到 GPU 或機器手臂」，而不是學習系統流程。這個脫節每年造成大量企業效率損耗。 關鍵概念：系統邊界斷鏈（System Boundary Breakdown） 2. 核心架構：GPT App + MCP 協調器  整體架構由三層構成： - 前端：一個 ChatGPT App，作為統一對話介面 - 中間層：",
+    "url": "/notes/mcp-gateway-pattern-enterprise"
+  },
+  {
     "id": "high-value-hobbies-everyone-should-master",
     "title": "高價值嗜好：對抗螢幕成癮與AI依賴的系統化解方",
     "category": "影片筆記",
