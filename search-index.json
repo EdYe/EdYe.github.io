@@ -1,5 +1,25 @@
 [
   {
+    "id": "shopify-public-ai-work",
+    "title": "Shopify CEO 揭秘：讓整個公司越來越聰明的 AI 協作秘訣",
+    "category": "AI筆記",
+    "tags": [
+      "公開化AI工作",
+      "知識可見性",
+      "Polanyi悖論",
+      "隱性知識",
+      "組織複利"
+    ],
+    "description": "Shopify 的 AI 內部 Coding Agent「River」之所以強大，關鍵不在技術規格，而在一個設計決策：River 只能在公開 Slack 頻道中使用，任何人都可以回溯查看資深工程師如何下達指令、如何修正 Agent 的錯誤。",
+    "quote": "個人越來越快，組織卻原地踏步——除非你讓學習變得可見。",
+    "action": "立刻在 Slack/Teams 開「AI 工作台」公開頻道，主管率先示範公開 AI 工作流程，並將 Agent DM 功能關閉以架構約束取代員工自律。",
+    "image": "/images/AI筆記/shopify-public-ai-work.jpeg",
+    "date": "2026-05-27",
+    "source_has_timestamps": true,
+    "body": "Shopify CEO 揭秘：讓整個公司越來越聰明的 AI 協作秘訣 核心洞察： 多數企業的 AI 問題不是工具不夠，而是學習不可見。當優秀的 AI 工作流全藏在個人私有視窗裡，個人越來越聰明，組織卻原地踏步。 [youtube](https://www.youtube.com/?app=desktop&hl=zh-tw) [核心摘要] Shopify 的 AI 內部 Coding Agent「River」之所以強大，關鍵不在技術規格，而在一個設計決策：River 只能在公開 Slack 頻道中使用，任何人都可以回溯查看資深工程師如何下達指令、如何修正 Agent 的錯誤。這個「公開化 AI 工作」的設計，解決了現代企業最隱性的知識流失問題——學徒制斷層（Apprenticeship Gap）。 [詳細重點整理] 1. Shopify River 的驚人數據  在一個 30 天的週期內，River 被 5,938 名 Shopify 員工跨越 4,400+ 個 Slack 頻道使用。單週就開出 1,800 個 Pull Request，且目前 Shopify 主 mono repo 每",
+    "url": "/notes/shopify-public-ai-work"
+  },
+  {
     "id": "claude-code-rtk-saves-90-tokens",
     "title": "Claude Code + RTK：節省 90% Token 消耗",
     "category": "影片筆記",
