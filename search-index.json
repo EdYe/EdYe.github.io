@@ -1,5 +1,25 @@
 [
   {
+    "id": "claude-code-rtk-saves-90-tokens",
+    "title": "Claude Code + RTK：節省 90% Token 消耗",
+    "category": "影片筆記",
+    "tags": [
+      "Context Window",
+      "Token壓縮",
+      "RTK",
+      "Shell指令",
+      "輸出蒸餾"
+    ],
+    "description": "RTK（Runtime Token Kit）是一個免費開源的 CLI 工具，專門解決 Claude Code 使用 shell 指令時的 Context Window 爆炸問題。它攔截終端機指令的原始輸出，壓縮後才送入 Claude 的上下文記憶體，在典型的 30 分鐘工作 Session 中可將 Token 消耗從 11.8 萬降至約 2.39 萬",
+    "quote": "節省 Token 不靠省著用，靠在資訊進入 Context 之前就把它壓縮。",
+    "action": "5 分鐘安裝 RTK，執行 cargo install rtk 與 rtk init -g 全域初始化，自動壓縮所有 shell 指令輸出",
+    "image": "/images/影片筆記/claude-code-rtk-saves-90-tokens.jpeg",
+    "date": "2026-05-27",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] RTK（Runtime Token Kit） 是一個免費開源的 CLI 工具，專門解決 Claude Code 使用 shell 指令時的 Context Window 爆炸問題。它攔截終端機指令的原始輸出，壓縮後才送入 Claude 的上下文記憶體，在典型的 30 分鐘工作 Session 中可將 Token 消耗從 11.8 萬降至約 2.39 萬，節省 80% 費用，且安裝後完全靜默執行、零維護。 [youtube](https://www.youtube.com/watch?v=m3i2mk5hs8U) [詳細重點整理] 1. 為什麼 Token 被燒光？ Claude Code 每執行一條終端機指令（如 git status、npm install、git diff），就會把指令的完整原始輸出塞入 Context Window。例如 npm install 可能產生 47 行輸出，全數計為 Token，長期累積下來一個工作 Session 即可燒掉 118,000 tokens。 [youtube](https://www.youtube.com/watch?v",
+    "url": "/notes/claude-code-rtk-saves-90-tokens"
+  },
+  {
     "id": "ai-native-vs-ai-enabled",
     "title": "AI 原生 vs AI 賦能：錯押架構的代價以年計算",
     "category": "AI筆記",
