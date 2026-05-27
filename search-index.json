@@ -20,6 +20,26 @@
     "url": "/notes/shopify-public-ai-work"
   },
   {
+    "id": "organizational-singularity",
+    "title": "組織奇點：企業的新就業時代",
+    "category": "AI筆記",
+    "tags": [
+      "組織奇點",
+      "ExO框架",
+      "AI原生",
+      "智慧堆疊",
+      "轉型方法論"
+    ],
+    "description": "組織奇點（Organizational Singularity）是指當 AI 代理人的能力超越傳統科層組織的協調效率後，企業必須從「以人為中心的階層架構」轉型為「以智慧為核",
+    "quote": "Building the feature is cheaper than having the meeting about the feature.",
+    "action": "在組織邊緣建立 AI 原生新實體，直接向 CXO 匯報，以 ExO 3.0 架構從零設計，避免舊有組織的免疫系統排斥。",
+    "image": "/images/AI筆記/organizational-singularity.jpeg",
+    "date": "2026-05-27",
+    "source_has_timestamps": true,
+    "body": "🎯 組織奇點：企業的新就業時代 來源： MOONSHOTS Podcast EP #258 | Peter Diamandis × Salim Ismail | 2026.05.26  [youtube](https://www.youtube.com/watch?v=0TpFfTOuhU) [核心摘要] 組織奇點（Organizational Singularity） 是指當 AI 代理人（AI Agents）的能力超越傳統科層組織的協調效率後，企業必須從「以人為中心的階層架構」轉型為「以智慧為核心的 AI 原生架構」。核心痛點：80% 的企業 AI 專案正在失敗，原因是把 AI 嵌入舊有的人工流程，而非重建一套 AI 原生的組織系統。Salim Ismail 提出完整的 ExO 3.0 框架與六步轉型方法論，指出企業若不主動重構，將在 1-2 年內被 2-3 人的 AI 原生團隊顛覆。 [youtube](https://www.youtube.com/watch?v=0TpFfTOuhU) [詳細重點整理] 1. 為什麼舊組織模式已死 [00:00–08:20] 企業組織百年來",
+    "url": "/notes/organizational-singularity"
+  },
+  {
     "id": "claude-code-rtk-saves-90-tokens",
     "title": "Claude Code + RTK：節省 90% Token 消耗",
     "category": "影片筆記",
@@ -38,6 +58,26 @@
     "source_has_timestamps": true,
     "body": "[核心摘要] RTK（Runtime Token Kit） 是一個免費開源的 CLI 工具，專門解決 Claude Code 使用 shell 指令時的 Context Window 爆炸問題。它攔截終端機指令的原始輸出，壓縮後才送入 Claude 的上下文記憶體，在典型的 30 分鐘工作 Session 中可將 Token 消耗從 11.8 萬降至約 2.39 萬，節省 80% 費用，且安裝後完全靜默執行、零維護。 [youtube](https://www.youtube.com/watch?v=m3i2mk5hs8U) [詳細重點整理] 1. 為什麼 Token 被燒光？ Claude Code 每執行一條終端機指令（如 git status、npm install、git diff），就會把指令的完整原始輸出塞入 Context Window。例如 npm install 可能產生 47 行輸出，全數計為 Token，長期累積下來一個工作 Session 即可燒掉 118,000 tokens。 [youtube](https://www.youtube.com/watch?v",
     "url": "/notes/claude-code-rtk-saves-90-tokens"
+  },
+  {
+    "id": "ai-pm-skill-job-offers",
+    "title": "讓你立刻獲得 Offer 的 AI PM 技能",
+    "category": "AI筆記",
+    "tags": [
+      "產品品味",
+      "Build-Trace-Eval-Loop",
+      "PM Agent",
+      "Evals",
+      "Context Graph"
+    ],
+    "description": "在 AI 代理（Agent）時代，程式碼已是廉價商品，PM 的真正競爭優勢在於「產品品味（Product Taste）」——即判斷什麼值得建造的直覺。本集完整示範從零到一：用 Claude Code 建造 PM Agent → 用 Arize 做 Tracing 可觀測性 → 用 Evals 量化品質",
+    "quote": "使用觀測性工具、查看 Traces 和 Evals 的 PM，可能已經是業界前 1% 了。",
+    "action": "這個週末花 2 小時：選一個產品、開啟 Claude Code 建立 PM Agent、接上 Arize Phoenix 做 Tracing、讓 Claude 建議 v0 Eval 並校準，設定自動 Loop。",
+    "image": "/images/AI筆記/ai-pm-skill-job-offers.jpeg",
+    "date": "2026-05-27",
+    "source_has_timestamps": true,
+    "body": "🎯 讓你立刻獲得 Offer 的 AI PM 技能 主講： Aparna Dhinakaran（Arize AI 共同創辦人 & CPO，融資 $1.31 億） [youtube](https://www.youtube.com/watch?v=i7930fj3T54) 主持： Aakash Gupta｜時長：1 小時 19 分 [youtube](https://www.youtube.com/watch?v=i7930fj3T54) [核心摘要] 在 AI 代理（Agent）時代，程式碼已是廉價商品，PM 的真正競爭優勢在於「產品品味（Product Taste）」——即判斷什麼值得建造的直覺。本集完整示範從零到一：用 Claude Code 建造 PM Agent → 用 Arize 做 Tracing 可觀測性 → 用 Evals 量化品質 → 自動化自我改善迴圈，解決 AI 代理「黑盒子、無法除錯、無法持續進步」的核心痛點。 [youtube](https://www.youtube.com/watch?v=i7930fj3T54) [詳細重點整理] 1. PM 最大誤區：",
+    "url": "/notes/ai-pm-skill-job-offers"
   },
   {
     "id": "ai-native-vs-ai-enabled",
