@@ -20,6 +20,26 @@
     "url": "/notes/maturity-phases-running-evals"
   },
   {
+    "id": "conflict-management-styles",
+    "title": "衝突管理五風格：Rahim 雙維度模型精準定位你的應對模式",
+    "category": "影片筆記",
+    "tags": [
+      "衝突管理",
+      "Rahim雙維度框架",
+      "合作風格",
+      "妥協風格",
+      "職場溝通"
+    ],
+    "description": "職場與人際衝突中，大多數人缺乏自我覺察，不清楚自己慣用哪種衝突應對模式，導致關係受損或需求長期壓抑。本影片透過 Rahim 雙維度模型（自我關注 × 他人關注），將衝突風格",
+    "quote": "合作不是放棄自我，而是讓自我與他人同時贏得尊重。",
+    "action": "用 2+1 自我診斷法則評分自我與他人關注，找出慣用風格，並規劃練習合作或妥協的場景。",
+    "image": "/images/影片筆記/conflict-management-styles.jpeg",
+    "date": "2026-05-28",
+    "source_has_timestamps": true,
+    "body": "以下是這部 Conflict Management Styles（衝突管理風格）影片的結構化筆記： [核心摘要] 職場與人際衝突中，大多數人缺乏自我覺察，不清楚自己慣用哪種衝突應對模式，導致關係受損或需求長期壓抑。本影片透過 Rahim 雙維度模型（自我關注 × 他人關注），將衝突風格拆解為五種可量化的類型，幫助你精準定位自身傾向，並了解各風格的優缺點，進而做出更有策略性的調整。 [詳細重點整理] 1. Rahim 雙維度框架  Dr. Mohammad Rahim 的模型以兩個軸線定義衝突風格 ： - X 軸（水平）：對他人的關注程度（低 → 高） - Y 軸（垂直）：對自我的關注程度（低 → 高） 將兩軸交叉後，產生四個象限加上中心點，形成五種衝突風格。  關鍵概念：雙維度衝突矩陣（Dual-Concern Matrix） 2. 迴避風格（Avoiding Style） 自我關注低 + 他人關注低 → 完全不想進入衝突 。 - 優點：短期內避免不適 - 缺點：雙輸（Lose-Lose），誰的需求都得不到滿足，問題持續積累  關鍵概念：衝突壓制（Conflict Suppressio",
+    "url": "/notes/conflict-management-styles"
+  },
+  {
     "id": "comprehend-first-code-later",
     "title": "Comprehend First, Code Later：大型程式碼庫的 AI 理解優先策略",
     "category": "AI筆記",
