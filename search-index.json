@@ -20,6 +20,46 @@
     "url": "/notes/maturity-phases-running-evals"
   },
   {
+    "id": "how-to-communicate-clearly-and-concisely",
+    "title": "職場溝通五步驟：清晰、簡潔又自信地表達",
+    "category": "影片筆記",
+    "tags": [
+      "平易近人的語言",
+      "簡潔句子",
+      "邏輯架構",
+      "PREP法則",
+      "說話信念"
+    ],
+    "description": "職場溝通最大的痛點，是人們習慣用複雜詞彙、冗長句子、缺乏結構的方式說話，反而讓自己顯得不清楚、不自信。本影片提供一套完整的五步驟框架，從「用字選擇」到「語氣表達",
+    "quote": "簡單的語言，就是清晰的語言。當每個人都能理解你，你才能真正充滿自信地說話。",
+    "action": "用 S-P-C 法則：簡單詞彙、條列式短句、說話帶信念",
+    "image": "/images/影片筆記/how-to-communicate-clearly-and-concisely.jpeg",
+    "date": "2026-05-28",
+    "source_has_timestamps": true,
+    "body": "How to Communicate Clearly and Concisely — Free Mini-Training 影片資訊： Communication Coach Alexander Lyon 出品，共 42 分鐘，整合五集系列課程，核心主題為「如何清晰、簡潔又自信地表達」。 [核心摘要] 職場溝通最大的痛點，是人們習慣用複雜詞彙、冗長句子、缺乏結構的方式說話，反而讓自己顯得不清楚、不自信。本影片提供一套完整的五步驟框架，從「用字選擇」到「語氣表達」，解決從語言到身體語言的溝通障礙，讓任何專業人士都能立刻上手並應用在工作場合。 [詳細重點整理] 1. 使用平易近人的語言  避免使用「花俏詞彙」來假裝聰明或掩蓋思路不清的問題。理查．費曼的核心論點是：若你無法向初學者解釋一個概念，代表你自己也還沒真正理解它。 實際建議： - 用「think（想）」取代「contemplate（沉思）」，用「problem（問題）」取代「problematic（議題）」 - 避免行業術語、縮寫（如 SME、ROI、POV），直接說出完整詞語 - 執行「反向字典練習」：主動尋找更清晰、更簡單的替代",
+    "url": "/notes/how-to-communicate-clearly-and-concisely"
+  },
+  {
+    "id": "do-something-principle-mark-manson",
+    "title": "「去做點什麼」：高成就者共有的核心原則",
+    "category": "影片筆記",
+    "tags": [
+      "價值觀錯位",
+      "逆向押注",
+      "過程即成果",
+      "Do Something Principle",
+      "失敗即資訊"
+    ],
+    "description": "Mark Manson 揭示：多數人追求成功時，根本問題不在於「努力不夠」，而是從未質疑自己衡量成功的標準是否正確。追求錯誤的價值觀、只想要結果卻不願承擔過程的",
+    "quote": "靈感不是行動的原因，而是行動的結果。",
+    "action": "用 C-R-E 法則：主動尋找逆向想法、驗證假設，再從最小可執行行動開始全力押注",
+    "image": "/images/影片筆記/do-something-principle-mark-manson.jpeg",
+    "date": "2026-05-28",
+    "source_has_timestamps": true,
+    "body": "📌 [核心摘要] Mark Manson 揭示：多數人追求成功時，根本問題不在於「努力不夠」，而是從未質疑自己衡量成功的標準是否正確。追求錯誤的價值觀、只想要結果卻不願承擔過程的代價，是失敗的根本原因。「Do Something Principle（去做點什麼原則）」 是他提出最核心的可執行法則：靈感不是行動的原因，而是行動的結果。 [詳細重點整理] 1. 成功的定義問題  多數人無法清晰定義自己的成功指標，誤以為想要豪車、豪宅，實際上真正渴望的是「尊重、認可與關注」。若不釐清衡量成功的標準，就無法知道自己願意為此放棄什麼，這等同於從一開始就注定失敗。 關鍵概念：價值觀錯位（Value Misalignment） 2. 卓越成功的三個必要條件  要達到頂尖的異常成功，必須同時做到三件事，而大多數人只關注其中一件： - 逆向思維（Contrarian Idea）：要抓住 99.9% 的人看不到的機會，你必須願意追求 99.9% 的人認為愚蠢的想法 - 判斷正確（Being Right）：大多數逆向想法之所以逆向，是因為它們確實是錯的；你必須找到那個被眾人忽略但實際正確的想法 - 全力投",
+    "url": "/notes/do-something-principle-mark-manson"
+  },
+  {
     "id": "conflict-management-styles",
     "title": "衝突管理五風格：Rahim 雙維度模型精準定位你的應對模式",
     "category": "影片筆記",
