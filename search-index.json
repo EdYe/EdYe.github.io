@@ -40,6 +40,26 @@
     "url": "/notes/comprehend-first-code-later"
   },
   {
+    "id": "claude-code-workflow-orchestration",
+    "title": "Claude Code Workflow：以程式碼取代 LLM 擔任 Orchestrator",
+    "category": "AI筆記",
+    "tags": [
+      "多智能體編排",
+      "Workflow工具",
+      "Token預算",
+      "確定性編排",
+      "Claude Code"
+    ],
+    "description": "Anthropic 悄悄在 Claude Code 中新增了 Workflow 工具，實現「確定性多智能體編排」。過去的 Sub-Agent 架構讓主 Orchestrator 的 Context Window 因反覆傳遞中間結果而膨脹",
+    "quote": "讓程式碼來編排，而不是讓模型來記憶。",
+    "action": "設定 CLAUDE_WORKFLOWS=true 並翻查舊 Session，找出適合轉換為 Workflow 的重複性任務",
+    "image": "/images/AI筆記/claude-code-workflow-orchestration.jpeg",
+    "date": "2026-05-28",
+    "source_has_timestamps": true,
+    "body": "Anthropic Just Dropped the Feature Everyone Needed 頻道： Ray Amjad｜發布日期： 2026年5月22日｜片長： 16分16秒 [核心摘要] Anthropic 悄悄在 Claude Code 中新增了 Workflow 工具，實現「確定性多智能體編排」。過去的 Sub-Agent 架構讓主 Orchestrator 的 Context Window 因反覆傳遞中間結果而膨脹，導致效能下降且 Token 浪費嚴重。新的 Workflow 機制以 JavaScript 程式碼取代 LLM 擔任 Orchestrator，讓 Sub-Agent 之間的結果可以直接傳遞，徹底解決 Token 稅與「越跑越笨」的問題。 [詳細重點整理] 1. 舊架構的三大痛點  舊的 Sub-Agent 工作流讓主 Session 充當 Orchestrator，每個 Sub-Agent 的結果都會回流到主 Context Window 再傳給下一個 Agent。 - Token 稅：中間結果在主 Session 與 Sub-Agent 之間反覆來回，",
+    "url": "/notes/claude-code-workflow-orchestration"
+  },
+  {
     "id": "ai-deck-hostile-review",
     "title": "用 AI 建簡報，再派另一個 AI 來攻擊它",
     "category": "AI筆記",
