@@ -1,5 +1,25 @@
 [
   {
+    "id": "maturity-phases-running-evals",
+    "title": "Eval 成熟度模型：從直覺判斷到自動化 CI/CD 飛輪",
+    "category": "AI筆記",
+    "tags": [
+      "Eval評測",
+      "Agent品質",
+      "LLM as Judge",
+      "Eval飛輪",
+      "工具調用"
+    ],
+    "description": "多數團隊將 Eval 當作單元測試來寫，試圖窮舉所有可能的失敗情況，但這是錯誤框架。正確做法是：鎖定已知失敗模式、精準覆蓋、快速交付",
+    "quote": "Eval 不是在跑測試，而是在重播生產。",
+    "action": "先定義失敗模式（F），人工標注附理由（D），讓每個生產異常成為下一輪改善的燃料（F）",
+    "image": "/images/AI筆記/maturity-phases-running-evals.jpeg",
+    "date": "2026-05-28",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 多數團隊將 Eval 當作單元測試來寫，試圖窮舉所有可能的失敗情況，但這是錯誤框架。正確做法是：鎖定已知失敗模式、精準覆蓋、快速交付，並建立「生產追蹤 → 離線實驗 → 改善方向」的飛輪循環，讓 Eval 成為持續提升 Agent 品質的引擎，而非無止盡的測試負擔。 [詳細重點整理] 1. Eval 的根本目的與核心原則  Eval 的存在完全服務於「Agent 品質」——確保 Agent 在真實使用者與真實使用情境下，能夠如預期運作。風險涵蓋三個層面：品牌聲譽風險（Agent 對客戶不友善）、系統成本風險（Agent 運行成本失控）、合規與法律風險（Agent 行為越界）。 關鍵概念：失敗模式導向（Failure-Mode-Driven Evals） Eval 的設計邏輯與單元測試根本不同： - ❌ 不要窮舉所有可能出錯的情況（無限，無法交付） - ✅ 先由領域專家定義「已知失敗模式」，再針對這些模式建立 Eval - Eval 結果不必是 100 分，方向性趨勢正確即可接受 2. 第一成熟度階段：Vibe Check + 文件化  初期從「直覺判斷（Vibe Chec",
+    "url": "/notes/maturity-phases-running-evals"
+  },
+  {
     "id": "comprehend-first-code-later",
     "title": "Comprehend First, Code Later：大型程式碼庫的 AI 理解優先策略",
     "category": "AI筆記",
