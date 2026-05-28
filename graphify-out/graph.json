@@ -141,27 +141,27 @@
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L1",
+      "id": "scripts_rebuild_index_js",
       "community": 101,
-      "norm_label": "rebuild-index.js",
-      "id": "scripts_rebuild_index_js"
+      "norm_label": "rebuild-index.js"
     },
     {
       "label": "parseFrontMatter()",
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L11",
+      "id": "rebuild_index_parsefrontmatter",
       "community": 101,
-      "norm_label": "parsefrontmatter()",
-      "id": "rebuild_index_parsefrontmatter"
+      "norm_label": "parsefrontmatter()"
     },
     {
       "label": "buildIndex()",
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L45",
+      "id": "rebuild_index_buildindex",
       "community": 101,
-      "norm_label": "buildindex()",
-      "id": "rebuild_index_buildindex"
+      "norm_label": "buildindex()"
     },
     {
       "label": "\u5efa\u7acb\u8ac7\u5224\u81ea\u4fe1\u8207\u6d88\u9664\u6469\u64e6",
@@ -18359,9 +18359,9 @@
       "captured_at": null,
       "author": "Patrick L\u00f6ber",
       "contributor": null,
-      "id": "any_to_any_multimodal_architecture",
       "community": 81,
-      "norm_label": "any-to-any native multimodal architecture"
+      "norm_label": "any-to-any native multimodal architecture",
+      "id": "any_to_any_multimodal_architecture"
     },
     {
       "label": "Gemini Native Multimodal",
@@ -18372,9 +18372,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "any_to_any_gemini",
       "community": 81,
-      "norm_label": "gemini native multimodal"
+      "norm_label": "gemini native multimodal",
+      "id": "any_to_any_gemini"
     },
     {
       "label": "Generation as Tool (\u751f\u6210\u5373\u5de5\u5177)",
@@ -18385,9 +18385,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "any_to_any_generation_as_tool",
       "community": 81,
-      "norm_label": "generation as tool (\u751f\u6210\u5373\u5de5\u5177)"
+      "norm_label": "generation as tool (\u751f\u6210\u5373\u5de5\u5177)",
+      "id": "any_to_any_generation_as_tool"
     },
     {
       "label": "Audio-to-Audio Single Architecture (A2A)",
@@ -18398,9 +18398,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "any_to_any_audio_architecture",
       "community": 81,
-      "norm_label": "audio-to-audio single architecture (a2a)"
+      "norm_label": "audio-to-audio single architecture (a2a)",
+      "id": "any_to_any_audio_architecture"
     },
     {
       "label": "Dynamic Modality Decision by Reasoning Agent",
@@ -18411,9 +18411,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "any_to_any_reasoning_agent",
       "community": 81,
-      "norm_label": "dynamic modality decision by reasoning agent"
+      "norm_label": "dynamic modality decision by reasoning agent",
+      "id": "any_to_any_reasoning_agent"
     },
     {
       "label": "PFF AI-Enhanced Engineering Experiment",
@@ -18424,9 +18424,9 @@
       "captured_at": null,
       "author": "Mike Spitz",
       "contributor": null,
-      "id": "agents_standups_pff",
       "community": 13,
-      "norm_label": "pff ai-enhanced engineering experiment"
+      "norm_label": "pff ai-enhanced engineering experiment",
+      "id": "agents_standups_pff"
     },
     {
       "label": "Inverted Bottleneck Mindset (\u53cd\u5411\u74f6\u9838\u601d\u7dad)",
@@ -18437,9 +18437,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_standups_inverted_bottleneck",
       "community": 13,
-      "norm_label": "inverted bottleneck mindset (\u53cd\u5411\u74f6\u9838\u601d\u7dad)"
+      "norm_label": "inverted bottleneck mindset (\u53cd\u5411\u74f6\u9838\u601d\u7dad)",
+      "id": "agents_standups_inverted_bottleneck"
     },
     {
       "label": "Factory-model SDLC (\u5de5\u5ee0\u5316\u958b\u767c)",
@@ -18450,9 +18450,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_standups_factory_sdlc",
       "community": 13,
-      "norm_label": "factory-model sdlc (\u5de5\u5ee0\u5316\u958b\u767c)"
+      "norm_label": "factory-model sdlc (\u5de5\u5ee0\u5316\u958b\u767c)",
+      "id": "agents_standups_factory_sdlc"
     },
     {
       "label": "LDD (Lightweight Design Document)",
@@ -18463,9 +18463,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_standups_ldd",
       "community": 13,
-      "norm_label": "ldd (lightweight design document)"
+      "norm_label": "ldd (lightweight design document)",
+      "id": "agents_standups_ldd"
     },
     {
       "label": "QA Agent Auto-Verification",
@@ -18476,9 +18476,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_standups_qa_agent",
       "community": 13,
-      "norm_label": "qa agent auto-verification"
+      "norm_label": "qa agent auto-verification",
+      "id": "agents_standups_qa_agent"
     },
     {
       "label": "Harness Engineering (\u6846\u67b6\u5de5\u7a0b)",
@@ -18489,9 +18489,9 @@
       "captured_at": null,
       "author": "Fareed Khan",
       "contributor": null,
-      "id": "harness_engineering_core",
       "community": 13,
-      "norm_label": "harness engineering (\u6846\u67b6\u5de5\u7a0b)"
+      "norm_label": "harness engineering (\u6846\u67b6\u5de5\u7a0b)",
+      "id": "harness_engineering_core"
     },
     {
       "label": "Perception-Action Loop (\u611f\u77e5-\u884c\u52d5-\u89c0\u5bdf\u5faa\u74b0)",
@@ -18502,9 +18502,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "harness_perception_action_loop",
       "community": 13,
-      "norm_label": "perception-action loop (\u611f\u77e5-\u884c\u52d5-\u89c0\u5bdf\u5faa\u74b0)"
+      "norm_label": "perception-action loop (\u611f\u77e5-\u884c\u52d5-\u89c0\u5bdf\u5faa\u74b0)",
+      "id": "harness_perception_action_loop"
     },
     {
       "label": "Typed Dispatch Registry (\u5de5\u5177\u8abf\u5ea6\u767b\u9304\u8868)",
@@ -18515,9 +18515,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "harness_typed_dispatch",
       "community": 13,
-      "norm_label": "typed dispatch registry (\u5de5\u5177\u8abf\u5ea6\u767b\u9304\u8868)"
+      "norm_label": "typed dispatch registry (\u5de5\u5177\u8abf\u5ea6\u767b\u9304\u8868)",
+      "id": "harness_typed_dispatch"
     },
     {
       "label": "Context Isolation (\u5b50\u667a\u80fd\u9ad4\u4e0a\u4e0b\u6587\u9694\u96e2)",
@@ -18528,9 +18528,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "harness_context_isolation",
       "community": 13,
-      "norm_label": "context isolation (\u5b50\u667a\u80fd\u9ad4\u4e0a\u4e0b\u6587\u9694\u96e2)"
+      "norm_label": "context isolation (\u5b50\u667a\u80fd\u9ad4\u4e0a\u4e0b\u6587\u9694\u96e2)",
+      "id": "harness_context_isolation"
     },
     {
       "label": "FSM Team Protocol (\u6709\u9650\u72c0\u614b\u6a5f\u5354\u8b70)",
@@ -18541,9 +18541,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "harness_fsm_team_protocol",
       "community": 13,
-      "norm_label": "fsm team protocol (\u6709\u9650\u72c0\u614b\u6a5f\u5354\u8b70)"
+      "norm_label": "fsm team protocol (\u6709\u9650\u72c0\u614b\u6a5f\u5354\u8b70)",
+      "id": "harness_fsm_team_protocol"
     },
     {
       "label": "Production Harness (Git Worktree + Permissions + MCP)",
@@ -18554,9 +18554,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "harness_production_harness",
       "community": 13,
-      "norm_label": "production harness (git worktree + permissions + mcp)"
+      "norm_label": "production harness (git worktree + permissions + mcp)",
+      "id": "harness_production_harness"
     },
     {
       "label": "TodoWrite Execution Planning",
@@ -18567,9 +18567,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "harness_todo_write",
       "community": 13,
-      "norm_label": "todowrite execution planning"
+      "norm_label": "todowrite execution planning",
+      "id": "harness_todo_write"
     },
     {
       "label": "Prompt Cache KV Optimization (92% prefix reuse)",
@@ -18580,9 +18580,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "harness_prompt_cache",
       "community": 13,
-      "norm_label": "prompt cache kv optimization (92% prefix reuse)"
+      "norm_label": "prompt cache kv optimization (92% prefix reuse)",
+      "id": "harness_prompt_cache"
     },
     {
       "label": "Stainless Steel Grade (304/316/201)",
@@ -18593,9 +18593,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thermos_stainless_grade",
       "community": 128,
-      "norm_label": "stainless steel grade (304/316/201)"
+      "norm_label": "stainless steel grade (304/316/201)",
+      "id": "thermos_stainless_grade"
     },
     {
       "label": "Heavy Metal Migration Risk (\u91cd\u91d1\u5c6c\u9077\u79fb)",
@@ -18606,9 +18606,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thermos_heavy_metal_migration",
       "community": 129,
-      "norm_label": "heavy metal migration risk (\u91cd\u91d1\u5c6c\u9077\u79fb)"
+      "norm_label": "heavy metal migration risk (\u91cd\u91d1\u5c6c\u9077\u79fb)",
+      "id": "thermos_heavy_metal_migration"
     },
     {
       "label": "GB 4806.9-2023 Food Contact Metal Standard",
@@ -18619,9 +18619,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thermos_gb_standard",
       "community": 130,
-      "norm_label": "gb 4806.9-2023 food contact metal standard"
+      "norm_label": "gb 4806.9-2023 food contact metal standard",
+      "id": "thermos_gb_standard"
     },
     {
       "label": "Life Arc Three Phases (\u751f\u547d\u4e09\u968e\u6bb5\u6846\u67b6)",
@@ -18632,9 +18632,9 @@
       "captured_at": null,
       "author": "Ray Dalio",
       "contributor": null,
-      "id": "ray_dalio_life_arc",
       "community": 131,
-      "norm_label": "life arc three phases (\u751f\u547d\u4e09\u968e\u6bb5\u6846\u67b6)"
+      "norm_label": "life arc three phases (\u751f\u547d\u4e09\u968e\u6bb5\u6846\u67b6)",
+      "id": "ray_dalio_life_arc"
     },
     {
       "label": "Pain + Reflection = Progress (\u75db\u82e6+\u53cd\u601d=\u9032\u6b65)",
@@ -18645,9 +18645,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ray_dalio_pain_reflection",
       "community": 132,
-      "norm_label": "pain + reflection = progress (\u75db\u82e6+\u53cd\u601d=\u9032\u6b65)"
+      "norm_label": "pain + reflection = progress (\u75db\u82e6+\u53cd\u601d=\u9032\u6b65)",
+      "id": "ray_dalio_pain_reflection"
     },
     {
       "label": "Transcendental Meditation (\u8d85\u89ba\u975c\u5750)",
@@ -18658,9 +18658,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ray_dalio_meditation",
       "community": 133,
-      "norm_label": "transcendental meditation (\u8d85\u89ba\u975c\u5750)"
+      "norm_label": "transcendental meditation (\u8d85\u89ba\u975c\u5750)",
+      "id": "ray_dalio_meditation"
     },
     {
       "label": "Humility + Audacity Balance (\u8b19\u905c\u7684\u69d3\u687f)",
@@ -18671,9 +18671,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ray_dalio_humility",
       "community": 134,
-      "norm_label": "humility + audacity balance (\u8b19\u905c\u7684\u69d3\u687f)"
+      "norm_label": "humility + audacity balance (\u8b19\u905c\u7684\u69d3\u687f)",
+      "id": "ray_dalio_humility"
     },
     {
       "label": "Agent Memory System (\u8de8Session\u8a18\u61b6)",
@@ -18684,9 +18684,9 @@
       "captured_at": null,
       "author": "Ravi (Anthropic)",
       "contributor": null,
-      "id": "memory_dreaming_memory_system",
       "community": 13,
-      "norm_label": "agent memory system (\u8de8session\u8a18\u61b6)"
+      "norm_label": "agent memory system (\u8de8session\u8a18\u61b6)",
+      "id": "memory_dreaming_memory_system"
     },
     {
       "label": "Dreaming - Async Global Memory Optimization",
@@ -18697,9 +18697,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "memory_dreaming_dreaming",
       "community": 13,
-      "norm_label": "dreaming - async global memory optimization"
+      "norm_label": "dreaming - async global memory optimization",
+      "id": "memory_dreaming_dreaming"
     },
     {
       "label": "Cross-Session Coordination Memory (\u8de8Session\u5354\u8abf)",
@@ -18710,9 +18710,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "memory_dreaming_cross_session",
       "community": 13,
-      "norm_label": "cross-session coordination memory (\u8de8session\u5354\u8abf)"
+      "norm_label": "cross-session coordination memory (\u8de8session\u5354\u8abf)",
+      "id": "memory_dreaming_cross_session"
     },
     {
       "label": "Optimistic Concurrency Control for Memory",
@@ -18723,9 +18723,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "memory_dreaming_optimistic_concurrency",
       "community": 13,
-      "norm_label": "optimistic concurrency control for memory"
+      "norm_label": "optimistic concurrency control for memory",
+      "id": "memory_dreaming_optimistic_concurrency"
     },
     {
       "label": "/goal Command - Definition of Done Loop",
@@ -18736,9 +18736,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "goal_command_definition_of_done",
       "community": 61,
-      "norm_label": "/goal command - definition of done loop"
+      "norm_label": "/goal command - definition of done loop",
+      "id": "goal_command_definition_of_done"
     },
     {
       "label": "RALPH Loop (Repeat And Loop until Passed Human check)",
@@ -18749,9 +18749,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "goal_command_ralph_loop",
       "community": 61,
-      "norm_label": "ralph loop (repeat and loop until passed human check)"
+      "norm_label": "ralph loop (repeat and loop until passed human check)",
+      "id": "goal_command_ralph_loop"
     },
     {
       "label": "Token Efficiency Maximization via /goal",
@@ -18762,9 +18762,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "goal_command_token_efficiency",
       "community": 61,
-      "norm_label": "token efficiency maximization via /goal"
+      "norm_label": "token efficiency maximization via /goal",
+      "id": "goal_command_token_efficiency"
     },
     {
       "label": "AI Founder Mode (AI\u5275\u8fa6\u4eba\u6a21\u5f0f)",
@@ -18775,9 +18775,9 @@
       "captured_at": null,
       "author": "Brian Chesky",
       "contributor": null,
-      "id": "chesky_ai_founder_mode",
       "community": 116,
-      "norm_label": "ai founder mode (ai\u5275\u8fa6\u4eba\u6a21\u5f0f)"
+      "norm_label": "ai founder mode (ai\u5275\u8fa6\u4eba\u6a21\u5f0f)",
+      "id": "chesky_ai_founder_mode"
     },
     {
       "label": "11-Star Experience Framework",
@@ -18788,9 +18788,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "chesky_eleven_star",
       "community": 117,
-      "norm_label": "11-star experience framework"
+      "norm_label": "11-star experience framework",
+      "id": "chesky_eleven_star"
     },
     {
       "label": "Consumer AI Renaissance (\u6d88\u8cbb\u8005AI\u6587\u85dd\u5fa9\u8208)",
@@ -18801,9 +18801,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "chesky_consumer_ai_renaissance",
       "community": 116,
-      "norm_label": "consumer ai renaissance (\u6d88\u8cbb\u8005ai\u6587\u85dd\u5fa9\u8208)"
+      "norm_label": "consumer ai renaissance (\u6d88\u8cbb\u8005ai\u6587\u85dd\u5fa9\u8208)",
+      "id": "chesky_consumer_ai_renaissance"
     },
     {
       "label": "Crawl-Walk-Run-Fly Growth Framework",
@@ -18814,9 +18814,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "chesky_crawl_walk_run_fly",
       "community": 117,
-      "norm_label": "crawl-walk-run-fly growth framework"
+      "norm_label": "crawl-walk-run-fly growth framework",
+      "id": "chesky_crawl_walk_run_fly"
     },
     {
       "label": "Effort Level System (low/medium/high/xhigh/max)",
@@ -18827,9 +18827,9 @@
       "captured_at": null,
       "author": "Matt Bleifer (Anthropic)",
       "contributor": null,
-      "id": "thinking_lever_effort_level",
       "community": 107,
-      "norm_label": "effort level system (low/medium/high/xhigh/max)"
+      "norm_label": "effort level system (low/medium/high/xhigh/max)",
+      "id": "thinking_lever_effort_level"
     },
     {
       "label": "Adaptive Thinking (\u81ea\u9069\u61c9\u601d\u8003)",
@@ -18840,9 +18840,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thinking_lever_adaptive_thinking",
       "community": 107,
-      "norm_label": "adaptive thinking (\u81ea\u9069\u61c9\u601d\u8003)"
+      "norm_label": "adaptive thinking (\u81ea\u9069\u61c9\u601d\u8003)",
+      "id": "thinking_lever_adaptive_thinking"
     },
     {
       "label": "Diminishing Returns on Effort (\u6548\u76ca\u908a\u969b\u905e\u6e1b)",
@@ -18853,9 +18853,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "thinking_lever_diminishing_returns",
       "community": 107,
-      "norm_label": "diminishing returns on effort (\u6548\u76ca\u908a\u969b\u905e\u6e1b)"
+      "norm_label": "diminishing returns on effort (\u6548\u76ca\u908a\u969b\u905e\u6e1b)",
+      "id": "thinking_lever_diminishing_returns"
     },
     {
       "label": "AI Operating System (AI\u4f5c\u696d\u7cfb\u7d71)",
@@ -18866,9 +18866,9 @@
       "captured_at": null,
       "author": "Dan Shipper",
       "contributor": null,
-      "id": "ai_automation_paradox_ai_os",
       "community": 29,
-      "norm_label": "ai operating system (ai\u4f5c\u696d\u7cfb\u7d71)"
+      "norm_label": "ai operating system (ai\u4f5c\u696d\u7cfb\u7d71)",
+      "id": "ai_automation_paradox_ai_os"
     },
     {
       "label": "Super Agent + Forward Deployed Engineer",
@@ -18879,9 +18879,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_automation_paradox_super_agent",
       "community": 29,
-      "norm_label": "super agent + forward deployed engineer"
+      "norm_label": "super agent + forward deployed engineer",
+      "id": "ai_automation_paradox_super_agent"
     },
     {
       "label": "BYOT (Bring Your Own Tokens) SaaS Model",
@@ -18892,9 +18892,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_automation_paradox_byot",
       "community": 135,
-      "norm_label": "byot (bring your own tokens) saas model"
+      "norm_label": "byot (bring your own tokens) saas model",
+      "id": "ai_automation_paradox_byot"
     },
     {
       "label": "Parkinson-AI Law (\u81ea\u52d5\u5316\u6096\u8ad6)",
@@ -18905,9 +18905,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_automation_paradox_parkinson_law",
       "community": 29,
-      "norm_label": "parkinson-ai law (\u81ea\u52d5\u5316\u6096\u8ad6)"
+      "norm_label": "parkinson-ai law (\u81ea\u52d5\u5316\u6096\u8ad6)",
+      "id": "ai_automation_paradox_parkinson_law"
     },
     {
       "label": "Ride the Models Strategy (\u4e58\u6d6a\u7b56\u7565)",
@@ -18918,9 +18918,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_automation_paradox_ride_models",
       "community": 29,
-      "norm_label": "ride the models strategy (\u4e58\u6d6a\u7b56\u7565)"
+      "norm_label": "ride the models strategy (\u4e58\u6d6a\u7b56\u7565)",
+      "id": "ai_automation_paradox_ride_models"
     },
     {
       "label": "Four Sovereignty Pillars (\u4e3b\u6b0a\u56db\u652f\u67f1)",
@@ -18931,9 +18931,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_sovereignty_four_pillars",
       "community": 55,
-      "norm_label": "four sovereignty pillars (\u4e3b\u6b0a\u56db\u652f\u67f1)"
+      "norm_label": "four sovereignty pillars (\u4e3b\u6b0a\u56db\u652f\u67f1)",
+      "id": "ai_sovereignty_four_pillars"
     },
     {
       "label": "Retrofit Sovereignty Debt (\u6280\u8853\u8ca0\u50b5\u66b4\u9732)",
@@ -18944,9 +18944,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_sovereignty_retrofit_debt",
       "community": 55,
-      "norm_label": "retrofit sovereignty debt (\u6280\u8853\u8ca0\u50b5\u66b4\u9732)"
+      "norm_label": "retrofit sovereignty debt (\u6280\u8853\u8ca0\u50b5\u66b4\u9732)",
+      "id": "ai_sovereignty_retrofit_debt"
     },
     {
       "label": "Haystack Serializable Pipeline Framework",
@@ -18957,9 +18957,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_sovereignty_haystack",
       "community": 55,
-      "norm_label": "haystack serializable pipeline framework"
+      "norm_label": "haystack serializable pipeline framework",
+      "id": "ai_sovereignty_haystack"
     },
     {
       "label": "Human-in-the-Loop for High-Risk AI Operations",
@@ -18970,9 +18970,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_sovereignty_human_in_loop",
       "community": 55,
-      "norm_label": "human-in-the-loop for high-risk ai operations"
+      "norm_label": "human-in-the-loop for high-risk ai operations",
+      "id": "ai_sovereignty_human_in_loop"
     },
     {
       "label": "Continuous Compute (\u6301\u7e8c\u904b\u7b97)",
@@ -18983,9 +18983,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cicd_continuous_compute",
       "community": 13,
-      "norm_label": "continuous compute (\u6301\u7e8c\u904b\u7b97)"
+      "norm_label": "continuous compute (\u6301\u7e8c\u904b\u7b97)",
+      "id": "cicd_continuous_compute"
     },
     {
       "label": "Pre-merge Queue (\u9810\u5408\u4f75\u4f47\u5217)",
@@ -18996,9 +18996,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cicd_pre_merge_queue",
       "community": 13,
-      "norm_label": "pre-merge queue (\u9810\u5408\u4f75\u4f47\u5217)"
+      "norm_label": "pre-merge queue (\u9810\u5408\u4f75\u4f47\u5217)",
+      "id": "cicd_pre_merge_queue"
     },
     {
       "label": "Merge Serialization Bottleneck (\u5408\u4f75\u5e8f\u5217\u5316\u74f6\u9838)",
@@ -19009,9 +19009,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cicd_merge_serialization",
       "community": 13,
-      "norm_label": "merge serialization bottleneck (\u5408\u4f75\u5e8f\u5217\u5316\u74f6\u9838)"
+      "norm_label": "merge serialization bottleneck (\u5408\u4f75\u5e8f\u5217\u5316\u74f6\u9838)",
+      "id": "cicd_merge_serialization"
     },
     {
       "label": "Multiverse Commit Exploration (\u591a\u5b87\u5b99\u4e26\u884c\u63a2\u7d22)",
@@ -19022,9 +19022,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cicd_multiverse_commit",
       "community": 13,
-      "norm_label": "multiverse commit exploration (\u591a\u5b87\u5b99\u4e26\u884c\u63a2\u7d22)"
+      "norm_label": "multiverse commit exploration (\u591a\u5b87\u5b99\u4e26\u884c\u63a2\u7d22)",
+      "id": "cicd_multiverse_commit"
     },
     {
       "label": "Stateful Inner Loop for Agent Environments",
@@ -19035,9 +19035,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "cicd_stateful_inner_loop",
       "community": 13,
-      "norm_label": "stateful inner loop for agent environments"
+      "norm_label": "stateful inner loop for agent environments",
+      "id": "cicd_stateful_inner_loop"
     },
     {
       "label": "Workflow Shape (\u5de5\u4f5c\u6d41\u7a0b\u5f62\u72c0)",
@@ -19048,9 +19048,9 @@
       "captured_at": null,
       "author": "Nate B Jones",
       "contributor": null,
-      "id": "five_levers_workflow_shape",
       "community": 29,
-      "norm_label": "workflow shape (\u5de5\u4f5c\u6d41\u7a0b\u5f62\u72c0)"
+      "norm_label": "workflow shape (\u5de5\u4f5c\u6d41\u7a0b\u5f62\u72c0)",
+      "id": "five_levers_workflow_shape"
     },
     {
       "label": "AI Investment Five Levers (Automate/Build/Buy/Hire/Wait)",
@@ -19061,9 +19061,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "five_levers_investment_matrix",
       "community": 29,
-      "norm_label": "ai investment five levers (automate/build/buy/hire/wait)"
+      "norm_label": "ai investment five levers (automate/build/buy/hire/wait)",
+      "id": "five_levers_investment_matrix"
     },
     {
       "label": "Workflow Operating Loop Definition",
@@ -19074,9 +19074,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "five_levers_workflow_operating_loop",
       "community": 29,
-      "norm_label": "workflow operating loop definition"
+      "norm_label": "workflow operating loop definition",
+      "id": "five_levers_workflow_operating_loop"
     },
     {
       "label": "AI-Native Capital Allocation (\u4e3b\u7ba1\u65b0\u6838\u5fc3\u80fd\u529b)",
@@ -19087,9 +19087,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "five_levers_capital_allocation",
       "community": 29,
-      "norm_label": "ai-native capital allocation (\u4e3b\u7ba1\u65b0\u6838\u5fc3\u80fd\u529b)"
+      "norm_label": "ai-native capital allocation (\u4e3b\u7ba1\u65b0\u6838\u5fc3\u80fd\u529b)",
+      "id": "five_levers_capital_allocation"
     },
     {
       "label": "Indirect Prompt Injection (\u9593\u63a5\u63d0\u793a\u6ce8\u5165)",
@@ -19100,9 +19100,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "prompt_injection_indirect",
       "community": 61,
-      "norm_label": "indirect prompt injection (\u9593\u63a5\u63d0\u793a\u6ce8\u5165)"
+      "norm_label": "indirect prompt injection (\u9593\u63a5\u63d0\u793a\u6ce8\u5165)",
+      "id": "prompt_injection_indirect"
     },
     {
       "label": "Planner-Executor Architectural Isolation",
@@ -19113,9 +19113,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "prompt_injection_planner_executor",
       "community": 61,
-      "norm_label": "planner-executor architectural isolation"
+      "norm_label": "planner-executor architectural isolation",
+      "id": "prompt_injection_planner_executor"
     },
     {
       "label": "Least Privilege Tooling for AI Agents",
@@ -19126,9 +19126,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "prompt_injection_least_privilege",
       "community": 61,
-      "norm_label": "least privilege tooling for ai agents"
+      "norm_label": "least privilege tooling for ai agents",
+      "id": "prompt_injection_least_privilege"
     },
     {
       "label": "Silent Exfiltration Attack Chain",
@@ -19139,9 +19139,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "prompt_injection_silent_exfiltration",
       "community": 61,
-      "norm_label": "silent exfiltration attack chain"
+      "norm_label": "silent exfiltration attack chain",
+      "id": "prompt_injection_silent_exfiltration"
     },
     {
       "label": "MCP Orchestrator Pattern (MCP\u5354\u8abf\u5668)",
@@ -19152,9 +19152,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "mcp_gateway_orchestrator",
       "community": 29,
-      "norm_label": "mcp orchestrator pattern (mcp\u5354\u8abf\u5668)"
+      "norm_label": "mcp orchestrator pattern (mcp\u5354\u8abf\u5668)",
+      "id": "mcp_gateway_orchestrator"
     },
     {
       "label": "Intent Classification and Routing",
@@ -19165,9 +19165,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "mcp_gateway_intent_classification",
       "community": 29,
-      "norm_label": "intent classification and routing"
+      "norm_label": "intent classification and routing",
+      "id": "mcp_gateway_intent_classification"
     },
     {
       "label": "Recursive MCP Orchestration (MCP-in-MCP)",
@@ -19178,9 +19178,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "mcp_gateway_recursive_orchestration",
       "community": 29,
-      "norm_label": "recursive mcp orchestration (mcp-in-mcp)"
+      "norm_label": "recursive mcp orchestration (mcp-in-mcp)",
+      "id": "mcp_gateway_recursive_orchestration"
     },
     {
       "label": "MCP Gateway Security Layer (Fine-Grained Auth)",
@@ -19191,9 +19191,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "mcp_gateway_security_layer",
       "community": 29,
-      "norm_label": "mcp gateway security layer (fine-grained auth)"
+      "norm_label": "mcp gateway security layer (fine-grained auth)",
+      "id": "mcp_gateway_security_layer"
     },
     {
       "label": "Vibes Problem (\u76f4\u89ba\u6e2c\u8a66\u554f\u984c)",
@@ -19204,9 +19204,9 @@
       "captured_at": null,
       "author": "Laurie Voss (Arize AI)",
       "contributor": null,
-      "id": "ship_agents_evals_vibes_problem",
       "community": 55,
-      "norm_label": "vibes problem (\u76f4\u89ba\u6e2c\u8a66\u554f\u984c)"
+      "norm_label": "vibes problem (\u76f4\u89ba\u6e2c\u8a66\u554f\u984c)",
+      "id": "ship_agents_evals_vibes_problem"
     },
     {
       "label": "Trace and Span - Agent Observability",
@@ -19217,9 +19217,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ship_agents_evals_trace_span",
       "community": 55,
-      "norm_label": "trace and span - agent observability"
+      "norm_label": "trace and span - agent observability",
+      "id": "ship_agents_evals_trace_span"
     },
     {
       "label": "LLM-as-a-Judge Evaluation",
@@ -19230,9 +19230,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ship_agents_evals_llm_judge",
       "community": 55,
-      "norm_label": "llm-as-a-judge evaluation"
+      "norm_label": "llm-as-a-judge evaluation",
+      "id": "ship_agents_evals_llm_judge"
     },
     {
       "label": "Cascading Failure in Multi-Agent Systems",
@@ -19243,9 +19243,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ship_agents_evals_cascading_failure",
       "community": 55,
-      "norm_label": "cascading failure in multi-agent systems"
+      "norm_label": "cascading failure in multi-agent systems",
+      "id": "ship_agents_evals_cascading_failure"
     },
     {
       "label": "Golden Dataset for Agent Evaluation",
@@ -19256,9 +19256,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ship_agents_evals_golden_dataset",
       "community": 55,
-      "norm_label": "golden dataset for agent evaluation"
+      "norm_label": "golden dataset for agent evaluation",
+      "id": "ship_agents_evals_golden_dataset"
     },
     {
       "label": "Capability Eval to Regression Eval Lifecycle",
@@ -19269,9 +19269,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ship_agents_evals_capability_regression",
       "community": 55,
-      "norm_label": "capability eval to regression eval lifecycle"
+      "norm_label": "capability eval to regression eval lifecycle",
+      "id": "ship_agents_evals_capability_regression"
     },
     {
       "label": "Bottleneck Migration (\u74f6\u9838\u9077\u79fb)",
@@ -19282,9 +19282,9 @@
       "captured_at": null,
       "author": "Fiona Fung (Anthropic)",
       "contributor": null,
-      "id": "ai_native_org_bottleneck_migration",
       "community": 13,
-      "norm_label": "bottleneck migration (\u74f6\u9838\u9077\u79fb)"
+      "norm_label": "bottleneck migration (\u74f6\u9838\u9077\u79fb)",
+      "id": "ai_native_org_bottleneck_migration"
     },
     {
       "label": "Code-First Decision Making (Code Wins)",
@@ -19295,9 +19295,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_native_org_code_wins",
       "community": 13,
-      "norm_label": "code-first decision making (code wins)"
+      "norm_label": "code-first decision making (code wins)",
+      "id": "ai_native_org_code_wins"
     },
     {
       "label": "Ant Fooding - Product Sense via Dogfooding",
@@ -19308,9 +19308,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_native_org_ant_fooding",
       "community": 13,
-      "norm_label": "ant fooding - product sense via dogfooding"
+      "norm_label": "ant fooding - product sense via dogfooding",
+      "id": "ai_native_org_ant_fooding"
     },
     {
       "label": "Code as Source of Truth (\u7a0b\u5f0f\u78bc\u5373\u771f\u76f8)",
@@ -19321,9 +19321,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_native_org_code_as_truth",
       "community": 13,
-      "norm_label": "code as source of truth (\u7a0b\u5f0f\u78bc\u5373\u771f\u76f8)"
+      "norm_label": "code as source of truth (\u7a0b\u5f0f\u78bc\u5373\u771f\u76f8)",
+      "id": "ai_native_org_code_as_truth"
     },
     {
       "label": "Ratchet Mechanism - Error to Permanent Rule",
@@ -19334,9 +19334,9 @@
       "captured_at": null,
       "author": "Addy Osmani",
       "contributor": null,
-      "id": "agent_harness_ratchet",
       "community": 13,
-      "norm_label": "ratchet mechanism - error to permanent rule"
+      "norm_label": "ratchet mechanism - error to permanent rule",
+      "id": "agent_harness_ratchet"
     },
     {
       "label": "Harness Gap (\u6846\u67b6\u5dee\u8ddd)",
@@ -19347,9 +19347,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_harness_gap",
       "community": 13,
-      "norm_label": "harness gap (\u6846\u67b6\u5dee\u8ddd)"
+      "norm_label": "harness gap (\u6846\u67b6\u5dee\u8ddd)",
+      "id": "agent_harness_gap"
     },
     {
       "label": "Context Rot Counter-Measures",
@@ -19360,9 +19360,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_harness_context_rot",
       "community": 13,
-      "norm_label": "context rot counter-measures"
+      "norm_label": "context rot counter-measures",
+      "id": "agent_harness_context_rot"
     },
     {
       "label": "Planner-Generator-Evaluator Split",
@@ -19373,9 +19373,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_harness_planner_evaluator",
       "community": 61,
-      "norm_label": "planner-generator-evaluator split"
+      "norm_label": "planner-generator-evaluator split",
+      "id": "agent_harness_planner_evaluator"
     },
     {
       "label": "Ralph Loop - Multi-Session Agent Continuation",
@@ -19386,9 +19386,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_harness_ralph_loop",
       "community": 61,
-      "norm_label": "ralph loop - multi-session agent continuation"
+      "norm_label": "ralph loop - multi-session agent continuation",
+      "id": "agent_harness_ralph_loop"
     },
     {
       "label": "HaaS - Harness as a Service",
@@ -19399,9 +19399,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_harness_haas",
       "community": 13,
-      "norm_label": "haas - harness as a service"
+      "norm_label": "haas - harness as a service",
+      "id": "agent_harness_haas"
     },
     {
       "label": "Rediscovery Problem (\u91cd\u65b0\u767c\u73fe\u554f\u984c)",
@@ -19412,9 +19412,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "pinecone_rediscovery_problem",
       "community": 13,
-      "norm_label": "rediscovery problem (\u91cd\u65b0\u767c\u73fe\u554f\u984c)"
+      "norm_label": "rediscovery problem (\u91cd\u65b0\u767c\u73fe\u554f\u984c)",
+      "id": "pinecone_rediscovery_problem"
     },
     {
       "label": "Retrieval Contract (\u6aa2\u7d22\u5951\u7d04)",
@@ -19425,9 +19425,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "pinecone_retrieval_contract",
       "community": 13,
-      "norm_label": "retrieval contract (\u6aa2\u7d22\u5951\u7d04)"
+      "norm_label": "retrieval contract (\u6aa2\u7d22\u5951\u7d04)",
+      "id": "pinecone_retrieval_contract"
     },
     {
       "label": "Four Knowledge Shapes (\u77e5\u8b58\u5f62\u72c0\u56db\u5143\u7d44)",
@@ -19438,9 +19438,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "pinecone_knowledge_shapes",
       "community": 13,
-      "norm_label": "four knowledge shapes (\u77e5\u8b58\u5f62\u72c0\u56db\u5143\u7d44)"
+      "norm_label": "four knowledge shapes (\u77e5\u8b58\u5f62\u72c0\u56db\u5143\u7d44)",
+      "id": "pinecone_knowledge_shapes"
     },
     {
       "label": "Context Rot - Larger Context Hurts Performance",
@@ -19451,9 +19451,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "pinecone_context_rot",
       "community": 13,
-      "norm_label": "context rot - larger context hurts performance"
+      "norm_label": "context rot - larger context hurts performance",
+      "id": "pinecone_context_rot"
     },
     {
       "label": "Table-Native Reasoning (\u8868\u683c\u539f\u751f\u63a8\u7406)",
@@ -19464,9 +19464,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "pinecone_table_native_reasoning",
       "community": 13,
-      "norm_label": "table-native reasoning (\u8868\u683c\u539f\u751f\u63a8\u7406)"
+      "norm_label": "table-native reasoning (\u8868\u683c\u539f\u751f\u63a8\u7406)",
+      "id": "pinecone_table_native_reasoning"
     },
     {
       "label": "Orchestration Layer (\u5354\u8abf\u5c64) - AI Native",
@@ -19477,9 +19477,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_native_orchestration_layer",
       "community": 29,
-      "norm_label": "orchestration layer (\u5354\u8abf\u5c64) - ai native"
+      "norm_label": "orchestration layer (\u5354\u8abf\u5c64) - ai native",
+      "id": "ai_native_orchestration_layer"
     },
     {
       "label": "Shared Persistent Foundation (\u5171\u4eab\u6301\u4e45\u57fa\u5e95)",
@@ -19490,9 +19490,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_native_shared_foundation",
       "community": 29,
-      "norm_label": "shared persistent foundation (\u5171\u4eab\u6301\u4e45\u57fa\u5e95)"
+      "norm_label": "shared persistent foundation (\u5171\u4eab\u6301\u4e45\u57fa\u5e95)",
+      "id": "ai_native_shared_foundation"
     },
     {
       "label": "Architectural Compounding (\u67b6\u69cb\u8907\u5229)",
@@ -19503,9 +19503,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_native_architectural_compounding",
       "community": 29,
-      "norm_label": "architectural compounding (\u67b6\u69cb\u8907\u5229)"
+      "norm_label": "architectural compounding (\u67b6\u69cb\u8907\u5229)",
+      "id": "ai_native_architectural_compounding"
     },
     {
       "label": "Renting Orchestration (\u79df\u501f\u5354\u8abf) - Anti-Pattern",
@@ -19516,9 +19516,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "ai_native_renting_orchestration",
       "community": 29,
-      "norm_label": "renting orchestration (\u79df\u501f\u5354\u8abf) - anti-pattern"
+      "norm_label": "renting orchestration (\u79df\u501f\u5354\u8abf) - anti-pattern",
+      "id": "ai_native_renting_orchestration"
     },
     {
       "label": "Implementation Layer (\u5be6\u4f5c\u5c64) - Agentic Workflow",
@@ -19529,9 +19529,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "trillion_implementation_layer",
       "community": 29,
-      "norm_label": "implementation layer (\u5be6\u4f5c\u5c64) - agentic workflow"
+      "norm_label": "implementation layer (\u5be6\u4f5c\u5c64) - agentic workflow",
+      "id": "trillion_implementation_layer"
     },
     {
       "label": "Workflow Completeness (\u5de5\u4f5c\u6d41\u7a0b\u5b8c\u6574\u6027)",
@@ -19542,9 +19542,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "trillion_workflow_completeness",
       "community": 29,
-      "norm_label": "workflow completeness (\u5de5\u4f5c\u6d41\u7a0b\u5b8c\u6574\u6027)"
+      "norm_label": "workflow completeness (\u5de5\u4f5c\u6d41\u7a0b\u5b8c\u6574\u6027)",
+      "id": "trillion_workflow_completeness"
     },
     {
       "label": "Forward Deployed Engineer (\u524d\u7dda\u90e8\u7f72\u5de5\u7a0b\u5e2b)",
@@ -19555,9 +19555,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "trillion_forward_deployed_engineer",
       "community": 29,
-      "norm_label": "forward deployed engineer (\u524d\u7dda\u90e8\u7f72\u5de5\u7a0b\u5e2b)"
+      "norm_label": "forward deployed engineer (\u524d\u7dda\u90e8\u7f72\u5de5\u7a0b\u5e2b)",
+      "id": "trillion_forward_deployed_engineer"
     },
     {
       "label": "Death of Generic AI Wrappers (\u56db\u8ef8\u64e0\u58d3)",
@@ -19568,9 +19568,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "trillion_generic_wrapper_death",
       "community": 29,
-      "norm_label": "death of generic ai wrappers (\u56db\u8ef8\u64e0\u58d3)"
+      "norm_label": "death of generic ai wrappers (\u56db\u8ef8\u64e0\u58d3)",
+      "id": "trillion_generic_wrapper_death"
     },
     {
       "label": "PE as AI Deployment Channel (\u79c1\u52df\u80a1\u6b0a\u5206\u767c)",
@@ -19581,9 +19581,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "trillion_pe_distribution",
       "community": 29,
-      "norm_label": "pe as ai deployment channel (\u79c1\u52df\u80a1\u6b0a\u5206\u767c)"
+      "norm_label": "pe as ai deployment channel (\u79c1\u52df\u80a1\u6b0a\u5206\u767c)",
+      "id": "trillion_pe_distribution"
     },
     {
       "label": "AI Agent \u56db\u7d1a\u6210\u719f\u5ea6\u6846\u67b6",
@@ -19594,9 +19594,9 @@
       "captured_at": "2026-05-20",
       "author": "Ara Khan",
       "contributor": null,
-      "id": "dont_build_slop_maturity_framework",
       "community": 71,
-      "norm_label": "ai agent \u56db\u7d1a\u6210\u719f\u5ea6\u6846\u67b6"
+      "norm_label": "ai agent \u56db\u7d1a\u6210\u719f\u5ea6\u6846\u67b6",
+      "id": "dont_build_slop_maturity_framework"
     },
     {
       "label": "\u63d0\u793a\u7cbe\u7c21\u539f\u5247\uff08Prompt Pruning\uff09",
@@ -19607,9 +19607,9 @@
       "captured_at": "2026-05-20",
       "author": "Ara Khan",
       "contributor": null,
-      "id": "dont_build_slop_prompt_pruning",
       "community": 71,
-      "norm_label": "\u63d0\u793a\u7cbe\u7c21\u539f\u5247(prompt pruning)"
+      "norm_label": "\u63d0\u793a\u7cbe\u7c21\u539f\u5247(prompt pruning)",
+      "id": "dont_build_slop_prompt_pruning"
     },
     {
       "label": "Kanban \u4f5c\u70ba Agent \u7ba1\u7406 UX",
@@ -19620,9 +19620,9 @@
       "captured_at": "2026-05-20",
       "author": "Ara Khan",
       "contributor": null,
-      "id": "dont_build_slop_kanban_ux",
       "community": 71,
-      "norm_label": "kanban \u4f5c\u70ba agent \u7ba1\u7406 ux"
+      "norm_label": "kanban \u4f5c\u70ba agent \u7ba1\u7406 ux",
+      "id": "dont_build_slop_kanban_ux"
     },
     {
       "label": "\u63a8\u7406\u7d81\u5b9a\uff08Inference-Bound\uff09\u4e26\u884c\u9700\u6c42",
@@ -19633,9 +19633,9 @@
       "captured_at": "2026-05-20",
       "author": "Ara Khan",
       "contributor": null,
-      "id": "dont_build_slop_inference_bound",
       "community": 71,
-      "norm_label": "\u63a8\u7406\u7d81\u5b9a(inference-bound)\u4e26\u884c\u9700\u6c42"
+      "norm_label": "\u63a8\u7406\u7d81\u5b9a(inference-bound)\u4e26\u884c\u9700\u6c42",
+      "id": "dont_build_slop_inference_bound"
     },
     {
       "label": "\u63a8\u7406\u8ecc\u8de1\uff08Reasoning Traces\uff09\u683c\u5f0f\u5c0d\u9f4a",
@@ -19646,9 +19646,9 @@
       "captured_at": "2026-05-20",
       "author": "Ara Khan",
       "contributor": null,
-      "id": "dont_build_slop_reasoning_traces",
       "community": 71,
-      "norm_label": "\u63a8\u7406\u8ecc\u8de1(reasoning traces)\u683c\u5f0f\u5c0d\u9f4a"
+      "norm_label": "\u63a8\u7406\u8ecc\u8de1(reasoning traces)\u683c\u5f0f\u5c0d\u9f4a",
+      "id": "dont_build_slop_reasoning_traces"
     },
     {
       "label": "\u968e\u5c64\u5f0f\u8a18\u61b6\u9ad4\uff1aAI Agent \u4e0a\u4e0b\u6587\u7ba1\u7406\u4e09\u5c64\u6f14\u9032",
@@ -19659,9 +19659,9 @@
       "captured_at": "2026-05-11",
       "author": "Sally-Ann DeLucia",
       "contributor": null,
-      "id": "hierarchical_memory_context_management",
       "community": 56,
-      "norm_label": "\u968e\u5c64\u5f0f\u8a18\u61b6\u9ad4:ai agent \u4e0a\u4e0b\u6587\u7ba1\u7406\u4e09\u5c64\u6f14\u9032"
+      "norm_label": "\u968e\u5c64\u5f0f\u8a18\u61b6\u9ad4:ai agent \u4e0a\u4e0b\u6587\u7ba1\u7406\u4e09\u5c64\u6f14\u9032",
+      "id": "hierarchical_memory_context_management"
     },
     {
       "label": "\u4e0a\u4e0b\u6587\u60e1\u6027\u5faa\u74b0\uff08Vicious Context Loop\uff09",
@@ -19672,9 +19672,9 @@
       "captured_at": "2026-05-11",
       "author": "Sally-Ann DeLucia",
       "contributor": null,
-      "id": "hierarchical_memory_vicious_loop",
       "community": 56,
-      "norm_label": "\u4e0a\u4e0b\u6587\u60e1\u6027\u5faa\u74b0(vicious context loop)"
+      "norm_label": "\u4e0a\u4e0b\u6587\u60e1\u6027\u5faa\u74b0(vicious context loop)",
+      "id": "hierarchical_memory_vicious_loop"
     },
     {
       "label": "\u982d\u5c3e\u4fdd\u7559\u7b56\u7565\uff08Head/Tail Preservation\uff09",
@@ -19685,9 +19685,9 @@
       "captured_at": "2026-05-11",
       "author": "Sally-Ann DeLucia",
       "contributor": null,
-      "id": "hierarchical_memory_head_tail",
       "community": 56,
-      "norm_label": "\u982d\u5c3e\u4fdd\u7559\u7b56\u7565(head/tail preservation)"
+      "norm_label": "\u982d\u5c3e\u4fdd\u7559\u7b56\u7565(head/tail preservation)",
+      "id": "hierarchical_memory_head_tail"
     },
     {
       "label": "\u4e0a\u4e0b\u6587\u8207\u8a18\u61b6\u9ad4\u5206\u96e2\uff08Context \u2260 Memory\uff09",
@@ -19698,9 +19698,9 @@
       "captured_at": "2026-05-11",
       "author": "Sally-Ann DeLucia",
       "contributor": null,
-      "id": "hierarchical_memory_context_memory_separation",
       "community": 56,
-      "norm_label": "\u4e0a\u4e0b\u6587\u8207\u8a18\u61b6\u9ad4\u5206\u96e2(context = memory)"
+      "norm_label": "\u4e0a\u4e0b\u6587\u8207\u8a18\u61b6\u9ad4\u5206\u96e2(context = memory)",
+      "id": "hierarchical_memory_context_memory_separation"
     },
     {
       "label": "\u4e0a\u4e0b\u6587\u59d4\u6d3e\uff08Context Delegation\uff09\u5b50\u4ee3\u7406\u4eba\u5206\u5de5",
@@ -19711,9 +19711,9 @@
       "captured_at": "2026-05-11",
       "author": "Sally-Ann DeLucia",
       "contributor": null,
-      "id": "hierarchical_memory_sub_agent_delegation",
       "community": 56,
-      "norm_label": "\u4e0a\u4e0b\u6587\u59d4\u6d3e(context delegation)\u5b50\u4ee3\u7406\u4eba\u5206\u5de5"
+      "norm_label": "\u4e0a\u4e0b\u6587\u59d4\u6d3e(context delegation)\u5b50\u4ee3\u7406\u4eba\u5206\u5de5",
+      "id": "hierarchical_memory_sub_agent_delegation"
     },
     {
       "label": "\u9577\u5c0d\u8a71\u8a55\u4f30\uff08Long Session Evals\uff09",
@@ -19724,9 +19724,9 @@
       "captured_at": "2026-05-11",
       "author": "Sally-Ann DeLucia",
       "contributor": null,
-      "id": "hierarchical_memory_long_session_eval",
       "community": 56,
-      "norm_label": "\u9577\u5c0d\u8a71\u8a55\u4f30(long session evals)"
+      "norm_label": "\u9577\u5c0d\u8a71\u8a55\u4f30(long session evals)",
+      "id": "hierarchical_memory_long_session_eval"
     },
     {
       "label": "\u7d50\u69cb\u6027\u76f2\u9ede\uff08Structural Blindness\uff09\uff1aAI \u4ee3\u7406\u4f9d\u8cf4\u6587\u5b57\u641c\u5c0b",
@@ -19737,9 +19737,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "ast_grep_structural_blindness",
       "community": 99,
-      "norm_label": "\u7d50\u69cb\u6027\u76f2\u9ede(structural blindness):ai \u4ee3\u7406\u4f9d\u8cf4\u6587\u5b57\u641c\u5c0b"
+      "norm_label": "\u7d50\u69cb\u6027\u76f2\u9ede(structural blindness):ai \u4ee3\u7406\u4f9d\u8cf4\u6587\u5b57\u641c\u5c0b",
+      "id": "ast_grep_structural_blindness"
     },
     {
       "label": "ast-grep \u7d50\u69cb\u5316\u7a0b\u5f0f\u78bc\u641c\u5c0b\u5de5\u5177",
@@ -19750,9 +19750,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "ast_grep_tool",
       "community": 99,
-      "norm_label": "ast-grep \u7d50\u69cb\u5316\u7a0b\u5f0f\u78bc\u641c\u5c0b\u5de5\u5177"
+      "norm_label": "ast-grep \u7d50\u69cb\u5316\u7a0b\u5f0f\u78bc\u641c\u5c0b\u5de5\u5177",
+      "id": "ast_grep_tool"
     },
     {
       "label": "\u62bd\u8c61\u8a9e\u6cd5\u6a39\uff08AST, Abstract Syntax Tree\uff09",
@@ -19763,9 +19763,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "ast_grep_abstract_syntax_tree",
       "community": 99,
-      "norm_label": "\u62bd\u8c61\u8a9e\u6cd5\u6a39(ast, abstract syntax tree)"
+      "norm_label": "\u62bd\u8c61\u8a9e\u6cd5\u6a39(ast, abstract syntax tree)",
+      "id": "ast_grep_abstract_syntax_tree"
     },
     {
       "label": "Token \u904e\u8a08\u640d\u8017\uff08Token Over-Count\uff09",
@@ -19776,9 +19776,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "ast_grep_token_overcost",
       "community": 99,
-      "norm_label": "token \u904e\u8a08\u640d\u8017(token over-count)"
+      "norm_label": "token \u904e\u8a08\u640d\u8017(token over-count)",
+      "id": "ast_grep_token_overcost"
     },
     {
       "label": "\u8a6e\u91cb\u7d93\u6fdf\uff08Interpretation Economy\uff09",
@@ -19789,9 +19789,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "prove_it_economy_interpretation_economy",
       "community": 4,
-      "norm_label": "\u8a6e\u91cb\u7d93\u6fdf(interpretation economy)"
+      "norm_label": "\u8a6e\u91cb\u7d93\u6fdf(interpretation economy)",
+      "id": "prove_it_economy_interpretation_economy"
     },
     {
       "label": "\u771f\u76f8\u5c64\uff08Truth Layer\uff09\uff1aAI Agent \u53ef\u89e3\u6790\u7684\u7522\u54c1\u8cc7\u8a0a\u5c64",
@@ -19802,9 +19802,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "prove_it_economy_truth_layer",
       "community": 4,
-      "norm_label": "\u771f\u76f8\u5c64(truth layer):ai agent \u53ef\u89e3\u6790\u7684\u7522\u54c1\u8cc7\u8a0a\u5c64"
+      "norm_label": "\u771f\u76f8\u5c64(truth layer):ai agent \u53ef\u89e3\u6790\u7684\u7522\u54c1\u8cc7\u8a0a\u5c64",
+      "id": "prove_it_economy_truth_layer"
     },
     {
       "label": "Agent \u53ef\u8b80\u6027\uff08Agent Legibility\uff09",
@@ -19815,9 +19815,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "prove_it_economy_agent_legibility",
       "community": 4,
-      "norm_label": "agent \u53ef\u8b80\u6027(agent legibility)"
+      "norm_label": "agent \u53ef\u8b80\u6027(agent legibility)",
+      "id": "prove_it_economy_agent_legibility"
     },
     {
       "label": "\u4fe1\u4efb\u8ca0\u50b5\uff08Trust Debt\uff09\uff1aAI \u6d17\u767d\u7684\u4ee3\u50f9",
@@ -19828,9 +19828,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "prove_it_economy_trust_debt",
       "community": 4,
-      "norm_label": "\u4fe1\u4efb\u8ca0\u50b5(trust debt):ai \u6d17\u767d\u7684\u4ee3\u50f9"
+      "norm_label": "\u4fe1\u4efb\u8ca0\u50b5(trust debt):ai \u6d17\u767d\u7684\u4ee3\u50f9",
+      "id": "prove_it_economy_trust_debt"
     },
     {
       "label": "\u96d9\u7db2\u8def\u7d93\u6fdf\uff08Two-Internet Economy\uff09",
@@ -19841,9 +19841,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "prove_it_economy_two_internet",
       "community": 4,
-      "norm_label": "\u96d9\u7db2\u8def\u7d93\u6fdf(two-internet economy)"
+      "norm_label": "\u96d9\u7db2\u8def\u7d93\u6fdf(two-internet economy)",
+      "id": "prove_it_economy_two_internet"
     },
     {
       "label": "Agentic Programming\uff1aAI Agent \u7ba1\u7406\u7684\u65b0\u5de5\u4f5c\u6b63\u898f\u5316",
@@ -19854,9 +19854,9 @@
       "captured_at": "2026-05-17",
       "author": "Eric Schmidt",
       "contributor": null,
-      "id": "eric_schmidt_agentic_programming",
       "community": 71,
-      "norm_label": "agentic programming:ai agent \u7ba1\u7406\u7684\u65b0\u5de5\u4f5c\u6b63\u898f\u5316"
+      "norm_label": "agentic programming:ai agent \u7ba1\u7406\u7684\u65b0\u5de5\u4f5c\u6b63\u898f\u5316",
+      "id": "eric_schmidt_agentic_programming"
     },
     {
       "label": "\u8cc7\u672c\u5bc6\u96c6\u58c1\u58d8\uff08Capital Moat\uff09\uff1aAI \u7b97\u529b\u7af6\u8cfd\u8b77\u57ce\u6cb3",
@@ -19867,9 +19867,9 @@
       "captured_at": "2026-05-17",
       "author": "Eric Schmidt",
       "contributor": null,
-      "id": "eric_schmidt_capital_moat",
       "community": 118,
-      "norm_label": "\u8cc7\u672c\u5bc6\u96c6\u58c1\u58d8(capital moat):ai \u7b97\u529b\u7af6\u8cfd\u8b77\u57ce\u6cb3"
+      "norm_label": "\u8cc7\u672c\u5bc6\u96c6\u58c1\u58d8(capital moat):ai \u7b97\u529b\u7af6\u8cfd\u8b77\u57ce\u6cb3",
+      "id": "eric_schmidt_capital_moat"
     },
     {
       "label": "\u6307\u4ee4\u67b6\u69cb\u5e2b\uff08Prompt Architect\uff09\u65b0\u578b\u6838\u5fc3\u6280\u80fd",
@@ -19880,9 +19880,9 @@
       "captured_at": "2026-05-17",
       "author": "Eric Schmidt",
       "contributor": null,
-      "id": "eric_schmidt_prompt_architect",
       "community": 71,
-      "norm_label": "\u6307\u4ee4\u67b6\u69cb\u5e2b(prompt architect)\u65b0\u578b\u6838\u5fc3\u6280\u80fd"
+      "norm_label": "\u6307\u4ee4\u67b6\u69cb\u5e2b(prompt architect)\u65b0\u578b\u6838\u5fc3\u6280\u80fd",
+      "id": "eric_schmidt_prompt_architect"
     },
     {
       "label": "\u7b97\u529b\u66ff\u4ee3\u7b56\u7565\uff08Compute Substitution\uff09",
@@ -19893,9 +19893,9 @@
       "captured_at": "2026-05-17",
       "author": "Eric Schmidt",
       "contributor": null,
-      "id": "eric_schmidt_compute_substitution",
       "community": 118,
-      "norm_label": "\u7b97\u529b\u66ff\u4ee3\u7b56\u7565(compute substitution)"
+      "norm_label": "\u7b97\u529b\u66ff\u4ee3\u7b56\u7565(compute substitution)",
+      "id": "eric_schmidt_compute_substitution"
     },
     {
       "label": "\u900f\u660e\u6230\u5834\uff08Transparent Battlefield\uff09",
@@ -19906,9 +19906,9 @@
       "captured_at": "2026-05-17",
       "author": "Eric Schmidt",
       "contributor": null,
-      "id": "eric_schmidt_transparent_battlefield",
       "community": 136,
-      "norm_label": "\u900f\u660e\u6230\u5834(transparent battlefield)"
+      "norm_label": "\u900f\u660e\u6230\u5834(transparent battlefield)",
+      "id": "eric_schmidt_transparent_battlefield"
     },
     {
       "label": "\u9006\u5411\u5b9a\u5f8b\uff08Backwards Law\uff09\uff1a\u8ffd\u9010\u6b63\u9762\u9ad4\u9a57\u7684\u6096\u8ad6",
@@ -19919,9 +19919,9 @@
       "captured_at": "2026-05-24",
       "author": "Mark Manson",
       "contributor": null,
-      "id": "emotional_maturity_backwards_law",
       "community": 119,
-      "norm_label": "\u9006\u5411\u5b9a\u5f8b(backwards law):\u8ffd\u9010\u6b63\u9762\u9ad4\u9a57\u7684\u6096\u8ad6"
+      "norm_label": "\u9006\u5411\u5b9a\u5f8b(backwards law):\u8ffd\u9010\u6b63\u9762\u9ad4\u9a57\u7684\u6096\u8ad6",
+      "id": "emotional_maturity_backwards_law"
     },
     {
       "label": "\u8eab\u4efd\u60f0\u6027\uff08Identity Inertia\uff09",
@@ -19932,9 +19932,9 @@
       "captured_at": "2026-05-24",
       "author": "Mark Manson",
       "contributor": null,
-      "id": "emotional_maturity_identity_inertia",
       "community": 120,
-      "norm_label": "\u8eab\u4efd\u60f0\u6027(identity inertia)"
+      "norm_label": "\u8eab\u4efd\u60f0\u6027(identity inertia)",
+      "id": "emotional_maturity_identity_inertia"
     },
     {
       "label": "\u884c\u52d5\u512a\u5148\u8ff4\u5708\uff08Action-First Loop\uff09",
@@ -19945,9 +19945,9 @@
       "captured_at": "2026-05-24",
       "author": "Mark Manson",
       "contributor": null,
-      "id": "emotional_maturity_action_first",
       "community": 119,
-      "norm_label": "\u884c\u52d5\u512a\u5148\u8ff4\u5708(action-first loop)"
+      "norm_label": "\u884c\u52d5\u512a\u5148\u8ff4\u5708(action-first loop)",
+      "id": "emotional_maturity_action_first"
     },
     {
       "label": "\u53cd\u8106\u5f31\u6210\u719f\uff08Anti-fragile Adulthood\uff09",
@@ -19958,9 +19958,9 @@
       "captured_at": "2026-05-24",
       "author": "Mark Manson",
       "contributor": null,
-      "id": "emotional_maturity_antifragile",
       "community": 120,
-      "norm_label": "\u53cd\u8106\u5f31\u6210\u719f(anti-fragile adulthood)"
+      "norm_label": "\u53cd\u8106\u5f31\u6210\u719f(anti-fragile adulthood)",
+      "id": "emotional_maturity_antifragile"
     },
     {
       "label": "Product Taste\uff08\u7522\u54c1\u54c1\u5473\uff09\u4f5c\u70ba AI \u6642\u4ee3\u6838\u5fc3\u7af6\u722d\u529b",
@@ -19971,9 +19971,9 @@
       "captured_at": "2026-05-24",
       "author": "Aparna Dhinakaran",
       "contributor": null,
-      "id": "everyone_evals_product_taste",
       "community": 4,
-      "norm_label": "product taste(\u7522\u54c1\u54c1\u5473)\u4f5c\u70ba ai \u6642\u4ee3\u6838\u5fc3\u7af6\u722d\u529b"
+      "norm_label": "product taste(\u7522\u54c1\u54c1\u5473)\u4f5c\u70ba ai \u6642\u4ee3\u6838\u5fc3\u7af6\u722d\u529b",
+      "id": "everyone_evals_product_taste"
     },
     {
       "label": "Agent Instrumentation \u8207 Tracing\uff08\u8ffd\u8e64\uff09",
@@ -19984,9 +19984,9 @@
       "captured_at": "2026-05-24",
       "author": "Aparna Dhinakaran",
       "contributor": null,
-      "id": "everyone_evals_tracing",
       "community": 4,
-      "norm_label": "agent instrumentation \u8207 tracing(\u8ffd\u8e64)"
+      "norm_label": "agent instrumentation \u8207 tracing(\u8ffd\u8e64)",
+      "id": "everyone_evals_tracing"
     },
     {
       "label": "Span-Level Evaluation\uff08Span \u5c64\u7d1a\u8a55\u4f30\uff09",
@@ -19997,9 +19997,9 @@
       "captured_at": "2026-05-24",
       "author": "Aparna Dhinakaran",
       "contributor": null,
-      "id": "everyone_evals_span_eval",
       "community": 4,
-      "norm_label": "span-level evaluation(span \u5c64\u7d1a\u8a55\u4f30)"
+      "norm_label": "span-level evaluation(span \u5c64\u7d1a\u8a55\u4f30)",
+      "id": "everyone_evals_span_eval"
     },
     {
       "label": "\u81ea\u6211\u6539\u5584\u9589\u74b0\uff08Self-Improving Loop\uff09",
@@ -20010,9 +20010,9 @@
       "captured_at": "2026-05-24",
       "author": "Aparna Dhinakaran",
       "contributor": null,
-      "id": "everyone_evals_self_improve_loop",
       "community": 4,
-      "norm_label": "\u81ea\u6211\u6539\u5584\u9589\u74b0(self-improving loop)"
+      "norm_label": "\u81ea\u6211\u6539\u5584\u9589\u74b0(self-improving loop)",
+      "id": "everyone_evals_self_improve_loop"
     },
     {
       "label": "Human-in-the-Loop Approval\uff08\u4eba\u5de5\u6838\u51c6\u7bc0\u9ede\uff09",
@@ -20023,9 +20023,9 @@
       "captured_at": "2026-05-24",
       "author": "Aparna Dhinakaran",
       "contributor": null,
-      "id": "everyone_evals_human_in_loop",
       "community": 4,
-      "norm_label": "human-in-the-loop approval(\u4eba\u5de5\u6838\u51c6\u7bc0\u9ede)"
+      "norm_label": "human-in-the-loop approval(\u4eba\u5de5\u6838\u51c6\u7bc0\u9ede)",
+      "id": "everyone_evals_human_in_loop"
     },
     {
       "label": "VIBE \u6846\u67b6\uff1a\u9078\u64c7\u9ad8\u50f9\u503c\u55dc\u597d\u7684\u56db\u5927\u652f\u67f1",
@@ -20036,9 +20036,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "high_value_hobbies_vibe_framework",
       "community": 108,
-      "norm_label": "vibe \u6846\u67b6:\u9078\u64c7\u9ad8\u50f9\u503c\u55dc\u597d\u7684\u56db\u5927\u652f\u67f1"
+      "norm_label": "vibe \u6846\u67b6:\u9078\u64c7\u9ad8\u50f9\u503c\u55dc\u597d\u7684\u56db\u5927\u652f\u67f1",
+      "id": "high_value_hobbies_vibe_framework"
     },
     {
       "label": "\u4e3b\u9ad4\u6027\u5916\u5305\uff08Agency Loss\uff09\uff1aAI \u6feb\u7528\u6d88\u6ec5\u500b\u4eba\u4e3b\u9ad4\u6027",
@@ -20049,9 +20049,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "high_value_hobbies_agency_loss",
       "community": 108,
-      "norm_label": "\u4e3b\u9ad4\u6027\u5916\u5305(agency loss):ai \u6feb\u7528\u6d88\u6ec5\u500b\u4eba\u4e3b\u9ad4\u6027"
+      "norm_label": "\u4e3b\u9ad4\u6027\u5916\u5305(agency loss):ai \u6feb\u7528\u6d88\u6ec5\u500b\u4eba\u4e3b\u9ad4\u6027",
+      "id": "high_value_hobbies_agency_loss"
     },
     {
       "label": "\u6df1\u5047\u7cbe\u901a\uff08Deepfake Mastery\uff09\uff1a\u7a7a\u6d1e\u8f38\u51fa\u6beb\u7121\u795e\u7d93\u6210\u9577",
@@ -20062,9 +20062,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "high_value_hobbies_deepfake_mastery",
       "community": 108,
-      "norm_label": "\u6df1\u5047\u7cbe\u901a(deepfake mastery):\u7a7a\u6d1e\u8f38\u51fa\u6beb\u7121\u795e\u7d93\u6210\u9577"
+      "norm_label": "\u6df1\u5047\u7cbe\u901a(deepfake mastery):\u7a7a\u6d1e\u8f38\u51fa\u6beb\u7121\u795e\u7d93\u6210\u9577",
+      "id": "high_value_hobbies_deepfake_mastery"
     },
     {
       "label": "Context Engineering\uff1aAgentic Search \u6838\u5fc3\u89e3\u6cd5",
@@ -20075,9 +20075,9 @@
       "captured_at": "2026-05-09",
       "author": "Leonie Monigatti",
       "contributor": null,
-      "id": "agentic_search_context_engineering",
       "community": 34,
-      "norm_label": "context engineering:agentic search \u6838\u5fc3\u89e3\u6cd5"
+      "norm_label": "context engineering:agentic search \u6838\u5fc3\u89e3\u6cd5",
+      "id": "agentic_search_context_engineering"
     },
     {
       "label": "\u591a\u8df3\u5f0f\u641c\u5c0b\uff08Multi-hop Retrieval\uff09",
@@ -20088,9 +20088,9 @@
       "captured_at": "2026-05-09",
       "author": "Leonie Monigatti",
       "contributor": null,
-      "id": "agentic_search_multi_hop",
       "community": 34,
-      "norm_label": "\u591a\u8df3\u5f0f\u641c\u5c0b(multi-hop retrieval)"
+      "norm_label": "\u591a\u8df3\u5f0f\u641c\u5c0b(multi-hop retrieval)",
+      "id": "agentic_search_multi_hop"
     },
     {
       "label": "Tool Description Engineering\uff08\u5de5\u5177\u63cf\u8ff0\u5de5\u7a0b\uff09",
@@ -20101,9 +20101,9 @@
       "captured_at": "2026-05-09",
       "author": "Leonie Monigatti",
       "contributor": null,
-      "id": "agentic_search_tool_description",
       "community": 34,
-      "norm_label": "tool description engineering(\u5de5\u5177\u63cf\u8ff0\u5de5\u7a0b)"
+      "norm_label": "tool description engineering(\u5de5\u5177\u63cf\u8ff0\u5de5\u7a0b)",
+      "id": "agentic_search_tool_description"
     },
     {
       "label": "\u6f38\u9032\u5f0f\u77e5\u8b58\u63ed\u9732\uff08Progressive Disclosure\uff09",
@@ -20114,9 +20114,9 @@
       "captured_at": "2026-05-09",
       "author": "Leonie Monigatti",
       "contributor": null,
-      "id": "agentic_search_progressive_disclosure",
       "community": 34,
-      "norm_label": "\u6f38\u9032\u5f0f\u77e5\u8b58\u63ed\u9732(progressive disclosure)"
+      "norm_label": "\u6f38\u9032\u5f0f\u77e5\u8b58\u63ed\u9732(progressive disclosure)",
+      "id": "agentic_search_progressive_disclosure"
     },
     {
       "label": "Low Floor \u00d7 High Ceiling \u5de5\u5177\u8a2d\u8a08\u54f2\u5b78",
@@ -20127,9 +20127,9 @@
       "captured_at": "2026-05-09",
       "author": "Leonie Monigatti",
       "contributor": null,
-      "id": "agentic_search_low_floor_high_ceiling",
       "community": 34,
-      "norm_label": "low floor \u00d7 high ceiling \u5de5\u5177\u8a2d\u8a08\u54f2\u5b78"
+      "norm_label": "low floor \u00d7 high ceiling \u5de5\u5177\u8a2d\u8a08\u54f2\u5b78",
+      "id": "agentic_search_low_floor_high_ceiling"
     },
     {
       "label": "\u5354\u8abf\u65b7\u5c64\uff08Coordination Gap\uff09\uff1aAI \u5de5\u5177\u8f38\u51fa\u7121\u8655\u5b89\u653e",
@@ -20140,9 +20140,9 @@
       "captured_at": "2026-05-20",
       "author": "Skip Marshall",
       "contributor": null,
-      "id": "ai_adoption_coordination_gap",
       "community": 4,
-      "norm_label": "\u5354\u8abf\u65b7\u5c64(coordination gap):ai \u5de5\u5177\u8f38\u51fa\u7121\u8655\u5b89\u653e"
+      "norm_label": "\u5354\u8abf\u65b7\u5c64(coordination gap):ai \u5de5\u5177\u8f38\u51fa\u7121\u8655\u5b89\u653e",
+      "id": "ai_adoption_coordination_gap"
     },
     {
       "label": "\u4f01\u696d\u4f5c\u696d\u7cfb\u7d71\u5c64\uff08Enterprise OS Layer\uff09",
@@ -20153,9 +20153,9 @@
       "captured_at": "2026-05-20",
       "author": "Skip Marshall",
       "contributor": null,
-      "id": "ai_adoption_os_layer",
       "community": 4,
-      "norm_label": "\u4f01\u696d\u4f5c\u696d\u7cfb\u7d71\u5c64(enterprise os layer)"
+      "norm_label": "\u4f01\u696d\u4f5c\u696d\u7cfb\u7d71\u5c64(enterprise os layer)",
+      "id": "ai_adoption_os_layer"
     },
     {
       "label": "AI \u539f\u751f vs AI \u555f\u7528\u7684\u7d50\u69cb\u6027\u5dee\u7570",
@@ -20166,9 +20166,9 @@
       "captured_at": "2026-05-20",
       "author": "Skip Marshall",
       "contributor": null,
-      "id": "ai_adoption_ai_native_vs_enabled",
       "community": 4,
-      "norm_label": "ai \u539f\u751f vs ai \u555f\u7528\u7684\u7d50\u69cb\u6027\u5dee\u7570"
+      "norm_label": "ai \u539f\u751f vs ai \u555f\u7528\u7684\u7d50\u69cb\u6027\u5dee\u7570",
+      "id": "ai_adoption_ai_native_vs_enabled"
     },
     {
       "label": "\u5354\u8abf\u4e3b\u6b0a\uff08Coordination Sovereignty\uff09",
@@ -20179,9 +20179,9 @@
       "captured_at": "2026-05-20",
       "author": "Skip Marshall",
       "contributor": null,
-      "id": "ai_adoption_coordination_sovereignty",
       "community": 4,
-      "norm_label": "\u5354\u8abf\u4e3b\u6b0a(coordination sovereignty)"
+      "norm_label": "\u5354\u8abf\u4e3b\u6b0a(coordination sovereignty)",
+      "id": "ai_adoption_coordination_sovereignty"
     },
     {
       "label": "CRAFT \u5faa\u74b0\uff1a\u5b89\u88dd\u4f01\u696d AI \u4f5c\u696d\u7cfb\u7d71\u65b9\u6cd5\u8ad6",
@@ -20192,9 +20192,9 @@
       "captured_at": "2026-05-20",
       "author": "Skip Marshall",
       "contributor": null,
-      "id": "ai_adoption_craft_cycle",
       "community": 4,
-      "norm_label": "craft \u5faa\u74b0:\u5b89\u88dd\u4f01\u696d ai \u4f5c\u696d\u7cfb\u7d71\u65b9\u6cd5\u8ad6"
+      "norm_label": "craft \u5faa\u74b0:\u5b89\u88dd\u4f01\u696d ai \u4f5c\u696d\u7cfb\u7d71\u65b9\u6cd5\u8ad6",
+      "id": "ai_adoption_craft_cycle"
     },
     {
       "label": "\u7d44\u5408\u7206\u70b8\uff08Combinatorial Explosion\uff09\uff1aEval \u8986\u84cb\u7387\u8da8\u96f6",
@@ -20205,9 +20205,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "agent_observability_combinatorial_explosion",
       "community": 4,
-      "norm_label": "\u7d44\u5408\u7206\u70b8(combinatorial explosion):eval \u8986\u84cb\u7387\u8da8\u96f6"
+      "norm_label": "\u7d44\u5408\u7206\u70b8(combinatorial explosion):eval \u8986\u84cb\u7387\u8da8\u96f6",
+      "id": "agent_observability_combinatorial_explosion"
     },
     {
       "label": "\u96b1\u5f0f\u8a0a\u865f\uff08Implicit Signals\uff09\u5206\u985e\u5668",
@@ -20218,9 +20218,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "agent_observability_implicit_signals",
       "community": 4,
-      "norm_label": "\u96b1\u5f0f\u8a0a\u865f(implicit signals)\u5206\u985e\u5668"
+      "norm_label": "\u96b1\u5f0f\u8a0a\u865f(implicit signals)\u5206\u985e\u5668",
+      "id": "agent_observability_implicit_signals"
     },
     {
       "label": "Agent \u81ea\u6211\u8a3a\u65b7\u6a5f\u5236\uff08Self-Diagnostics\uff09",
@@ -20231,9 +20231,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "agent_observability_self_diagnostics",
       "community": 121,
-      "norm_label": "agent \u81ea\u6211\u8a3a\u65b7\u6a5f\u5236(self-diagnostics)"
+      "norm_label": "agent \u81ea\u6211\u8a3a\u65b7\u6a5f\u5236(self-diagnostics)",
+      "id": "agent_observability_self_diagnostics"
     },
     {
       "label": "\u8a9e\u7fa9 A/B \u6e2c\u8a66\uff08Semantic Experiments\uff09",
@@ -20244,9 +20244,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "agent_observability_semantic_ab_test",
       "community": 4,
-      "norm_label": "\u8a9e\u7fa9 a/b \u6e2c\u8a66(semantic experiments)"
+      "norm_label": "\u8a9e\u7fa9 a/b \u6e2c\u8a66(semantic experiments)",
+      "id": "agent_observability_semantic_ab_test"
     },
     {
       "label": "\u5de5\u5177\u6846\u67b6\u6548\u61c9\uff08Tool Framing Effect\uff09",
@@ -20257,9 +20257,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "agent_observability_tool_framing",
       "community": 121,
-      "norm_label": "\u5de5\u5177\u6846\u67b6\u6548\u61c9(tool framing effect)"
+      "norm_label": "\u5de5\u5177\u6846\u67b6\u6548\u61c9(tool framing effect)",
+      "id": "agent_observability_tool_framing"
     },
     {
       "label": "\u516c\u958b\u5316 AI \u5de5\u4f5c\uff08Public AI Work\uff09\uff1aShopify River \u8a2d\u8a08\u539f\u5247",
@@ -20270,9 +20270,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "shopify_public_ai_work",
       "community": 4,
-      "norm_label": "\u516c\u958b\u5316 ai \u5de5\u4f5c(public ai work):shopify river \u8a2d\u8a08\u539f\u5247"
+      "norm_label": "\u516c\u958b\u5316 ai \u5de5\u4f5c(public ai work):shopify river \u8a2d\u8a08\u539f\u5247",
+      "id": "shopify_public_ai_work"
     },
     {
       "label": "\u77e5\u8b58\u53ef\u898b\u6027\uff08Knowledge Visibility\uff09",
@@ -20283,9 +20283,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "shopify_knowledge_visibility",
       "community": 4,
-      "norm_label": "\u77e5\u8b58\u53ef\u898b\u6027(knowledge visibility)"
+      "norm_label": "\u77e5\u8b58\u53ef\u898b\u6027(knowledge visibility)",
+      "id": "shopify_knowledge_visibility"
     },
     {
       "label": "Polanyi \u6096\u8ad6\uff08Polanyi's Paradox\uff09\u8207\u5b78\u5f92\u5236\u65b7\u5c64",
@@ -20296,9 +20296,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "shopify_polanyi_paradox",
       "community": 4,
-      "norm_label": "polanyi \u6096\u8ad6(polanyi's paradox)\u8207\u5b78\u5f92\u5236\u65b7\u5c64"
+      "norm_label": "polanyi \u6096\u8ad6(polanyi's paradox)\u8207\u5b78\u5f92\u5236\u65b7\u5c64",
+      "id": "shopify_polanyi_paradox"
     },
     {
       "label": "\u7d44\u7e54\u8907\u5229\uff08Organizational Compounding\uff09",
@@ -20309,9 +20309,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "shopify_org_compounding",
       "community": 4,
-      "norm_label": "\u7d44\u7e54\u8907\u5229(organizational compounding)"
+      "norm_label": "\u7d44\u7e54\u8907\u5229(organizational compounding)",
+      "id": "shopify_org_compounding"
     },
     {
       "label": "\u5171\u4eab\u54c1\u5473\uff08Shared Taste\uff09\uff1aAI \u5de5\u4f5c\u6d41\u516c\u958b\u63ed\u9732\u56db\u5c64",
@@ -20322,9 +20322,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "shopify_shared_taste",
       "community": 4,
-      "norm_label": "\u5171\u4eab\u54c1\u5473(shared taste):ai \u5de5\u4f5c\u6d41\u516c\u958b\u63ed\u9732\u56db\u5c64"
+      "norm_label": "\u5171\u4eab\u54c1\u5473(shared taste):ai \u5de5\u4f5c\u6d41\u516c\u958b\u63ed\u9732\u56db\u5c64",
+      "id": "shopify_shared_taste"
     },
     {
       "label": "\u5206\u6563\u5f0f\u55ae\u9ad4\uff08Distributed Monolith\uff09\uff1a\u6700\u7cdf\u7cd5\u7684\u5169\u5168\u5176\u4e0d\u7f8e",
@@ -20335,9 +20335,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "microservices_distributed_monolith",
       "community": 4,
-      "norm_label": "\u5206\u6563\u5f0f\u55ae\u9ad4(distributed monolith):\u6700\u7cdf\u7cd5\u7684\u5169\u5168\u5176\u4e0d\u7f8e"
+      "norm_label": "\u5206\u6563\u5f0f\u55ae\u9ad4(distributed monolith):\u6700\u7cdf\u7cd5\u7684\u5169\u5168\u5176\u4e0d\u7f8e",
+      "id": "microservices_distributed_monolith"
     },
     {
       "label": "\u6a21\u7d44\u5316\u55ae\u9ad4\uff08Modular Monolith\uff09\uff1a90% \u61c9\u7528\u7684\u6b63\u78ba\u7b54\u6848",
@@ -20348,9 +20348,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "microservices_modular_monolith",
       "community": 4,
-      "norm_label": "\u6a21\u7d44\u5316\u55ae\u9ad4(modular monolith):90% \u61c9\u7528\u7684\u6b63\u78ba\u7b54\u6848"
+      "norm_label": "\u6a21\u7d44\u5316\u55ae\u9ad4(modular monolith):90% \u61c9\u7528\u7684\u6b63\u78ba\u7b54\u6848",
+      "id": "microservices_modular_monolith"
     },
     {
       "label": "\u5eb7\u5a01\u5b9a\u5f8b\uff08Conway's Law\uff09\uff1a\u67b6\u69cb\u53cd\u6620\u7d44\u7e54\u6e9d\u901a\u7d50\u69cb",
@@ -20361,9 +20361,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "microservices_conways_law",
       "community": 4,
-      "norm_label": "\u5eb7\u5a01\u5b9a\u5f8b(conway's law):\u67b6\u69cb\u53cd\u6620\u7d44\u7e54\u6e9d\u901a\u7d50\u69cb"
+      "norm_label": "\u5eb7\u5a01\u5b9a\u5f8b(conway's law):\u67b6\u69cb\u53cd\u6620\u7d44\u7e54\u6e9d\u901a\u7d50\u69cb",
+      "id": "microservices_conways_law"
     },
     {
       "label": "\u8907\u96dc\u5ea6\u9810\u7b97\uff08Complexity Budget\uff09\u5fc3\u614b",
@@ -20374,9 +20374,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "microservices_complexity_budget",
       "community": 4,
-      "norm_label": "\u8907\u96dc\u5ea6\u9810\u7b97(complexity budget)\u5fc3\u614b"
+      "norm_label": "\u8907\u96dc\u5ea6\u9810\u7b97(complexity budget)\u5fc3\u614b",
+      "id": "microservices_complexity_budget"
     },
     {
       "label": "AI \u653e\u5927\u67b6\u69cb\u7f3a\u9677\uff08AI as Amplifier\uff09",
@@ -20387,9 +20387,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "microservices_ai_amplifier",
       "community": 4,
-      "norm_label": "ai \u653e\u5927\u67b6\u69cb\u7f3a\u9677(ai as amplifier)"
+      "norm_label": "ai \u653e\u5927\u67b6\u69cb\u7f3a\u9677(ai as amplifier)",
+      "id": "microservices_ai_amplifier"
     },
     {
       "label": "Agent-Native \u516c\u53f8\uff1aAgent \u4f5c\u70ba\u7b2c\u4e00\u985e\u7528\u6236",
@@ -20400,9 +20400,9 @@
       "captured_at": "2026-05-14",
       "author": "Diamond Bishop",
       "contributor": null,
-      "id": "datadog_agent_native",
       "community": 4,
-      "norm_label": "agent-native \u516c\u53f8:agent \u4f5c\u70ba\u7b2c\u4e00\u985e\u7528\u6236"
+      "norm_label": "agent-native \u516c\u53f8:agent \u4f5c\u70ba\u7b2c\u4e00\u985e\u7528\u6236",
+      "id": "datadog_agent_native"
     },
     {
       "label": "Eval \u8a55\u4f30\u9ad4\u7cfb\u662f\u8b77\u57ce\u6cb3",
@@ -20413,9 +20413,9 @@
       "captured_at": "2026-05-14",
       "author": "Diamond Bishop",
       "contributor": null,
-      "id": "datadog_eval_moat",
       "community": 4,
-      "norm_label": "eval \u8a55\u4f30\u9ad4\u7cfb\u662f\u8b77\u57ce\u6cb3"
+      "norm_label": "eval \u8a55\u4f30\u9ad4\u7cfb\u662f\u8b77\u57ce\u6cb3",
+      "id": "datadog_eval_moat"
     },
     {
       "label": "\u6301\u4e45\u9577\u8dd1 Agent\uff08Durable Long-Running Agent\uff09",
@@ -20426,9 +20426,9 @@
       "captured_at": "2026-05-14",
       "author": "Diamond Bishop",
       "contributor": null,
-      "id": "datadog_durable_agent",
       "community": 4,
-      "norm_label": "\u6301\u4e45\u9577\u8dd1 agent(durable long-running agent)"
+      "norm_label": "\u6301\u4e45\u9577\u8dd1 agent(durable long-running agent)",
+      "id": "datadog_durable_agent"
     },
     {
       "label": "\u6a21\u578b\u7121\u95dc\u6027\uff08Model-Agnostic\uff09\u8207\u8a18\u61b6\u7cfb\u7d71\u89e3\u8026",
@@ -20439,9 +20439,9 @@
       "captured_at": "2026-05-14",
       "author": "Diamond Bishop",
       "contributor": null,
-      "id": "datadog_model_agnostic",
       "community": 122,
-      "norm_label": "\u6a21\u578b\u7121\u95dc\u6027(model-agnostic)\u8207\u8a18\u61b6\u7cfb\u7d71\u89e3\u8026"
+      "norm_label": "\u6a21\u578b\u7121\u95dc\u6027(model-agnostic)\u8207\u8a18\u61b6\u7cfb\u7d71\u89e3\u8026",
+      "id": "datadog_model_agnostic"
     },
     {
       "label": "Agent \u5c64\u7d1a Bitter Lesson\uff08\u7c21\u55ae\u6027\u539f\u5247\uff09",
@@ -20452,9 +20452,9 @@
       "captured_at": "2026-05-14",
       "author": "Diamond Bishop",
       "contributor": null,
-      "id": "datadog_bitter_lesson",
       "community": 122,
-      "norm_label": "agent \u5c64\u7d1a bitter lesson(\u7c21\u55ae\u6027\u539f\u5247)"
+      "norm_label": "agent \u5c64\u7d1a bitter lesson(\u7c21\u55ae\u6027\u539f\u5247)",
+      "id": "datadog_bitter_lesson"
     },
     {
       "label": "Graph RAG\uff1a\u77e5\u8b58\u5716\u8b5c + \u5411\u91cf\u641c\u5c0b\u878d\u5408\u67b6\u69cb",
@@ -20465,9 +20465,9 @@
       "captured_at": "2026-05-17",
       "author": "Stephen Chin",
       "contributor": null,
-      "id": "context_graphs_graph_rag",
       "community": 4,
-      "norm_label": "graph rag:\u77e5\u8b58\u5716\u8b5c + \u5411\u91cf\u641c\u5c0b\u878d\u5408\u67b6\u69cb"
+      "norm_label": "graph rag:\u77e5\u8b58\u5716\u8b5c + \u5411\u91cf\u641c\u5c0b\u878d\u5408\u67b6\u69cb",
+      "id": "context_graphs_graph_rag"
     },
     {
       "label": "\u4e09\u5c64\u8a18\u61b6\u67b6\u69cb\uff1a\u77ed\u671f\u3001\u9577\u671f\u3001\u63a8\u7406\u8ffd\u8e64",
@@ -20478,9 +20478,9 @@
       "captured_at": "2026-05-17",
       "author": "Stephen Chin",
       "contributor": null,
-      "id": "context_graphs_three_layer_memory",
       "community": 4,
-      "norm_label": "\u4e09\u5c64\u8a18\u61b6\u67b6\u69cb:\u77ed\u671f\u3001\u9577\u671f\u3001\u63a8\u7406\u8ffd\u8e64"
+      "norm_label": "\u4e09\u5c64\u8a18\u61b6\u67b6\u69cb:\u77ed\u671f\u3001\u9577\u671f\u3001\u63a8\u7406\u8ffd\u8e64",
+      "id": "context_graphs_three_layer_memory"
     },
     {
       "label": "\u6c7a\u7b56\u6eaf\u6e90\uff08Decision Provenance\uff09",
@@ -20491,9 +20491,9 @@
       "captured_at": "2026-05-17",
       "author": "Stephen Chin",
       "contributor": null,
-      "id": "context_graphs_decision_provenance",
       "community": 4,
-      "norm_label": "\u6c7a\u7b56\u6eaf\u6e90(decision provenance)"
+      "norm_label": "\u6c7a\u7b56\u6eaf\u6e90(decision provenance)",
+      "id": "context_graphs_decision_provenance"
     },
     {
       "label": "\u53ef\u89e3\u91cb AI\uff08Explainable AI\uff09\u900f\u904e\u5716\u8b5c\u8996\u89ba\u5316\u63a8\u7406\u8def\u5f91",
@@ -20504,9 +20504,9 @@
       "captured_at": "2026-05-17",
       "author": "Stephen Chin",
       "contributor": null,
-      "id": "context_graphs_explainable_ai",
       "community": 4,
-      "norm_label": "\u53ef\u89e3\u91cb ai(explainable ai)\u900f\u904e\u5716\u8b5c\u8996\u89ba\u5316\u63a8\u7406\u8def\u5f91"
+      "norm_label": "\u53ef\u89e3\u91cb ai(explainable ai)\u900f\u904e\u5716\u8b5c\u8996\u89ba\u5316\u63a8\u7406\u8def\u5f91",
+      "id": "context_graphs_explainable_ai"
     },
     {
       "label": "\u8cc7\u8a0a\u5b64\u5cf6\uff08Information Silos\uff09\uff1a\u4f01\u696d\u77e5\u8b58\u6563\u843d\u7684\u554f\u984c",
@@ -20517,9 +20517,9 @@
       "captured_at": "2026-05-17",
       "author": "Stephen Chin",
       "contributor": null,
-      "id": "context_graphs_information_silos",
       "community": 4,
-      "norm_label": "\u8cc7\u8a0a\u5b64\u5cf6(information silos):\u4f01\u696d\u77e5\u8b58\u6563\u843d\u7684\u554f\u984c"
+      "norm_label": "\u8cc7\u8a0a\u5b64\u5cf6(information silos):\u4f01\u696d\u77e5\u8b58\u6563\u843d\u7684\u554f\u984c",
+      "id": "context_graphs_information_silos"
     },
     {
       "label": "\u4e0a\u4e0b\u6587\u9810\u7b97\u7ba1\u7406\uff08Context Budget Management\uff09",
@@ -20530,9 +20530,9 @@
       "captured_at": "2026-05-22",
       "author": null,
       "contributor": null,
-      "id": "handoff_skill_context_budget",
       "community": 56,
-      "norm_label": "\u4e0a\u4e0b\u6587\u9810\u7b97\u7ba1\u7406(context budget management)"
+      "norm_label": "\u4e0a\u4e0b\u6587\u9810\u7b97\u7ba1\u7406(context budget management)",
+      "id": "handoff_skill_context_budget"
     },
     {
       "label": "\u4efb\u52d9\u5207\u7247\u8f49\u79fb\uff08Task Slice Handoff\uff09",
@@ -20543,9 +20543,9 @@
       "captured_at": "2026-05-22",
       "author": null,
       "contributor": null,
-      "id": "handoff_skill_task_slice",
       "community": 56,
-      "norm_label": "\u4efb\u52d9\u5207\u7247\u8f49\u79fb(task slice handoff)"
+      "norm_label": "\u4efb\u52d9\u5207\u7247\u8f49\u79fb(task slice handoff)",
+      "id": "handoff_skill_task_slice"
     },
     {
       "label": "DIY Sub-Agent \u8ff4\u8def\uff08Sub-Agent Loop\uff09",
@@ -20556,9 +20556,9 @@
       "captured_at": "2026-05-22",
       "author": null,
       "contributor": null,
-      "id": "handoff_skill_sub_agent_loop",
       "community": 56,
-      "norm_label": "diy sub-agent \u8ff4\u8def(sub-agent loop)"
+      "norm_label": "diy sub-agent \u8ff4\u8def(sub-agent loop)",
+      "id": "handoff_skill_sub_agent_loop"
     },
     {
       "label": "\u5de5\u5177\u4e2d\u7acb\u50b3\u905e\uff08Tool-Agnostic Handoff\uff09",
@@ -20569,9 +20569,9 @@
       "captured_at": "2026-05-22",
       "author": null,
       "contributor": null,
-      "id": "handoff_skill_tool_agnostic",
       "community": 56,
-      "norm_label": "\u5de5\u5177\u4e2d\u7acb\u50b3\u905e(tool-agnostic handoff)"
+      "norm_label": "\u5de5\u5177\u4e2d\u7acb\u50b3\u905e(tool-agnostic handoff)",
+      "id": "handoff_skill_tool_agnostic"
     },
     {
       "label": "\u81ea\u9032\u5316 AI Ops \u4ee3\u7406\u4eba\u67b6\u69cb",
@@ -20582,9 +20582,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "self_evolving_agent_ai_ops",
       "community": 4,
-      "norm_label": "\u81ea\u9032\u5316 ai ops \u4ee3\u7406\u4eba\u67b6\u69cb"
+      "norm_label": "\u81ea\u9032\u5316 ai ops \u4ee3\u7406\u4eba\u67b6\u69cb",
+      "id": "self_evolving_agent_ai_ops"
     },
     {
       "label": "\u81ea\u64f4\u5145\u4ee3\u7406\u4eba\uff08Self-Extending Agent\uff09\uff1a\u904b\u884c\u6642\u81ea\u5efa\u65b0\u5de5\u5177",
@@ -20595,9 +20595,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "self_evolving_agent_self_extending",
       "community": 4,
-      "norm_label": "\u81ea\u64f4\u5145\u4ee3\u7406\u4eba(self-extending agent):\u904b\u884c\u6642\u81ea\u5efa\u65b0\u5de5\u5177"
+      "norm_label": "\u81ea\u64f4\u5145\u4ee3\u7406\u4eba(self-extending agent):\u904b\u884c\u6642\u81ea\u5efa\u65b0\u5de5\u5177",
+      "id": "self_evolving_agent_self_extending"
     },
     {
       "label": "\u7a0b\u5f0f\u78bc\u5373\u77e5\u8b58\u5eab\uff08Codebase as Knowledge Base\uff09",
@@ -20608,9 +20608,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "self_evolving_agent_codebase_knowledge",
       "community": 4,
-      "norm_label": "\u7a0b\u5f0f\u78bc\u5373\u77e5\u8b58\u5eab(codebase as knowledge base)"
+      "norm_label": "\u7a0b\u5f0f\u78bc\u5373\u77e5\u8b58\u5eab(codebase as knowledge base)",
+      "id": "self_evolving_agent_codebase_knowledge"
     },
     {
       "label": "\u53ef\u81ea\u7de8\u6307\u4ee4\u96c6\uff08Self-Editable Instructions\uff09",
@@ -20621,9 +20621,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "self_evolving_agent_self_editable_instructions",
       "community": 4,
-      "norm_label": "\u53ef\u81ea\u7de8\u6307\u4ee4\u96c6(self-editable instructions)"
+      "norm_label": "\u53ef\u81ea\u7de8\u6307\u4ee4\u96c6(self-editable instructions)",
+      "id": "self_evolving_agent_self_editable_instructions"
     },
     {
       "label": "\u5e73\u53f0\u8907\u5229\uff08Platform Compounding\uff09\uff1aAll-in \u55ae\u4e00\u5e73\u53f0",
@@ -20634,9 +20634,9 @@
       "captured_at": "2026-05-17",
       "author": "Brian Scanlan",
       "contributor": null,
-      "id": "ai_doubles_platform_compounding",
       "community": 34,
-      "norm_label": "\u5e73\u53f0\u8907\u5229(platform compounding):all-in \u55ae\u4e00\u5e73\u53f0"
+      "norm_label": "\u5e73\u53f0\u8907\u5229(platform compounding):all-in \u55ae\u4e00\u5e73\u53f0",
+      "id": "ai_doubles_platform_compounding"
     },
     {
       "label": "\u8108\u7d61\u6ce8\u5165\uff08Context Injection\uff09\uff1a\u8a13\u7df4 AI \u5982\u65b0\u4eba\u5165\u8077",
@@ -20647,9 +20647,9 @@
       "captured_at": "2026-05-17",
       "author": "Brian Scanlan",
       "contributor": null,
-      "id": "ai_doubles_context_injection",
       "community": 34,
-      "norm_label": "\u8108\u7d61\u6ce8\u5165(context injection):\u8a13\u7df4 ai \u5982\u65b0\u4eba\u5165\u8077"
+      "norm_label": "\u8108\u7d61\u6ce8\u5165(context injection):\u8a13\u7df4 ai \u5982\u65b0\u4eba\u5165\u8077",
+      "id": "ai_doubles_context_injection"
     },
     {
       "label": "\u6280\u80fd\u98db\u8f2a\uff08Skills Flywheel\uff09\uff1a\u53ef\u91cd\u7528\u6280\u80fd\u8cc7\u7522\u5eab",
@@ -20660,9 +20660,9 @@
       "captured_at": "2026-05-17",
       "author": "Brian Scanlan",
       "contributor": null,
-      "id": "ai_doubles_skills_flywheel",
       "community": 34,
-      "norm_label": "\u6280\u80fd\u98db\u8f2a(skills flywheel):\u53ef\u91cd\u7528\u6280\u80fd\u8cc7\u7522\u5eab"
+      "norm_label": "\u6280\u80fd\u98db\u8f2a(skills flywheel):\u53ef\u91cd\u7528\u6280\u80fd\u8cc7\u7522\u5eab",
+      "id": "ai_doubles_skills_flywheel"
     },
     {
       "label": "\u554f\u984c\u5c0e\u5411\u4ee3\u7406\uff08Problem-Oriented Agent\uff09\uff1a\u7d66\u554f\u984c\u4e0d\u7d66\u4efb\u52d9",
@@ -20673,9 +20673,9 @@
       "captured_at": "2026-05-17",
       "author": "Brian Scanlan",
       "contributor": null,
-      "id": "ai_doubles_problem_oriented_agent",
       "community": 34,
-      "norm_label": "\u554f\u984c\u5c0e\u5411\u4ee3\u7406(problem-oriented agent):\u7d66\u554f\u984c\u4e0d\u7d66\u4efb\u52d9"
+      "norm_label": "\u554f\u984c\u5c0e\u5411\u4ee3\u7406(problem-oriented agent):\u7d66\u554f\u984c\u4e0d\u7d66\u4efb\u52d9",
+      "id": "ai_doubles_problem_oriented_agent"
     },
     {
       "label": "\u6f38\u9032\u5f0f\u63ed\u793a\uff08Progressive Disclosure\uff09\uff1a\u6280\u80fd\u6309\u9700\u8f09\u5165",
@@ -20686,9 +20686,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "agent_skills_progressive_disclosure",
       "community": 34,
-      "norm_label": "\u6f38\u9032\u5f0f\u63ed\u793a(progressive disclosure):\u6280\u80fd\u6309\u9700\u8f09\u5165"
+      "norm_label": "\u6f38\u9032\u5f0f\u63ed\u793a(progressive disclosure):\u6280\u80fd\u6309\u9700\u8f09\u5165",
+      "id": "agent_skills_progressive_disclosure"
     },
     {
       "label": "\u80fd\u529b\u6a39\uff08Capability Trees\uff09\uff1a\u5c64\u7d1a\u5316\u6280\u80fd\u7d44\u7e54",
@@ -20699,9 +20699,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "agent_skills_capability_trees",
       "community": 34,
-      "norm_label": "\u80fd\u529b\u6a39(capability trees):\u5c64\u7d1a\u5316\u6280\u80fd\u7d44\u7e54"
+      "norm_label": "\u80fd\u529b\u6a39(capability trees):\u5c64\u7d1a\u5316\u6280\u80fd\u7d44\u7e54",
+      "id": "agent_skills_capability_trees"
     },
     {
       "label": "\u4eba\u5de5\u7b56\u5283\u7a0b\u5e8f\u6027\u77e5\u8b58\uff08Human-Curated Procedural Knowledge\uff09",
@@ -20712,9 +20712,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "agent_skills_human_curated",
       "community": 34,
-      "norm_label": "\u4eba\u5de5\u7b56\u5283\u7a0b\u5e8f\u6027\u77e5\u8b58(human-curated procedural knowledge)"
+      "norm_label": "\u4eba\u5de5\u7b56\u5283\u7a0b\u5e8f\u6027\u77e5\u8b58(human-curated procedural knowledge)",
+      "id": "agent_skills_human_curated"
     },
     {
       "label": "\u6280\u80fd\u4f9b\u61c9\u93c8\u98a8\u96aa\uff08Skill Supply Chain Risk\uff09",
@@ -20725,9 +20725,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "agent_skills_supply_chain_risk",
       "community": 34,
-      "norm_label": "\u6280\u80fd\u4f9b\u61c9\u93c8\u98a8\u96aa(skill supply chain risk)"
+      "norm_label": "\u6280\u80fd\u4f9b\u61c9\u93c8\u98a8\u96aa(skill supply chain risk)",
+      "id": "agent_skills_supply_chain_risk"
     },
     {
       "label": "\u80fd\u529b\u5256\u6790\uff08Competence Profile\uff09\uff1a\u591a\u667a\u80fd\u9ad4\u5354\u8abf\u8def\u7531",
@@ -20738,9 +20738,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "agent_skills_competence_profile",
       "community": 34,
-      "norm_label": "\u80fd\u529b\u5256\u6790(competence profile):\u591a\u667a\u80fd\u9ad4\u5354\u8abf\u8def\u7531"
+      "norm_label": "\u80fd\u529b\u5256\u6790(competence profile):\u591a\u667a\u80fd\u9ad4\u5354\u8abf\u8def\u7531",
+      "id": "agent_skills_competence_profile"
     },
     {
       "label": "\u696d\u52d9\u9328\u9ede\uff08Business Anchoring\uff09\uff1aGenAI \u6210\u529f\u524d\u63d0",
@@ -20751,9 +20751,9 @@
       "captured_at": "2026-05-26",
       "author": "Jonathan Lowe",
       "contributor": "Stephen Chin",
-      "id": "anchoring_genai_business_anchoring",
       "community": 4,
-      "norm_label": "\u696d\u52d9\u9328\u9ede(business anchoring):genai \u6210\u529f\u524d\u63d0"
+      "norm_label": "\u696d\u52d9\u9328\u9ede(business anchoring):genai \u6210\u529f\u524d\u63d0",
+      "id": "anchoring_genai_business_anchoring"
     },
     {
       "label": "\u77e5\u8b58\u65b7\u5c64\uff08Knowledge Attrition\uff09\uff1a\u7d93\u9a57\u4eba\u624d\u6d41\u5931",
@@ -20764,9 +20764,9 @@
       "captured_at": "2026-05-26",
       "author": "Jonathan Lowe",
       "contributor": "Stephen Chin",
-      "id": "anchoring_genai_knowledge_attrition",
       "community": 4,
-      "norm_label": "\u77e5\u8b58\u65b7\u5c64(knowledge attrition):\u7d93\u9a57\u4eba\u624d\u6d41\u5931"
+      "norm_label": "\u77e5\u8b58\u65b7\u5c64(knowledge attrition):\u7d93\u9a57\u4eba\u624d\u6d41\u5931",
+      "id": "anchoring_genai_knowledge_attrition"
     },
     {
       "label": "GraphRAG \u4f01\u696d\u77e5\u8b58\u5eab\u67b6\u69cb\uff08Pfizer \u88fd\u85e5\u6848\u4f8b\uff09",
@@ -20777,9 +20777,9 @@
       "captured_at": "2026-05-26",
       "author": "Jonathan Lowe",
       "contributor": "Stephen Chin",
-      "id": "anchoring_genai_graphrag",
       "community": 4,
-      "norm_label": "graphrag \u4f01\u696d\u77e5\u8b58\u5eab\u67b6\u69cb(pfizer \u88fd\u85e5\u6848\u4f8b)"
+      "norm_label": "graphrag \u4f01\u696d\u77e5\u8b58\u5eab\u67b6\u69cb(pfizer \u88fd\u85e5\u6848\u4f8b)",
+      "id": "anchoring_genai_graphrag"
     },
     {
       "label": "\u4eba\u985e\u6ebc\u4ef6\u804a\u5929\u6a5f\u5668\u4eba\uff08Human Wetware Chatbot\uff09\uff1a\u7d44\u7e54\u6e9d\u901a\u7b56\u7565",
@@ -20790,9 +20790,9 @@
       "captured_at": "2026-05-26",
       "author": "Jonathan Lowe",
       "contributor": "Stephen Chin",
-      "id": "anchoring_genai_human_wetware",
       "community": 4,
-      "norm_label": "\u4eba\u985e\u6ebc\u4ef6\u804a\u5929\u6a5f\u5668\u4eba(human wetware chatbot):\u7d44\u7e54\u6e9d\u901a\u7b56\u7565"
+      "norm_label": "\u4eba\u985e\u6ebc\u4ef6\u804a\u5929\u6a5f\u5668\u4eba(human wetware chatbot):\u7d44\u7e54\u6e9d\u901a\u7b56\u7565",
+      "id": "anchoring_genai_human_wetware"
     },
     {
       "label": "Harness \u67b6\u69cb\uff1a\u6a21\u578b\u5916\u751f\u614b\u7cfb\u6c7a\u5b9a Claude Code \u8868\u73fe",
@@ -20803,9 +20803,9 @@
       "captured_at": "2026-05-17",
       "author": "Anthropic",
       "contributor": null,
-      "id": "claude_code_playbook_harness",
       "community": 34,
-      "norm_label": "harness \u67b6\u69cb:\u6a21\u578b\u5916\u751f\u614b\u7cfb\u6c7a\u5b9a claude code \u8868\u73fe"
+      "norm_label": "harness \u67b6\u69cb:\u6a21\u578b\u5916\u751f\u614b\u7cfb\u6c7a\u5b9a claude code \u8868\u73fe",
+      "id": "claude_code_playbook_harness"
     },
     {
       "label": "CLAUDE.md\uff1a\u6bcf\u6b21 session \u81ea\u52d5\u8f09\u5165\u7684\u60c5\u5883\u6a94\u6848",
@@ -20816,9 +20816,9 @@
       "captured_at": "2026-05-17",
       "author": "Anthropic",
       "contributor": null,
-      "id": "claude_code_playbook_claude_md",
       "community": 34,
-      "norm_label": "claude.md:\u6bcf\u6b21 session \u81ea\u52d5\u8f09\u5165\u7684\u60c5\u5883\u6a94\u6848"
+      "norm_label": "claude.md:\u6bcf\u6b21 session \u81ea\u52d5\u8f09\u5165\u7684\u60c5\u5883\u6a94\u6848",
+      "id": "claude_code_playbook_claude_md"
     },
     {
       "label": "Agentic Search\uff1aClaude Code \u7121\u5d4c\u5165\u7d22\u5f15\u641c\u5c0b\u7b56\u7565",
@@ -20829,9 +20829,9 @@
       "captured_at": "2026-05-17",
       "author": "Anthropic",
       "contributor": null,
-      "id": "claude_code_playbook_agentic_search",
       "community": 34,
-      "norm_label": "agentic search:claude code \u7121\u5d4c\u5165\u7d22\u5f15\u641c\u5c0b\u7b56\u7565"
+      "norm_label": "agentic search:claude code \u7121\u5d4c\u5165\u7d22\u5f15\u641c\u5c0b\u7b56\u7565",
+      "id": "claude_code_playbook_agentic_search"
     },
     {
       "label": "\u914d\u7f6e\u8870\u9000\uff08Configuration Decay\uff09\uff1aCLAUDE.md \u9700\u5b9a\u671f\u5be9\u67e5",
@@ -20842,9 +20842,9 @@
       "captured_at": "2026-05-17",
       "author": "Anthropic",
       "contributor": null,
-      "id": "claude_code_playbook_config_decay",
       "community": 34,
-      "norm_label": "\u914d\u7f6e\u8870\u9000(configuration decay):claude.md \u9700\u5b9a\u671f\u5be9\u67e5"
+      "norm_label": "\u914d\u7f6e\u8870\u9000(configuration decay):claude.md \u9700\u5b9a\u671f\u5be9\u67e5",
+      "id": "claude_code_playbook_config_decay"
     },
     {
       "label": "Agent Manager \u65b0\u8208\u8077\u4f4d\uff1a\u7ba1\u7406 Claude Code \u751f\u614b\u7cfb",
@@ -20855,9 +20855,9 @@
       "captured_at": "2026-05-17",
       "author": "Anthropic",
       "contributor": null,
-      "id": "claude_code_playbook_agent_manager",
       "community": 34,
-      "norm_label": "agent manager \u65b0\u8208\u8077\u4f4d:\u7ba1\u7406 claude code \u751f\u614b\u7cfb"
+      "norm_label": "agent manager \u65b0\u8208\u8077\u4f4d:\u7ba1\u7406 claude code \u751f\u614b\u7cfb",
+      "id": "claude_code_playbook_agent_manager"
     },
     {
       "label": "GitHub Copilot \u5927\u898f\u6a21 Claude \u90e8\u7f72",
@@ -20868,9 +20868,9 @@
       "captured_at": "2026-05-11",
       "author": null,
       "contributor": null,
-      "id": "claude_github_scale_caching_advisors_github_copilot",
       "community": 2,
-      "norm_label": "github copilot \u5927\u898f\u6a21 claude \u90e8\u7f72"
+      "norm_label": "github copilot \u5927\u898f\u6a21 claude \u90e8\u7f72",
+      "id": "claude_github_scale_caching_advisors_github_copilot"
     },
     {
       "label": "Prompt Caching\uff08\u63d0\u793a\u8a5e\u5feb\u53d6\uff09",
@@ -20881,9 +20881,9 @@
       "captured_at": "2026-05-11",
       "author": null,
       "contributor": null,
-      "id": "claude_github_scale_caching_advisors_prompt_caching",
       "community": 2,
-      "norm_label": "prompt caching(\u63d0\u793a\u8a5e\u5feb\u53d6)"
+      "norm_label": "prompt caching(\u63d0\u793a\u8a5e\u5feb\u53d6)",
+      "id": "claude_github_scale_caching_advisors_prompt_caching"
     },
     {
       "label": "Evaluation Harness\uff08\u8a55\u4f30\u6846\u67b6\uff09",
@@ -20894,9 +20894,9 @@
       "captured_at": "2026-05-11",
       "author": null,
       "contributor": null,
-      "id": "claude_github_scale_caching_advisors_evaluation_harness",
       "community": 2,
-      "norm_label": "evaluation harness(\u8a55\u4f30\u6846\u67b6)"
+      "norm_label": "evaluation harness(\u8a55\u4f30\u6846\u67b6)",
+      "id": "claude_github_scale_caching_advisors_evaluation_harness"
     },
     {
       "label": "Advisor Pattern\uff08\u9867\u554f\u7b56\u7565\u6a21\u5f0f\uff09",
@@ -20907,9 +20907,9 @@
       "captured_at": "2026-05-11",
       "author": null,
       "contributor": null,
-      "id": "claude_github_scale_caching_advisors_advisor_pattern",
       "community": 2,
-      "norm_label": "advisor pattern(\u9867\u554f\u7b56\u7565\u6a21\u5f0f)"
+      "norm_label": "advisor pattern(\u9867\u554f\u7b56\u7565\u6a21\u5f0f)",
+      "id": "claude_github_scale_caching_advisors_advisor_pattern"
     },
     {
       "label": "AI \u898f\u6a21\u5316\u6210\u672c\u6548\u76ca",
@@ -20920,9 +20920,9 @@
       "captured_at": "2026-05-11",
       "author": null,
       "contributor": null,
-      "id": "claude_github_scale_caching_advisors_cost_efficiency",
       "community": 2,
-      "norm_label": "ai \u898f\u6a21\u5316\u6210\u672c\u6548\u76ca"
+      "norm_label": "ai \u898f\u6a21\u5316\u6210\u672c\u6548\u76ca",
+      "id": "claude_github_scale_caching_advisors_cost_efficiency"
     },
     {
       "label": "Pydantic AI Agent \u6846\u67b6",
@@ -20933,9 +20933,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "playground_production_pydantic_ai",
       "community": 18,
-      "norm_label": "pydantic ai agent \u6846\u67b6"
+      "norm_label": "pydantic ai agent \u6846\u67b6",
+      "id": "playground_production_pydantic_ai"
     },
     {
       "label": "GEPA\uff08\u751f\u6210\u5f0f\u9032\u5316 Prompt \u9069\u61c9\uff09",
@@ -20946,9 +20946,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "playground_production_gepa",
       "community": 18,
-      "norm_label": "gepa(\u751f\u6210\u5f0f\u9032\u5316 prompt \u9069\u61c9)"
+      "norm_label": "gepa(\u751f\u6210\u5f0f\u9032\u5316 prompt \u9069\u61c9)",
+      "id": "playground_production_gepa"
     },
     {
       "label": "Managed Variables \u71b1\u66f4\u65b0\u6a5f\u5236",
@@ -20959,9 +20959,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "playground_production_managed_variables",
       "community": 18,
-      "norm_label": "managed variables \u71b1\u66f4\u65b0\u6a5f\u5236"
+      "norm_label": "managed variables \u71b1\u66f4\u65b0\u6a5f\u5236",
+      "id": "playground_production_managed_variables"
     },
     {
       "label": "Online Evals \u7dda\u4e0a\u8a55\u4f30",
@@ -20972,9 +20972,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "playground_production_online_evals",
       "community": 18,
-      "norm_label": "online evals \u7dda\u4e0a\u8a55\u4f30"
+      "norm_label": "online evals \u7dda\u4e0a\u8a55\u4f30",
+      "id": "playground_production_online_evals"
     },
     {
       "label": "\u751f\u7522\u74b0\u5883\u53ef\u89c0\u6e2c\u6027",
@@ -20985,9 +20985,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "playground_production_production_observability",
       "community": 18,
-      "norm_label": "\u751f\u7522\u74b0\u5883\u53ef\u89c0\u6e2c\u6027"
+      "norm_label": "\u751f\u7522\u74b0\u5883\u53ef\u89c0\u6e2c\u6027",
+      "id": "playground_production_production_observability"
     },
     {
       "label": "Bounded Autonomy\uff08\u6709\u754c\u81ea\u4e3b\u6027\uff09\u6846\u67b6",
@@ -20998,9 +20998,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "bounded_autonomy_bounded_autonomy",
       "community": 2,
-      "norm_label": "bounded autonomy(\u6709\u754c\u81ea\u4e3b\u6027)\u6846\u67b6"
+      "norm_label": "bounded autonomy(\u6709\u754c\u81ea\u4e3b\u6027)\u6846\u67b6",
+      "id": "bounded_autonomy_bounded_autonomy"
     },
     {
       "label": "\u8907\u96dc\u5ea6\u901a\u81a8\uff08Complexity Inflation\uff09",
@@ -21011,9 +21011,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "bounded_autonomy_complexity_inflation",
       "community": 2,
-      "norm_label": "\u8907\u96dc\u5ea6\u901a\u81a8(complexity inflation)"
+      "norm_label": "\u8907\u96dc\u5ea6\u901a\u81a8(complexity inflation)",
+      "id": "bounded_autonomy_complexity_inflation"
     },
     {
       "label": "\u7206\u70b8\u534a\u5f91\uff08Blast Radius\uff09\u8a2d\u8a08\u539f\u5247",
@@ -21024,9 +21024,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "bounded_autonomy_blast_radius",
       "community": 2,
-      "norm_label": "\u7206\u70b8\u534a\u5f91(blast radius)\u8a2d\u8a08\u539f\u5247"
+      "norm_label": "\u7206\u70b8\u534a\u5f91(blast radius)\u8a2d\u8a08\u539f\u5247",
+      "id": "bounded_autonomy_blast_radius"
     },
     {
       "label": "\u6700\u5c0f\u6709\u6548 Context\uff08Minimal Effective Context\uff09",
@@ -21037,9 +21037,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "bounded_autonomy_minimal_context",
       "community": 2,
-      "norm_label": "\u6700\u5c0f\u6709\u6548 context(minimal effective context)"
+      "norm_label": "\u6700\u5c0f\u6709\u6548 context(minimal effective context)",
+      "id": "bounded_autonomy_minimal_context"
     },
     {
       "label": "\u5f37\u5236\u5347\u7d1a\uff08Mandatory Escalation\uff09\u6a5f\u5236",
@@ -21050,9 +21050,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "bounded_autonomy_mandatory_escalation",
       "community": 2,
-      "norm_label": "\u5f37\u5236\u5347\u7d1a(mandatory escalation)\u6a5f\u5236"
+      "norm_label": "\u5f37\u5236\u5347\u7d1a(mandatory escalation)\u6a5f\u5236",
+      "id": "bounded_autonomy_mandatory_escalation"
     },
     {
       "label": "\u905e\u8ff4\u81ea\u6211\u6539\u9032\u8ff4\u5708\uff08Recursive Self-Improving Loop\uff09",
@@ -21063,9 +21063,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "how_to_build_self_improving_company_recursive_loop",
       "community": 18,
-      "norm_label": "\u905e\u8ff4\u81ea\u6211\u6539\u9032\u8ff4\u5708(recursive self-improving loop)"
+      "norm_label": "\u905e\u8ff4\u81ea\u6211\u6539\u9032\u8ff4\u5708(recursive self-improving loop)",
+      "id": "how_to_build_self_improving_company_recursive_loop"
     },
     {
       "label": "Token \u7d93\u6fdf\uff08Token-as-Resource Paradigm\uff09",
@@ -21076,9 +21076,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "how_to_build_self_improving_company_token_economy",
       "community": 18,
-      "norm_label": "token \u7d93\u6fdf(token-as-resource paradigm)"
+      "norm_label": "token \u7d93\u6fdf(token-as-resource paradigm)",
+      "id": "how_to_build_self_improving_company_token_economy"
     },
     {
       "label": "\u76f4\u63a5\u8cac\u4efb\u4eba\u5236\uff08DRI\uff09",
@@ -21089,9 +21089,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "how_to_build_self_improving_company_dri",
       "community": 18,
-      "norm_label": "\u76f4\u63a5\u8cac\u4efb\u4eba\u5236(dri)"
+      "norm_label": "\u76f4\u63a5\u8cac\u4efb\u4eba\u5236(dri)",
+      "id": "how_to_build_self_improving_company_dri"
     },
     {
       "label": "\u7d44\u7e54\u53ef\u8b80\u6027\uff08Organizational Legibility to AI\uff09",
@@ -21102,9 +21102,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "how_to_build_self_improving_company_org_legibility",
       "community": 18,
-      "norm_label": "\u7d44\u7e54\u53ef\u8b80\u6027(organizational legibility to ai)"
+      "norm_label": "\u7d44\u7e54\u53ef\u8b80\u6027(organizational legibility to ai)",
+      "id": "how_to_build_self_improving_company_org_legibility"
     },
     {
       "label": "\u8edf\u9ad4\u7121\u5e38\u6027\uff08Software Ephemerality\uff09",
@@ -21115,9 +21115,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "how_to_build_self_improving_company_software_ephemerality",
       "community": 18,
-      "norm_label": "\u8edf\u9ad4\u7121\u5e38\u6027(software ephemerality)"
+      "norm_label": "\u8edf\u9ad4\u7121\u5e38\u6027(software ephemerality)",
+      "id": "how_to_build_self_improving_company_software_ephemerality"
     },
     {
       "label": "Build-Trace-Eval-Loop \u6846\u67b6",
@@ -21128,9 +21128,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "ai_pm_skill_job_offers_build_trace_eval_loop",
       "community": 2,
-      "norm_label": "build-trace-eval-loop \u6846\u67b6"
+      "norm_label": "build-trace-eval-loop \u6846\u67b6",
+      "id": "ai_pm_skill_job_offers_build_trace_eval_loop"
     },
     {
       "label": "\u7522\u54c1\u54c1\u5473\uff08Product Taste\uff09",
@@ -21141,9 +21141,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "ai_pm_skill_job_offers_product_taste",
       "community": 72,
-      "norm_label": "\u7522\u54c1\u54c1\u5473(product taste)"
+      "norm_label": "\u7522\u54c1\u54c1\u5473(product taste)",
+      "id": "ai_pm_skill_job_offers_product_taste"
     },
     {
       "label": "Context Graph\uff08\u4f01\u696d Agent \u8108\u7d61\u5716\uff09",
@@ -21154,9 +21154,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "ai_pm_skill_job_offers_context_graph",
       "community": 72,
-      "norm_label": "context graph(\u4f01\u696d agent \u8108\u7d61\u5716)"
+      "norm_label": "context graph(\u4f01\u696d agent \u8108\u7d61\u5716)",
+      "id": "ai_pm_skill_job_offers_context_graph"
     },
     {
       "label": "Arize Phoenix \u53ef\u89c0\u6e2c\u6027\u5e73\u53f0",
@@ -21167,9 +21167,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "ai_pm_skill_job_offers_arize_phoenix",
       "community": 2,
-      "norm_label": "arize phoenix \u53ef\u89c0\u6e2c\u6027\u5e73\u53f0"
+      "norm_label": "arize phoenix \u53ef\u89c0\u6e2c\u6027\u5e73\u53f0",
+      "id": "ai_pm_skill_job_offers_arize_phoenix"
     },
     {
       "label": "Vibe Evals\uff08LLM \u5efa\u8b70\u7684 Eval \u8349\u7a3f\uff09",
@@ -21180,9 +21180,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "ai_pm_skill_job_offers_vibe_evals",
       "community": 2,
-      "norm_label": "vibe evals(llm \u5efa\u8b70\u7684 eval \u8349\u7a3f)"
+      "norm_label": "vibe evals(llm \u5efa\u8b70\u7684 eval \u8349\u7a3f)",
+      "id": "ai_pm_skill_job_offers_vibe_evals"
     },
     {
       "label": "MCP Apps\uff08Agent \u5167\u5d4c\u4e92\u52d5\u4ecb\u9762\uff09",
@@ -21193,9 +21193,9 @@
       "captured_at": "2026-05-25",
       "author": null,
       "contributor": null,
-      "id": "introducing_webmcp_mcp_apps",
       "community": 100,
-      "norm_label": "mcp apps(agent \u5167\u5d4c\u4e92\u52d5\u4ecb\u9762)"
+      "norm_label": "mcp apps(agent \u5167\u5d4c\u4e92\u52d5\u4ecb\u9762)",
+      "id": "introducing_webmcp_mcp_apps"
     },
     {
       "label": "WebMCP\uff08\u700f\u89bd\u5668\u539f\u751f MCP API\uff09",
@@ -21206,9 +21206,9 @@
       "captured_at": "2026-05-25",
       "author": null,
       "contributor": null,
-      "id": "introducing_webmcp_webmcp",
       "community": 100,
-      "norm_label": "webmcp(\u700f\u89bd\u5668\u539f\u751f mcp api)"
+      "norm_label": "webmcp(\u700f\u89bd\u5668\u539f\u751f mcp api)",
+      "id": "introducing_webmcp_webmcp"
     },
     {
       "label": "Starfish Design\uff08Chat \u4e2d\u5fc3 UI \u53cd\u6a21\u5f0f\uff09",
@@ -21219,9 +21219,9 @@
       "captured_at": "2026-05-25",
       "author": null,
       "contributor": null,
-      "id": "introducing_webmcp_starfish_design",
       "community": 100,
-      "norm_label": "starfish design(chat \u4e2d\u5fc3 ui \u53cd\u6a21\u5f0f)"
+      "norm_label": "starfish design(chat \u4e2d\u5fc3 ui \u53cd\u6a21\u5f0f)",
+      "id": "introducing_webmcp_starfish_design"
     },
     {
       "label": "MCP Transport\uff08STDIO vs HTTP\uff09",
@@ -21232,9 +21232,9 @@
       "captured_at": "2026-05-25",
       "author": null,
       "contributor": null,
-      "id": "introducing_webmcp_mcp_transport",
       "community": 100,
-      "norm_label": "mcp transport(stdio vs http)"
+      "norm_label": "mcp transport(stdio vs http)",
+      "id": "introducing_webmcp_mcp_transport"
     },
     {
       "label": "Builder PM \u6846\u67b6\uff084 \u968e\u5c64\uff09",
@@ -21245,9 +21245,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "claude_code_setup_nontechnical_pms_builder_pm",
       "community": 72,
-      "norm_label": "builder pm \u6846\u67b6(4 \u968e\u5c64)"
+      "norm_label": "builder pm \u6846\u67b6(4 \u968e\u5c64)",
+      "id": "claude_code_setup_nontechnical_pms_builder_pm"
     },
     {
       "label": "Lovable-as-Infrastructure\uff08\u57fa\u790e\u8a2d\u65bd\u501f\u7528\u6cd5\uff09",
@@ -21258,9 +21258,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "claude_code_setup_nontechnical_pms_lovable_infrastructure",
       "community": 72,
-      "norm_label": "lovable-as-infrastructure(\u57fa\u790e\u8a2d\u65bd\u501f\u7528\u6cd5)"
+      "norm_label": "lovable-as-infrastructure(\u57fa\u790e\u8a2d\u65bd\u501f\u7528\u6cd5)",
+      "id": "claude_code_setup_nontechnical_pms_lovable_infrastructure"
     },
     {
       "label": "PM \u5373 Orchestrator\uff08\u5de5\u4f5c\u6d41\u6307\u63ee\u8005\uff09",
@@ -21271,9 +21271,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "claude_code_setup_nontechnical_pms_pm_orchestrator",
       "community": 72,
-      "norm_label": "pm \u5373 orchestrator(\u5de5\u4f5c\u6d41\u6307\u63ee\u8005)"
+      "norm_label": "pm \u5373 orchestrator(\u5de5\u4f5c\u6d41\u6307\u63ee\u8005)",
+      "id": "claude_code_setup_nontechnical_pms_pm_orchestrator"
     },
     {
       "label": "Fix the Agent, Not the Feature \u539f\u5247",
@@ -21284,9 +21284,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "claude_code_setup_nontechnical_pms_fix_agent",
       "community": 72,
-      "norm_label": "fix the agent, not the feature \u539f\u5247"
+      "norm_label": "fix the agent, not the feature \u539f\u5247",
+      "id": "claude_code_setup_nontechnical_pms_fix_agent"
     },
     {
       "label": "Oracle-Evaluator-Architect \u4e09\u5c64\u67b6\u69cb",
@@ -21297,9 +21297,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "leverage_domain_expertise_oracle_evaluator_architect",
       "community": 18,
-      "norm_label": "oracle-evaluator-architect \u4e09\u5c64\u67b6\u69cb"
+      "norm_label": "oracle-evaluator-architect \u4e09\u5c64\u67b6\u69cb",
+      "id": "leverage_domain_expertise_oracle_evaluator_architect"
     },
     {
       "label": "\u9818\u57df\u539f\u751f AI \u7d44\u7e54\uff08Domain-Native AI Organization\uff09",
@@ -21310,9 +21310,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "leverage_domain_expertise_domain_native_org",
       "community": 18,
-      "norm_label": "\u9818\u57df\u539f\u751f ai \u7d44\u7e54(domain-native ai organization)"
+      "norm_label": "\u9818\u57df\u539f\u751f ai \u7d44\u7e54(domain-native ai organization)",
+      "id": "leverage_domain_expertise_domain_native_org"
     },
     {
       "label": "\u5206\u6563\u5f0f Oracle\uff08Decentralized Oracle\uff09",
@@ -21323,9 +21323,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "leverage_domain_expertise_decentralized_oracle",
       "community": 18,
-      "norm_label": "\u5206\u6563\u5f0f oracle(decentralized oracle)"
+      "norm_label": "\u5206\u6563\u5f0f oracle(decentralized oracle)",
+      "id": "leverage_domain_expertise_decentralized_oracle"
     },
     {
       "label": "Skills \u7cfb\u7d71\uff08\u6f38\u9032\u5f0f\u63ed\u9732\uff09",
@@ -21336,9 +21336,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "claude_for_pms_skills_system",
       "community": 2,
-      "norm_label": "skills \u7cfb\u7d71(\u6f38\u9032\u5f0f\u63ed\u9732)"
+      "norm_label": "skills \u7cfb\u7d71(\u6f38\u9032\u5f0f\u63ed\u9732)",
+      "id": "claude_for_pms_skills_system"
     },
     {
       "label": "\u6f38\u9032\u5f0f\u63ed\u9732\uff08Progressive Disclosure\uff09",
@@ -21349,9 +21349,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "claude_for_pms_progressive_disclosure",
       "community": 2,
-      "norm_label": "\u6f38\u9032\u5f0f\u63ed\u9732(progressive disclosure)"
+      "norm_label": "\u6f38\u9032\u5f0f\u63ed\u9732(progressive disclosure)",
+      "id": "claude_for_pms_progressive_disclosure"
     },
     {
       "label": "Super PM\uff08\u8d85\u7d1a\u500b\u4eba\u8ca2\u737b\u8005\uff09",
@@ -21362,9 +21362,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "claude_for_pms_super_pm",
       "community": 72,
-      "norm_label": "super pm(\u8d85\u7d1a\u500b\u4eba\u8ca2\u737b\u8005)"
+      "norm_label": "super pm(\u8d85\u7d1a\u500b\u4eba\u8ca2\u737b\u8005)",
+      "id": "claude_for_pms_super_pm"
     },
     {
       "label": "\u8def\u7531\u5f0f\u77e5\u8b58\u67b6\u69cb\uff08Router-Based Knowledge Architecture\uff09",
@@ -21375,9 +21375,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "claude_for_pms_router_knowledge",
       "community": 18,
-      "norm_label": "\u8def\u7531\u5f0f\u77e5\u8b58\u67b6\u69cb(router-based knowledge architecture)"
+      "norm_label": "\u8def\u7531\u5f0f\u77e5\u8b58\u67b6\u69cb(router-based knowledge architecture)",
+      "id": "claude_for_pms_router_knowledge"
     },
     {
       "label": "\u81ea\u6211\u9032\u5316\u77e5\u8b58\u5eab\uff08Self-Improving Knowledge Base\uff09",
@@ -21388,9 +21388,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "claude_for_pms_self_improving_kb",
       "community": 18,
-      "norm_label": "\u81ea\u6211\u9032\u5316\u77e5\u8b58\u5eab(self-improving knowledge base)"
+      "norm_label": "\u81ea\u6211\u9032\u5316\u77e5\u8b58\u5eab(self-improving knowledge base)",
+      "id": "claude_for_pms_self_improving_kb"
     },
     {
       "label": "\u4f01\u696d\u77e5\u8b58\u6469\u64e6\uff08Enterprise Knowledge Friction\uff09",
@@ -21401,9 +21401,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "glean_enterprise_ai_search_enterprise_knowledge_friction",
       "community": 18,
-      "norm_label": "\u4f01\u696d\u77e5\u8b58\u6469\u64e6(enterprise knowledge friction)"
+      "norm_label": "\u4f01\u696d\u77e5\u8b58\u6469\u64e6(enterprise knowledge friction)",
+      "id": "glean_enterprise_ai_search_enterprise_knowledge_friction"
     },
     {
       "label": "Glean \u4f01\u696d AI \u641c\u5c0b",
@@ -21414,9 +21414,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "glean_enterprise_ai_search_glean",
       "community": 18,
-      "norm_label": "glean \u4f01\u696d ai \u641c\u5c0b"
+      "norm_label": "glean \u4f01\u696d ai \u641c\u5c0b",
+      "id": "glean_enterprise_ai_search_glean"
     },
     {
       "label": "\u7522\u54c1\u4e3b\u5c0e\u589e\u9577\uff08Product-Led Growth\uff09",
@@ -21427,9 +21427,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "glean_enterprise_ai_search_plg",
       "community": 18,
-      "norm_label": "\u7522\u54c1\u4e3b\u5c0e\u589e\u9577(product-led growth)"
+      "norm_label": "\u7522\u54c1\u4e3b\u5c0e\u589e\u9577(product-led growth)",
+      "id": "glean_enterprise_ai_search_plg"
     },
     {
       "label": "\u7b56\u7565\u6027\u805a\u7126\uff08Strategic Focus\uff09",
@@ -21440,9 +21440,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "glean_enterprise_ai_search_strategic_focus",
       "community": 18,
-      "norm_label": "\u7b56\u7565\u6027\u805a\u7126(strategic focus)"
+      "norm_label": "\u7b56\u7565\u6027\u805a\u7126(strategic focus)",
+      "id": "glean_enterprise_ai_search_strategic_focus"
     },
     {
       "label": "Agent Memory \u539f\u8a9e\uff08\u8a18\u61b6\u7cfb\u7d71\uff09",
@@ -21453,9 +21453,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "memory_dreaming_agents_memory_primitive",
       "community": 18,
-      "norm_label": "agent memory \u539f\u8a9e(\u8a18\u61b6\u7cfb\u7d71)"
+      "norm_label": "agent memory \u539f\u8a9e(\u8a18\u61b6\u7cfb\u7d71)",
+      "id": "memory_dreaming_agents_memory_primitive"
     },
     {
       "label": "Dreaming\uff08\u6279\u6b21\u7570\u6b65\u8a18\u61b6\u84b8\u993e\uff09",
@@ -21466,9 +21466,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "memory_dreaming_agents_dreaming",
       "community": 18,
-      "norm_label": "dreaming(\u6279\u6b21\u7570\u6b65\u8a18\u61b6\u84b8\u993e)"
+      "norm_label": "dreaming(\u6279\u6b21\u7570\u6b65\u8a18\u61b6\u84b8\u993e)",
+      "id": "memory_dreaming_agents_dreaming"
     },
     {
       "label": "\u8a18\u61b6\u84b8\u993e\uff08Memory Distillation\uff09",
@@ -21479,9 +21479,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "memory_dreaming_agents_memory_distillation",
       "community": 18,
-      "norm_label": "\u8a18\u61b6\u84b8\u993e(memory distillation)"
+      "norm_label": "\u8a18\u61b6\u84b8\u993e(memory distillation)",
+      "id": "memory_dreaming_agents_memory_distillation"
     },
     {
       "label": "\u6a02\u89c0\u4e26\u767c\uff08Optimistic Concurrency\uff09\u8a18\u61b6\u5beb\u5165",
@@ -21492,9 +21492,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "memory_dreaming_agents_optimistic_concurrency",
       "community": 18,
-      "norm_label": "\u6a02\u89c0\u4e26\u767c(optimistic concurrency)\u8a18\u61b6\u5beb\u5165"
+      "norm_label": "\u6a02\u89c0\u4e26\u767c(optimistic concurrency)\u8a18\u61b6\u5beb\u5165",
+      "id": "memory_dreaming_agents_optimistic_concurrency"
     },
     {
       "label": "Agent \u53ef\u89c0\u6e2c\u6027\u751f\u547d\u9031\u671f",
@@ -21505,9 +21505,9 @@
       "captured_at": "2026-05-15",
       "author": null,
       "contributor": null,
-      "id": "agent_observability_lifecycle",
       "community": 2,
-      "norm_label": "agent \u53ef\u89c0\u6e2c\u6027\u751f\u547d\u9031\u671f"
+      "norm_label": "agent \u53ef\u89c0\u6e2c\u6027\u751f\u547d\u9031\u671f",
+      "id": "agent_observability_lifecycle"
     },
     {
       "label": "OpenTelemetry \u6a19\u6e96\u5316\u8ffd\u8e64",
@@ -21518,9 +21518,9 @@
       "captured_at": "2026-05-15",
       "author": null,
       "contributor": null,
-      "id": "agent_observability_otel_tracing",
       "community": 2,
-      "norm_label": "opentelemetry \u6a19\u6e96\u5316\u8ffd\u8e64"
+      "norm_label": "opentelemetry \u6a19\u6e96\u5316\u8ffd\u8e64",
+      "id": "agent_observability_otel_tracing"
     },
     {
       "label": "\u4efb\u52d9\u9075\u5f9e\u5ea6\u8a55\u4f30\uff08Task Adherence Evaluation\uff09",
@@ -21531,9 +21531,9 @@
       "captured_at": "2026-05-15",
       "author": null,
       "contributor": null,
-      "id": "agent_observability_task_adherence",
       "community": 2,
-      "norm_label": "\u4efb\u52d9\u9075\u5f9e\u5ea6\u8a55\u4f30(task adherence evaluation)"
+      "norm_label": "\u4efb\u52d9\u9075\u5f9e\u5ea6\u8a55\u4f30(task adherence evaluation)",
+      "id": "agent_observability_task_adherence"
     },
     {
       "label": "\u96f6\u57fa\u8a55\u4f30\u81ea\u52d5\u5316\uff08Zero-Shot Evaluation Automation\uff09",
@@ -21544,9 +21544,9 @@
       "captured_at": "2026-05-15",
       "author": null,
       "contributor": null,
-      "id": "agent_observability_zero_shot_eval",
       "community": 2,
-      "norm_label": "\u96f6\u57fa\u8a55\u4f30\u81ea\u52d5\u5316(zero-shot evaluation automation)"
+      "norm_label": "\u96f6\u57fa\u8a55\u4f30\u81ea\u52d5\u5316(zero-shot evaluation automation)",
+      "id": "agent_observability_zero_shot_eval"
     },
     {
       "label": "Red Teaming\uff08\u5c0d\u6297\u6027\u6e2c\u8a66\uff09",
@@ -21557,9 +21557,9 @@
       "captured_at": "2026-05-15",
       "author": null,
       "contributor": null,
-      "id": "agent_observability_red_teaming",
       "community": 2,
-      "norm_label": "red teaming(\u5c0d\u6297\u6027\u6e2c\u8a66)"
+      "norm_label": "red teaming(\u5c0d\u6297\u6027\u6e2c\u8a66)",
+      "id": "agent_observability_red_teaming"
     },
     {
       "label": "\u6f38\u9032\u5f0f\u4e0a\u4e0b\u6587\u63ed\u9732\uff08Progressive Context Disclosure\uff09",
@@ -21570,9 +21570,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "skill_issue_langfuse_progressive_context",
       "community": 2,
-      "norm_label": "\u6f38\u9032\u5f0f\u4e0a\u4e0b\u6587\u63ed\u9732(progressive context disclosure)"
+      "norm_label": "\u6f38\u9032\u5f0f\u4e0a\u4e0b\u6587\u63ed\u9732(progressive context disclosure)",
+      "id": "skill_issue_langfuse_progressive_context"
     },
     {
       "label": "\u9810\u8a13\u7df4\u4e0a\u4e0b\u6587\u8150\u721b\uff08Pre-training Context Staleness\uff09",
@@ -21583,9 +21583,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "skill_issue_langfuse_context_staleness",
       "community": 2,
-      "norm_label": "\u9810\u8a13\u7df4\u4e0a\u4e0b\u6587\u8150\u721b(pre-training context staleness)"
+      "norm_label": "\u9810\u8a13\u7df4\u4e0a\u4e0b\u6587\u8150\u721b(pre-training context staleness)",
+      "id": "skill_issue_langfuse_context_staleness"
     },
     {
       "label": "\u76ee\u6a19\u51fd\u6578\u5c0d\u9f4a\u554f\u984c\uff08Target Function Misalignment\uff09",
@@ -21596,9 +21596,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "skill_issue_langfuse_target_function_misalignment",
       "community": 2,
-      "norm_label": "\u76ee\u6a19\u51fd\u6578\u5c0d\u9f4a\u554f\u984c(target function misalignment)"
+      "norm_label": "\u76ee\u6a19\u51fd\u6578\u5c0d\u9f4a\u554f\u984c(target function misalignment)",
+      "id": "skill_issue_langfuse_target_function_misalignment"
     },
     {
       "label": "Langfuse \u8ffd\u8e64\u8207\u8a55\u4f30\u5e73\u53f0",
@@ -21609,9 +21609,9 @@
       "captured_at": "2026-05-21",
       "author": null,
       "contributor": null,
-      "id": "skill_issue_langfuse_langfuse",
       "community": 2,
-      "norm_label": "langfuse \u8ffd\u8e64\u8207\u8a55\u4f30\u5e73\u53f0"
+      "norm_label": "langfuse \u8ffd\u8e64\u8207\u8a55\u4f30\u5e73\u53f0",
+      "id": "skill_issue_langfuse_langfuse"
     },
     {
       "label": "ExO 3.0 \u6846\u67b6\uff08\u6307\u6578\u578b\u7d44\u7e54\uff09",
@@ -21622,9 +21622,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "organizational_singularity_exo_framework",
       "community": 18,
-      "norm_label": "exo 3.0 \u6846\u67b6(\u6307\u6578\u578b\u7d44\u7e54)"
+      "norm_label": "exo 3.0 \u6846\u67b6(\u6307\u6578\u578b\u7d44\u7e54)",
+      "id": "organizational_singularity_exo_framework"
     },
     {
       "label": "\u7d44\u7e54\u5947\u9ede\uff08Organizational Singularity\uff09",
@@ -21635,9 +21635,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "organizational_singularity_org_singularity",
       "community": 18,
-      "norm_label": "\u7d44\u7e54\u5947\u9ede(organizational singularity)"
+      "norm_label": "\u7d44\u7e54\u5947\u9ede(organizational singularity)",
+      "id": "organizational_singularity_org_singularity"
     },
     {
       "label": "\u516d\u5c64\u667a\u6167\u5806\u758a\uff08Six-Layer Intelligence Stack\uff09",
@@ -21648,9 +21648,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "organizational_singularity_intelligence_stack",
       "community": 18,
-      "norm_label": "\u516d\u5c64\u667a\u6167\u5806\u758a(six-layer intelligence stack)"
+      "norm_label": "\u516d\u5c64\u667a\u6167\u5806\u758a(six-layer intelligence stack)",
+      "id": "organizational_singularity_intelligence_stack"
     },
     {
       "label": "\u514d\u75ab\u7cfb\u7d71\u554f\u984c\uff08Immune System Problem\uff09",
@@ -21661,9 +21661,9 @@
       "captured_at": "2026-05-27",
       "author": null,
       "contributor": null,
-      "id": "organizational_singularity_immune_system",
       "community": 18,
-      "norm_label": "\u514d\u75ab\u7cfb\u7d71\u554f\u984c(immune system problem)"
+      "norm_label": "\u514d\u75ab\u7cfb\u7d71\u554f\u984c(immune system problem)",
+      "id": "organizational_singularity_immune_system"
     },
     {
       "label": "\u53ef Grill \u6027\uff08Grillability\uff09\u5224\u65b7\u529b",
@@ -21674,9 +21674,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "grill_skills_grillability",
       "community": 2,
-      "norm_label": "\u53ef grill \u6027(grillability)\u5224\u65b7\u529b"
+      "norm_label": "\u53ef grill \u6027(grillability)\u5224\u65b7\u529b",
+      "id": "grill_skills_grillability"
     },
     {
       "label": "\u4e0a\u4e0b\u6587\u667a\u6167\u5340\uff08Smart Zone\uff0c120K tokens\uff09",
@@ -21687,9 +21687,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "grill_skills_smart_zone",
       "community": 2,
-      "norm_label": "\u4e0a\u4e0b\u6587\u667a\u6167\u5340(smart zone,120k tokens)"
+      "norm_label": "\u4e0a\u4e0b\u6587\u667a\u6167\u5340(smart zone,120k tokens)",
+      "id": "grill_skills_smart_zone"
     },
     {
       "label": "\u53c3\u6578\u5316\u77e5\u8b58\u512a\u5148\uff08Parametric Knowledge First\uff09",
@@ -21700,9 +21700,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "grill_skills_parametric_knowledge",
       "community": 2,
-      "norm_label": "\u53c3\u6578\u5316\u77e5\u8b58\u512a\u5148(parametric knowledge first)"
+      "norm_label": "\u53c3\u6578\u5316\u77e5\u8b58\u512a\u5148(parametric knowledge first)",
+      "id": "grill_skills_parametric_knowledge"
     },
     {
       "label": "\u975e\u540c\u6b65\u898f\u5283\u4e26\u884c\uff08Async Planning Parallelism\uff09",
@@ -21713,9 +21713,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "grill_skills_async_parallelism",
       "community": 2,
-      "norm_label": "\u975e\u540c\u6b65\u898f\u5283\u4e26\u884c(async planning parallelism)"
+      "norm_label": "\u975e\u540c\u6b65\u898f\u5283\u4e26\u884c(async planning parallelism)",
+      "id": "grill_skills_async_parallelism"
     },
     {
       "label": "AI Harness\uff08\u4ee3\u7406\u4eba\u63a7\u5236\u6846\u67b6\uff09",
@@ -21726,9 +21726,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "ai_harnesses_harness",
       "community": 2,
-      "norm_label": "ai harness(\u4ee3\u7406\u4eba\u63a7\u5236\u6846\u67b6)"
+      "norm_label": "ai harness(\u4ee3\u7406\u4eba\u63a7\u5236\u6846\u67b6)",
+      "id": "ai_harnesses_harness"
     },
     {
       "label": "Verify Step\uff08\u78ba\u5b9a\u6027\u9a57\u8b49\u5c64\uff09",
@@ -21739,9 +21739,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "ai_harnesses_verify_step",
       "community": 2,
-      "norm_label": "verify step(\u78ba\u5b9a\u6027\u9a57\u8b49\u5c64)"
+      "norm_label": "verify step(\u78ba\u5b9a\u6027\u9a57\u8b49\u5c64)",
+      "id": "ai_harnesses_verify_step"
     },
     {
       "label": "Guardrails\uff08Agent \u908a\u754c\u9650\u5236\uff09",
@@ -21752,9 +21752,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "ai_harnesses_guardrails",
       "community": 2,
-      "norm_label": "guardrails(agent \u908a\u754c\u9650\u5236)"
+      "norm_label": "guardrails(agent \u908a\u754c\u9650\u5236)",
+      "id": "ai_harnesses_guardrails"
     },
     {
       "label": "Context \u58d3\u7e2e\uff08Context Compaction\uff09",
@@ -21765,9 +21765,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "ai_harnesses_context_compaction",
       "community": 2,
-      "norm_label": "context \u58d3\u7e2e(context compaction)"
+      "norm_label": "context \u58d3\u7e2e(context compaction)",
+      "id": "ai_harnesses_context_compaction"
     },
     {
       "label": "\u6fc0\u52f5\u76f8\u5bb9\u539f\u5247\uff08Incentive Compatibility\uff09",
@@ -21778,9 +21778,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "entire_map_economics_incentive_compatibility",
       "community": 123,
-      "norm_label": "\u6fc0\u52f5\u76f8\u5bb9\u539f\u5247(incentive compatibility)"
+      "norm_label": "\u6fc0\u52f5\u76f8\u5bb9\u539f\u5247(incentive compatibility)",
+      "id": "entire_map_economics_incentive_compatibility"
     },
     {
       "label": "\u50f9\u683c\u6a5f\u5236\uff08Price Mechanism\uff09",
@@ -21791,9 +21791,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "entire_map_economics_price_mechanism",
       "community": 123,
-      "norm_label": "\u50f9\u683c\u6a5f\u5236(price mechanism)"
+      "norm_label": "\u50f9\u683c\u6a5f\u5236(price mechanism)",
+      "id": "entire_map_economics_price_mechanism"
     },
     {
       "label": "\u6bd4\u8f03\u512a\u52e2\uff08Comparative Advantage\uff09",
@@ -21804,9 +21804,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "entire_map_economics_comparative_advantage",
       "community": 124,
-      "norm_label": "\u6bd4\u8f03\u512a\u52e2(comparative advantage)"
+      "norm_label": "\u6bd4\u8f03\u512a\u52e2(comparative advantage)",
+      "id": "entire_map_economics_comparative_advantage"
     },
     {
       "label": "\u6a5f\u6703\u6210\u672c\uff08Opportunity Cost\uff09",
@@ -21817,9 +21817,9 @@
       "captured_at": "2026-05-09",
       "author": null,
       "contributor": null,
-      "id": "entire_map_economics_opportunity_cost",
       "community": 124,
-      "norm_label": "\u6a5f\u6703\u6210\u672c(opportunity cost)"
+      "norm_label": "\u6a5f\u6703\u6210\u672c(opportunity cost)",
+      "id": "entire_map_economics_opportunity_cost"
     },
     {
       "label": "\u901a\u7528\u8a9e\u8a00\uff08Ubiquitous Language\uff09",
@@ -21830,9 +21830,9 @@
       "captured_at": "2026-05-15",
       "author": null,
       "contributor": null,
-      "id": "grill_with_docs_ddd_ubiquitous_language",
       "community": 2,
-      "norm_label": "\u901a\u7528\u8a9e\u8a00(ubiquitous language)"
+      "norm_label": "\u901a\u7528\u8a9e\u8a00(ubiquitous language)",
+      "id": "grill_with_docs_ddd_ubiquitous_language"
     },
     {
       "label": "\u67b6\u69cb\u6c7a\u7b56\u8a18\u9304\uff08ADR\uff09",
@@ -21843,9 +21843,9 @@
       "captured_at": "2026-05-15",
       "author": null,
       "contributor": null,
-      "id": "grill_with_docs_ddd_adr",
       "community": 2,
-      "norm_label": "\u67b6\u69cb\u6c7a\u7b56\u8a18\u9304(adr)"
+      "norm_label": "\u67b6\u69cb\u6c7a\u7b56\u8a18\u9304(adr)",
+      "id": "grill_with_docs_ddd_adr"
     },
     {
       "label": "\u9650\u754c\u4e0a\u4e0b\u6587\uff08Bounded Context\uff09",
@@ -21856,9 +21856,9 @@
       "captured_at": "2026-05-15",
       "author": null,
       "contributor": null,
-      "id": "grill_with_docs_ddd_bounded_context",
       "community": 2,
-      "norm_label": "\u9650\u754c\u4e0a\u4e0b\u6587(bounded context)"
+      "norm_label": "\u9650\u754c\u4e0a\u4e0b\u6587(bounded context)",
+      "id": "grill_with_docs_ddd_bounded_context"
     },
     {
       "label": "/grill-with-docs Skill",
@@ -21869,9 +21869,9 @@
       "captured_at": "2026-05-15",
       "author": null,
       "contributor": null,
-      "id": "grill_with_docs_ddd_grill_with_docs",
       "community": 2,
-      "norm_label": "/grill-with-docs skill"
+      "norm_label": "/grill-with-docs skill",
+      "id": "grill_with_docs_ddd_grill_with_docs"
     },
     {
       "label": "Eval \u9a45\u52d5\u8fed\u4ee3\u98db\u8f2a\uff08Eval-Driven Iteration Loop\uff09",
@@ -21882,9 +21882,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "evals_for_taste_eval_flywheel",
       "community": 2,
-      "norm_label": "eval \u9a45\u52d5\u8fed\u4ee3\u98db\u8f2a(eval-driven iteration loop)"
+      "norm_label": "eval \u9a45\u52d5\u8fed\u4ee3\u98db\u8f2a(eval-driven iteration loop)",
+      "id": "evals_for_taste_eval_flywheel"
     },
     {
       "label": "Code Grader\uff08\u78ba\u5b9a\u6027\u8a55\u5206\u5668\uff09",
@@ -21895,9 +21895,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "evals_for_taste_code_grader",
       "community": 2,
-      "norm_label": "code grader(\u78ba\u5b9a\u6027\u8a55\u5206\u5668)"
+      "norm_label": "code grader(\u78ba\u5b9a\u6027\u8a55\u5206\u5668)",
+      "id": "evals_for_taste_code_grader"
     },
     {
       "label": "Model Grader\uff08\u8a9e\u610f\u54c1\u8cea\u8a55\u5206\u5668\uff09",
@@ -21908,9 +21908,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "evals_for_taste_model_grader",
       "community": 2,
-      "norm_label": "model grader(\u8a9e\u610f\u54c1\u8cea\u8a55\u5206\u5668)"
+      "norm_label": "model grader(\u8a9e\u610f\u54c1\u8cea\u8a55\u5206\u5668)",
+      "id": "evals_for_taste_model_grader"
     },
     {
       "label": "\u5c0d\u6297\u6027 QA Loop\uff08Adversarial QA\uff09",
@@ -21921,9 +21921,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "evals_for_taste_adversarial_qa",
       "community": 2,
-      "norm_label": "\u5c0d\u6297\u6027 qa loop(adversarial qa)"
+      "norm_label": "\u5c0d\u6297\u6027 qa loop(adversarial qa)",
+      "id": "evals_for_taste_adversarial_qa"
     },
     {
       "label": "Eval \u98fd\u548c\uff08Eval Saturation\uff09\u8207\u9328\u9ede\u7f3a\u5931",
@@ -21934,9 +21934,9 @@
       "captured_at": "2026-05-26",
       "author": null,
       "contributor": null,
-      "id": "evals_for_taste_eval_saturation",
       "community": 2,
-      "norm_label": "eval \u98fd\u548c(eval saturation)\u8207\u9328\u9ede\u7f3a\u5931"
+      "norm_label": "eval \u98fd\u548c(eval saturation)\u8207\u9328\u9ede\u7f3a\u5931",
+      "id": "evals_for_taste_eval_saturation"
     },
     {
       "label": "Context Gap\uff08\u4e0a\u4e0b\u6587\u7f3a\u53e3\uff09",
@@ -21947,9 +21947,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "combine_skills_mcp_context_gap",
       "community": 2,
-      "norm_label": "context gap(\u4e0a\u4e0b\u6587\u7f3a\u53e3)"
+      "norm_label": "context gap(\u4e0a\u4e0b\u6587\u7f3a\u53e3)",
+      "id": "combine_skills_mcp_context_gap"
     },
     {
       "label": "\u5f37\u5236\u4e0a\u4e0b\u6587\uff08Mandatory Context\uff09\u539f\u5247",
@@ -21960,9 +21960,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "combine_skills_mcp_mandatory_context",
       "community": 2,
-      "norm_label": "\u5f37\u5236\u4e0a\u4e0b\u6587(mandatory context)\u539f\u5247"
+      "norm_label": "\u5f37\u5236\u4e0a\u4e0b\u6587(mandatory context)\u539f\u5247",
+      "id": "combine_skills_mcp_mandatory_context"
     },
     {
       "label": "\u8a55\u6e2c\u9a45\u52d5 Skill \u958b\u767c\uff08Eval-Driven Skill Development\uff09",
@@ -21973,9 +21973,9 @@
       "captured_at": "2026-05-17",
       "author": null,
       "contributor": null,
-      "id": "combine_skills_mcp_eval_driven_skill",
       "community": 2,
-      "norm_label": "\u8a55\u6e2c\u9a45\u52d5 skill \u958b\u767c(eval-driven skill development)"
+      "norm_label": "\u8a55\u6e2c\u9a45\u52d5 skill \u958b\u767c(eval-driven skill development)",
+      "id": "combine_skills_mcp_eval_driven_skill"
     },
     {
       "label": "Planner-Generator-Evaluator \u4e09\u89d2\u67b6\u69cb",
@@ -21986,9 +21986,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "build_agents_hours_pge_architecture",
       "community": 2,
-      "norm_label": "planner-generator-evaluator \u4e09\u89d2\u67b6\u69cb"
+      "norm_label": "planner-generator-evaluator \u4e09\u89d2\u67b6\u69cb",
+      "id": "build_agents_hours_pge_architecture"
     },
     {
       "label": "Context \u8870\u9000\uff08Context Rot\uff09",
@@ -21999,9 +21999,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "build_agents_hours_context_rot",
       "community": 2,
-      "norm_label": "context \u8870\u9000(context rot)"
+      "norm_label": "context \u8870\u9000(context rot)",
+      "id": "build_agents_hours_context_rot"
     },
     {
       "label": "\u8ac2\u5a9a\u504f\u8aa4\uff08Sycophancy Bias\uff09",
@@ -22012,9 +22012,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "build_agents_hours_sycophancy_bias",
       "community": 2,
-      "norm_label": "\u8ac2\u5a9a\u504f\u8aa4(sycophancy bias)"
+      "norm_label": "\u8ac2\u5a9a\u504f\u8aa4(sycophancy bias)",
+      "id": "build_agents_hours_sycophancy_bias"
     },
     {
       "label": "Sprint Contract\uff08\u885d\u523a\u5408\u7d04\uff09",
@@ -22025,9 +22025,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "build_agents_hours_sprint_contract",
       "community": 2,
-      "norm_label": "sprint contract(\u885d\u523a\u5408\u7d04)"
+      "norm_label": "sprint contract(\u885d\u523a\u5408\u7d04)",
+      "id": "build_agents_hours_sprint_contract"
     },
     {
       "label": "Trace-Driven Debugging\uff08\u8ffd\u8e64\u9a45\u52d5\u9664\u932f\uff09",
@@ -22038,9 +22038,9 @@
       "captured_at": "2026-05-19",
       "author": null,
       "contributor": null,
-      "id": "build_agents_hours_trace_debugging",
       "community": 2,
-      "norm_label": "trace-driven debugging(\u8ffd\u8e64\u9a45\u52d5\u9664\u932f)"
+      "norm_label": "trace-driven debugging(\u8ffd\u8e64\u9a45\u52d5\u9664\u932f)",
+      "id": "build_agents_hours_trace_debugging"
     }
   ],
   "links": [
@@ -22052,9 +22052,9 @@
       "weight": 1.0,
       "_src": "scripts_rebuild_index_js",
       "_tgt": "rebuild_index_parsefrontmatter",
-      "confidence_score": 1.0,
       "source": "scripts_rebuild_index_js",
-      "target": "rebuild_index_parsefrontmatter"
+      "target": "rebuild_index_parsefrontmatter",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -22064,9 +22064,9 @@
       "weight": 1.0,
       "_src": "scripts_rebuild_index_js",
       "_tgt": "rebuild_index_buildindex",
-      "confidence_score": 1.0,
       "source": "scripts_rebuild_index_js",
-      "target": "rebuild_index_buildindex"
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -22076,9 +22076,9 @@
       "weight": 1.0,
       "_src": "rebuild_index_buildindex",
       "_tgt": "rebuild_index_parsefrontmatter",
-      "confidence_score": 1.0,
       "source": "rebuild_index_parsefrontmatter",
-      "target": "rebuild_index_buildindex"
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
     },
     {
       "relation": "references",
@@ -39751,8 +39751,8 @@
       "source_file": "_notes/agents-dont-do-standups.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "agents_standups_ldd",
-      "_tgt": "agents_standups_factory_sdlc",
+      "_src": "agents_standups_factory_sdlc",
+      "_tgt": "agents_standups_ldd",
       "source": "agents_standups_factory_sdlc",
       "target": "agents_standups_ldd"
     },
@@ -39763,8 +39763,8 @@
       "source_file": "_notes/agents-dont-do-standups.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "agents_standups_qa_agent",
-      "_tgt": "agents_standups_factory_sdlc",
+      "_src": "agents_standups_factory_sdlc",
+      "_tgt": "agents_standups_qa_agent",
       "source": "agents_standups_factory_sdlc",
       "target": "agents_standups_qa_agent"
     },
@@ -39775,8 +39775,8 @@
       "source_file": "_notes/building-claude-code-with-harness.md",
       "source_location": null,
       "weight": 0.72,
-      "_src": "harness_fsm_team_protocol",
-      "_tgt": "agents_standups_factory_sdlc",
+      "_src": "agents_standups_factory_sdlc",
+      "_tgt": "harness_fsm_team_protocol",
       "source": "agents_standups_factory_sdlc",
       "target": "harness_fsm_team_protocol"
     },
@@ -39859,8 +39859,8 @@
       "source_file": "_notes/cicd-is-dead.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "cicd_stateful_inner_loop",
-      "_tgt": "harness_engineering_core",
+      "_src": "harness_engineering_core",
+      "_tgt": "cicd_stateful_inner_loop",
       "source": "harness_engineering_core",
       "target": "cicd_stateful_inner_loop"
     },
@@ -39871,8 +39871,8 @@
       "source_file": "_notes/building-claude-code-with-harness.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "harness_todo_write",
-      "_tgt": "harness_perception_action_loop",
+      "_src": "harness_perception_action_loop",
+      "_tgt": "harness_todo_write",
       "source": "harness_perception_action_loop",
       "target": "harness_todo_write"
     },
@@ -39895,8 +39895,8 @@
       "source_file": "_notes/memory-dreaming-agents-ravi.md",
       "source_location": null,
       "weight": 0.72,
-      "_src": "memory_dreaming_memory_system",
-      "_tgt": "harness_context_isolation",
+      "_src": "harness_context_isolation",
+      "_tgt": "memory_dreaming_memory_system",
       "source": "harness_context_isolation",
       "target": "memory_dreaming_memory_system"
     },
@@ -39907,8 +39907,8 @@
       "source_file": "_notes/building-claude-code-with-harness.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "harness_prompt_cache",
-      "_tgt": "harness_production_harness",
+      "_src": "harness_production_harness",
+      "_tgt": "harness_prompt_cache",
       "source": "harness_production_harness",
       "target": "harness_prompt_cache"
     },
@@ -40063,8 +40063,8 @@
       "source_file": "_notes/ai-automation-paradox.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_automation_paradox_parkinson_law",
-      "_tgt": "ai_automation_paradox_ai_os",
+      "_src": "ai_automation_paradox_ai_os",
+      "_tgt": "ai_automation_paradox_parkinson_law",
       "source": "ai_automation_paradox_ai_os",
       "target": "ai_automation_paradox_parkinson_law"
     },
@@ -40075,8 +40075,8 @@
       "source_file": "_notes/ai-automation-paradox.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "ai_automation_paradox_ride_models",
-      "_tgt": "ai_automation_paradox_super_agent",
+      "_src": "ai_automation_paradox_super_agent",
+      "_tgt": "ai_automation_paradox_ride_models",
       "source": "ai_automation_paradox_super_agent",
       "target": "ai_automation_paradox_ride_models"
     },
@@ -40111,8 +40111,8 @@
       "source_file": "_notes/ai-sovereignty-constraints-what-breaks.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_sovereignty_haystack",
-      "_tgt": "ai_sovereignty_four_pillars",
+      "_src": "ai_sovereignty_four_pillars",
+      "_tgt": "ai_sovereignty_haystack",
       "source": "ai_sovereignty_four_pillars",
       "target": "ai_sovereignty_haystack"
     },
@@ -40123,8 +40123,8 @@
       "source_file": "_notes/ai-sovereignty-constraints-what-breaks.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_sovereignty_human_in_loop",
-      "_tgt": "ai_sovereignty_four_pillars",
+      "_src": "ai_sovereignty_four_pillars",
+      "_tgt": "ai_sovereignty_human_in_loop",
       "source": "ai_sovereignty_four_pillars",
       "target": "ai_sovereignty_human_in_loop"
     },
@@ -40135,8 +40135,8 @@
       "source_file": "_notes/ship-real-agents-evals.md",
       "source_location": null,
       "weight": 0.65,
-      "_src": "ship_agents_evals_trace_span",
-      "_tgt": "ai_sovereignty_haystack",
+      "_src": "ai_sovereignty_haystack",
+      "_tgt": "ship_agents_evals_trace_span",
       "source": "ai_sovereignty_haystack",
       "target": "ship_agents_evals_trace_span"
     },
@@ -40147,8 +40147,8 @@
       "source_file": "_notes/cicd-is-dead.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "cicd_merge_serialization",
-      "_tgt": "cicd_continuous_compute",
+      "_src": "cicd_continuous_compute",
+      "_tgt": "cicd_merge_serialization",
       "source": "cicd_continuous_compute",
       "target": "cicd_merge_serialization"
     },
@@ -40183,8 +40183,8 @@
       "source_file": "_notes/cicd-is-dead.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "cicd_stateful_inner_loop",
-      "_tgt": "cicd_continuous_compute",
+      "_src": "cicd_continuous_compute",
+      "_tgt": "cicd_stateful_inner_loop",
       "source": "cicd_continuous_compute",
       "target": "cicd_stateful_inner_loop"
     },
@@ -40207,8 +40207,8 @@
       "source_file": "_notes/ai-investment-five-levers-workflow.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "five_levers_workflow_operating_loop",
-      "_tgt": "five_levers_workflow_shape",
+      "_src": "five_levers_workflow_shape",
+      "_tgt": "five_levers_workflow_operating_loop",
       "source": "five_levers_workflow_shape",
       "target": "five_levers_workflow_operating_loop"
     },
@@ -40219,8 +40219,8 @@
       "source_file": "_notes/ai-investment-five-levers-workflow.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "five_levers_capital_allocation",
-      "_tgt": "five_levers_investment_matrix",
+      "_src": "five_levers_investment_matrix",
+      "_tgt": "five_levers_capital_allocation",
       "source": "five_levers_investment_matrix",
       "target": "five_levers_capital_allocation"
     },
@@ -40267,8 +40267,8 @@
       "source_file": "_notes/prompt-injection-ai-security.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "prompt_injection_silent_exfiltration",
-      "_tgt": "prompt_injection_indirect",
+      "_src": "prompt_injection_indirect",
+      "_tgt": "prompt_injection_silent_exfiltration",
       "source": "prompt_injection_indirect",
       "target": "prompt_injection_silent_exfiltration"
     },
@@ -40315,8 +40315,8 @@
       "source_file": "_notes/mcp-gateway-pattern-enterprise.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "mcp_gateway_security_layer",
-      "_tgt": "mcp_gateway_orchestrator",
+      "_src": "mcp_gateway_orchestrator",
+      "_tgt": "mcp_gateway_security_layer",
       "source": "mcp_gateway_orchestrator",
       "target": "mcp_gateway_security_layer"
     },
@@ -40327,8 +40327,8 @@
       "source_file": "_notes/ai-native-vs-ai-enabled.md",
       "source_location": null,
       "weight": 0.82,
-      "_src": "ai_native_orchestration_layer",
-      "_tgt": "mcp_gateway_orchestrator",
+      "_src": "mcp_gateway_orchestrator",
+      "_tgt": "ai_native_orchestration_layer",
       "source": "mcp_gateway_orchestrator",
       "target": "ai_native_orchestration_layer"
     },
@@ -40351,8 +40351,8 @@
       "source_file": "_notes/ship-real-agents-evals.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ship_agents_evals_cascading_failure",
-      "_tgt": "ship_agents_evals_vibes_problem",
+      "_src": "ship_agents_evals_vibes_problem",
+      "_tgt": "ship_agents_evals_cascading_failure",
       "source": "ship_agents_evals_vibes_problem",
       "target": "ship_agents_evals_cascading_failure"
     },
@@ -40375,8 +40375,8 @@
       "source_file": "_notes/ship-real-agents-evals.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ship_agents_evals_golden_dataset",
-      "_tgt": "ship_agents_evals_llm_judge",
+      "_src": "ship_agents_evals_llm_judge",
+      "_tgt": "ship_agents_evals_golden_dataset",
       "source": "ship_agents_evals_llm_judge",
       "target": "ship_agents_evals_golden_dataset"
     },
@@ -40387,8 +40387,8 @@
       "source_file": "_notes/ship-real-agents-evals.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ship_agents_evals_capability_regression",
-      "_tgt": "ship_agents_evals_llm_judge",
+      "_src": "ship_agents_evals_llm_judge",
+      "_tgt": "ship_agents_evals_capability_regression",
       "source": "ship_agents_evals_llm_judge",
       "target": "ship_agents_evals_capability_regression"
     },
@@ -40411,8 +40411,8 @@
       "source_file": "_notes/running-ai-native-engineering-org.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "ai_native_org_ant_fooding",
-      "_tgt": "ai_native_org_bottleneck_migration",
+      "_src": "ai_native_org_bottleneck_migration",
+      "_tgt": "ai_native_org_ant_fooding",
       "source": "ai_native_org_bottleneck_migration",
       "target": "ai_native_org_ant_fooding"
     },
@@ -40423,8 +40423,8 @@
       "source_file": "_notes/running-ai-native-engineering-org.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_native_org_code_as_truth",
-      "_tgt": "ai_native_org_code_wins",
+      "_src": "ai_native_org_code_wins",
+      "_tgt": "ai_native_org_code_as_truth",
       "source": "ai_native_org_code_wins",
       "target": "ai_native_org_code_as_truth"
     },
@@ -40447,8 +40447,8 @@
       "source_file": "_notes/agent-harness-engineering.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "agent_harness_context_rot",
-      "_tgt": "agent_harness_gap",
+      "_src": "agent_harness_gap",
+      "_tgt": "agent_harness_context_rot",
       "source": "agent_harness_gap",
       "target": "agent_harness_context_rot"
     },
@@ -40459,8 +40459,8 @@
       "source_file": "_notes/agent-harness-engineering.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "agent_harness_haas",
-      "_tgt": "agent_harness_gap",
+      "_src": "agent_harness_gap",
+      "_tgt": "agent_harness_haas",
       "source": "agent_harness_gap",
       "target": "agent_harness_haas"
     },
@@ -40471,8 +40471,8 @@
       "source_file": "_notes/pinecone-demoted-vector-search.md",
       "source_location": null,
       "weight": 0.93,
-      "_src": "pinecone_context_rot",
-      "_tgt": "agent_harness_context_rot",
+      "_src": "agent_harness_context_rot",
+      "_tgt": "pinecone_context_rot",
       "source": "agent_harness_context_rot",
       "target": "pinecone_context_rot"
     },
@@ -40507,8 +40507,8 @@
       "source_file": "_notes/pinecone-demoted-vector-search.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "pinecone_context_rot",
-      "_tgt": "pinecone_rediscovery_problem",
+      "_src": "pinecone_rediscovery_problem",
+      "_tgt": "pinecone_context_rot",
       "source": "pinecone_rediscovery_problem",
       "target": "pinecone_context_rot"
     },
@@ -40519,8 +40519,8 @@
       "source_file": "_notes/pinecone-demoted-vector-search.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "pinecone_knowledge_shapes",
-      "_tgt": "pinecone_retrieval_contract",
+      "_src": "pinecone_retrieval_contract",
+      "_tgt": "pinecone_knowledge_shapes",
       "source": "pinecone_retrieval_contract",
       "target": "pinecone_knowledge_shapes"
     },
@@ -40531,8 +40531,8 @@
       "source_file": "_notes/pinecone-demoted-vector-search.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "pinecone_table_native_reasoning",
-      "_tgt": "pinecone_knowledge_shapes",
+      "_src": "pinecone_knowledge_shapes",
+      "_tgt": "pinecone_table_native_reasoning",
       "source": "pinecone_knowledge_shapes",
       "target": "pinecone_table_native_reasoning"
     },
@@ -40555,8 +40555,8 @@
       "source_file": "_notes/ai-native-vs-ai-enabled.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_native_architectural_compounding",
-      "_tgt": "ai_native_orchestration_layer",
+      "_src": "ai_native_orchestration_layer",
+      "_tgt": "ai_native_architectural_compounding",
       "source": "ai_native_orchestration_layer",
       "target": "ai_native_architectural_compounding"
     },
@@ -40567,8 +40567,8 @@
       "source_file": "_notes/ai-native-vs-ai-enabled.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_native_renting_orchestration",
-      "_tgt": "ai_native_orchestration_layer",
+      "_src": "ai_native_orchestration_layer",
+      "_tgt": "ai_native_renting_orchestration",
       "source": "ai_native_orchestration_layer",
       "target": "ai_native_renting_orchestration"
     },
@@ -40579,8 +40579,8 @@
       "source_file": "_notes/trillion-dollar-agentic-workflow.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "trillion_implementation_layer",
-      "_tgt": "ai_native_orchestration_layer",
+      "_src": "ai_native_orchestration_layer",
+      "_tgt": "trillion_implementation_layer",
       "source": "ai_native_orchestration_layer",
       "target": "trillion_implementation_layer"
     },
@@ -40603,8 +40603,8 @@
       "source_file": "_notes/trillion-dollar-agentic-workflow.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "trillion_forward_deployed_engineer",
-      "_tgt": "trillion_implementation_layer",
+      "_src": "trillion_implementation_layer",
+      "_tgt": "trillion_forward_deployed_engineer",
       "source": "trillion_implementation_layer",
       "target": "trillion_forward_deployed_engineer"
     },
@@ -40615,8 +40615,8 @@
       "source_file": "_notes/trillion-dollar-agentic-workflow.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "trillion_generic_wrapper_death",
-      "_tgt": "trillion_implementation_layer",
+      "_src": "trillion_implementation_layer",
+      "_tgt": "trillion_generic_wrapper_death",
       "source": "trillion_implementation_layer",
       "target": "trillion_generic_wrapper_death"
     },
@@ -40627,8 +40627,8 @@
       "source_file": "_notes/trillion-dollar-agentic-workflow.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "trillion_pe_distribution",
-      "_tgt": "trillion_implementation_layer",
+      "_src": "trillion_implementation_layer",
+      "_tgt": "trillion_pe_distribution",
       "source": "trillion_implementation_layer",
       "target": "trillion_pe_distribution"
     },
@@ -40687,8 +40687,8 @@
       "source_file": "_notes/dr-eric-schmidt-future-of-technology.md",
       "source_location": null,
       "weight": 0.72,
-      "_src": "eric_schmidt_agentic_programming",
-      "_tgt": "dont_build_slop_maturity_framework",
+      "_src": "dont_build_slop_maturity_framework",
+      "_tgt": "eric_schmidt_agentic_programming",
       "source": "dont_build_slop_maturity_framework",
       "target": "eric_schmidt_agentic_programming"
     },
@@ -40795,8 +40795,8 @@
       "source_file": "_notes/ast-grep-solves-the-problem-every-ai-coder-has.md",
       "source_location": "Core Summary",
       "weight": 1.0,
-      "_src": "ast_grep_tool",
-      "_tgt": "ast_grep_structural_blindness",
+      "_src": "ast_grep_structural_blindness",
+      "_tgt": "ast_grep_tool",
       "source": "ast_grep_structural_blindness",
       "target": "ast_grep_tool"
     },
@@ -40831,8 +40831,8 @@
       "source_file": "_notes/prove-it-economy-ai-marketing.md",
       "source_location": "Section 6",
       "weight": 1.0,
-      "_src": "prove_it_economy_trust_debt",
-      "_tgt": "prove_it_economy_interpretation_economy",
+      "_src": "prove_it_economy_interpretation_economy",
+      "_tgt": "prove_it_economy_trust_debt",
       "source": "prove_it_economy_interpretation_economy",
       "target": "prove_it_economy_trust_debt"
     },
@@ -40855,8 +40855,8 @@
       "source_file": "_notes/prove-it-economy-ai-marketing.md",
       "source_location": "Section 5",
       "weight": 1.0,
-      "_src": "prove_it_economy_two_internet",
-      "_tgt": "prove_it_economy_truth_layer",
+      "_src": "prove_it_economy_truth_layer",
+      "_tgt": "prove_it_economy_two_internet",
       "source": "prove_it_economy_truth_layer",
       "target": "prove_it_economy_two_internet"
     },
@@ -40891,8 +40891,8 @@
       "source_file": "_notes/dr-eric-schmidt-future-of-technology.md",
       "source_location": "Section 2, 6",
       "weight": 0.8,
-      "_src": "eric_schmidt_compute_substitution",
-      "_tgt": "eric_schmidt_capital_moat",
+      "_src": "eric_schmidt_capital_moat",
+      "_tgt": "eric_schmidt_compute_substitution",
       "source": "eric_schmidt_capital_moat",
       "target": "eric_schmidt_compute_substitution"
     },
@@ -40987,8 +40987,8 @@
       "source_file": "_notes/datadog-100-ai-agents.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "datadog_eval_moat",
-      "_tgt": "everyone_evals_self_improve_loop",
+      "_src": "everyone_evals_self_improve_loop",
+      "_tgt": "datadog_eval_moat",
       "source": "everyone_evals_self_improve_loop",
       "target": "datadog_eval_moat"
     },
@@ -40999,8 +40999,8 @@
       "source_file": "_notes/how-to-build-an-internal-ai-agent-that-evolves-itself.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "self_evolving_agent_self_extending",
-      "_tgt": "everyone_evals_self_improve_loop",
+      "_src": "everyone_evals_self_improve_loop",
+      "_tgt": "self_evolving_agent_self_extending",
       "source": "everyone_evals_self_improve_loop",
       "target": "self_evolving_agent_self_extending"
     },
@@ -41083,8 +41083,8 @@
       "source_file": "_notes/anthropic-claude-code-playbook.md",
       "source_location": null,
       "weight": 0.88,
-      "_src": "claude_code_playbook_agentic_search",
-      "_tgt": "agentic_search_context_engineering",
+      "_src": "agentic_search_context_engineering",
+      "_tgt": "claude_code_playbook_agentic_search",
       "source": "agentic_search_context_engineering",
       "target": "claude_code_playbook_agentic_search"
     },
@@ -41119,8 +41119,8 @@
       "source_file": "_notes/connecting-the-dots-context-graphs.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "context_graphs_information_silos",
-      "_tgt": "ai_adoption_coordination_gap",
+      "_src": "ai_adoption_coordination_gap",
+      "_tgt": "context_graphs_information_silos",
       "source": "ai_adoption_coordination_gap",
       "target": "context_graphs_information_silos"
     },
@@ -41155,8 +41155,8 @@
       "source_file": "_notes/ai-adoption-fails-without-os-redesign.md",
       "source_location": "Section 4",
       "weight": 1.0,
-      "_src": "ai_adoption_craft_cycle",
-      "_tgt": "ai_adoption_os_layer",
+      "_src": "ai_adoption_os_layer",
+      "_tgt": "ai_adoption_craft_cycle",
       "source": "ai_adoption_os_layer",
       "target": "ai_adoption_craft_cycle"
     },
@@ -41167,8 +41167,8 @@
       "source_file": "_notes/microservices-scam-modular-monolith.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "microservices_ai_amplifier",
-      "_tgt": "ai_adoption_os_layer",
+      "_src": "ai_adoption_os_layer",
+      "_tgt": "microservices_ai_amplifier",
       "source": "ai_adoption_os_layer",
       "target": "microservices_ai_amplifier"
     },
@@ -41239,8 +41239,8 @@
       "source_file": "_notes/shopify-public-ai-work.md",
       "source_location": "Section 3",
       "weight": 1.0,
-      "_src": "shopify_polanyi_paradox",
-      "_tgt": "shopify_public_ai_work",
+      "_src": "shopify_public_ai_work",
+      "_tgt": "shopify_polanyi_paradox",
       "source": "shopify_public_ai_work",
       "target": "shopify_polanyi_paradox"
     },
@@ -41287,8 +41287,8 @@
       "source_file": "_notes/anchoring-enterprise-genai-knowledge-graphs.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "anchoring_genai_knowledge_attrition",
-      "_tgt": "shopify_polanyi_paradox",
+      "_src": "shopify_polanyi_paradox",
+      "_tgt": "anchoring_genai_knowledge_attrition",
       "source": "shopify_polanyi_paradox",
       "target": "anchoring_genai_knowledge_attrition"
     },
@@ -41311,8 +41311,8 @@
       "source_file": "_notes/microservices-scam-modular-monolith.md",
       "source_location": "Section 9",
       "weight": 1.0,
-      "_src": "microservices_complexity_budget",
-      "_tgt": "microservices_distributed_monolith",
+      "_src": "microservices_distributed_monolith",
+      "_tgt": "microservices_complexity_budget",
       "source": "microservices_distributed_monolith",
       "target": "microservices_complexity_budget"
     },
@@ -41323,8 +41323,8 @@
       "source_file": "_notes/microservices-scam-modular-monolith.md",
       "source_location": "Section 6",
       "weight": 1.0,
-      "_src": "microservices_conways_law",
-      "_tgt": "microservices_modular_monolith",
+      "_src": "microservices_modular_monolith",
+      "_tgt": "microservices_conways_law",
       "source": "microservices_modular_monolith",
       "target": "microservices_conways_law"
     },
@@ -41335,8 +41335,8 @@
       "source_file": "_notes/microservices-scam-modular-monolith.md",
       "source_location": "Section 5",
       "weight": 1.0,
-      "_src": "microservices_ai_amplifier",
-      "_tgt": "microservices_modular_monolith",
+      "_src": "microservices_modular_monolith",
+      "_tgt": "microservices_ai_amplifier",
       "source": "microservices_modular_monolith",
       "target": "microservices_ai_amplifier"
     },
@@ -41359,8 +41359,8 @@
       "source_file": "_notes/datadog-100-ai-agents.md",
       "source_location": "Section 3",
       "weight": 1.0,
-      "_src": "datadog_durable_agent",
-      "_tgt": "datadog_agent_native",
+      "_src": "datadog_agent_native",
+      "_tgt": "datadog_durable_agent",
       "source": "datadog_agent_native",
       "target": "datadog_durable_agent"
     },
@@ -41407,8 +41407,8 @@
       "source_file": "_notes/connecting-the-dots-context-graphs.md",
       "source_location": "Section 1, 2",
       "weight": 1.0,
-      "_src": "context_graphs_information_silos",
-      "_tgt": "context_graphs_graph_rag",
+      "_src": "context_graphs_graph_rag",
+      "_tgt": "context_graphs_information_silos",
       "source": "context_graphs_graph_rag",
       "target": "context_graphs_information_silos"
     },
@@ -41539,8 +41539,8 @@
       "source_file": "_notes/ai-doubles-engineering-throughput.md",
       "source_location": "Section 3, 4",
       "weight": 1.0,
-      "_src": "ai_doubles_problem_oriented_agent",
-      "_tgt": "ai_doubles_skills_flywheel",
+      "_src": "ai_doubles_skills_flywheel",
+      "_tgt": "ai_doubles_problem_oriented_agent",
       "source": "ai_doubles_skills_flywheel",
       "target": "ai_doubles_problem_oriented_agent"
     },
@@ -41575,8 +41575,8 @@
       "source_file": "_notes/agent-skills-building-wrong.md",
       "source_location": "Section 2",
       "weight": 1.0,
-      "_src": "agent_skills_human_curated",
-      "_tgt": "agent_skills_progressive_disclosure",
+      "_src": "agent_skills_progressive_disclosure",
+      "_tgt": "agent_skills_human_curated",
       "source": "agent_skills_progressive_disclosure",
       "target": "agent_skills_human_curated"
     },
@@ -41587,8 +41587,8 @@
       "source_file": "_notes/agent-skills-building-wrong.md",
       "source_location": "Section 4",
       "weight": 1.0,
-      "_src": "agent_skills_competence_profile",
-      "_tgt": "agent_skills_capability_trees",
+      "_src": "agent_skills_capability_trees",
+      "_tgt": "agent_skills_competence_profile",
       "source": "agent_skills_capability_trees",
       "target": "agent_skills_competence_profile"
     },
@@ -41599,8 +41599,8 @@
       "source_file": "_notes/agent-skills-building-wrong.md",
       "source_location": "Section 5",
       "weight": 1.0,
-      "_src": "agent_skills_supply_chain_risk",
-      "_tgt": "agent_skills_human_curated",
+      "_src": "agent_skills_human_curated",
+      "_tgt": "agent_skills_supply_chain_risk",
       "source": "agent_skills_human_curated",
       "target": "agent_skills_supply_chain_risk"
     },
@@ -41611,8 +41611,8 @@
       "source_file": "_notes/anchoring-enterprise-genai-knowledge-graphs.md",
       "source_location": "Section 5",
       "weight": 1.0,
-      "_src": "anchoring_genai_graphrag",
-      "_tgt": "anchoring_genai_business_anchoring",
+      "_src": "anchoring_genai_business_anchoring",
+      "_tgt": "anchoring_genai_graphrag",
       "source": "anchoring_genai_business_anchoring",
       "target": "anchoring_genai_graphrag"
     },
@@ -41623,8 +41623,8 @@
       "source_file": "_notes/anchoring-enterprise-genai-knowledge-graphs.md",
       "source_location": "Section 3",
       "weight": 1.0,
-      "_src": "anchoring_genai_human_wetware",
-      "_tgt": "anchoring_genai_business_anchoring",
+      "_src": "anchoring_genai_business_anchoring",
+      "_tgt": "anchoring_genai_human_wetware",
       "source": "anchoring_genai_business_anchoring",
       "target": "anchoring_genai_human_wetware"
     },
@@ -41827,8 +41827,8 @@
       "source_file": "_notes/how-to-build-a-self-improving-company-with-ai.md",
       "source_location": null,
       "weight": 0.77,
-      "_src": "how_to_build_self_improving_company_recursive_loop",
-      "_tgt": "playground_production_gepa",
+      "_src": "playground_production_gepa",
+      "_tgt": "how_to_build_self_improving_company_recursive_loop",
       "source": "playground_production_gepa",
       "target": "how_to_build_self_improving_company_recursive_loop"
     },
@@ -41851,8 +41851,8 @@
       "source_file": "_notes/memory-dreaming-self-learning-agents.md",
       "source_location": null,
       "weight": 0.72,
-      "_src": "memory_dreaming_agents_dreaming",
-      "_tgt": "playground_production_online_evals",
+      "_src": "playground_production_online_evals",
+      "_tgt": "memory_dreaming_agents_dreaming",
       "source": "playground_production_online_evals",
       "target": "memory_dreaming_agents_dreaming"
     },
@@ -41899,8 +41899,8 @@
       "source_file": "_notes/bounded-autonomy.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "bounded_autonomy_complexity_inflation",
-      "_tgt": "bounded_autonomy_bounded_autonomy",
+      "_src": "bounded_autonomy_bounded_autonomy",
+      "_tgt": "bounded_autonomy_complexity_inflation",
       "source": "bounded_autonomy_bounded_autonomy",
       "target": "bounded_autonomy_complexity_inflation"
     },
@@ -41923,8 +41923,8 @@
       "source_file": "_notes/ai-harnesses-deep-dive.md",
       "source_location": null,
       "weight": 0.78,
-      "_src": "ai_harnesses_guardrails",
-      "_tgt": "bounded_autonomy_bounded_autonomy",
+      "_src": "bounded_autonomy_bounded_autonomy",
+      "_tgt": "ai_harnesses_guardrails",
       "source": "bounded_autonomy_bounded_autonomy",
       "target": "ai_harnesses_guardrails"
     },
@@ -41935,8 +41935,8 @@
       "source_file": "_notes/grill-skills-9-wrong-things.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "grill_skills_smart_zone",
-      "_tgt": "bounded_autonomy_minimal_context",
+      "_src": "bounded_autonomy_minimal_context",
+      "_tgt": "grill_skills_smart_zone",
       "source": "bounded_autonomy_minimal_context",
       "target": "grill_skills_smart_zone"
     },
@@ -41971,8 +41971,8 @@
       "source_file": "_notes/how-to-build-a-self-improving-company-with-ai.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "how_to_build_self_improving_company_dri",
-      "_tgt": "how_to_build_self_improving_company_recursive_loop",
+      "_src": "how_to_build_self_improving_company_recursive_loop",
+      "_tgt": "how_to_build_self_improving_company_dri",
       "source": "how_to_build_self_improving_company_recursive_loop",
       "target": "how_to_build_self_improving_company_dri"
     },
@@ -41995,8 +41995,8 @@
       "source_file": "_notes/how-to-build-a-self-improving-company-with-ai.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "how_to_build_self_improving_company_software_ephemerality",
-      "_tgt": "how_to_build_self_improving_company_org_legibility",
+      "_src": "how_to_build_self_improving_company_org_legibility",
+      "_tgt": "how_to_build_self_improving_company_software_ephemerality",
       "source": "how_to_build_self_improving_company_org_legibility",
       "target": "how_to_build_self_improving_company_software_ephemerality"
     },
@@ -42007,8 +42007,8 @@
       "source_file": "_notes/glean-enterprise-ai-search.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "glean_enterprise_ai_search_enterprise_knowledge_friction",
-      "_tgt": "how_to_build_self_improving_company_org_legibility",
+      "_src": "how_to_build_self_improving_company_org_legibility",
+      "_tgt": "glean_enterprise_ai_search_enterprise_knowledge_friction",
       "source": "how_to_build_self_improving_company_org_legibility",
       "target": "glean_enterprise_ai_search_enterprise_knowledge_friction"
     },
@@ -42067,8 +42067,8 @@
       "source_file": "_notes/claude-code-setup-for-nontechnical-pms.md",
       "source_location": null,
       "weight": 0.73,
-      "_src": "claude_code_setup_nontechnical_pms_pm_orchestrator",
-      "_tgt": "ai_pm_skill_job_offers_product_taste",
+      "_src": "ai_pm_skill_job_offers_product_taste",
+      "_tgt": "claude_code_setup_nontechnical_pms_pm_orchestrator",
       "source": "ai_pm_skill_job_offers_product_taste",
       "target": "claude_code_setup_nontechnical_pms_pm_orchestrator"
     },
@@ -42079,8 +42079,8 @@
       "source_file": "_notes/claude-for-pms.md",
       "source_location": null,
       "weight": 0.82,
-      "_src": "claude_for_pms_super_pm",
-      "_tgt": "ai_pm_skill_job_offers_product_taste",
+      "_src": "ai_pm_skill_job_offers_product_taste",
+      "_tgt": "claude_for_pms_super_pm",
       "source": "ai_pm_skill_job_offers_product_taste",
       "target": "claude_for_pms_super_pm"
     },
@@ -42115,8 +42115,8 @@
       "source_file": "_notes/introducing-webmcp-agents-in-the-browser.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "introducing_webmcp_starfish_design",
-      "_tgt": "introducing_webmcp_mcp_apps",
+      "_src": "introducing_webmcp_mcp_apps",
+      "_tgt": "introducing_webmcp_starfish_design",
       "source": "introducing_webmcp_mcp_apps",
       "target": "introducing_webmcp_starfish_design"
     },
@@ -42163,8 +42163,8 @@
       "source_file": "_notes/claude-code-setup-for-nontechnical-pms.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "claude_code_setup_nontechnical_pms_fix_agent",
-      "_tgt": "claude_code_setup_nontechnical_pms_pm_orchestrator",
+      "_src": "claude_code_setup_nontechnical_pms_pm_orchestrator",
+      "_tgt": "claude_code_setup_nontechnical_pms_fix_agent",
       "source": "claude_code_setup_nontechnical_pms_pm_orchestrator",
       "target": "claude_code_setup_nontechnical_pms_fix_agent"
     },
@@ -42187,8 +42187,8 @@
       "source_file": "_notes/leverage-domain-expertise-ai.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "leverage_domain_expertise_decentralized_oracle",
-      "_tgt": "leverage_domain_expertise_oracle_evaluator_architect",
+      "_src": "leverage_domain_expertise_oracle_evaluator_architect",
+      "_tgt": "leverage_domain_expertise_decentralized_oracle",
       "source": "leverage_domain_expertise_oracle_evaluator_architect",
       "target": "leverage_domain_expertise_decentralized_oracle"
     },
@@ -42211,8 +42211,8 @@
       "source_file": "_notes/organizational-singularity.md",
       "source_location": null,
       "weight": 0.78,
-      "_src": "organizational_singularity_org_singularity",
-      "_tgt": "leverage_domain_expertise_domain_native_org",
+      "_src": "leverage_domain_expertise_domain_native_org",
+      "_tgt": "organizational_singularity_org_singularity",
       "source": "leverage_domain_expertise_domain_native_org",
       "target": "organizational_singularity_org_singularity"
     },
@@ -42247,8 +42247,8 @@
       "source_file": "_notes/claude-for-pms.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "claude_for_pms_self_improving_kb",
-      "_tgt": "claude_for_pms_router_knowledge",
+      "_src": "claude_for_pms_router_knowledge",
+      "_tgt": "claude_for_pms_self_improving_kb",
       "source": "claude_for_pms_router_knowledge",
       "target": "claude_for_pms_self_improving_kb"
     },
@@ -42271,8 +42271,8 @@
       "source_file": "_notes/glean-enterprise-ai-search.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "glean_enterprise_ai_search_glean",
-      "_tgt": "glean_enterprise_ai_search_enterprise_knowledge_friction",
+      "_src": "glean_enterprise_ai_search_enterprise_knowledge_friction",
+      "_tgt": "glean_enterprise_ai_search_glean",
       "source": "glean_enterprise_ai_search_enterprise_knowledge_friction",
       "target": "glean_enterprise_ai_search_glean"
     },
@@ -42295,8 +42295,8 @@
       "source_file": "_notes/glean-enterprise-ai-search.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "glean_enterprise_ai_search_strategic_focus",
-      "_tgt": "glean_enterprise_ai_search_glean",
+      "_src": "glean_enterprise_ai_search_glean",
+      "_tgt": "glean_enterprise_ai_search_strategic_focus",
       "source": "glean_enterprise_ai_search_glean",
       "target": "glean_enterprise_ai_search_strategic_focus"
     },
@@ -42379,8 +42379,8 @@
       "source_file": "_notes/agent-observability-mind-the-gap.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "agent_observability_zero_shot_eval",
-      "_tgt": "agent_observability_lifecycle",
+      "_src": "agent_observability_lifecycle",
+      "_tgt": "agent_observability_zero_shot_eval",
       "source": "agent_observability_lifecycle",
       "target": "agent_observability_zero_shot_eval"
     },
@@ -42427,8 +42427,8 @@
       "source_file": "_notes/skill-issue-lessons-from-skilling-up-coding-agents-to-use-langfuse.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "skill_issue_langfuse_context_staleness",
-      "_tgt": "skill_issue_langfuse_progressive_context",
+      "_src": "skill_issue_langfuse_progressive_context",
+      "_tgt": "skill_issue_langfuse_context_staleness",
       "source": "skill_issue_langfuse_progressive_context",
       "target": "skill_issue_langfuse_context_staleness"
     },
@@ -42439,8 +42439,8 @@
       "source_file": "_notes/skill-issue-lessons-from-skilling-up-coding-agents-to-use-langfuse.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "skill_issue_langfuse_target_function_misalignment",
-      "_tgt": "skill_issue_langfuse_progressive_context",
+      "_src": "skill_issue_langfuse_progressive_context",
+      "_tgt": "skill_issue_langfuse_target_function_misalignment",
       "source": "skill_issue_langfuse_progressive_context",
       "target": "skill_issue_langfuse_target_function_misalignment"
     },
@@ -42451,8 +42451,8 @@
       "source_file": "_notes/combine-skills-and-mcp.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "combine_skills_mcp_mandatory_context",
-      "_tgt": "skill_issue_langfuse_progressive_context",
+      "_src": "skill_issue_langfuse_progressive_context",
+      "_tgt": "combine_skills_mcp_mandatory_context",
       "source": "skill_issue_langfuse_progressive_context",
       "target": "combine_skills_mcp_mandatory_context"
     },
@@ -42475,8 +42475,8 @@
       "source_file": "_notes/build-agents-that-run-for-hours.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "build_agents_hours_trace_debugging",
-      "_tgt": "skill_issue_langfuse_langfuse",
+      "_src": "skill_issue_langfuse_langfuse",
+      "_tgt": "build_agents_hours_trace_debugging",
       "source": "skill_issue_langfuse_langfuse",
       "target": "build_agents_hours_trace_debugging"
     },
@@ -42487,8 +42487,8 @@
       "source_file": "_notes/organizational-singularity.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "organizational_singularity_org_singularity",
-      "_tgt": "organizational_singularity_exo_framework",
+      "_src": "organizational_singularity_exo_framework",
+      "_tgt": "organizational_singularity_org_singularity",
       "source": "organizational_singularity_exo_framework",
       "target": "organizational_singularity_org_singularity"
     },
@@ -42499,8 +42499,8 @@
       "source_file": "_notes/organizational-singularity.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "organizational_singularity_intelligence_stack",
-      "_tgt": "organizational_singularity_exo_framework",
+      "_src": "organizational_singularity_exo_framework",
+      "_tgt": "organizational_singularity_intelligence_stack",
       "source": "organizational_singularity_exo_framework",
       "target": "organizational_singularity_intelligence_stack"
     },
@@ -42511,8 +42511,8 @@
       "source_file": "_notes/organizational-singularity.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "organizational_singularity_immune_system",
-      "_tgt": "organizational_singularity_org_singularity",
+      "_src": "organizational_singularity_org_singularity",
+      "_tgt": "organizational_singularity_immune_system",
       "source": "organizational_singularity_org_singularity",
       "target": "organizational_singularity_immune_system"
     },
@@ -42535,8 +42535,8 @@
       "source_file": "_notes/grill-skills-9-wrong-things.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "grill_skills_parametric_knowledge",
-      "_tgt": "grill_skills_grillability",
+      "_src": "grill_skills_grillability",
+      "_tgt": "grill_skills_parametric_knowledge",
       "source": "grill_skills_grillability",
       "target": "grill_skills_parametric_knowledge"
     },
@@ -42547,8 +42547,8 @@
       "source_file": "_notes/grill-with-docs-ddd-skill.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "grill_with_docs_ddd_ubiquitous_language",
-      "_tgt": "grill_skills_grillability",
+      "_src": "grill_skills_grillability",
+      "_tgt": "grill_with_docs_ddd_ubiquitous_language",
       "source": "grill_skills_grillability",
       "target": "grill_with_docs_ddd_ubiquitous_language"
     },
@@ -42559,8 +42559,8 @@
       "source_file": "_notes/grill-skills-9-wrong-things.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "grill_skills_async_parallelism",
-      "_tgt": "grill_skills_smart_zone",
+      "_src": "grill_skills_smart_zone",
+      "_tgt": "grill_skills_async_parallelism",
       "source": "grill_skills_smart_zone",
       "target": "grill_skills_async_parallelism"
     },
@@ -42619,8 +42619,8 @@
       "source_file": "_notes/build-agents-that-run-for-hours.md",
       "source_location": null,
       "weight": 0.82,
-      "_src": "build_agents_hours_context_rot",
-      "_tgt": "ai_harnesses_context_compaction",
+      "_src": "ai_harnesses_context_compaction",
+      "_tgt": "build_agents_hours_context_rot",
       "source": "ai_harnesses_context_compaction",
       "target": "build_agents_hours_context_rot"
     },
@@ -42655,8 +42655,8 @@
       "source_file": "_notes/grill-with-docs-ddd-skill.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "grill_with_docs_ddd_grill_with_docs",
-      "_tgt": "grill_with_docs_ddd_ubiquitous_language",
+      "_src": "grill_with_docs_ddd_ubiquitous_language",
+      "_tgt": "grill_with_docs_ddd_grill_with_docs",
       "source": "grill_with_docs_ddd_ubiquitous_language",
       "target": "grill_with_docs_ddd_grill_with_docs"
     },
@@ -42667,8 +42667,8 @@
       "source_file": "_notes/grill-with-docs-ddd-skill.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "grill_with_docs_ddd_grill_with_docs",
-      "_tgt": "grill_with_docs_ddd_adr",
+      "_src": "grill_with_docs_ddd_adr",
+      "_tgt": "grill_with_docs_ddd_grill_with_docs",
       "source": "grill_with_docs_ddd_adr",
       "target": "grill_with_docs_ddd_grill_with_docs"
     },
@@ -42679,8 +42679,8 @@
       "source_file": "_notes/grill-with-docs-ddd-skill.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "grill_with_docs_ddd_grill_with_docs",
-      "_tgt": "grill_with_docs_ddd_bounded_context",
+      "_src": "grill_with_docs_ddd_bounded_context",
+      "_tgt": "grill_with_docs_ddd_grill_with_docs",
       "source": "grill_with_docs_ddd_bounded_context",
       "target": "grill_with_docs_ddd_grill_with_docs"
     },
@@ -42715,8 +42715,8 @@
       "source_file": "_notes/evals-for-taste-slide-agent.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "evals_for_taste_adversarial_qa",
-      "_tgt": "evals_for_taste_eval_flywheel",
+      "_src": "evals_for_taste_eval_flywheel",
+      "_tgt": "evals_for_taste_adversarial_qa",
       "source": "evals_for_taste_eval_flywheel",
       "target": "evals_for_taste_adversarial_qa"
     },
@@ -42739,8 +42739,8 @@
       "source_file": "_notes/evals-for-taste-slide-agent.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "evals_for_taste_eval_saturation",
-      "_tgt": "evals_for_taste_model_grader",
+      "_src": "evals_for_taste_model_grader",
+      "_tgt": "evals_for_taste_eval_saturation",
       "source": "evals_for_taste_model_grader",
       "target": "evals_for_taste_eval_saturation"
     },
@@ -42763,8 +42763,8 @@
       "source_file": "_notes/combine-skills-and-mcp.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "combine_skills_mcp_eval_driven_skill",
-      "_tgt": "combine_skills_mcp_context_gap",
+      "_src": "combine_skills_mcp_context_gap",
+      "_tgt": "combine_skills_mcp_eval_driven_skill",
       "source": "combine_skills_mcp_context_gap",
       "target": "combine_skills_mcp_eval_driven_skill"
     },
@@ -42787,8 +42787,8 @@
       "source_file": "_notes/build-agents-that-run-for-hours.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "build_agents_hours_context_rot",
-      "_tgt": "build_agents_hours_pge_architecture",
+      "_src": "build_agents_hours_pge_architecture",
+      "_tgt": "build_agents_hours_context_rot",
       "source": "build_agents_hours_pge_architecture",
       "target": "build_agents_hours_context_rot"
     },
@@ -42799,8 +42799,8 @@
       "source_file": "_notes/build-agents-that-run-for-hours.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "build_agents_hours_sycophancy_bias",
-      "_tgt": "build_agents_hours_pge_architecture",
+      "_src": "build_agents_hours_pge_architecture",
+      "_tgt": "build_agents_hours_sycophancy_bias",
       "source": "build_agents_hours_pge_architecture",
       "target": "build_agents_hours_sycophancy_bias"
     },
@@ -42811,8 +42811,8 @@
       "source_file": "_notes/build-agents-that-run-for-hours.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "build_agents_hours_trace_debugging",
-      "_tgt": "build_agents_hours_pge_architecture",
+      "_src": "build_agents_hours_pge_architecture",
+      "_tgt": "build_agents_hours_trace_debugging",
       "source": "build_agents_hours_pge_architecture",
       "target": "build_agents_hours_trace_debugging"
     }

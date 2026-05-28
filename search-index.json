@@ -1,5 +1,45 @@
 [
   {
+    "id": "comprehend-first-code-later",
+    "title": "Comprehend First, Code Later：大型程式碼庫的 AI 理解優先策略",
+    "category": "AI筆記",
+    "tags": [
+      "Agent Manager",
+      "程式碼理解",
+      "catch me up",
+      "心智模型對齊",
+      "理解優先原則"
+    ],
+    "description": "在擁有 15 年歷史、每天合併 100 個 PR、10 萬個組織依賴的龐大程式碼庫中，AI 最大的價值不是生成程式碼，而是協助理解程式碼。",
+    "quote": "在大型程式碼庫中，AI 最大的解鎖點不是生成，而是理解。在 prompt 之前，先對齊你的心智模型。",
+    "action": "接手新專案時先建立「catch me up」prompt，讓 AI 整理架構與慣例，再進入計劃與實作階段。",
+    "image": "/images/AI筆記/comprehend-first-code-later.jpeg",
+    "date": "2026-05-28",
+    "source_has_timestamps": true,
+    "body": "🎯 Comprehend First, Code Later 演講者：Priscila Andre de Oliveira（Sentry 資深軟體工程師） 發表於 AI Engineer 大會 · 2026年5月27日 [核心摘要] 在擁有 15 年歷史、每天合併 100 個 PR、10 萬個組織依賴的龐大程式碼庫中，AI 最大的價值不是生成程式碼，而是協助理解程式碼。演講者分析了自己 116 個 Claude sessions，發現 67% 是「理解」用途，僅 2% 是「生成程式碼」。她因此建立了一套名為 \"catch me up\" 的個人技能，將理解行為結構化，解決了「AI 誤解需求、產出 slop 代碼」的核心痛點。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 自我介紹與工作背景  Priscila 是 Sentry 資深軟體工程師，同時是 Verdaccio（開源 NPM Registry）維護者、Vienna JS 社群共同創辦人。她自稱「agent manager」—— 自 20",
+    "url": "/notes/comprehend-first-code-later"
+  },
+  {
+    "id": "ai-deck-hostile-review",
+    "title": "用 AI 建簡報，再派另一個 AI 來攻擊它",
+    "category": "AI筆記",
+    "tags": [
+      "工作流重構",
+      "財務模型風險",
+      "四階段工作流",
+      "任務風險梯度",
+      "RALPH迴圈"
+    ],
+    "description": "用 AI 建立 Office 文件已非難事，但光靠 Prompt 得到的輸出不等於可信賴的成果。本影片揭示一個關鍵痛點：AI 生成的文件「看起來完成」遠早於「實際可信賴」，並提出以「來源管控→結構規格→分層創建→敵對審查",
+    "quote": "A prompt asks for an output. A workflow defines the stages the output has to pass through before it can be trusted.",
+    "action": "下次建立重要簡報前，先寫出敘事脊幹，再開啟 AI 工具；驗收前執行一次「敵對審查 Prompt」只找問題不修復",
+    "image": "/images/AI筆記/ai-deck-hostile-review.jpeg",
+    "date": "2026-05-28",
+    "source_has_timestamps": true,
+    "body": "🎯 [核心摘要] 用 AI 建立 Office 文件（PowerPoint、Excel）已非難事，但光靠 Prompt 得到的輸出不等於可信賴的成果。本影片揭示一個關鍵痛點：AI 生成的文件「看起來完成」遠早於「實際可信賴」，並提出以「來源管控 → 結構規格 → 分層創建 → 敵對審查」四階段工作流取代單一 Prompt，確保知識工作的品質與可驗證性。 [詳細重點整理] 1. 超越單一資產思維  AI 工具已可同時草擬八份文件，但能力的提升也帶來更大的錯誤風險。 核心心態轉變：不是把 AI「附加」到工作流程，而是讓 Agent 成為工作流程的核心，並圍繞它重新設計整個流程。 關鍵概念： 以 Agent 為核心的工作流重構（Agentic Workflow Redesign） 2. AI 文件的核心風險  真實案例：一份看起來完整的財務模型，收入增長列的公式錯誤卻被複製到所有未來年份，Excel 沒有顯示任何錯誤，估值輸出依然「看起來正確」。 外觀完成 ≠ 邏輯正確，這才是 AI 辦公文件最危險的陷阱。 關鍵概念： 財務模型偽裝（Financial Model in Costume） ",
+    "url": "/notes/ai-deck-hostile-review"
+  },
+  {
     "id": "shopify-public-ai-work",
     "title": "Shopify CEO 揭秘：讓整個公司越來越聰明的 AI 協作秘訣",
     "category": "AI筆記",
