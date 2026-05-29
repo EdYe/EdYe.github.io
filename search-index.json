@@ -1,5 +1,25 @@
 [
   {
+    "id": "context-graphs-explainable-ai-agents",
+    "title": "Context Graphs for Explainable, Decision-Aware AI Agents",
+    "category": "AI筆記",
+    "tags": [
+      "Context Graph",
+      "推理記憶",
+      "決策先例",
+      "參考類別驗證",
+      "AI Agent"
+    ],
+    "description": "現有的 AI Agent 擅長語言與推理，卻缺乏「為什麼要做某件事」的決策依據。此演講提出 Context Graph（情境圖）作為解法——不只儲存知識，更將組織政策、規則、歷史決策整合進圖資料庫",
+    "quote": "每一個決策都是先例，未來的 Agent 繼承它。",
+    "action": "設計 AI Agent 工作流時，加入決策節點子流程，明確要求 Agent 列出行動的可逆性與出錯代價，並為每個 Agent 設定授權邊界與 Escalation 機制",
+    "image": "/images/AI筆記/context-graphs-explainable-ai-agents.jpeg",
+    "date": "2026-05-29",
+    "source_has_timestamps": true,
+    "body": "🧠 Context Graphs for Explainable, Decision-Aware AI Agents 來源： AI Engineer World's Fair — Neo4j 講座（Andreas Kollegger & Abhik / Zaid Zaim） [youtube](https://www.youtube.com/?hl=zh-tw) 影片連結： https://youtu.be/abvQEhvRIc 時長： 16 分 38 秒 | 發布日期：2026年5月28日 [核心摘要] 現有的 AI Agent 擅長語言與推理，卻缺乏「為什麼要做某件事」的決策依據。此演講提出 Context Graph（情境圖） 作為解法——不只儲存知識，更將組織政策、規則、歷史決策整合進圖資料庫，讓 Agent 在每一個決策點都能追溯因果、評估風險、知道自己是否有授權行動，最終將每筆決策寫回圖中成為「先例」，供未來的 Agent 學習繼承。 [youtube](https://www.youtube.com/?hl=zh-tw) [詳細重點整理] 1. 為何需要 Context",
+    "url": "/notes/context-graphs-explainable-ai-agents"
+  },
+  {
     "id": "claude-code-security-guidance-plugin",
     "title": "在 Claude 撰寫程式碼時即時偵測安全問題",
     "category": "影片筆記",
