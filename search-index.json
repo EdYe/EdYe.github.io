@@ -60,6 +60,26 @@
     "url": "/notes/claude-code-security-guidance-plugin"
   },
   {
+    "id": "airtable-ceo-top-1-percent-ai",
+    "title": "Airtable CEO：頂尖 1% 的人如何使用 AI Agent",
+    "category": "影片筆記",
+    "tags": [
+      "Agent時代",
+      "建造者心態",
+      "數位分身",
+      "奢侈雇傭",
+      "判斷力"
+    ],
+    "description": "AI Agent 時代已正式到來，關鍵不在於「使用 AI」，而在於成為 AI 的建造者（Builder）。Howie Liu 指出，當前模型智能已達臨界點，能夠真正自主執行數小時工作，問題不再是技術限制，而是人們是否具備「問題獵人思維」與「建造者心態」。",
+    "quote": "如果你可以以近乎零成本雇用任意數量的人，你會先填哪些職位？",
+    "action": "列出你想解決的問題清單，從低風險個人案例開始實驗，並把你的判斷標準教給 Agent",
+    "image": "/images/影片筆記/airtable-ceo-top-1-percent-ai.png",
+    "date": "2026-05-29",
+    "source_has_timestamps": true,
+    "body": "好的，這是一部由 Silicon Valley Girl 頻道製作、於 2026 年 5 月 27 日發布的訪談影片，訪談對象是 Airtable 共同創辦人暨 HyperAgent 創辦人 Howie Liu。以下是完整結構化筆記： [核心摘要] AI Agent 時代已正式到來，關鍵不在於「使用 AI」，而在於成為 AI 的建造者（Builder）。Howie Liu 指出，當前模型智能已達臨界點，能夠真正自主執行數小時工作，問題不再是技術限制，而是人們是否具備「問題獵人思維」與「建造者心態」。本影片解決的痛點：大多數人把 AI 用成搜尋引擎，而非自動化決策機器。 [詳細重點整理] 1. AI 發展現況：從 Chatbot 到 Agent 的躍進  AI 演進經歷三個階段：早期 ChatBot、ChatBot 成熟期（GPT-4 後），以及當前的 Agent 真正可用期。過去「Agent 元年」的宣告（如 Salesforce 的 Mark Benioff）只是過早——但到 2025 年底，隨著 Claude Opus 4.5 以上、GPT 5.5 等模型問世，Agent 已達「類",
+    "url": "/notes/airtable-ceo-top-1-percent-ai"
+  },
+  {
     "id": "maturity-phases-running-evals",
     "title": "Eval 成熟度模型：從直覺判斷到自動化 CI/CD 飛輪",
     "category": "AI筆記",
