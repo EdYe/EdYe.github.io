@@ -1,5 +1,25 @@
 [
   {
+    "id": "claude-code-security-guidance-plugin",
+    "title": "在 Claude 撰寫程式碼時即時偵測安全問題",
+    "category": "影片筆記",
+    "tags": [
+      "縱深防禦",
+      "多層次安全檢查",
+      "模式比對",
+      "代理式深度審查",
+      "安全責任分層"
+    ],
+    "description": "此外掛在 Claude Code 編寫與修改程式碼的同一工作階段中，自動針對常見安全漏洞進行多層次審查（字串模式比對＋模型審查＋代理式深度檢查），並回饋修正建議",
+    "quote": "讓 AI 在寫程式的當下就帶著「安全意識」，遠比事後補破洞便宜得多。",
+    "action": "先在常用 repo 完成外掛安裝與規則設定，再建立「寫完一段就看一次安全提示」的習慣。",
+    "image": "/images/影片筆記/claude-code-security-guidance-plugin.jpeg",
+    "date": "2026-05-29",
+    "source_has_timestamps": true,
+    "body": "[核心摘要]   此外掛在 Claude Code 編寫與修改程式碼的同一工作階段中，自動針對常見安全漏洞進行多層次審查（字串模式比對＋模型審查＋代理式深度檢查），並回饋修正建議，讓注入攻擊、不安全反序列化、不安全 DOM API 等問題盡量在進入 Pull Request 前就被發現並修補，成為既有 SAST／CI 安全工具之外、嵌在開發流中的「即時安全護欄」。 [claudepluginhub](https://www.claudepluginhub.com/plugins/anthropics-claude-security-guidance-plugins-security-guidance) [詳細重點整理] 1. 外掛目的與角色定位    - 這個 security-guidance 外掛程式會在你使用 Claude Code 時自動審查 Claude 所做的程式碼變更，盡量在 PR 之前攔截常見漏洞，降低人工 Code Review 的安全負擔。 [helpnetsecurity](https://www.helpnetsecurity.com/2026/05/27/an",
+    "url": "/notes/claude-code-security-guidance-plugin"
+  },
+  {
     "id": "maturity-phases-running-evals",
     "title": "Eval 成熟度模型：從直覺判斷到自動化 CI/CD 飛輪",
     "category": "AI筆記",
