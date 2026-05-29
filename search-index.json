@@ -1,5 +1,25 @@
 [
   {
+    "id": "enterprise-agentic-projects-doomed",
+    "title": "企業 AI 代理專案失敗的 5 大根本張力",
+    "category": "AI筆記",
+    "tags": [
+      "企業基礎設施",
+      "財務思維轉型",
+      "假設驅動交付",
+      "漸進式自主",
+      "活性記憶"
+    ],
+    "description": "企業 AI 代理專案失敗，根源不在技術，而在於人類速度的企業基礎設施與機器速度的 AI 能力之間的根本矛盾。",
+    "quote": "上線那天不是終點線，而是賽跑真正開始的時刻。",
+    "action": "像VC下注建立AI賭注組合、將人工治理升級為可執行程式碼、從第一天起以反饋迴圈工程化信任",
+    "image": "/images/AI筆記/enterprise-agentic-projects-doomed.jpeg",
+    "date": "2026-05-29",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 企業 AI 代理專案失敗，根源不在技術，而在於人類速度的企業基礎設施與機器速度的 AI 能力之間的根本矛盾。Accenture 的 Jess Grogan-Avignon 與 Jack Wang 從實戰中歸納出 5 大企業張力，掌握這五點，可在專案啟動前就預測成功機率。 [youtu](http://youtu.be) [詳細重點整理] 1. 企業基礎設施的速度瓶頸  一個 Agentic 應用花了 2 週開發完成，卻花了整整 12 個月才上線——因為需要基礎設施、資安、AI 閘道、資料治理、應用五個團隊全部對齊。2025 年 GitHub 每週平均 2.75 億次 commit，預計全年達 140 億次，但審批基礎設施從未為此吞吐量而設計。 [youtu](http://youtu.be) 關鍵概念：人類作業系統（Human Operating System）  解法：每一個人工流程都必須轉化為可執行的程式碼，而非更多的會議或簽核鏈。 2. 企業財務思維的轉型  傳統商業案例要求預先確定範疇、預期價值與交付成本，但 AI 的解法往往要「做了才知道」。AI 頂尖實現者（A",
+    "url": "/notes/enterprise-agentic-projects-doomed"
+  },
+  {
     "id": "context-graphs-explainable-ai-agents",
     "title": "Context Graphs for Explainable, Decision-Aware AI Agents",
     "category": "AI筆記",
