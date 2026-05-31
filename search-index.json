@@ -1,5 +1,25 @@
 [
   {
+    "id": "we-stopped-letting-ai-make-decisions",
+    "title": "我們停止讓 AI 做決策，改讓它記錄決策",
+    "category": "AI筆記",
+    "tags": [
+      "決策脈絡",
+      "Decision Record",
+      "AI輔助",
+      "機構知識",
+      "CRAFT方法論"
+    ],
+    "description": "探討軟體團隊如何因未記錄決策脈絡而產生隱性成本，提出以 Decision Record 搭配 AI 輔助記錄決策理由。",
+    "quote": "決策只是一個時間點，而讓它說得通的推理理由，是會腐壞的。程式碼留了下來；脈絡卻蒸發了。",
+    "action": "將決策討論的 Slack 串或逐字稿貼給 AI 生成 DR 草稿，人工補填「重新審視條件」，五分鐘完成記錄。",
+    "image": "/images/AI筆記/we-stopped-letting-ai-make-decisions.jpg",
+    "date": "2026-05-31",
+    "source_has_timestamps": false,
+    "body": "我們停止讓 AI 做決策，改讓它記錄決策 這是「我們如何實際構建」系列的第三篇文章。在這個系列中，Skip 和我以在真實客戶團隊中實際推進的方式，逐層揭開 CRAFT 方法論的核心。 作者：Chuck Griess 發布日期：2026 年 4 月 21 日 --- <img src=\"https://substackcdn.com/image/fetch/$s!4slp!,fauto,qauto:good,flprogressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf057abd-2998-47e8-ba33-12f7cdc349c81280x896.png\" width=800 / 上週，我與某個客戶團隊進行了一次架構審查。有人提出了一個關於他們用於 session 狀態的資料儲存模式的問題：隨著系統規模的擴大，這個模式的取捨開始顯現出來。這是一件合情合理、值得拿出來討論的事。 接下來發生的對話，是我在幾乎每個專案中都經歷過的版本。 「為什麼我們要這樣做？」「我",
+    "url": "/notes/we-stopped-letting-ai-make-decisions"
+  },
+  {
     "id": "senior-engineers-struggle-ai-agents",
     "title": "資深工程師為何在 AI Agent 開發上屢屢碰壁：五個典範轉移",
     "category": "AI筆記",
