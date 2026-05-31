@@ -1,5 +1,125 @@
 [
   {
+    "id": "senior-engineers-struggle-ai-agents",
+    "title": "資深工程師為何在 AI Agent 開發上屢屢碰壁：五個典範轉移",
+    "category": "AI筆記",
+    "tags": [
+      "語義狀態",
+      "非確定性控制流",
+      "Evals",
+      "Agent工具設計",
+      "錯誤容錯"
+    ],
+    "description": "資深工程師在建構 AI Agent 時面臨的最大挑戰，源自多年累積的隱性知識與直覺——這些是 Agent 完全看不到的。Google DeepMind 的 Philipp Schmid 提出五個典範轉移，說明 Agent 開發與傳統軟體開發的本質差異：從確定性控制流轉向非確定性目標導向設計。",
+    "quote": "Stop fighting the model. Trust it, verify it, but stop trying to force it into a step-by-step workflow.",
+    "action": "將錯誤回傳模型而非重啟流程，在 CI/CD 中加入 LLM-as-a-Judge eval 步驟，以成功率取代 assert 判斷",
+    "image": "/images/AI筆記/senior-engineers-struggle-ai-agents.jpg",
+    "date": "2026-05-31",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 資深工程師在建構 AI Agent 時面臨的最大挑戰，源自多年累積的隱性知識與直覺——這些是 Agent 完全看不到的。Google DeepMind 的 Philipp Schmid 提出五個典範轉移，說明 Agent 開發與傳統軟體開發的本質差異：從確定性控制流轉向非確定性目標導向設計，解決工程師「過度干預」與「測試框架錯用」的核心痛點。 [詳細重點整理] 1. 文字即狀態（Text is the New State） 傳統軟體仰賴 Boolean flag、enum 等結構化資料來記錄狀態；Agent 時代，語義上下文（Semantic Context） 取代了這些硬性資料結構。 以溫度單位偏好為例，過去只能用 iscelsius = true/false 的旗標處理，現在 Agent 可以動態理解「我在歐洲用攝氏，但料理時想用華氏」這種細微的個人偏好。  關鍵概念：語義狀態（Semantic State） 2. 交出控制權（Hand Over Control） 傳統客服系統仰賴分類模型觸發預定工作流（deterministic workflow）；Agent 必須",
+    "url": "/notes/senior-engineers-struggle-ai-agents"
+  },
+  {
+    "id": "deleted-agent-skills-better-results",
+    "title": "刪除 95% Agent Skills 後效能反而提升：Evals 驅動的精準化策略",
+    "category": "AI筆記",
+    "tags": [
+      "Agent技能蒸餾",
+      "Evals",
+      "密碼學驗證",
+      "狀態機",
+      "Gotchas"
+    ],
+    "description": "Nick Nisi（WorkOS DX 工程師）揭示了 AI Agent 開發的核心反直覺洞見：更多 skills 不等於更好效能。透過實測 Evals，他刪除 95% 的 AI skills（從 10,000 行縮減至 553 行），讓任務正確率從 77% 躍升至 97%，Eval 時間從 68 分鐘縮短至 6 分鐘。",
+    "quote": "模型已經知道怎麼寫程式，你只需要告訴它地雷在哪裡。",
+    "action": "為你的專案建立 gotchas.md，記錄每次 Agent 踩到的坑，而非把整份 README 餵給它",
+    "image": "/images/AI筆記/deleted-agent-skills-better-results.jpg",
+    "date": "2026-05-31",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Nick Nisi（WorkOS DX 工程師）揭示了 AI Agent 開發的核心反直覺洞見：更多 skills 不等於更好效能。透過實測 Evals，他刪除 95% 的 AI skills（從 10,000 行縮減至 553 行），讓任務正確率從 77% 躍升至 97%，Eval 時間從 68 分鐘縮短至 6 分鐘。解決了工程師過度依賴 prompt 與 skills 卻忽略可驗證性的核心痛點。 [詳細重點整理] 1. 我是瓶頸，不是開發者  身為獨自維護 20+ repos、橫跨 8 種語言的工程師，過去每次啟動 Agent 都要花 10 分鐘手動建立上下文（GitHub issue、Slack thread、Linear ticket）。這個重複性的「情境交接成本」是最大的效率殺手。 關鍵概念：上下文交接成本（Context Onboarding Overhead）  2. 打造 CASE：五代理人狀態機系統  重新架構的 CASE（harness 系統） 包含五個 Agents：Implementer → Verifier → Reviewer → Closer",
+    "url": "/notes/deleted-agent-skills-better-results"
+  },
+  {
+    "id": "cheap-software-pm-job-harder",
+    "title": "廉價軟體讓 PM 的工作更難了：軟體豐盛時代的治理挑戰",
+    "category": "AI筆記",
+    "tags": [
+      "產品判斷力",
+      "軟體豐盛",
+      "殭屍產品",
+      "生產等級梯",
+      "治理"
+    ],
+    "description": "AI 壓低了軟體建造成本，讓「原型」無處不在，但這反而讓 Product Manager 的真正瓶頸從「能不能建」轉移到「該不該依賴」。PM 的新核心職能是對「軟體豐盛時代」進行分類與治理——哪些留下、哪些晉升至生產、哪些應該主動淘汰",
+    "quote": "We can build everything. What should we build?——這才是 AI 時代 PM 的真正問題。",
+    "action": "每季進行原型公域普查，在 Sprint Planning 中加入降級議程，培養能看見真正產品的技術判斷力",
+    "image": "/images/AI筆記/cheap-software-pm-job-harder.jpg",
+    "date": "2026-05-31",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] AI 壓低了軟體建造成本，讓「原型」無處不在，但這反而讓 Product Manager 的真正瓶頸從「能不能建」轉移到「該不該依賴」。影片提出，PM 的新核心職能是對「軟體豐盛時代」進行分類與治理——哪些留下、哪些晉升至生產、哪些應該主動淘汰——而非只是加速原型開發。 [youtube](https://www.youtube.com/watch?v=d95J8yzvjbQ) [詳細重點整理] 1. 原型能力只是基本門票  AI 讓 PM 能用 Lovable、Claude Code、Codex 快速原型化，這已是業界共識。然而這只是「入場券」，並非 PM 的核心競爭力所在。真正的挑戰在於：AI 把瓶頸從「生產」移到了「判斷」。 [youtube](https://www.youtube.com/watch?v=d95J8yzvjbQ)  關鍵概念：軟體生產瓶頸位移（Bottleneck Shift） 2. Microsoft 百萬資產的現實警鐘  Microsoft 內部 Power Platform 已建立超過 100 萬個資產，包含 18,000+ 個 Agent",
+    "url": "/notes/cheap-software-pm-job-harder"
+  },
+  {
+    "id": "bootstrapped-million-arr-playbook",
+    "title": "117天達成 $1M ARR：Chatbase 創辦人的 Bootstrapped 完整 Playbook",
+    "category": "影片筆記",
+    "tags": [
+      "Bootstrapped",
+      "公開建設",
+      "溫性外向銷售",
+      "PLG",
+      "AEO"
+    ],
+    "description": "Chatbase 創辦人 Yasser Elsaid 在沒有任何外部融資的情況下，以 117 天達成 $1M ARR，並持續成長至 $10M ARR。揭示了從零行銷預算下的有機成長、降低 Churn 的根本解法、溫性外向銷售（Warm Outbound）、SEO/AEO 雙軌策略",
+    "quote": "你不會因為埋頭建造有價值的東西而失去任何東西。",
+    "action": "每天在社群平台分享產品進展，從高意願的既有訪客/用戶中挖掘最大轉換潛力，定期實驗提高定價",
+    "image": "/images/影片筆記/bootstrapped-million-arr-playbook.jpg",
+    "date": "2026-05-31",
+    "source_has_timestamps": true,
+    "body": "117 天達成 $1M ARR，Bootstrapped 到 $10M 的完整 Playbook Chatbase 創辦人 Yasser Elsaid | EO Studio | 2026-05-30 [核心摘要] Chatbase 創辦人 Yasser Elsaid 在沒有任何外部融資的情況下，以 117 天達成 $1M ARR，並持續成長至 $10M ARR。影片揭示了這段歷程背後的核心策略：從零行銷預算下的有機成長、降低 Churn 的根本解法、溫性外向銷售（Warm Outbound）、SEO/AEO 雙軌策略，以及在 Bootstrapped 框架下的決策哲學。本片解決了「AI 時代 Bootstrapped 創業者如何突破成長天花板」的核心痛點。 [youtube](https://www.youtube.com/?hl=zh-TW) [詳細重點整理] 1. 為什麼選擇 Bootstrapped？  控制權是最大優勢——只需傾聽客戶與團隊的聲音。一旦簽下 Term Sheet，成功的定義就會被迫放大，原本 $50M 的退出目標可能變得不夠。AI 工具的崛起讓 10～50 人",
+    "url": "/notes/bootstrapped-million-arr-playbook"
+  },
+  {
+    "id": "ai-workflow-task-shaping-2026",
+    "title": "AI 工作流的 2026 年典範轉移：從下達指令到共同定義任務形狀",
+    "category": "AI筆記",
+    "tags": [
+      "任務塑形",
+      "多線程創作",
+      "自然語言索引",
+      "提示詞典範",
+      "AI工作流"
+    ],
+    "description": "在 2026 年 5 月，AI 進階用戶的工作流已大幅轉型。傳統的提示詞工程（Prompt Engineering）已讓位給一種新模式：先與模型協作定義任務的「形狀（Shape）」，再讓 AI 代理自主執行。Codex 的本地檔案系統整合能力，是解鎖 50,000 字長文件處理與多線程創作的關鍵突破。",
+    "quote": "把「給 AI 任務」升級為「與 AI 共同定義任務的形狀」，才是大多數人還在錯過的真正解鎖。",
+    "action": "下次寫產品規格書前，先對 Codex 或 Claude 說「幫我定義這份文件的範圍」，而非直接貼範本叫它生成",
+    "image": "/images/AI筆記/ai-workflow-task-shaping-2026.jpg",
+    "date": "2026-05-31",
+    "source_has_timestamps": true,
+    "body": "這是一支由 AI 策略師 Nate B. Jones 發布的短片（5分39秒），核心主題是 2026 年 AI 工作流的進化——從「下達指令」轉向「與 AI 共同定義任務」。 [youtube](https://www.youtube.com/?app=desktop&hl=zh-tw) [核心摘要] 在 2026 年 5 月，AI 進階用戶的工作流已大幅轉型。傳統的提示詞工程（Prompt Engineering）已讓位給一種新模式：先與模型協作定義任務的「形狀（Shape）」，再讓 AI 代理自主執行。Codex 的本地檔案系統整合能力，是解鎖 50,000 字長文件處理與多線程創作的關鍵突破。 [youtube](https://www.youtube.com/?app=desktop&hl=zh-tw) [詳細重點整理] 1. 建立本地資料夾作為上下文窗口  不再依靠手動整理檔案名稱，而是用自然語言描述告訴 Codex「這份文件是關於什麼、大概什麼時候建立的」，Codex 便能自動在本地檔案系統中找到它，並將所有相關檔案複製到一個整潔的工作資料夾（Working Folder）",
+    "url": "/notes/ai-workflow-task-shaping-2026"
+  },
+  {
+    "id": "agents-decision-traces-context-graph",
+    "title": "Agent 需要決策軌跡，不只是文件：Context Graph 的三層記憶架構",
+    "category": "AI筆記",
+    "tags": [
+      "決策軌跡",
+      "Context Graph",
+      "圖結構嵌入",
+      "實體萃取",
+      "混合搜尋"
+    ],
+    "description": "標準 RAG 只給 Agent 一個知識庫，讓它「回答問題」。Context Graph（上下文圖譜）則在此基礎上加入過去的決策軌跡（decision traces）、因果鏈與推理記憶，讓 Agent 從「回答問題」進化為「做出有根據的決策」——直接給出「應接受還是拒絕，以及原因」。",
+    "quote": "知識庫讓 Agent 知道風險在哪，上下文圖譜讓 Agent 知道該怎麼決定。",
+    "action": "從 uvx create-context-graph 切入實作，選擇最接近業務的內建 domain，快速驗證 Context Graph 在審核流程中的落地效益",
+    "image": "/images/AI筆記/agents-decision-traces-context-graph.jpg",
+    "date": "2026-05-31",
+    "source_has_timestamps": true,
+    "body": "Why Your Agents Need Decision Traces, Not Just Documents — Zach Blumenfeld, Neo4j AI Engineer 大會 | 2026年5月29日 | 時長 20:12 [核心摘要] 標準 RAG 只給 Agent 一個知識庫，讓它「回答問題」。Context Graph（上下文圖譜） 則在此基礎上加入過去的決策軌跡（decision traces）、因果鏈與推理記憶，讓 Agent 從「回答問題」進化為「做出有根據的決策」——直接給出「應接受還是拒絕，以及原因」。這解決了 AI Agent 在高風險場景（如金融審核）中缺乏歷史判斷依據的核心痛點。 [詳細重點整理] 1. 知識庫 vs. 上下文圖譜  傳統 RAG 知識庫告訴 Agent「風險因素是什麼」，而 Context Graph 告訴它「面對這個案例，過去是如何判決的、為什麼」。以金融分析師 Agent 為例：知識庫給出客戶資料與政策，Context Graph 額外疊加過去相似案例的決策軌跡，讓 Agent 直接給出「拒絕/接受 + 理由」的可執行答案。",
+    "url": "/notes/agents-decision-traces-context-graph"
+  },
+  {
     "id": "enterprise-agentic-projects-doomed",
     "title": "企業 AI 代理專案失敗的 5 大根本張力",
     "category": "AI筆記",
