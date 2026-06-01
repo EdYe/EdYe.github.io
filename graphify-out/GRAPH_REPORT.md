@@ -1,7 +1,7 @@
-# Graph Report - .  (2026-05-31)
+# Graph Report - .  (2026-06-01)
 
 ## Corpus Check
-- 1 files · ~21,405,729 words
+- 1 files · ~21,471,663 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -796,7 +796,7 @@ Nodes (1): 透明戰場（Transparent Battlefield）
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Obsidian 第二大腦檢索` connect `Community 0` to `Community 22`?**
+- **Why does `/insights 行為分析報告` connect `Community 22` to `Community 0`?**
   _High betweenness centrality (0.001) - this node is a cross-community bridge._
 - **Are the 2 inferred relationships involving `情境基礎設施 (Context Infrastructure)` (e.g. with `脈絡圖 (Context Graph)` and `代理式商務 (Agentic Commerce)`) actually correct?**
   _`情境基礎設施 (Context Infrastructure)` has 2 INFERRED edges - model-reasoned connections that need verification._
