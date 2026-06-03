@@ -1,5 +1,25 @@
 [
   {
+    "id": "ai-context-graphs-trillion-dollar-opportunity",
+    "title": "AI 的兆元商機：情境圖譜（Context Graphs）",
+    "category": "AI筆記",
+    "tags": [
+      "決策痕跡",
+      "情境圖譜",
+      "記錄系統",
+      "執行路徑優勢",
+      "代理人架構"
+    ],
+    "description": "當前記錄系統（Salesforce、Workday、SAP）記錄的是「物件的當前狀態」，卻從未記錄「做出決策時的完整脈絡」。 AI 代理人進入真實工作流程後，撞",
+    "quote": "掌握了決策痕跡，就掌握了為什麼現實是現在這個樣子——這比掌握資料本身更有價值。",
+    "action": "設計代理人時將「決策記錄」視為第一類輸出，識別產品中的黏合職能，從 Human-in-the-Loop 起步逐步擴大自主化範圍",
+    "image": "/images/AI筆記/ai-context-graphs-trillion-dollar-opportunity.jpg",
+    "date": "2026-06-03",
+    "source_has_timestamps": false,
+    "body": "AI 的兆元商機：情境圖譜（Context Graphs） Foundation Capital 的核心主張是：下一個兆元平台不是建立在「更好的資料存取」之上，而是建立在過去從未被系統性儲存的東西——決策痕跡（Decision Traces）——之上，而由這些痕跡積累而成的結構，正是情境圖譜（Context Graph）。 [核心摘要] 當前記錄系統（Salesforce、Workday、SAP）記錄的是「物件的當前狀態」，卻從未記錄「做出決策時的完整脈絡」。 AI 代理人進入真實工作流程後，撞上的不是資料孤島問題，而是決策推理過程的缺失——那些散落在 Slack 討論串、Zoom 會議核准、員工腦海中的例外邏輯與歷史先例，從一開始就未被視為資料加以處理。 情境圖譜的核心價值在於：它不只告訴系統「發生了什麼」，更記錄了「為什麼被允許發生」，使先例可搜尋、決策可稽核、自主化路徑得以複利增長。 [詳細重點整理] 1. 規則 vs. 決策痕跡 [文章前段] 現有系統儲存的是規則（Rules）：「一般情況下應該發生什麼」。但代理人在現實中需要的是決策痕跡（Decision Traces）：「這",
+    "url": "/notes/ai-context-graphs-trillion-dollar-opportunity"
+  },
+  {
     "id": "spec-driven-testing-agents",
     "title": "Spec-Driven Testing：讓 AI Agent 既聰明又安全的驗證框架",
     "category": "AI筆記",

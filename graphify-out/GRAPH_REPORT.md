@@ -1,7 +1,7 @@
-# Graph Report - .  (2026-06-01)
+# Graph Report - .  (2026-06-03)
 
 ## Corpus Check
-- 1 files · ~21,471,663 words
+- 1 files · ~21,500,863 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -796,8 +796,8 @@ Nodes (1): 透明戰場（Transparent Battlefield）
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `/insights 行為分析報告` connect `Community 22` to `Community 0`?**
-  _High betweenness centrality (0.001) - this node is a cross-community bridge._
+- **Why does `Eval 驅動迭代飛輪（Eval-Driven Iteration Loop）` connect `Community 2` to `Community 18`?**
+  _High betweenness centrality (0.002) - this node is a cross-community bridge._
 - **Are the 2 inferred relationships involving `情境基礎設施 (Context Infrastructure)` (e.g. with `脈絡圖 (Context Graph)` and `代理式商務 (Agentic Commerce)`) actually correct?**
   _`情境基礎設施 (Context Infrastructure)` has 2 INFERRED edges - model-reasoned connections that need verification._
 - **Are the 3 inferred relationships involving `Context Engine（上下文引擎）` (e.g. with `Context Development Lifecycle（CDLC）` and `Redis AI Agent 記憶體基礎設施`) actually correct?**
