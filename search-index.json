@@ -1,5 +1,25 @@
 [
   {
+    "id": "mcp-unified-control-plane",
+    "title": "MCP 伺服器安全治理：三層架構的統一控制平面",
+    "category": "AI筆記",
+    "tags": [
+      "MCP治理",
+      "安全稽核",
+      "沙箱隔離",
+      "企業架構",
+      "Agent風險"
+    ],
+    "description": "隨著 AI Agent 大規模導入企業，MCP 伺服器的安全治理成為迫切痛點。解方是三層架構：MCP Gateway（管控層）+ 沙箱（OS 層隔離）+ 輕鬆部署，缺一不可。",
+    "quote": "安全必須在 Agentic 表面之外強制執行，而不是依賴 Agent 本身的行為正確性。— Nanocloud 創辦人",
+    "action": "建立 MCP Gateway 白名單、為每個 Agent Session 設沙箱隔離、選用能整合既有 Stack 的方案以降低落地阻力",
+    "image": "/images/AI筆記/mcp-unified-control-plane.jpg",
+    "date": "2026-06-04",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 隨著 AI Agent 大規模導入企業，MCP 伺服器的安全治理成為迫切痛點。Docker PM Cecilia Liu 以兩個真實恐怖故事揭示：無論是未審核的 MCP 安裝還是過度自主的 Agent，後果都已在企業中真實發生。解方是三層架構：MCP Gateway（管控層）+ 沙箱（OS 層隔離）+ 輕鬆部署，缺一不可。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [詳細重點整理] 1. 恐怖故事一：未授權的 MCP 伺服器  一名實習生加入新公司後，自行上網搜尋 MCP Server 以提升生產力，找到看起來「很正規」的伺服器便直接安裝使用。整個過程無任何審核、無審計日誌。三週後，安全團隊發現程式碼庫與 API 金鑰外洩，但由於完全沒有紀錄，無從追查。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) 關鍵概念：無審計軌跡的供應鏈風險（Supply Chain Attack Without Audit Trail） 2. 恐怖故事二：過",
+    "url": "/notes/mcp-unified-control-plane"
+  },
+  {
     "id": "ai-context-graphs-trillion-dollar-opportunity",
     "title": "AI 的兆元商機：情境圖譜（Context Graphs）",
     "category": "AI筆記",
