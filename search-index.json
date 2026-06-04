@@ -20,6 +20,26 @@
     "url": "/notes/mcp-unified-control-plane"
   },
   {
+    "id": "how-to-talk-to-statues",
+    "title": "用兩小時 Vibe Code 出對話雕像：API 膠水層的商業爆發力",
+    "category": "AI筆記",
+    "tags": [
+      "Vibe Coding",
+      "API編排",
+      "語音界面",
+      "病毒傳播",
+      "對話代理"
+    ],
+    "description": "ElevenLabs 成長工程師 Joe Reeve 用兩小時 Vibe Code 出一個「對話雕像」App，只需對準雕像拍照，系統就能自動識別身份、生成歷史背",
+    "quote": "Vibe Coding 的關鍵不是解決困難的技術問題，而是把 API 膠水黏得漂亮，並把它的故事說好。",
+    "action": "下次 Hackathon 直接用 Cursor + 現有 AI API，兩小時先跑出 Demo 影片，而非等架構完整再展示",
+    "image": "/images/AI筆記/how-to-talk-to-statues.jpg",
+    "date": "2026-06-04",
+    "source_has_timestamps": true,
+    "body": "📖 How to Talk to Statues — Joe Reeve, ElevenLabs [核心摘要] ElevenLabs 成長工程師 Joe Reeve 用兩小時 Vibe Code 出一個「對話雕像」App，只需對準雕像拍照，系統就能自動識別身份、生成歷史背景、合成匹配語音並啟動對話代理——全程不到 30 秒。 此案例完整示範了「API 膠水層」的商業爆發力：0 自建模型、全部串接現有 API，卻引爆 150 萬次曝光，並促使博物館、拍賣行競相洽談合作。 [詳細重點整理] 1. 雕像 App 的誕生與病毒傳播  週日閒來無事，Joe 用 Cursor 與單一 One-Shot Prompt，兩小時內完成整個 App。 週二發布後首日達 50,000 次曝光；隔日補發「Vibe Coding 版」後，瞬間衝上 150 萬次。博物館 CEO 直接找到他的 WhatsApp，開口就說：「我有 10 個人花了一年做這件事，你怎麼做到的？」 關鍵概念：Vibe Coding（氛圍式程式設計）——不以工程思維主導，而是描述意圖讓 AI 自行實作，快速驗證互動模式的最短路徑。 2. ",
+    "url": "/notes/how-to-talk-to-statues"
+  },
+  {
     "id": "ai-context-graphs-trillion-dollar-opportunity",
     "title": "AI 的兆元商機：情境圖譜（Context Graphs）",
     "category": "AI筆記",
