@@ -1,5 +1,25 @@
 [
   {
+    "id": "real-vs-fake-pmf",
+    "title": "辨別真假 PMF：被市場拉著走，而非推著賣",
+    "category": "影片筆記",
+    "tags": [
+      "產品市場契合",
+      "假PMF",
+      "拉力訊號",
+      "客戶關係",
+      "創業判斷"
+    ],
+    "description": "Serval 創辦人 Jake Stauch 以親身失敗經歷，揭示「假 PMF」的危險幻覺——熱情粉絲不等於真正的市場契合。",
+    "quote": "如果你沒有 PMF，你無法修復其他任何事情；但一旦你有了，就像知道答案在書的後面——問題還是很難，但你知道答案存在。",
+    "action": "持續觀察客戶對話基調，從「幫我追蹤」變成「多少錢？怎麼開始？」才是真 PMF 的轉折訊號",
+    "image": "/images/影片筆記/real-vs-fake-pmf.jpeg",
+    "date": "2026-06-09",
+    "source_has_timestamps": true,
+    "body": "📋 [核心摘要] Serval 創辦人 Jake Stauch 以親身失敗經歷，揭示「假 PMF」的危險幻覺——熱情粉絲不等於真正的市場契合。他用 Neuroplus 七年的教訓對比 Serval 18 個月估值 10 億美元的速成，說明真正的 PMF 是被市場「拉」著走，而非創辦人「推」著賣，並提出一套以深度客戶關係取代正式訪談的反傳統方法。 [youtube](https://www.youtube.com/watch?v=Gz7S1v1k664) 📌 [詳細重點整理] 1. 假 PMF 的幻覺  狂熱粉絲（Rabid Fans）不是 PMF 的證明。 Jake 的第一家公司 Neuroplus（為 ADHD 兒童設計的神經回饋遊戲）擁有高度認同的支持者，讓他誤判自己已接近爆發點。事後回顧，那只是一個「太小且特殊的市場」，早期用戶的共同特徵太鮮明，根本無法自然延伸至主流市場。 [youtube](https://www.youtube.com/watch?v=Gz7S1v1k664)  關鍵概念：「小市場幻覺（Niche Delusion）」 — 早期客戶若有過於一致的奇特共同",
+    "url": "/notes/real-vs-fake-pmf"
+  },
+  {
     "id": "tony-fadell-build-real-taste",
     "title": "Tony Fadell：AI 時代如何建立真正的產品品味",
     "category": "影片筆記",
