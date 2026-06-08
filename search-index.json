@@ -1,5 +1,25 @@
 [
   {
+    "id": "tony-fadell-build-real-taste",
+    "title": "Tony Fadell：AI 時代如何建立真正的產品品味",
+    "category": "影片筆記",
+    "tags": [
+      "意見型決策",
+      "三代法則",
+      "技術收斂點",
+      "認知投降",
+      "產品品味"
+    ],
+    "description": "Tony Fadell 以創造 iPod、iPhone、Nest 三個劃時代產品的視角，揭示偉大產品的核心不在於數據，而在於「有根據的直覺」（Informed Gut）。影片最大的警示是：AI 時代",
+    "quote": "你可以使用機器，但不要認知上向機器投降——因為真正脫穎而出的，永遠是那些被認真思考過的東西。",
+    "action": "下次用 AI 生成程式碼時先問自己「我真的理解這段邏輯嗎？」並在 sprint 前寫一份假想新聞稿，從用戶利益而非功能清單定義需求。",
+    "image": "/images/影片筆記/tony-fadell-build-real-taste.jpg",
+    "date": "2026-06-08",
+    "source_has_timestamps": true,
+    "body": "根據影片逐字稿，這是一集深度訪談，主角是 iPod 之父、iPhone 共同創造者 Tony Fadell，在 Lenny's Podcast 上討論如何在 AI 時代建立產品品味、判斷力與創造力。 核心摘要 Tony Fadell 以創造 iPod、iPhone、Nest 三個劃時代產品的視角，揭示偉大產品的核心不在於數據，而在於「有根據的直覺」（Informed Gut）。影片最大的警示是：AI 時代讓建造變得太容易，反而加速了認知投降（Cognitive Surrender）的風險——開發者不再真正思考，而是把判斷力外包給 AI，最終建出一堆脆弱、短命的產品。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) 詳細重點整理 1. iPhone 鍵盤的生死抉擇  iPhone 開發期間，物理鍵盤 vs 虛擬鍵盤是最漫長、最激烈的內部辯論 。BlackBerry 當時只佔 1-2% 的市場，決策關鍵不是「如何打敗 BlackBerry」，而是「如何服務剩下 98% 的用戶」。當數據兩邊都說不清楚時，最終是 Steve J",
+    "url": "/notes/tony-fadell-build-real-taste"
+  },
+  {
     "id": "claude-ultra-code-multi-agent",
     "title": "Claude Code Ultra Code 多代理人並行模式",
     "category": "AI筆記",
