@@ -20,6 +20,26 @@
     "url": "/notes/tony-fadell-build-real-taste"
   },
   {
+    "id": "harness-engineering-gold-rush",
+    "title": "Harness Engineering：AI 競爭的新淘金熱",
+    "category": "AI筆記",
+    "tags": [
+      "Harness工程",
+      "系統性糾錯",
+      "RHO",
+      "ContextRot",
+      "AgentAI"
+    ],
+    "description": "Harness Engineering（套架工程）正取代 Prompt Engineering 成為 AI 競爭的核心優勢。同一個模型，搭配不同的 Harness 設計，效能差距可達 6 倍。",
+    "quote": "Prompt Engineering 是讓 AI 做對一次；Harness Engineering 是讓 AI 不再做錯。",
+    "action": "部署 AI Agent 前先設計工具層、記憶層與驗證層（H-M-V 法則），而非只調整 Prompt。",
+    "image": "/images/AI筆記/harness-engineering-gold-rush.jpg",
+    "date": "2026-06-08",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Harness Engineering（套架工程） 正取代 Prompt Engineering 成為 AI 競爭的核心優勢。同一個模型，搭配不同的 Harness 設計，效能差距可達 6 倍。真正的競爭力不在於誰用了更好的模型，而在於誰建立了更好的「圍繞模型的系統」——包含工具、記憶體、上下文管理、權限控管、驗證機制與回饋迴圈。 [youtu](http://youtu.be) [詳細重點整理] 1. 什麼是 Harness Engineering  模型是「智能引擎」，而 Harness 是讓智能引擎穩定輸出可靠結果的「整體系統架構」。它包括：工具調用規則、記憶庫、上下文管理、技能路由、權限層、稽核日誌、回退路徑與回饋迴圈。HashiCorp 與 Terraform 共同創辦人 Mitchell Hashimoto 在 2026 年初將此概念推向主流，他的核心論點是：當 AI 出錯，正確做法不是重跑同一個 Prompt，而是改變系統，讓同類錯誤不再發生。 [youtu](http://youtu.be)  關鍵概念：系統性糾錯（Systemic Error Preve",
+    "url": "/notes/harness-engineering-gold-rush"
+  },
+  {
     "id": "claude-ultra-code-multi-agent",
     "title": "Claude Code Ultra Code 多代理人並行模式",
     "category": "AI筆記",
