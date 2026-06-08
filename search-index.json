@@ -40,6 +40,26 @@
     "url": "/notes/claude-ultra-code-multi-agent"
   },
   {
+    "id": "building-agent-interfaces-chrome-devtools-mcp",
+    "title": "為 Agent 設計介面：Chrome DevTools MCP 的四大工程原則",
+    "category": "影片筆記",
+    "tags": [
+      "Agent 介面",
+      "MCP Server",
+      "語意摘要",
+      "自我修復",
+      "致命三角"
+    ],
+    "description": "Chrome DevTools 團隊 PM Michael Hablich 揭示核心洞見：Agent 是一種全新的使用者類別，與人類共享目標但擁有截然不同的認知瓶頸。",
+    "quote": "每次成功的 Token 消耗，是你 Agent 介面的燃油效率——效率再高，無法抵達終點就一文不值。",
+    "action": "實踐 S-E-R-T 法則：語意摘要大型輸出、錯誤訊息改為自修復劇本、為工具撰寫精確啟用條件、以摩擦設計信任邊界",
+    "image": "/images/影片筆記/building-agent-interfaces-chrome-devtools-mcp.jpg",
+    "date": "2026-06-08",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Chrome DevTools 團隊的 PM Michael Hablich 揭示了一個核心洞見：Agent 是一種全新的使用者類別，與人類共享目標但擁有截然不同的認知瓶頸。影片透過三次「構建失敗再修正」的真實經歷，提煉出設計 Agent 介面（MCP Server）的四大工程原則，解決了 Agent 在工具使用上「飛盲」（flying blind）的核心痛點。 [youtu](http://youtu.be) [詳細重點整理] 1. 為什麼 Agent 需要專屬介面設計  傳統 Chrome DevTools 是數百萬開發者每天用來 debug、效能分析的工具，但 Coding Agent 雖能生成程式碼，卻無法驗證自己的行為結果。 初版解法是「直接塞大量資料」——把一個 50,000 行的 JSON 效能追蹤檔丟給 Agent 分析，結果直接爆掉 Context Window。 [youtu](http://youtu.be)  關鍵概念：Agent 的認知瓶頸（Cognitive Bottleneck）——人類需要視覺色彩與佈局來找到訊號；Agent 的瓶頸則是 C",
+    "url": "/notes/building-agent-interfaces-chrome-devtools-mcp"
+  },
+  {
     "id": "actor-reading-framework-ai",
     "title": "AI 時代深度閱讀：ACTOR 框架自我教育系統",
     "category": "影片筆記",
