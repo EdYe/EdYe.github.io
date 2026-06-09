@@ -100,6 +100,26 @@
     "url": "/notes/tony-fadell-build-real-taste"
   },
   {
+    "id": "teach-skill-stateful-learning",
+    "title": "有狀態 AI 技能：用 /teach Skill 學任何東西",
+    "category": "影片筆記",
+    "tags": [
+      "有狀態技能",
+      "近側發展區",
+      "K-S-W學習模型",
+      "診斷式教學",
+      "AI先行者優勢"
+    ],
+    "description": "傳統 AI 技能多為「無狀態」，每次對話都重新開始，無法像真正的老師一樣記住學習者的進度。這支影片展示名為 /teach 的有狀態 AI 技能，能儲存學習歷程、追蹤進度、依近側發展區動態生成個人化課程。",
+    "quote": "💡 好的老師記得你學到哪裡。AI 現在也可以做到了。",
+    "action": "🎯 安裝 /teach skill、用一句話定義學習使命，每次學完就告知 AI 進展，讓它幫你定位下一個近側發展區。",
+    "image": "/images/影片筆記/teach-skill-stateful-learning.jpg",
+    "date": "2026-06-08",
+    "source_has_timestamps": true,
+    "body": "📘 用 /teach Skill 學任何東西 Matt Pocock｜2026年6月8日｜片長 13:04 [核心摘要] 傳統 AI 技能多為「無狀態」（stateless），每次對話都重新開始，無法像真正的老師一樣記住學習者的進度。這支影片展示了一個名為 /teach 的有狀態 AI 技能（stateful skill），它能儲存學習歷程、追蹤進度、根據學習者的「近側發展區（Zone of Proximal Development）」動態生成個人化課程，解決了 AI 輔助學習「沒有記憶、無法深化」的核心痛點。 [youtube](https://www.youtube.com/watch?v=CjVQJdIrDJ0) [詳細重點整理] 1. 有狀態 vs 無狀態技能  兩種 Skill 的設計哲學決定了使用場景的根本差異： | 特性 | Stateless（無狀態）| Stateful（有狀態）| |---|---|---| | 記憶跨 session | ❌ 不保留 | ✅ 保留到本地或 MCP Server | | 代表技能 | /grill-me | /grill-with-",
+    "url": "/notes/teach-skill-stateful-learning"
+  },
+  {
     "id": "harness-engineering-gold-rush",
     "title": "Harness Engineering：AI 競爭的新淘金熱",
     "category": "AI筆記",
