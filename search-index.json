@@ -1,5 +1,25 @@
 [
   {
+    "id": "anthropic-design-ai-native-product-team",
+    "title": "Anthropic 設計主管談 AI 原生產品運作模式",
+    "category": "AI筆記",
+    "tags": [
+      "Builder Pod模型",
+      "品質決策",
+      "PLG增長",
+      "AI Agent管理",
+      "ROI衡量"
+    ],
+    "description": "Claude Code 從內部 Side Project 成長為年化營收 $25 億美元、佔據 51% 程式碼市場的產品。Meaghan Choi 揭示背後關鍵：打破職能邊界的 Builder Pod 模型、品質決策下移到 Live Code，以及每位成員都必須管理 AI Agent 艦隊的新型管理哲學。",
+    "quote": "你現在管理的不只是人，你管理的是人與 AI Agent 組成的混合艦隊——這兩件事所需的能力，比你想像的更相近。",
+    "action": "用 3–5 人跨職能 Builder Pod 取代大型部門，品質判斷點從 PRD Review 移到 Working Prototype，並把管理 AI Agents 納入日常管理工作。",
+    "image": "/images/AI筆記/anthropic-design-ai-native-product-team.jpg",
+    "date": "2026-06-10",
+    "source_has_timestamps": true,
+    "body": "🧠 Anthropic 設計主管談 AI 原生產品運作模式 影片原標題： Anthropic Head of Design on Why Your Whole Team Should Be Managing Agents | Meaghan Choi | E298 來源： Product School · ProductCon New York · 2026.06.03 [unom.ac](https://www.unom.ac.in/webportal/uploads/naac/1/additional/5%20M.Sc.%20HRD%20Psychology.pdf) [核心摘要] Claude Code 從一個內部 Side Project 成長為年化營收 $25 億美元、佔據 51% 程式碼市場的產品 。Meaghan Choi（Anthropic Claude Code 與 Co-work 設計主管）揭示了背後的關鍵秘訣：打破職能邊界的 Builder Pod 模型、將品質決策從 Mock/PRD 下移到 Live Code，以及每位成員都必須管理一支 AI Agent 艦",
+    "url": "/notes/anthropic-design-ai-native-product-team"
+  },
+  {
     "id": "real-vs-fake-pmf",
     "title": "辨別真假 PMF：被市場拉著走，而非推著賣",
     "category": "影片筆記",
