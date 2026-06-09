@@ -1,7 +1,7 @@
 # Graph Report - .  (2026-06-09)
 
 ## Corpus Check
-- 1 files · ~21,733,310 words
+- 1 files · ~21,732,311 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -796,10 +796,8 @@ Nodes (1): 透明戰場（Transparent Battlefield）
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `上下文圖譜治理架構` connect `Community 8` to `Community 3`?**
-  _High betweenness centrality (0.002) - this node is a cross-community bridge._
-- **Why does `CRAFT 脈絡圖（Context Graph）` connect `Community 3` to `Community 8`?**
-  _High betweenness centrality (0.002) - this node is a cross-community bridge._
+- **Why does `/insights 行為分析報告` connect `Community 22` to `Community 0`?**
+  _High betweenness centrality (0.001) - this node is a cross-community bridge._
 - **Are the 2 inferred relationships involving `情境基礎設施 (Context Infrastructure)` (e.g. with `脈絡圖 (Context Graph)` and `代理式商務 (Agentic Commerce)`) actually correct?**
   _`情境基礎設施 (Context Infrastructure)` has 2 INFERRED edges - model-reasoned connections that need verification._
 - **Are the 3 inferred relationships involving `Context Engine（上下文引擎）` (e.g. with `Context Development Lifecycle（CDLC）` and `Redis AI Agent 記憶體基礎設施`) actually correct?**
@@ -809,4 +807,6 @@ _Questions this graph is uniquely positioned to answer:_
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.04 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
+  _Cohesion score 0.05 - nodes in this community are weakly interconnected._
+- **Should `Community 2` be split into smaller, more focused modules?**
   _Cohesion score 0.05 - nodes in this community are weakly interconnected._

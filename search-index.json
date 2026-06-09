@@ -20,6 +20,26 @@
     "url": "/notes/real-vs-fake-pmf"
   },
   {
+    "id": "more-context-agent-dumber",
+    "title": "為何更多 Context 反而讓 Agent 變笨",
+    "category": "影片筆記",
+    "tags": [
+      "上下文膨脹",
+      "U曲線效應",
+      "Context優化",
+      "80/20混合模型",
+      "裁判節點"
+    ],
+    "description": "這場演講揭示了一個反直覺的核心洞察：給 Agent 更多 Context 並不會讓它更聰明。Nupur Sharma（Qodo）從 DevSecOps 背景出發，提出「U 曲線效應」解釋 LLM 為何遺忘中間資訊",
+    "quote": "💡 把整個代碼庫丟給 Agent，它會記住開頭和結尾，然後悄悄地遺忘中間的一切。",
+    "action": "🎯 依 I-S-J 法則設計 Pipeline：迭代式檢索、80/20 推理拆分、加入裁判節點整合多 Agent 結果。",
+    "image": "/images/影片筆記/more-context-agent-dumber.jpeg",
+    "date": "2026-06-09",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 這場演講揭示了一個反直覺的核心洞察：給 Agent 更多 Context 並不會讓它更聰明。Nupur Sharma（Qodo）從 DevSecOps 背景出發，提出「U 曲線效應」解釋 LLM 為何遺忘中間資訊，並系統性地介紹三種 Context 優化策略，以及解決 Agent 陷入「無限決策迴圈」的 80/20 混合模型架構。 [詳細重點整理] 1. Agent 演進的困境  Agent 從靜態 4K prompt → 可使用工具的 Agentic Workflow → 多 Agent 協作，每一階段雖試圖解決問題，卻也帶來新的失控點：工具不知何時停止、多 Agent 之間理解衝突。核心問題從未解決：Context 增加 ≠ 智能提升。 關鍵概念：上下文膨脹悖論（Context Inflation Paradox） 2. U 曲線效應：中間記憶流失  LLM 在處理長 Context 時，呈現「頭尾記得、中間遺忘」的 U 曲線（U-Curve） 現象。Agent 只會關注初始目標與最後輸入，中間插入的 Jira 資訊、MCP 工具呼叫結果會被模型主動「淨化」以維持自身",
+    "url": "/notes/more-context-agent-dumber"
+  },
+  {
     "id": "ai-layoff-five-types",
     "title": "Meta 裁員 8000 人，真相與 AI 無關？解讀 AI 裁員的五大類型",
     "category": "AI筆記",
