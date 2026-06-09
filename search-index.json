@@ -40,6 +40,26 @@
     "url": "/notes/more-context-agent-dumber"
   },
   {
+    "id": "claude-code-one-year-retrospective",
+    "title": "Claude Code 一週年回顧：從工具到代理人文明",
+    "category": "影片筆記",
+    "tags": [
+      "自我驗證迴圈",
+      "角色收斂",
+      "Routine自動化",
+      "Auto Mode",
+      "Context Minimalism"
+    ],
+    "description": "Claude Code 在一年內完成了兩次典範轉移：從「人寫程式碼」→「人指揮 Agent 寫程式碼」→「Loop/Routine 自動驅動 Agent 完成任務」。",
+    "quote": "我不再有待辦清單，Claude 把所有事都建好了。我的工作就是想出點子。— Boris Cherny",
+    "action": "實踐 V-R-M 法則：建立可自驗環境、把重複任務包成 Routine、採用 Context Minimalism 給最少提示",
+    "image": "/images/影片筆記/claude-code-one-year-retrospective.jpg",
+    "date": "2026-06-09",
+    "source_has_timestamps": true,
+    "body": "Claude Code 一週年回顧：從終端機工具到代理人文明 這支影片是 Anthropic 的 Claude Code 產品一週年回顧，由 Head of Claude Code Boris Cherny 與 Head of Product Cat Wu 對談，深度回顧這一年最重要的技術演進與工作型態轉變。 [youtube](https://www.youtube.com/?hl=zh-tw&app=desktop) [核心摘要] Claude Code 在一年內完成了兩次典範轉移：從「人寫程式碼」→「人指揮 Agent 寫程式碼」→「Loop/Routine 自動驅動 Agent 完成任務」。Verification（可驗證性）、Auto Mode、Context Minimalism 是三大核心技術突破，而角色融合（PM/設計師/工程師邊界消失）則是最深遠的組織變革。影片揭示：AI 時代最有價值的能力不再是寫程式，而是產品洞察力與端到端的想法執行力。 [詳細重點整理] 1. Claude Code 的起源與演化  從一個 Slack 貼文只得到兩個 emoji 反應的內部小工具",
+    "url": "/notes/claude-code-one-year-retrospective"
+  },
+  {
     "id": "ai-layoff-five-types",
     "title": "Meta 裁員 8000 人，真相與 AI 無關？解讀 AI 裁員的五大類型",
     "category": "AI筆記",
