@@ -228,7 +228,7 @@ Agent 護欄成了一門與 LLM 護欄分離的學科。在 2024 年，護欄意
 
 **多 agent 系統（multi-agent system）** 擁有會委派給其他 agent 的 agent、把研究任務拆分給專家，或運行平行的工作流。你需要完整的堆疊。兩個 agent 互相傳遞脈絡就已經很難除錯了。五個則在沒有對每一次交接（handoff）做追蹤層級評估的情況下根本不可能。在你打造第二個 agent 之前，就先建好評估基礎設施。
 
-<img src="pick_your_stack.jpg" width=800>
+<img src="../images/AI筆記/pick_your_stack.jpg" width=800>
 
 ## 編程 agent：六個層次全員上陣
 
@@ -242,7 +242,7 @@ Agent 護欄成了一門與 LLM 護欄分離的學科。在 2024 年，護欄意
 
 每一層都以評估框架中的三個問題來評分：你需要管理多少狀態？你能容忍多少供應商鎖定？以及從 demo 到生產有多難？
 
-<img src="agent_stake_cheet_sheet.jpeg" width=800>
+<img src="../images/AI筆記/agent_stake_cheet_sheet.jpeg" width=800>
 
 ## 更大的全局視角
 
