@@ -1,5 +1,25 @@
 [
   {
+    "id": "2026-ai-agent-tech-stack",
+    "title": "2026 AI Agent 技術堆疊：LLM 與生產級 Agent 之間的六個層次",
+    "category": "AI筆記",
+    "tags": [
+      "AI Agent",
+      "MCP",
+      "技術堆疊",
+      "評估可觀測性",
+      "護欄安全"
+    ],
+    "description": "2026年的 AI Agent 技術堆疊分六層：模型推論、協定工具（MCP）、記憶知識、框架SDK、評估可觀測性、護欄安全。自2024年以來，MCP標準化工具連接、記憶升級為一級架構元素、評估層從零誕生。",
+    "quote": "大多數團隊推出的恰恰相反：沒有評估、只做輸出端過濾，以及一個不斷膨脹直到把脈絡視窗塞爆的系統提示。",
+    "action": "依你的 Agent 類型選擇最小可行堆疊，在部署前就建好評估基礎設施，護欄要放在工具呼叫層而非輸出層。",
+    "image": "/images/AI筆記/2026-ai-agent-tech-stack.jpg",
+    "date": "2026-06-11",
+    "source_has_timestamps": false,
+    "body": "2026 AI Agent 技術堆疊 在你的 LLM 與生產級 agent 之間的六個層次 你的團隊為了一個客服聊天機器人選擇了 LangGraph。三週後，你已經有了一個包含 14 個節點的狀態圖（state graph）、一個寫入 Redis 的自訂 checkpointer，以及為了那些每週只失敗一次的工具呼叫所寫的重試邏輯。這個 agent 回答退款問題、呼叫一個 API。一個跑在 OpenAI SDK 上、搭配兩個 MCP server 的 50 行腳本就能做到同樣的事。但沒有人去釐清這個問題實際上需要哪些層次。 在 2024 年 11 月，Letta 發表了一張 [AI agents 技術堆疊圖](https://www.letta.com/blog/ai-agents-stack)，它成了我接觸過的工程團隊中、半數團隊的預設參考。如果你在 LinkedIn 上看過、或在 Slack 頻道中釘選過「agent 的各層次」視覺圖，它很可能就源自那篇文章。 那張圖現在已經 14 個月大了，而從那時起許多事情都改變了。當時 MCP 還不存在。記憶（memory）仍被視為向量資料庫",
+    "url": "/notes/2026-ai-agent-tech-stack"
+  },
+  {
     "id": "coordination-moat-ai-value",
     "title": "協調才是護城河：AI 真正的價值不在於它自動化了什麼",
     "category": "AI筆記",
