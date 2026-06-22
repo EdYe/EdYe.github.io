@@ -1,5 +1,25 @@
 [
   {
+    "id": "proven-better-new-framework",
+    "title": "成功產品背後的隱藏模式：P-B-N 框架",
+    "category": "影片筆記",
+    "tags": [
+      "Proven-Better-New",
+      "道德套利",
+      "謙遜起點",
+      "MVP與MLP",
+      "AI失敗加速器"
+    ],
+    "description": "Zynga 創辦人 Mark Pincus 揭示了一個反直覺的產品開發框架——Proven-Better-New（已驗證-更好-新穎）。他主張大多數創業失敗源於「過度創新」，而非不夠創新。",
+    "quote": "如果你真的夠野心勃勃，就燒掉你的履歷。把你的野心定義在消費者的眼睛裡，而不是同行的評價裡。",
+    "action": "在任何新功能或產品方向上，依序問自己 P-B-N 三問：已驗證的最佳實踐？10/10 使用者都說 Yes 的改進？一個差異化賭注？",
+    "image": "/images/影片筆記/proven-better-new-framework.jpg",
+    "date": "2026-06-22",
+    "source_has_timestamps": true,
+    "body": "🎮 成功產品背後的隱藏模式：Mark Pincus 的 Proven-Better-New 框架 來源： Lenny's Podcast｜2026年6月14日｜片長 1:39:23 [核心摘要] Zynga 創辦人 Mark Pincus 揭示了一個反直覺的產品開發框架——Proven-Better-New（已驗證-更好-新穎）。他主張大多數創業失敗源於「過度創新」，而非不夠創新。透過先完全掌握市場上已驗證的產品體驗，再做真正有感的微幅提升，最後才加入一個創新賭注，可大幅提升產品命中率。Zynga 在此框架下，10 款主要遊戲中 8 款成為爆款，觸及逾十億玩家。 [youtube](https://www.youtube.com/watch?v=vyFxNMQErcs) [詳細重點整理] 1. Proven-Better-New 框架概覽  - Proven（已驗證）：先成為該平台、該受眾體驗的「博士級專家」——完整複製市場上最優秀的設計，不做任何改動 - Better（更好）：只計算那些讓「10/10 使用者都說 F\\ck Yes」的改進；你自己認為更好的東西，通常只是「New」的",
+    "url": "/notes/proven-better-new-framework"
+  },
+  {
     "id": "2026-ai-agent-tech-stack",
     "title": "2026 AI Agent 技術堆疊：LLM 與生產級 Agent 之間的六個層次",
     "category": "AI筆記",
