@@ -1,5 +1,25 @@
 [
   {
+    "id": "skill-vs-prompt-portable-procedure",
+    "title": "Skill vs Prompt 的本質差異：程序可攜性才是 Agent 瓶頸",
+    "category": "影片筆記",
+    "tags": [
+      "程序可攜性",
+      "Skill",
+      "驗證契約",
+      "可組合性",
+      "程序複利"
+    ],
+    "description": "AI Agent 的真正瓶頸不是記憶體，而是程序可攜性。當你在 Cursor、Claude Code、Codex 之間切換時，精心調教的 Agent 行為規則無法跨工具遷移",
+    "quote": "你可以移動你的上下文，你可以移動你的程序，你可以把更好的工具插進同一個操作層——這才是「開放」真正的意義。",
+    "action": "把反覆跟 AI 解釋超過 3 次的事情寫成 skill.md，每個 skill 定義完成證明，每次 session 後問「有沒有值得保存的程序？」",
+    "image": "/images/影片筆記/skill-vs-prompt-portable-procedure.jpg",
+    "date": "2026-06-23",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] AI Agent 的真正瓶頸不是記憶體，而是程序可攜性。當你在 Cursor、Claude Code、Codex 之間切換時，精心調教的 Agent 行為規則無法跨工具遷移，導致工作者不斷重新解釋相同的操作程序。Open Skills 提出「可攜式程序層」的解法：用標準化的 skill.md 文件，讓 Agent 程序成為你個人的資產而非被工具平台鎖定。 [youtube](https://www.youtube.com/watch?v=4vWXpzlL7Mo) [詳細重點整理] 1. 記憶不夠，程序才是核心  Open Brain（前一個計畫）解決了 Agent 的上下文記憶問題，但記憶解決後仍存在第二個更深的問題：即使 Agent 知道你的專案背景，它仍不知道「你怎麼工作」。 每次新 session 都必須重新解釋：搜尋要用即時資料、文章不能有 AI 腔、測試要真的開瀏覽器驗證——這些是程序問題，不是記憶問題。 [youtube](https://www.youtube.com/watch?v=4vWXpzlL7Mo) 關鍵概念：程序性債務（Procedural De",
+    "url": "/notes/skill-vs-prompt-portable-procedure"
+  },
+  {
     "id": "proven-better-new-framework",
     "title": "成功產品背後的隱藏模式：P-B-N 框架",
     "category": "影片筆記",
