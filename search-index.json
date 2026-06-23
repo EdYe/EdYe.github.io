@@ -20,6 +20,26 @@
     "url": "/notes/skill-vs-prompt-portable-procedure"
   },
   {
+    "id": "ai-agent-maintenance-hpe-framework",
+    "title": "AI Agent 維護比打造更重要：H-P-E 法則",
+    "category": "AI筆記",
+    "tags": [
+      "工具精簡",
+      "模型漂移",
+      "數據腐爛",
+      "Harness",
+      "AI Agent維護"
+    ],
+    "description": "「打造更多 AI Agent」不是 2026 年的真正挑戰——維護 Agent 周圍的系統（Harness）才是。Vercel 透過刪除 80% 的工具讓",
+    "quote": "Agent 不需要大聲地失敗，也能開始悄悄地傷害你的業務。它只要繼續工作就夠了。",
+    "action": "定期執行 5 項 Harness 健康檢查：查來源、測權限、確認任務、要求溯源、評估價值",
+    "image": "/images/AI筆記/ai-agent-maintenance-hpe-framework.jpg",
+    "date": "2026-06-23",
+    "source_has_timestamps": true,
+    "body": "好的！這是一支由 Nate B Jones 發布於 2026 年 6 月 17 日的 AI 策略深度影片，主題核心是「AI Agent 的維護藝術」。以下是結構化筆記： 🎯 [核心摘要] 「打造更多 AI Agent」不是 2026 年的真正挑戰——維護 Agent 周圍的系統（Harness） 才是。Vercel 透過刪除 80% 的工具讓 Agent 變得更好，揭示了一個反直覺的事實：Agent 的退化不只因為外部世界改變，更因為底層模型自己「進步了」。 [詳細重點整理] 1. Vercel 的反直覺教訓  Vercel 研究了頂尖銷售人員的真實工作流程，據此建立了一個能過濾 inbound 訊息、資格認定潛在客戶、起草回覆並分流問題的 Agent。 關鍵發現不是 Agent 建立後的功能，而是後來的維護行動：團隊持續刪除工具，Agent 反而變得更準確、更可信。「新手直覺是加法；維護直覺是問什麼應該被刪掉。」 關鍵概念：工具精簡（Tool Pruning）——移除冗餘工具以維持 Agent 的高信任度。 2. 模型進步本身也會「破壞」Agent  底層模型並不穩定：它持續在推理",
+    "url": "/notes/ai-agent-maintenance-hpe-framework"
+  },
+  {
     "id": "proven-better-new-framework",
     "title": "成功產品背後的隱藏模式：P-B-N 框架",
     "category": "影片筆記",

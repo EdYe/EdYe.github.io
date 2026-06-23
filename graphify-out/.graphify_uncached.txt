@@ -7,6 +7,7 @@ _notes/real-vs-fake-pmf.md
 _notes/how-to-communicate-clearly-and-concisely.md
 _notes/claude-code-one-year-retrospective.md
 _notes/four-person-team-field-notes.md
+_notes/ai-agent-maintenance-hpe-framework.md
 _notes/how-to-talk-to-statues.md
 _notes/tony-fadell-build-real-taste.md
 _notes/claude-ultra-code-multi-agent.md
