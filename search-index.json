@@ -1,5 +1,25 @@
 [
   {
+    "id": "head-of-claude-code-after-coding-solved",
+    "title": "Claude Code 負責人：編碼解決後的下一步",
+    "category": "影片筆記",
+    "tags": [
+      "天花板提升",
+      "AI原生管理",
+      "規格驅動驗證",
+      "品質分層",
+      "成長心態"
+    ],
+    "description": "Anthropic 工程師目前每季出貨的程式碼量是 2021–2025 年的 8 倍。深度解析 AI 原生工程團隊的運作模式、管理思維、人才觀、以及面對 AI 浪潮的心態轉型",
+    "quote": "Coding is no longer the bottleneck. It''s lifted the ceiling of what anyone is able to do. Everything is now possible in theory. Now, it''s about how ambitious can you be?",
+    "action": "把規格寫進 repo 讓 AI 自動驗證、人工審查只留深度系統層、用 Routine 自動整理每日情境感知",
+    "image": "/images/影片筆記/head-of-claude-code-after-coding-solved.jpg",
+    "date": "2026-06-24",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Fiona Fung 是 Anthropic 旗下 Claude Code 與 Co-work 產品的工程負責人。影片揭示了一個關鍵事實：Anthropic 工程師目前每季出貨的程式碼量是 2021–2025 年的 8 倍。這集深度解析了「AI 原生工程團隊」的運作模式、管理思維、人才觀、以及面對 AI 浪潮的心態轉型，直接回應「未來工程師該如何存活與進化」的痛點。 [youtubeloop](https://youtubeloop.net/list?pl=W3sidmlkZW9JZCI6IkwzQk8tMmI4SWRRIiwicGxheWVyTmFtZSI6Inl0UGxheWVyMSIsInNsaWRlclZhbCI6WzAsMTkwXX0seyJ2aWRlb0lkIjoiajJLekNfV3RJUDQiLCJwbGF5ZXJOYW1lIjoieXRQbGF5ZXIyIiwic2xpZGVyVmFsIjpbMCwyMDddfSx7InZpZGVvSWQiOiIwNHRXWXY5ZnpmZyIsInBsYXllck5hbWUiOiJ5dFBsYXllcjMiLCJzbG",
+    "url": "/notes/head-of-claude-code-after-coding-solved"
+  },
+  {
     "id": "skill-vs-prompt-portable-procedure",
     "title": "Skill vs Prompt 的本質差異：程序可攜性才是 Agent 瓶頸",
     "category": "影片筆記",
