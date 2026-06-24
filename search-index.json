@@ -1,5 +1,25 @@
 [
   {
+    "id": "leaders-guide-team-structures-agentic-world",
+    "title": "AI 代理世界的組織框架：經濟、人才、結構與治理",
+    "category": "影片筆記",
+    "tags": [
+      "沙漏型組織",
+      "人才轉型",
+      "治理框架",
+      "經濟模型",
+      "AI代理"
+    ],
+    "description": "此演講提出一套完整的 AI 代理世界組織框架，直面企業在導入 Agentic AI 時面臨的四大挑戰：經濟模型選擇、人才重塑、組織結構轉型、治理架構建立",
+    "quote": "The companies that win in the next decade aren't the ones with the best AI. They're the ones with the best operating model around the AI.",
+    "action": "用 E-T-S-G-P-P 六步驟依序定義 AI 策略：經濟模型→人才配置→組織結構→治理機制→領域專家→初階人才管道",
+    "image": "/images/影片筆記/leaders-guide-team-structures-agentic-world.png",
+    "date": "2026-06-24",
+    "source_has_timestamps": true,
+    "body": "🎙️ A Leader's Guide to Advanced Team Structures in an Agentic World 影片連結： https://youtu.be/O7u6myBRsns [youtube](https://www.youtube.com/watch?v=JJU5D3jzEBk) 講者： Steven Brovich，Amazon（任職近 27 年），前半職涯專注技術，後半轉型人才與組織文化 [youtube](https://www.youtube.com/watch?v=JJU5D3jzEBk) 時長： 31 分 36 秒｜2026 年 6 月 12 日發布 [核心摘要] 此演講提出一套完整的 AI 代理世界組織框架，直面企業在導入 Agentic AI 時面臨的四大挑戰：經濟模型選擇、人才重塑、組織結構轉型、治理架構建立。核心痛點是：大多數企業正陷入「削減初階人才、堆積中層管理」的鑽石陷阱，而正確答案是「沙漏型組織」——維持資深執行層 + AI 代理，同時刻意保留初階人才培育管道，確保 2034 年仍有判斷力人才可用。 [youtube](ht",
+    "url": "/notes/leaders-guide-team-structures-agentic-world"
+  },
+  {
     "id": "head-of-claude-code-after-coding-solved",
     "title": "Claude Code 負責人：編碼解決後的下一步",
     "category": "影片筆記",
