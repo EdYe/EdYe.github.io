@@ -1,5 +1,25 @@
 [
   {
+    "id": "ai-agent-biim-four-layer-architecture",
+    "title": "企業級 AI Agent 的四層架構：BIIM 法則",
+    "category": "AI筆記",
+    "tags": [
+      "四層Agent架構",
+      "任務導向模型選型",
+      "DNA指令工程",
+      "記憶治理策略",
+      "多模型交叉驗證"
+    ],
+    "description": "影片提出企業級 AI Agent 的四層架構：大腦（LLM 選型）— 整合（工具與 API）— 指令（DNA 級別的系統提示）— 記憶（RAG 與長短期知識）",
+    "quote": "不要把 Agent 當聊天機器人，而要當一個帶大腦、手腳、DNA 和記憶的自動化同事來設計。",
+    "action": "採用 B-I-I-M 法則，從 Brain → Integrations → Instructions → Memory 依序設計每個 Agent",
+    "image": "/images/AI筆記/ai-agent-biim-four-layer-architecture.jpg",
+    "date": "2026-06-25",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 影片提出企業級 AI Agent 的四層架構：大腦（LLM 選型）— 整合（工具與 API）— 指令（DNA 級別的系統提示）— 記憶（RAG 與長短期知識），對應從模型選擇、系統設計到運維治理的完整思考路徑。 解決的痛點是：多數組織只會「用 Copilot 聊天」，卻不會把 Agent 變成可以在背景持續可靠執行業務流程的自動化系統。 [youtube](https://www.youtube.com/watch?v=R6xVJQeBhX4) [詳細重點整理] 1. 從 Copilot 到「睡覺也在跑」的 Agent  - 核心觀念是把 Agent 當作一個「會自動運作的系統」，而不是單一對話助手，要能在你睡覺時持續讀取資料、觸發流程、產出結果。 [youtube](https://www.youtube.com/watch?v=R6xVJQeBhX4) - 打好基礎需要先有穩定的資料庫與儲存庫（repositories），再在其上讓 Agent 主動「採取行動」而不只是回答問題。 [youtube](https://www.youtube.com/watch?v=R6",
+    "url": "/notes/ai-agent-biim-four-layer-architecture"
+  },
+  {
     "id": "leaders-guide-team-structures-agentic-world",
     "title": "AI 代理世界的組織框架：經濟、人才、結構與治理",
     "category": "影片筆記",
