@@ -1,5 +1,25 @@
 [
   {
+    "id": "beyond-memory-to-dreaming",
+    "title": "Dreaming：Agent 記憶體的帶外精煉機制",
+    "category": "影片筆記",
+    "tags": [
+      "情境工程",
+      "Agent記憶體",
+      "Dreaming",
+      "帶外精煉",
+      "V-C-P-D"
+    ],
+    "description": "Agent 記憶體系統的設計正從簡單的 Markdown 文件注入，演進至能在幕後非同步運作的「夢境（Dreaming）」機制。",
+    "quote": "Context 工程是讓模型智能落地的乘數——Dreaming 則是讓這個乘數隨時間複利增長的機制。",
+    "action": "按 V-C-P-D 法則建立 Agent 記憶體基礎設施；個人可每週回顧對話，手動更新個人記憶體文件。",
+    "image": "/images/影片筆記/beyond-memory-to-dreaming.jpg",
+    "date": "2026-06-28",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Agent 記憶體系統的設計正從簡單的 Markdown 文件注入，演進至能在幕後非同步運作的「夢境（Dreaming）」機制。該演講由 Anthropic 技術成員 Lamis Mukta 在 AI Native DevCon 2026 發表，核心貢獻在於揭示：情境工程（Context Engineering）本身不足以支撐多 Agent 生產環境的持續學習，需要一個跨越 Session 邊界、擁有專屬資源的二階記憶管理流程，才能讓 Agent 真正越用越聰明。 [詳細重點整理] 1. 情境工程的演進回顧 [00:00–02:17] - Claude Code 的 CLAUDE.md 是起點：一個簡單的 Markdown 指令文件注入 Context，效果「出乎意料地好」，但隨著文件增長產生Context 膨脹（Context Bloat）問題。 - 記憶體工具（Memory Tools） 讓 Agent 在 Session 中自主決定讀取、寫入、更新記憶，自主性的導入帶來了顯著改善。 - 技能（Skills） 透過「漸進式揭露（Progressive Disclosu",
+    "url": "/notes/beyond-memory-to-dreaming"
+  },
+  {
     "id": "ai-agent-biim-four-layer-architecture",
     "title": "企業級 AI Agent 的四層架構：BIIM 法則",
     "category": "AI筆記",
