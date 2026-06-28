@@ -1,5 +1,24 @@
 [
   {
+    "id": "when-to-use-claude-agent-sdk",
+    "title": "Claude Agent SDK：何時選 SDK 而非 CLI",
+    "category": "AI筆記",
+    "tags": [
+      "Agent Harness",
+      "Claude Agent SDK",
+      "多Agent並行",
+      "產品化部署"
+    ],
+    "description": "Claude Agent SDK 本質是將 Claude Code 的強大 Agent Harness 封裝成可程式化調用的 SDK，解決了「何時該用 SDK 而非直接用 CLI」的困惑。",
+    "quote": "LLM + Harness = Agent；而 Claude Agent SDK，就是讓你把自己做的產品，裝上 Claude Code 這顆最強大腦的那條線。",
+    "action": "將研究驗證（CLI）→ 產品部署（SDK）作為標準流程，搭配 Gradio 快速原型化交付利害關係人展示",
+    "image": "/images/AI筆記/when-to-use-claude-agent-sdk.jpg",
+    "date": "2026-06-28",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Claude Agent SDK 本質是將 Claude Code 的強大 Agent Harness 封裝成可程式化調用的 SDK，解決了「何時該用 SDK 而非直接用 CLI」的困惑。核心差異在於：SDK 讓你能以 Python 程式碼產品化、動態組態、以及並行協調多個 Agent，而 CLI 則適合互動式使用。 [詳細重點整理] 1. Agent Harness 是什麼？ Agent Harness（代理人框架） 是 LLM 之外的所有元件總稱，包含工具（tools）、執行循環（loop）與目標管理（goal）。業界有一個公式：LLM + Harness = AI Agent。框架光譜從「輕量型框架」（如 OpenAI Agents SDK、Google ADK）到「全包型 Harness」（如 LangChain Deep Agents、Claude Agent SDK）皆有。  關鍵概念：Agent Harness — 代理人框架，泛指工具調用、記憶管理、Context 壓縮等非 LLM 核心的基礎設施層。 2. Claude Agent SDK 的定位  Cl",
+    "url": "/notes/when-to-use-claude-agent-sdk"
+  },
+  {
     "id": "beyond-memory-to-dreaming",
     "title": "Dreaming：Agent 記憶體的帶外精煉機制",
     "category": "影片筆記",
