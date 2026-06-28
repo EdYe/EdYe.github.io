@@ -19,6 +19,26 @@
     "url": "/notes/when-to-use-claude-agent-sdk"
   },
   {
+    "id": "stop-writing-tone-prompts-use-layered-architecture",
+    "title": "停止寫語氣指令，改用分層架構",
+    "category": "影片筆記",
+    "tags": [
+      "分層架構",
+      "不可覆寫規則",
+      "情境感知",
+      "確定性否決",
+      "品牌語氣"
+    ],
+    "description": "品牌語氣無法靠單一 system prompt 長期維持。當一個 prompt 被要求同時做到「身份不可侵犯、情境感知、風格表達、自我審查」四件事，它必然在邊緣",
+    "quote": "前三層是指令，第四層是許可。指令是機率性的；許可是確定性的。",
+    "action": "建立 I-S-E-V 四層架構：先定義不可覆寫的身份規則，再注入情境信號、範例語氣，最後加入確定性生成後審查閘道。",
+    "image": "/images/影片筆記/stop-writing-tone-prompts-use-layered-architecture.jpg",
+    "date": "2026-06-28",
+    "source_has_timestamps": true,
+    "body": "停止寫語氣指令，改用分層架構 演講者： Isadora Martin-Dye（Isadora & Co / The Bloom House AI） 發表於： AI Engineer 大會，2026年6月23日 原始連結： https://youtu.be/ij-AU9dpJjc [核心摘要] 品牌語氣無法靠單一 system prompt 長期維持。當一個 prompt 被要求同時做到「身份不可侵犯、情境感知、風格表達、自我審查」四件事，它必然在邊緣案例（turn 21）崩潰。解法是將這四個職責拆解為四個獨立架構層，並且只有第四層是確定性（deterministic）的，其餘三層皆屬於「機率性請求」。 [詳細重點整理] 1. 為何單一 Prompt 必然失敗  一個 system prompt 描述品牌語氣「在 happy path 上有效」——也就是所有你預設過的問題。但第 21 輪對話是第一個例子沒涵蓋的問題，模型會給出技術上正確、但品牌絕對不會說的回答。 關鍵概念： Happy Path 崩潰點（Turn 21 Failure） 2. Layer 1：不可侵犯的身份規則  這是任",
+    "url": "/notes/stop-writing-tone-prompts-use-layered-architecture"
+  },
+  {
     "id": "beyond-memory-to-dreaming",
     "title": "Dreaming：Agent 記憶體的帶外精煉機制",
     "category": "影片筆記",
