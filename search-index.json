@@ -1,5 +1,25 @@
 [
   {
+    "id": "glm-5-2-free-beats-claude",
+    "title": "GLM 5.2 免費超越 Claude，上下文鎖定才是真正壁壘",
+    "category": "AI筆記",
+    "tags": [
+      "上下文鎖定",
+      "Harness",
+      "中心分佈任務",
+      "最後一哩路",
+      "開源模型"
+    ],
+    "description": "GLM 5.2 是免費開源模型，在大多數日常工作上表現超越 Claude，智能成本降低了 98%。然而企業卻遲遲無法切換，真正的瓶頸不在模型本身，而在於最後一哩路",
+    "quote": "企業的大腦從未被出租過，而這正是我們即將面對的現實。",
+    "action": "盤點工作分佈、評估 AI 上下文依賴，建構模型無關的 Harness 取得上下文主權",
+    "image": "/images/AI筆記/glm-5-2-free-beats-claude.jpg",
+    "date": "2026-06-29",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] GLM 5.2 是免費開源模型，在大多數日常工作上表現超越 Claude，智能成本降低了 98%。然而企業卻遲遲無法切換，真正的瓶頸不在模型本身，而在於最後一哩路（Last Mile）：圍繞模型建構的上下文系統、任務路由機制與工作套件（Harness）。誰掌握了自己的上下文，誰才真正擁有 AI 的競爭優勢。 [詳細重點整理] 1. GLM 5.2 的真實能力  GLM 5.2 在「中心分佈任務」（Center of Distribution Tasks）上表現卓越 。這類任務包含：客戶網站建置、PowerPoint 大綱撰寫、一般文案、常見程式碼問題等——泛指有熟悉模式、易於人工核查輸出的工作 。在這些任務上，它不只是「夠好」，甚至是目前世界最佳的模型。  關鍵概念：中心分佈任務 vs. 邊緣分佈任務（Center vs. Edge of Distribution）  中心分佈 = 常見模式、有大量訓練範例；邊緣分佈 = 高度複雜、罕見且需要推理深度。 2. 廉價 AI 時代到來，但前沿模型市場沒有崩潰  美國政府有效暫緩了前沿模型的發布進程（如 GPT-5.6 尚無明確",
+    "url": "/notes/glm-5-2-free-beats-claude"
+  },
+  {
     "id": "when-to-use-claude-agent-sdk",
     "title": "Claude Agent SDK：何時選 SDK 而非 CLI",
     "category": "AI筆記",
