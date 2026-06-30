@@ -1,5 +1,25 @@
 [
   {
+    "id": "claude-code-dynamic-workflows",
+    "title": "Claude Code Dynamic Workflows：平行協調千個子代理",
+    "category": "AI筆記",
+    "tags": [
+      "動態工作流程",
+      "子代理",
+      "並行編排",
+      "編排模式",
+      "對抗式驗證"
+    ],
+    "description": "Claude Code Dynamic Workflows 是 Anthropic 於 2026 年 5 月 28 日隨 Claude Opus 4.8 推出的重大新功能，核心概念是讓 Claude 自動",
+    "quote": "",
+    "action": "",
+    "image": "/images/AI筆記/claude-code-dynamic-workflows.jpg",
+    "date": "2026-06-30",
+    "source_has_timestamps": false,
+    "body": "Claude Code Dynamic Workflows 是 Anthropic 於 2026 年 5 月 28 日隨 Claude Opus 4.8 推出的重大新功能，核心概念是讓 Claude 自動撰寫一段 JavaScript 編排腳本，在背景平行協調數十至上千個子代理（subagents）完成超大型任務，而不是塞在單一 context window 裡硬撐。 [claude](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code) 核心運作機制 當你描述任務後，Claude 動態生成編排腳本，決定如何切分任務、分配給多少並行 subagents，並做「對抗式驗證」（adversarial verification）——讓獨立 agent 互相挑錯，確認輸出可信後才回覆你。 並行上限是 16 個同時執行，但單一 workflow 最多可協調 1,000 個子代理。 進度會即時儲存，任務中斷後可從斷點繼續，不需重跑。 [abmedia](https://abmedia.io/claude-code",
+    "url": "/notes/claude-code-dynamic-workflows"
+  },
+  {
     "id": "glm-5-2-free-beats-claude",
     "title": "GLM 5.2 免費超越 Claude，上下文鎖定才是真正壁壘",
     "category": "AI筆記",
