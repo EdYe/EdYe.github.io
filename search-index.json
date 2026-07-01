@@ -1,5 +1,25 @@
 [
   {
+    "id": "agentic-ai-engineer",
+    "title": "Agentic AI Engineer：迴圈式自動建構 AI Agent",
+    "category": "AI筆記",
+    "tags": [
+      "Spec驅動開發",
+      "Eval驅動開發",
+      "LLM-as-Judge",
+      "失敗模式分析",
+      "Agent自動化"
+    ],
+    "description": "這部影片由 Mutagent 共同創辦人 Bene 與 CTO Burak 主講，介紹「Agentic AI Engineer」概念",
+    "quote": "把建構 AI Agent 的離線與線上迴圈完全交給 Agent 自己跑，人類的工作就變成『設計帶有明確評估終止閘門的迴圈』，而不是親自跑迴圈。",
+    "action": "依 Spec→Eval→Diagnose 三步驟迴圈取代人工巡查，建立可規模化的 Agent 評估終止閘門",
+    "image": "/images/AI筆記/agentic-ai-engineer.jpg",
+    "date": "2026-07-01",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片由 Mutagent 共同創辦人 Bene 與 CTO Burak 主講，介紹「Agentic AI Engineer」概念——將軟體工程中盛行的 Coding Agent Loop 套用到 AI Agent 的建構流程上 。核心痛點是：傳統建構 AI Agent 的離線（迭代開發）與線上（部署監控）循環高度依賴人工審查與人工建置，導致無法規模化擴展到上百個 Agent；解法是用一套由 Orchestrator 統籌的多代理人團隊，自動完成 spec、build、evaluate、diagnose、monitor、optimize 六大階段 。 [youtube](https://www.youtube.com/?v=R-Honjmorr4) 詳細重點整理 1. 雙迴圈架構與人力瓶頸  講者點出 Agent 開發存在兩個迴圈：建置時的「離線迴圈」（迭代、測試、評估、改進）與部署後的「線上迴圈」（監控追蹤、診斷、回饋優化）。目前這兩個迴圈多靠人工執行，速度慢且難以擴展，人工審查與建置時間成為最大瓶頸。關鍵概念：離線迴圈與線上迴圈（Offline/Online Loop）",
+    "url": "/notes/agentic-ai-engineer"
+  },
+  {
     "id": "claude-code-dynamic-workflows",
     "title": "Claude Code Dynamic Workflows：平行協調千個子代理",
     "category": "AI筆記",

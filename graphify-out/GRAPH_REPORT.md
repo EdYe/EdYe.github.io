@@ -1,12 +1,12 @@
-# Graph Report - .  (2026-06-29)
+# Graph Report - .  (2026-07-01)
 
 ## Corpus Check
-- 1 files · ~22,286,357 words
+- 0 files · ~99,999 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1686 nodes · 1731 edges · 137 communities detected
-- Extraction: 77% EXTRACTED · 23% INFERRED · 0% AMBIGUOUS · INFERRED: 390 edges (avg confidence: 0.78)
+- 1722 nodes · 1774 edges · 139 communities detected
+- Extraction: 78% EXTRACTED · 22% INFERRED · 0% AMBIGUOUS · INFERRED: 396 edges (avg confidence: 0.78)
 - Token cost: 0 input · 0 output
 
 ## Community Hubs (Navigation)
@@ -147,6 +147,8 @@
 - [[_COMMUNITY_Community 134|Community 134]]
 - [[_COMMUNITY_Community 135|Community 135]]
 - [[_COMMUNITY_Community 136|Community 136]]
+- [[_COMMUNITY_Community 137|Community 137]]
+- [[_COMMUNITY_Community 138|Community 138]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `Obsidian 必裝插件：新手打造第二大腦的 8 款神器` - 13 edges
@@ -173,15 +175,9 @@
   _notes/dog-eye-contact-guide.md → _notes/dog-love-neuroscience.md
 
 ## Hyperedges (group relationships)
-- **AI Agent Harness Ecosystem (框架工程生態)** — harness_engineering_core, agent_harness_gap, agent_harness_ratchet, agent_harness_haas, harness_production_harness [INFERRED 0.88]
-- **Enterprise AI Deployment Pattern (企業AI部署模式)** — trillion_implementation_layer, ai_native_orchestration_layer, mcp_gateway_orchestrator, trillion_forward_deployed_engineer [INFERRED 0.83]
-- **Agent Safety and Governance (智能體安全治理)** — prompt_injection_least_privilege, ai_sovereignty_human_in_loop, ai_sovereignty_four_pillars, prompt_injection_planner_executor [INFERRED 0.80]
-- **AI Agent 上下文管理核心模式群** — hierarchical_memory_context_memory_separation, handoff_skill_context_budget, agentic_search_context_engineering, agent_skills_progressive_disclosure, claude_code_playbook_harness [INFERRED 0.85]
-- **Agent 評估與可觀測性生態系** — everyone_evals_span_eval, agent_observability_self_diagnostics, datadog_eval_moat, everyone_evals_self_improve_loop, agent_observability_semantic_ab_test [INFERRED 0.88]
-- **企業 AI 採用：從工具到作業系統的轉型** — ai_adoption_os_layer, ai_adoption_ai_native_vs_enabled, shopify_public_ai_work, anchoring_genai_business_anchoring, datadog_agent_native [INFERRED 0.82]
-- **Agent 品質保障三角：Eval 驅動開發、可觀測性追蹤、對抗性評估** — evals_for_taste_eval_flywheel, agent_observability_lifecycle, evals_for_taste_adversarial_qa, combine_skills_mcp_eval_driven_skill [INFERRED 0.85]
-- **Agent 自主性與控制平衡：Bounded Autonomy、AI Harness、Guardrails** — bounded_autonomy_bounded_autonomy, ai_harnesses_harness, ai_harnesses_guardrails, bounded_autonomy_mandatory_escalation [INFERRED 0.88]
-- **組織自我改進迴圈：Token 經濟、遞迴改進、組織奇點** — how_to_build_self_improving_company_recursive_loop, organizational_singularity_org_singularity, how_to_build_self_improving_company_token_economy, memory_dreaming_agents_dreaming [INFERRED 0.80]
+- **六階段生命週期共同構成 Eval 驅動開發迴圈** — agentic_ai_engineer_spec_stage, agentic_ai_engineer_build_stage, agentic_ai_engineer_evaluate_stage, agentic_ai_engineer_ship_stage, agentic_ai_engineer_diagnose_stage, agentic_ai_engineer_optimize_stage [EXTRACTED 1.00]
+- **S-E-D 法則三步驟共同構成行動建議** — agentic_ai_engineer_spec_stage, agentic_ai_engineer_eval_suite, agentic_ai_engineer_diagnose_stage [EXTRACTED 1.00]
+- **Diagnose Agent 診斷管線示範共同參與** — agentic_ai_engineer_diagnose_agent, agentic_ai_engineer_langfuse, agentic_ai_engineer_multi_tier_trace_segmentation, agentic_ai_engineer_learned_failure_modes [EXTRACTED 0.90]
 
 ## Communities
 
@@ -255,47 +251,47 @@ Nodes (28): 反待辦清單, 產品鐵三角, AI時代的產品管理轉型：�
 
 ### Community 17 - "Community 17"
 Cohesion: 0.1
-Nodes (27): Agentic Loop (Core While Loop), Context Window & Token Economics (Quadratic Tax), Deny-First Architecture (Guardrails), Extended Thinking (ReAct Framework), MCP Tools (Layer in System Prompt), Prompt Caching (90% Cost Reduction), Claude Code 6-Layer Architecture, Subagents (Parallel Delegation) (+19 more)
+Nodes (28): 自主優化迴圈 (Autonomous Optimization Loop), 二元評估 (Binary Evals), Build 階段, 冷啟動路徑 (Cold Start Path), Diagnose Agent, Diagnose 階段, Eval 即發現過程 (Eval as a Discovery Process), 評估即終止閘門 (Eval as Termination Gate) (+20 more)
 
 ### Community 18 - "Community 18"
+Cohesion: 0.1
+Nodes (27): Agentic Loop (Core While Loop), Context Window & Token Economics (Quadratic Tax), Deny-First Architecture (Guardrails), Extended Thinking (ReAct Framework), MCP Tools (Layer in System Prompt), Prompt Caching (90% Cost Reduction), Claude Code 6-Layer Architecture, Subagents (Parallel Delegation) (+19 more)
+
+### Community 19 - "Community 19"
 Cohesion: 0.08
 Nodes (27): 路由式知識架構（Router-Based Knowledge Architecture）, 自我進化知識庫（Self-Improving Knowledge Base）, 企業知識摩擦（Enterprise Knowledge Friction）, Glean 企業 AI 搜尋, 產品主導增長（Product-Led Growth）, 策略性聚焦（Strategic Focus）, 直接責任人制（DRI）, 組織可讀性（Organizational Legibility to AI） (+19 more)
 
-### Community 19 - "Community 19"
+### Community 20 - "Community 20"
 Cohesion: 0.1
 Nodes (26): 代理架構分離（Agent-Data Separation）, D-C-O 法則（解耦-中心化-開放）, 企業級落差（Enterprise Gap）, MCP Gateway（企業網關）, MCP 註冊表（Registry）, 中介解耦（Middleware Decoupling）, 協議落差（Protocol Gap）, 為何網關優於註冊表（設計理由） (+18 more)
 
-### Community 20 - "Community 20"
+### Community 21 - "Community 21"
 Cohesion: 0.09
 Nodes (24): 邊界感 (Boundary Setting), 認知防衛機制 (Cognitive Defense Mechanism), 因果能量場下墜力 (Causal Energy Field Descent), 捧殺式自保 (Flattery-based Self-Protection), 卡普曼戲劇三角 (Karpman Drama Triangle), 權力霸凌 (Power Bullying via Unsolicited Advice), 理由：不介入他人因果的自我保護邏輯, 拒絕渡人 (Refusing to Save Others) (+16 more)
 
-### Community 21 - "Community 21"
+### Community 22 - "Community 22"
 Cohesion: 0.11
 Nodes (24): AGI 2年內衝擊所有職業, 通用人工智慧（AGI）, 控制難題（Alignment Problem）, 認知勞動自動化, 教育體系崩潰與重新定義, 硬資產防禦, 個體代理力（Agency）, 程式碼廉價化 (+16 more)
 
-### Community 22 - "Community 22"
+### Community 23 - "Community 23"
 Cohesion: 0.09
 Nodes (23): Claude瀏覽器擴充功能代理人, 提示詞注入風險 (Prompt Injection), 錄製與排程功能 (Shortcuts), Firecrawl 網頁抓取引擎, Claude Code結合Firecrawl爬蟲, Schema 定義精簡資料擷取, Codeex 雙重 Agent 校驗, /dream 記憶做夢模式 (+15 more)
 
-### Community 23 - "Community 23"
+### Community 24 - "Community 24"
 Cohesion: 0.11
 Nodes (23): AI Gateway 防禦層, 資料中毒與供應鏈漏洞, OWASP LLM 十大安全威脅, 提示詞注入攻擊, MCP2CLI 解決上下文膨脹, 運行時 MCP 轉 CLI, 技能系統 Skills, Token 效率優化 (+15 more)
 
-### Community 24 - "Community 24"
+### Community 25 - "Community 25"
 Cohesion: 0.1
 Nodes (22): 筆記本紀律, 個人發展投資, Jim Rohn 成功心態與個人發展, 從小自律開始, 初學者之心, 隨機騙局與倖存者偏差, 頂尖1%自我教育書單, 逆思維與科學家心態 (+14 more)
 
-### Community 25 - "Community 25"
-Cohesion: 0.1
-Nodes (21): 黑暗模式, 所有權, 訂閱制陷阱, 房產贈與稅務陷阱, 資產傳承策略, 公告現值, 產業聚落效應, 矽盾 (+13 more)
-
 ### Community 26 - "Community 26"
 Cohesion: 0.1
-Nodes (21): 好人是負債, 人頭數量化陷阱, 帝國主義建設, 利益交換與口頭協議, 敘事者角色（重組敘事）, 搶奪職責範疇, 1% 實驗法則, 為老闆解決問題 (+13 more)
+Nodes (21): 語義消歧與脈絡流失, 本體論 Ontology, Context Graph 為 AI 優化的知識圖譜, RDF 與屬性圖, 委託授權與全鏈條追蹤, 知識型存取控制 KBAC, 上下文圖譜作為代理企業控制平面, GraphRAG 知識圖譜增強 (+13 more)
 
 ### Community 27 - "Community 27"
 Cohesion: 0.1
-Nodes (21): 語義消歧與脈絡流失, 本體論 Ontology, Context Graph 為 AI 優化的知識圖譜, RDF 與屬性圖, 委託授權與全鏈條追蹤, 知識型存取控制 KBAC, 上下文圖譜作為代理企業控制平面, GraphRAG 知識圖譜增強 (+13 more)
+Nodes (21): 黑暗模式, 所有權, 訂閱制陷阱, 房產贈與稅務陷阱, 資產傳承策略, 公告現值, 產業聚落效應, 矽盾 (+13 more)
 
 ### Community 28 - "Community 28"
 Cohesion: 0.11
@@ -303,83 +299,83 @@ Nodes (21): 音訊格式轉換（PCM 24kHz vs mu-law 8kHz）, Google Cloud Run �
 
 ### Community 29 - "Community 29"
 Cohesion: 0.1
-Nodes (21): AI Operating System (AI作業系統), Parkinson-AI Law (自動化悖論), Ride the Models Strategy (乘浪策略), Super Agent + Forward Deployed Engineer, Architectural Compounding (架構複利), Orchestration Layer (協調層) - AI Native, Renting Orchestration (租借協調) - Anti-Pattern, Shared Persistent Foundation (共享持久基底) (+13 more)
+Nodes (21): 好人是負債, 人頭數量化陷阱, 帝國主義建設, 利益交換與口頭協議, 敘事者角色（重組敘事）, 搶奪職責範疇, 1% 實驗法則, 為老闆解決問題 (+13 more)
 
 ### Community 30 - "Community 30"
+Cohesion: 0.1
+Nodes (21): AI Operating System (AI作業系統), Parkinson-AI Law (自動化悖論), Ride the Models Strategy (乘浪策略), Super Agent + Forward Deployed Engineer, Architectural Compounding (架構複利), Orchestration Layer (協調層) - AI Native, Renting Orchestration (租借協調) - Anti-Pattern, Shared Persistent Foundation (共享持久基底) (+13 more)
+
+### Community 31 - "Community 31"
 Cohesion: 0.16
 Nodes (20): 1-3-3 安裝法則, Calendar（日曆插件）, 降低認知負擔, 每日筆記（Daily Notes）, Floating Captions, 心流保護, 輸入即整理（資訊獲取）, 靈感捕捉（Capture） (+12 more)
 
-### Community 31 - "Community 31"
+### Community 32 - "Community 32"
 Cohesion: 0.11
 Nodes (19): 職場能動性, 創造個人槓桿, 應對軟弱主管, 雨傘 vs 漏斗主管, 建構性解雇風險, 提供撤退之門, 如何解雇主管, 績效改善計畫 PIP (+11 more)
 
-### Community 32 - "Community 32"
+### Community 33 - "Community 33"
 Cohesion: 0.12
 Nodes (19): 規則一致性, 狗狗情感傷害的十種行為, 威脅訊號與柔和眼神, 狗狗情感需求三支柱, 穩定生活節律, 安全基地陪伴, 僵硬凝視攻擊預兆, 催產素綁架迴路 (+11 more)
 
-### Community 33 - "Community 33"
+### Community 34 - "Community 34"
 Cohesion: 0.12
 Nodes (19): 程式碼庫優化, 複利工程, 上下文工程, 代理工程五大支柱, 主觀美學量化, 上下文重置策略, Claude前端多代理Harness, 衝刺契約機制 (+11 more)
 
-### Community 34 - "Community 34"
+### Community 35 - "Community 35"
 Cohesion: 0.11
 Nodes (19): 能力樹（Capability Trees）：層級化技能組織, 能力剖析（Competence Profile）：多智能體協調路由, 人工策劃程序性知識（Human-Curated Procedural Knowledge）, 漸進式揭示（Progressive Disclosure）：技能按需載入, 技能供應鏈風險（Skill Supply Chain Risk）, Context Engineering：Agentic Search 核心解法, Low Floor × High Ceiling 工具設計哲學, 多跳式搜尋（Multi-hop Retrieval） (+11 more)
 
-### Community 35 - "Community 35"
+### Community 36 - "Community 36"
 Cohesion: 0.13
 Nodes (18): 有限理性 (Bounded Rationality), 資訊不對稱 (Information Asymmetry), 市場力量 (Market Power), 基線行為 (Baseline Behavior), B-H-A 觀察法則, 身體語言洩漏 (Body Language Leakage), 誘導與互惠原理 (Elicitation & Reciprocity), 情緒熱點 (Hotspot / Psychological Charge) (+10 more)
 
-### Community 36 - "Community 36"
+### Community 37 - "Community 37"
 Cohesion: 0.13
 Nodes (16): 資產抵押貸款, Buy Borrow Die 策略, 槓桿資產思維, 富人債務致富底層邏輯, CAC與LTV比例, 商業指標三位一體, 利潤率(Margins), 創業擁抱麻煩事與轉型 (+8 more)
-
-### Community 37 - "Community 37"
-Cohesion: 0.12
-Nodes (16): 領導力原則, Amazon行為面試的三個評估維度, 預測式面試思維, 複雜度判斷力影響力三維度, 極度誠實, 億萬富翁的30年人生智慧, 過程導向成長, 地位陷阱 (+8 more)
 
 ### Community 38 - "Community 38"
 Cohesion: 0.13
 Nodes (16): Claude Code 整合簡報, 強制視覺化學習法, Markdown 簡報生態, Marp AI 簡報自動化, GitHub 雲端同步備份, 專案自動化導入流程, Obsidian AI 第二大腦工作流, 自動化路由指令 (+8 more)
 
 ### Community 39 - "Community 39"
+Cohesion: 0.12
+Nodes (16): 領導力原則, Amazon行為面試的三個評估維度, 預測式面試思維, 複雜度判斷力影響力三維度, 極度誠實, 億萬富翁的30年人生智慧, 過程導向成長, 地位陷阱 (+8 more)
+
+### Community 40 - "Community 40"
 Cohesion: 0.13
 Nodes (15): Amazon Cloud Drive 故事, 無職權的影響力, 風格對齊（解雇隱因）, 願景故事傳播, 人際膠帶（組織破碎現實）, 跳級主管推翻解雇, 社交台階, Mike Tyson 拳頭名言 (+7 more)
 
-### Community 40 - "Community 40"
+### Community 41 - "Community 41"
 Cohesion: 0.15
 Nodes (15): 4-W 檢索法則（What/Why/Warning/Wrestle）, 解釋工件（Explanation Artifact）, 將解釋視為核心產物（原則二）, 四大核心問題框架, 微交易與公開運作（原則三與四）, AI讓產出免費：品味與理解力才是真正競爭力, 生產力溢出（Productivity Overflow）, 解釋工件的設計理由：證明人類意圖存在 (+7 more)
 
-### Community 41 - "Community 41"
+### Community 42 - "Community 42"
 Cohesion: 0.14
 Nodes (15): 決策軌跡捕捉, 聲明式開發, 企業情境圖譜核心價值, 世界模型, 冷啟動痛點, Git Hooks自動同步, Graphify專案知識圖譜, 71倍Token優化 (+7 more)
 
-### Community 42 - "Community 42"
+### Community 43 - "Community 43"
 Cohesion: 0.13
 Nodes (15): 決策衛生, 決策紀錄法, 會議效率, 代理人經濟, 可程式化貨幣, 實體資產代幣化, AI原生思維, 提示工程 (+7 more)
 
-### Community 43 - "Community 43"
+### Community 44 - "Community 44"
 Cohesion: 0.15
 Nodes (14): 暗黑工廠模式, 致命三要素提示詞注入, AI代理現狀與代理工程, 紅綠測試驅動開發, LLM as a judge, AI代理四層評測體系, 機率性系統CI, 程式碼輔助Harness (+6 more)
 
-### Community 44 - "Community 44"
+### Community 45 - "Community 45"
 Cohesion: 0.22
 Nodes (13): 1-3-3 轉型法則, AI 代理人客服應用, AI 作為決策與策略參與者, AI 轉型 vs. 數位轉型, 老闆生產力優先原則, 資料水管架構（Data Pipeline for AI）, 組織再造的 DeepMind 模式, 領導者的自我革命 (+5 more)
 
-### Community 45 - "Community 45"
+### Community 46 - "Community 46"
 Cohesion: 0.19
 Nodes (13): LLM 認知極限（聰明區/愚笨區）, Grill Me 深度對齊技巧, TDD 測試驅動開發（AI 回饋環）, 垂直切片開發法（Tracer Bullets）, 程式化命令注入（Command Substitution）, 上下文複利（Context Compounding）, 上下文分支（Context Fork）, F-F-C 優化法則（Fork-File-Command） (+5 more)
 
-### Community 46 - "Community 46"
-Cohesion: 0.18
-Nodes (12): 腸道健康與益生菌, 低醣生酮飲食, 生活型態醫學, 蔡松彥醫師抗癌養生心法, 複合動作重訓, 彈性飲食法, 健身減脂時間軸與策略, 漸進式減脂策略 (+4 more)
-
 ### Community 47 - "Community 47"
 Cohesion: 0.18
-Nodes (12): Higgsfield AI, 每日產品迭代, AI創業：2人團隊90天達成百萬年營收心法, 高客單價利基市場, 分配智能 Allocating Intelligence, 在地脈絡優勢, AI創業：分配智能將成為未來企業的核心競爭力, 品味與洞察力 (+4 more)
+Nodes (12): Agent 友善程式碼庫, AI 原生工程師崛起, 循序漸進管理 Agent, 最後一哩路品味, 擴增派 Augment, 工程師職涯賭注二選一, 對新體驗開放性, 取代派 Replace (+4 more)
 
 ### Community 48 - "Community 48"
 Cohesion: 0.18
-Nodes (12): Agent 友善程式碼庫, AI 原生工程師崛起, 循序漸進管理 Agent, 最後一哩路品味, 擴增派 Augment, 工程師職涯賭注二選一, 對新體驗開放性, 取代派 Replace (+4 more)
+Nodes (12): Higgsfield AI, 每日產品迭代, AI創業：2人團隊90天達成百萬年營收心法, 高客單價利基市場, 分配智能 Allocating Intelligence, 在地脈絡優勢, AI創業：分配智能將成為未來企業的核心競爭力, 品味與洞察力 (+4 more)
 
 ### Community 49 - "Community 49"
 Cohesion: 0.17
@@ -387,103 +383,103 @@ Nodes (12): 跨部門盟友, 職場政治運作, 禮貌虛構, 可預測性, 升
 
 ### Community 50 - "Community 50"
 Cohesion: 0.18
-Nodes (12): 具象詞彙設計, 視覺權重階層, AI 設計創意總監指南, Stitch 設計工具, 21st.dev 微互動組件, AI Slop 廉價感, Claude Code 擊碎AI廉價感, Skill UI 逆向工程 (+4 more)
+Nodes (12): 腸道健康與益生菌, 低醣生酮飲食, 生活型態醫學, 蔡松彥醫師抗癌養生心法, 複合動作重訓, 彈性飲食法, 健身減脂時間軸與策略, 漸進式減脂策略 (+4 more)
 
 ### Community 51 - "Community 51"
+Cohesion: 0.18
+Nodes (12): 具象詞彙設計, 視覺權重階層, AI 設計創意總監指南, Stitch 設計工具, 21st.dev 微互動組件, AI Slop 廉價感, Claude Code 擊碎AI廉價感, Skill UI 逆向工程 (+4 more)
+
+### Community 52 - "Community 52"
 Cohesion: 0.21
 Nodes (12): 3-P 提問法則, 桌面理論, 迷失在中間/上下文腐蝕, 上下文視窗：桌面非記憶, WISC 架構上下文管理, 上下文腐敗與注意力衰減, 子代理隔離模式, WISC 四大策略 (+4 more)
 
-### Community 52 - "Community 52"
+### Community 53 - "Community 53"
 Cohesion: 0.22
 Nodes (11): 二元分類, Hamel Husain, LLM裁判, AI評估機制實戰指南：從查看Log開始, 錯誤分析, 失敗模式, AI評估：系統化提升產品品質, Brain Trust / Ankur Goyal (+3 more)
 
-### Community 53 - "Community 53"
+### Community 54 - "Community 54"
 Cohesion: 0.2
 Nodes (10): CUDA 生態系護城河, 物理 AI 與具身智能, NVIDIA GTC 2026 AI 工廠, 代幣生成工業革命, 深層技術自主研發, Otter.ai 語音 AI 創業, 語音成為企業主要介面, GP/LP 結構與退出機制 (+2 more)
 
-### Community 54 - "Community 54"
+### Community 55 - "Community 55"
 Cohesion: 0.2
 Nodes (10): 應對政治操控者, 動機診斷, 合理推諉, 豪豬哲學, 應對跨組織難相處人物, 肉盾機制, 軟性威懾（冰球哲學）, 情感認可 (+2 more)
 
-### Community 55 - "Community 55"
+### Community 56 - "Community 56"
 Cohesion: 0.2
 Nodes (10): Four Sovereignty Pillars (主權四支柱), Haystack Serializable Pipeline Framework, Human-in-the-Loop for High-Risk AI Operations, Retrofit Sovereignty Debt (技術負債暴露), Capability Eval to Regression Eval Lifecycle, Cascading Failure in Multi-Agent Systems, Golden Dataset for Agent Evaluation, LLM-as-a-Judge Evaluation (+2 more)
 
-### Community 56 - "Community 56"
+### Community 57 - "Community 57"
 Cohesion: 0.22
 Nodes (10): 上下文預算管理（Context Budget Management）, DIY Sub-Agent 迴路（Sub-Agent Loop）, 任務切片轉移（Task Slice Handoff）, 工具中立傳遞（Tool-Agnostic Handoff）, 階層式記憶體：AI Agent 上下文管理三層演進, 上下文與記憶體分離（Context ≠ Memory）, 頭尾保留策略（Head/Tail Preservation）, 長對話評估（Long Session Evals） (+2 more)
 
-### Community 57 - "Community 57"
+### Community 58 - "Community 58"
 Cohesion: 0.22
 Nodes (9): 認知偏誤, 元認知, 思考習慣, 聚焦與賦予意義, 四季法則, 六大需求, 90秒原則, 情緒管理 (+1 more)
 
-### Community 58 - "Community 58"
+### Community 59 - "Community 59"
 Cohesion: 0.25
 Nodes (9): AI代理時代的Scrum轉變, 回顧與展示原則留存, 速率機制瓦解, SDLC 到 ADLC 轉變, 平行子代理開發, PRD與技能文件, 協調能力勝於人數, 一人公司迷思 (+1 more)
 
-### Community 59 - "Community 59"
+### Community 60 - "Community 60"
 Cohesion: 0.25
 Nodes (9): 記憶衰減與晉升機制 (Decay & Promotion), Hooks自動注入記憶機制 (sessionStart), 記憶分層 (Token優化 25k→7k), 漸進式揭露記憶檢索 (Progressive Disclosure), 記憶系統六大建築基石, Agent Runtime 託管執行環境, Memory Bank 代理長期記憶, Model Armor 安全治理 (PII/Prompt Injection) (+1 more)
 
-### Community 60 - "Community 60"
+### Community 61 - "Community 61"
 Cohesion: 0.22
 Nodes (9): 生活自動化規律, 金融風險生活哲學, 風險與不確定性區分, 收入轉資產, 企業家原型, 百萬富翁五種人格原型, 金本位瓦解, IMF收割機制 (+1 more)
 
-### Community 61 - "Community 61"
+### Community 62 - "Community 62"
 Cohesion: 0.22
 Nodes (9): Planner-Generator-Evaluator Split, Ralph Loop - Multi-Session Agent Continuation, /goal Command - Definition of Done Loop, RALPH Loop (Repeat And Loop until Passed Human check), Token Efficiency Maximization via /goal, Indirect Prompt Injection (間接提示注入), Least Privilege Tooling for AI Agents, Planner-Executor Architectural Isolation (+1 more)
 
-### Community 62 - "Community 62"
+### Community 63 - "Community 63"
 Cohesion: 0.29
 Nodes (8): 3-S重塑法則, 感知建構產物, 大腦建構自我意識, 內心雜音轉化, 5-MeO-DMT實驗, 預設模式網路DMN瓦解, Bryan Johnson迷幻藥大腦重置, 神經可塑性
 
-### Community 63 - "Community 63"
+### Community 64 - "Community 64"
 Cohesion: 0.32
 Nodes (8): 智能體原生 (Agent-Native), 智能體工程 (Agentic Engineering), 上下文複利 (Contextual Compounding), D-V-A 法則 (Direct-Verify-Adapt), Software 3.0 範式, Software 3.0：從氛圍編程到智能體工程的範式轉移, 可驗證性邊界 (Verifiability Frontier), 氛圍編程 (Vibe Coding)
 
-### Community 64 - "Community 64"
+### Community 65 - "Community 65"
 Cohesion: 0.29
 Nodes (8): 族群守護本能, 狗狗如影隨形心理學, 催產素連結, 分離焦慮, 頂漿腺氣味, 狗狗嗅聞化學履歷, 三億嗅覺受體, 社會參照引導
 
-### Community 65 - "Community 65"
+### Community 66 - "Community 66"
 Cohesion: 0.25
 Nodes (8): Bill Gurley, 數位導師, 高主動性 High Agency, AI 時代追隨好奇心, 行動主體性 Agency, Elad Gil, AI 時代創業破局, 多產品矩陣護城河
 
-### Community 66 - "Community 66"
-Cohesion: 0.29
-Nodes (7): 自動化評估門檻 Eval Gate, Claude Mythos 模型與簡化哲學, 提示詞簡化苦澀教訓, 階梯式進化 Step Change, Markdown First 格式策略, Claude 使用限制與 Token 優化, Token 是 AI 的貨幣
-
 ### Community 67 - "Community 67"
-Cohesion: 0.29
-Nodes (7): 環境化企業, 創辦人與代理人適配, 2026 AI 代理人經濟趨勢, 結果導向定價, Agent Teams + Git Worktree, Orchestrator 任務拆解, 獨立沙盒環境
+Cohesion: 0.25
+Nodes (8): Agentic AI Engineer, Bene (Mutagent 共同創辦人), Burak (Mutagent CTO), Coding Agent Loop, Mutagent, 離線迴圈 (Offline Loop), 線上迴圈 (Online Loop), Orchestrator
 
 ### Community 68 - "Community 68"
 Cohesion: 0.29
-Nodes (7): AI 雲端員工概念, 憑證保險箱, MCP 伺服器, Claude Managed Agents 託管代理人平台, 技能插件化 Plugins, Claude Skills AI 工作夥伴系統, 排程任務自動化
+Nodes (7): 自動化評估門檻 Eval Gate, Claude Mythos 模型與簡化哲學, 提示詞簡化苦澀教訓, 階梯式進化 Step Change, Markdown First 格式策略, Claude 使用限制與 Token 優化, Token 是 AI 的貨幣
 
 ### Community 69 - "Community 69"
-Cohesion: 0.38
-Nodes (7): 以決策點取代故事點估算, 交付時間崩縮與組織瓶頸暴露, 審查節奏重新設計, 瓶頸應在想法速度, 按需預覽環境, DevOps 五大可預測瓶頸於 AI 開發, 單件流 Single-piece Flow
+Cohesion: 0.29
+Nodes (7): 環境化企業, 創辦人與代理人適配, 2026 AI 代理人經濟趨勢, 結果導向定價, Agent Teams + Git Worktree, Orchestrator 任務拆解, 獨立沙盒環境
 
 ### Community 70 - "Community 70"
 Cohesion: 0.29
-Nodes (7): 利他×規矩雙軸社交公式（A-R Formula）, 情緒價值（Emotional Value）, 人際邊界（Interpersonal Boundary）, 軟性拒絕（Soft Refusal）, 信任資產（Trust Asset）, 單位時間定價法則（Unit Time Pricing）, YouTuber 三流合一收益結構
+Nodes (7): AI 雲端員工概念, 憑證保險箱, MCP 伺服器, Claude Managed Agents 託管代理人平台, 技能插件化 Plugins, Claude Skills AI 工作夥伴系統, 排程任務自動化
 
 ### Community 71 - "Community 71"
-Cohesion: 0.29
-Nodes (7): 推理綁定（Inference-Bound）並行需求, Kanban 作為 Agent 管理 UX, AI Agent 四級成熟度框架, 提示精簡原則（Prompt Pruning）, 推理軌跡（Reasoning Traces）格式對齊, Agentic Programming：AI Agent 管理的新工作正規化, 指令架構師（Prompt Architect）新型核心技能
+Cohesion: 0.38
+Nodes (7): 以決策點取代故事點估算, 交付時間崩縮與組織瓶頸暴露, 審查節奏重新設計, 瓶頸應在想法速度, 按需預覽環境, DevOps 五大可預測瓶頸於 AI 開發, 單件流 Single-piece Flow
 
 ### Community 72 - "Community 72"
 Cohesion: 0.29
-Nodes (7): Context Graph（企業 Agent 脈絡圖）, 產品品味（Product Taste）, Builder PM 框架（4 階層）, Fix the Agent, Not the Feature 原則, Lovable-as-Infrastructure（基礎設施借用法）, PM 即 Orchestrator（工作流指揮者）, Super PM（超級個人貢獻者）
+Nodes (7): 利他×規矩雙軸社交公式（A-R Formula）, 情緒價值（Emotional Value）, 人際邊界（Interpersonal Boundary）, 軟性拒絕（Soft Refusal）, 信任資產（Trust Asset）, 單位時間定價法則（Unit Time Pricing）, YouTuber 三流合一收益結構
 
 ### Community 73 - "Community 73"
-Cohesion: 0.33
-Nodes (6): Agent-Native 特性, CLI-Anything 軟體 Agent 化工具, 七階段全自動 Pipeline, LazyGit 終端機 Git 介面, 終端機開發效率 CLI 工具集, Zoxide 智慧 cd
+Cohesion: 0.29
+Nodes (7): 推理綁定（Inference-Bound）並行需求, Kanban 作為 Agent 管理 UX, AI Agent 四級成熟度框架, 提示精簡原則（Prompt Pruning）, 推理軌跡（Reasoning Traces）格式對齊, Agentic Programming：AI Agent 管理的新工作正規化, 指令架構師（Prompt Architect）新型核心技能
 
 ### Community 74 - "Community 74"
-Cohesion: 0.33
-Nodes (6): 資訊超載與反思, 對經驗的高度開放性, 認知好奇心的心理驅動與代價, 注意力經濟, 拋棄式軟體時代與注意力瓶頸, 主動 AI 與信任階梯
+Cohesion: 0.29
+Nodes (7): Context Graph（企業 Agent 脈絡圖）, 產品品味（Product Taste）, Builder PM 框架（4 階層）, Fix the Agent, Not the Feature 原則, Lovable-as-Infrastructure（基礎設施借用法）, PM 即 Orchestrator（工作流指揮者）, Super PM（超級個人貢獻者）
 
 ### Community 75 - "Community 75"
 Cohesion: 0.4
@@ -495,318 +491,308 @@ Nodes (6): Gemini Live API語音代理, 多模態影音互動, WebSocket低延�
 
 ### Community 77 - "Community 77"
 Cohesion: 0.33
-Nodes (6): 高主動性High Agency, 產出導向反設置成癮, Setup Porn設置色情, 技能漸進揭露與精簡上下文, 漸進式揭露, 遞迴式技能構建
+Nodes (6): 資訊超載與反思, 對經驗的高度開放性, 認知好奇心的心理驅動與代價, 注意力經濟, 拋棄式軟體時代與注意力瓶頸, 主動 AI 與信任階梯
 
 ### Community 78 - "Community 78"
 Cohesion: 0.33
-Nodes (6): 等長收縮, 頸部釋放, 緊張性頭痛舒緩, 胰島素控制, 餐後散步, Zone 2運動
+Nodes (6): 高主動性High Agency, 產出導向反設置成癮, Setup Porn設置色情, 技能漸進揭露與精簡上下文, 漸進式揭露, 遞迴式技能構建
 
 ### Community 79 - "Community 79"
 Cohesion: 0.33
-Nodes (6): 戰友而非港灣, 共同成長擇偶, 強者思維, 馬基維利權力觀, 自學者, 門檻許可證制度
+Nodes (6): Agent-Native 特性, CLI-Anything 軟體 Agent 化工具, 七階段全自動 Pipeline, LazyGit 終端機 Git 介面, 終端機開發效率 CLI 工具集, Zoxide 智慧 cd
 
 ### Community 80 - "Community 80"
+Cohesion: 0.33
+Nodes (6): 等長收縮, 頸部釋放, 緊張性頭痛舒緩, 胰島素控制, 餐後散步, Zone 2運動
+
+### Community 81 - "Community 81"
+Cohesion: 0.33
+Nodes (6): 戰友而非港灣, 共同成長擇偶, 強者思維, 馬基維利權力觀, 自學者, 門檻許可證制度
+
+### Community 82 - "Community 82"
 Cohesion: 0.4
 Nodes (5): 鋸齒狀能力分佈, Karpathy十大開發原則, AI代理人調度員, 超級個人貢獻者Super IC, 停滯即風險
 
-### Community 81 - "Community 81"
+### Community 83 - "Community 83"
 Cohesion: 0.4
 Nodes (5): Audio-to-Audio Single Architecture (A2A), Gemini Native Multimodal, Generation as Tool (生成即工具), Any-to-Any Native Multimodal Architecture, Dynamic Modality Decision by Reasoning Agent
 
-### Community 82 - "Community 82"
+### Community 84 - "Community 84"
 Cohesion: 0.67
 Nodes (4): 對抗性審查, C-P-E 法則, 防禦性編程, 雙模型對抗性程式碼審查
 
-### Community 83 - "Community 83"
+### Community 85 - "Community 85"
 Cohesion: 0.5
 Nodes (4): 格式無關 Format Agnostic, AI思考：格式無關的意義處理, 模型中間層工作坊, 柏拉圖表徵
 
-### Community 84 - "Community 84"
+### Community 86 - "Community 86"
 Cohesion: 0.5
 Nodes (4): 審計日誌, 企業級RBAC架構設計, 多租戶隔離, 模組動作權限命名
 
-### Community 85 - "Community 85"
+### Community 87 - "Community 87"
 Cohesion: 0.67
 Nodes (4): 文化累積, AI代理人文明外部化, 記憶外傳, 社會性湧現
 
-### Community 86 - "Community 86"
+### Community 88 - "Community 88"
 Cohesion: 0.5
 Nodes (4): 80%腦力工作取代, 擁抱痛苦的修煉, AI衝擊人類生存策略, 真實情感連結屏障
 
-### Community 87 - "Community 87"
+### Community 89 - "Community 89"
 Cohesion: 0.67
 Nodes (4): 員工職場防禦機制, 勞基法資遣與開除規範, 績效改善計畫 (PIP), 薪資結構設計 (固定 vs 變動)
 
-### Community 88 - "Community 88"
+### Community 90 - "Community 90"
 Cohesion: 0.67
 Nodes (4): 對齊訓練, 規範性偏誤, AI預測人類行為的局限性, RLHF
 
-### Community 89 - "Community 89"
+### Community 91 - "Community 91"
 Cohesion: 0.5
 Nodes (4): 成本曲線 (Cost Curve), 邊際思維 (Marginal Thinking), M-B-N 效率法則, More-Better-New 框架
 
-### Community 90 - "Community 90"
+### Community 92 - "Community 92"
 Cohesion: 0.5
 Nodes (4): 平行移動策略, 壞主管與兵變, 跳級主管的管理成本, 社會證明（集體兵變）
 
-### Community 91 - "Community 91"
+### Community 93 - "Community 93"
 Cohesion: 0.5
 Nodes (4): 多層快取策略, CQRS 讀寫分離, 延遲決策原則, 現代架構 101 簡單即最佳
 
-### Community 92 - "Community 92"
+### Community 94 - "Community 94"
 Cohesion: 0.67
 Nodes (4): 資訊降噪（De-noising LLM 輸入）, Markdown 作為 LLM 的理想語言, Mozilla Readability + Turndown 內容提取技術, MD-This-Page 開源工具
 
-### Community 93 - "Community 93"
+### Community 95 - "Community 95"
 Cohesion: 0.67
 Nodes (4): 意圖洗白, 關鍵字依賴, AI安全漏洞：意圖洗白攻擊手法, 淺層訓練
 
-### Community 94 - "Community 94"
+### Community 96 - "Community 96"
 Cohesion: 0.5
 Nodes (4): 權力的本質（對抗無力感）, 自我掌控（所有領導力的基石）, 社交劇場（角色扮演與面具）, Ego 管理（不蓋過上司光芒）
 
-### Community 95 - "Community 95"
+### Community 97 - "Community 97"
 Cohesion: 0.5
 Nodes (4): 晝夜節律與晨間日光, 12 項逆轉老化習慣, 粒線體功能, Seth Capehart 醫師
 
-### Community 96 - "Community 96"
+### Community 98 - "Community 98"
 Cohesion: 0.5
 Nodes (4): Claude Co-work, Jenny Wen, AI重新定義產品設計流程, 原型開發
 
-### Community 97 - "Community 97"
+### Community 99 - "Community 99"
 Cohesion: 0.5
 Nodes (4): 冷熱暴露刺激, 168 間歇性斷食, 粒線體修復逆轉老化, 避免種子油毒害
 
-### Community 98 - "Community 98"
+### Community 100 - "Community 100"
 Cohesion: 0.5
 Nodes (4): 情緒完整性, 聚光燈效應 (Spotlight Effect), 評題訓練法 (Topic Commentary Training), 詞彙貧乏化 (Vocabulary Impoverishment)
 
-### Community 99 - "Community 99"
+### Community 101 - "Community 101"
 Cohesion: 0.5
 Nodes (4): 抽象語法樹（AST, Abstract Syntax Tree）, 結構性盲點（Structural Blindness）：AI 代理依賴文字搜尋, Token 過計損耗（Token Over-Count）, ast-grep 結構化程式碼搜尋工具
 
-### Community 100 - "Community 100"
+### Community 102 - "Community 102"
 Cohesion: 0.5
 Nodes (4): MCP Apps（Agent 內嵌互動介面）, MCP Transport（STDIO vs HTTP）, Starfish Design（Chat 中心 UI 反模式）, WebMCP（瀏覽器原生 MCP API）
 
-### Community 101 - "Community 101"
+### Community 103 - "Community 103"
 Cohesion: 1.0
 Nodes (2): buildIndex(), parseFrontMatter()
 
-### Community 102 - "Community 102"
+### Community 104 - "Community 104"
 Cohesion: 0.67
 Nodes (3): 稀缺價值（缺席與出席的權力遊戲）, 戰略隱身術, 言語節制
 
-### Community 103 - "Community 103"
+### Community 105 - "Community 105"
 Cohesion: 0.67
 Nodes (3): Claude Code引擎, AI經紀人社群自動化, Voice DNA語氣風格
 
-### Community 104 - "Community 104"
+### Community 106 - "Community 106"
 Cohesion: 0.67
 Nodes (3): 批次去背與掃描, iPhone檔案App隱藏功能, SMB私人雲端
 
-### Community 105 - "Community 105"
+### Community 107 - "Community 107"
 Cohesion: 1.0
 Nodes (3): 法律證明缺口, 職場性騷擾隱藏機制, 履歷清洗
 
-### Community 106 - "Community 106"
+### Community 108 - "Community 108"
 Cohesion: 1.0
 Nodes (3): 離心加載訓練, 馬步髖部修復練習, 久坐臀肌沉睡
 
-### Community 107 - "Community 107"
+### Community 109 - "Community 109"
 Cohesion: 0.67
 Nodes (3): Adaptive Thinking (自適應思考), Diminishing Returns on Effort (效益邊際遞減), Effort Level System (low/medium/high/xhigh/max)
 
-### Community 108 - "Community 108"
+### Community 110 - "Community 110"
 Cohesion: 0.67
 Nodes (3): 主體性外包（Agency Loss）：AI 濫用消滅個人主體性, 深假精通（Deepfake Mastery）：空洞輸出毫無神經成長, VIBE 框架：選擇高價值嗜好的四大支柱
 
-### Community 109 - "Community 109"
+### Community 111 - "Community 111"
 Cohesion: 1.0
 Nodes (2): 巨嬰 (Giant Infant / Overly Dependent Person), 必要的痛苦 (Necessary Suffering)
 
-### Community 110 - "Community 110"
+### Community 112 - "Community 112"
 Cohesion: 1.0
 Nodes (2): 激勵機制對齊 (Incentive Alignment), 稀缺性與資源分配 (Scarcity & Resource Allocation)
 
-### Community 111 - "Community 111"
+### Community 113 - "Community 113"
 Cohesion: 1.0
 Nodes (2): 操作員模式（Operator Mode）, Worktree 工作樹隔離
 
-### Community 112 - "Community 112"
+### Community 114 - "Community 114"
 Cohesion: 1.0
 Nodes (2): 中心輻射架構（Hub-and-Spoke）, 分割與合併模式（Split and Merge）
 
-### Community 113 - "Community 113"
+### Community 115 - "Community 115"
 Cohesion: 1.0
 Nodes (2): 生產力悖論（AI 使用感知與實際產出落差）, Token Maxing（指標武器化現象）
 
-### Community 114 - "Community 114"
+### Community 116 - "Community 116"
 Cohesion: 1.0
 Nodes (2): Naive RAG（基礎檢索增強生成）, 搜尋滿足效應（Satisfaction of Search）
 
-### Community 115 - "Community 115"
+### Community 117 - "Community 117"
 Cohesion: 1.0
 Nodes (2): 債務優先論（Credit Before Commodity）, 共識即貨幣（Money as Social Agreement）
 
-### Community 116 - "Community 116"
-Cohesion: 1.0
-Nodes (2): AI Founder Mode (AI創辦人模式), Consumer AI Renaissance (消費者AI文藝復興)
-
-### Community 117 - "Community 117"
+### Community 118 - "Community 118"
 Cohesion: 1.0
 Nodes (2): Crawl-Walk-Run-Fly Growth Framework, 11-Star Experience Framework
 
-### Community 118 - "Community 118"
-Cohesion: 1.0
-Nodes (2): 資本密集壁壘（Capital Moat）：AI 算力競賽護城河, 算力替代策略（Compute Substitution）
-
 ### Community 119 - "Community 119"
 Cohesion: 1.0
-Nodes (2): 行動優先迴圈（Action-First Loop）, 逆向定律（Backwards Law）：追逐正面體驗的悖論
+Nodes (2): AI Founder Mode (AI創辦人模式), Consumer AI Renaissance (消費者AI文藝復興)
 
 ### Community 120 - "Community 120"
 Cohesion: 1.0
-Nodes (2): 反脆弱成熟（Anti-fragile Adulthood）, 身份惰性（Identity Inertia）
+Nodes (2): 資本密集壁壘（Capital Moat）：AI 算力競賽護城河, 算力替代策略（Compute Substitution）
 
 ### Community 121 - "Community 121"
 Cohesion: 1.0
-Nodes (2): Agent 自我診斷機制（Self-Diagnostics）, 工具框架效應（Tool Framing Effect）
+Nodes (2): 反脆弱成熟（Anti-fragile Adulthood）, 身份惰性（Identity Inertia）
 
 ### Community 122 - "Community 122"
 Cohesion: 1.0
-Nodes (2): Agent 層級 Bitter Lesson（簡單性原則）, 模型無關性（Model-Agnostic）與記憶系統解耦
+Nodes (2): 行動優先迴圈（Action-First Loop）, 逆向定律（Backwards Law）：追逐正面體驗的悖論
 
 ### Community 123 - "Community 123"
 Cohesion: 1.0
-Nodes (2): 激勵相容原則（Incentive Compatibility）, 價格機制（Price Mechanism）
+Nodes (2): Agent 自我診斷機制（Self-Diagnostics）, 工具框架效應（Tool Framing Effect）
 
 ### Community 124 - "Community 124"
 Cohesion: 1.0
-Nodes (2): 比較優勢（Comparative Advantage）, 機會成本（Opportunity Cost）
+Nodes (2): Agent 層級 Bitter Lesson（簡單性原則）, 模型無關性（Model-Agnostic）與記憶系統解耦
 
 ### Community 125 - "Community 125"
 Cohesion: 1.0
-Nodes (1): 代理人團隊模式（Agent Teams）
+Nodes (2): 激勵相容原則（Incentive Compatibility）, 價格機制（Price Mechanism）
 
 ### Community 126 - "Community 126"
 Cohesion: 1.0
-Nodes (1): Reference Pack 視覺風格系統
+Nodes (2): 比較優勢（Comparative Advantage）, 機會成本（Opportunity Cost）
 
 ### Community 127 - "Community 127"
 Cohesion: 1.0
-Nodes (1): 不借錢原則
+Nodes (1): 代理人團隊模式（Agent Teams）
 
 ### Community 128 - "Community 128"
 Cohesion: 1.0
-Nodes (1): Stainless Steel Grade (304/316/201)
+Nodes (1): Reference Pack 視覺風格系統
 
 ### Community 129 - "Community 129"
 Cohesion: 1.0
-Nodes (1): Heavy Metal Migration Risk (重金屬遷移)
+Nodes (1): 不借錢原則
 
 ### Community 130 - "Community 130"
 Cohesion: 1.0
-Nodes (1): GB 4806.9-2023 Food Contact Metal Standard
+Nodes (1): Stainless Steel Grade (304/316/201)
 
 ### Community 131 - "Community 131"
 Cohesion: 1.0
-Nodes (1): Life Arc Three Phases (生命三階段框架)
+Nodes (1): Heavy Metal Migration Risk (重金屬遷移)
 
 ### Community 132 - "Community 132"
 Cohesion: 1.0
-Nodes (1): Pain + Reflection = Progress (痛苦+反思=進步)
+Nodes (1): GB 4806.9-2023 Food Contact Metal Standard
 
 ### Community 133 - "Community 133"
 Cohesion: 1.0
-Nodes (1): Transcendental Meditation (超覺靜坐)
+Nodes (1): Life Arc Three Phases (生命三階段框架)
 
 ### Community 134 - "Community 134"
 Cohesion: 1.0
-Nodes (1): Humility + Audacity Balance (謙遜的槓桿)
+Nodes (1): Pain + Reflection = Progress (痛苦+反思=進步)
 
 ### Community 135 - "Community 135"
 Cohesion: 1.0
-Nodes (1): BYOT (Bring Your Own Tokens) SaaS Model
+Nodes (1): Transcendental Meditation (超覺靜坐)
 
 ### Community 136 - "Community 136"
+Cohesion: 1.0
+Nodes (1): Humility + Audacity Balance (謙遜的槓桿)
+
+### Community 137 - "Community 137"
+Cohesion: 1.0
+Nodes (1): BYOT (Bring Your Own Tokens) SaaS Model
+
+### Community 138 - "Community 138"
 Cohesion: 1.0
 Nodes (1): 透明戰場（Transparent Battlefield）
 
 ## Knowledge Gaps
-- **737 isolated node(s):** `PRD產品思維框架`, `資訊不對稱消除`, `LLM Wiki`, `極簡框架原則`, `Markdown外部記憶` (+732 more)
+- **751 isolated node(s):** `PRD產品思維框架`, `資訊不對稱消除`, `LLM Wiki`, `極簡框架原則`, `Markdown外部記憶` (+746 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **Thin community `Community 109`** (2 nodes): `巨嬰 (Giant Infant / Overly Dependent Person)`, `必要的痛苦 (Necessary Suffering)`
+- **Thin community `Community 111`** (2 nodes): `巨嬰 (Giant Infant / Overly Dependent Person)`, `必要的痛苦 (Necessary Suffering)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 110`** (2 nodes): `激勵機制對齊 (Incentive Alignment)`, `稀缺性與資源分配 (Scarcity & Resource Allocation)`
+- **Thin community `Community 112`** (2 nodes): `激勵機制對齊 (Incentive Alignment)`, `稀缺性與資源分配 (Scarcity & Resource Allocation)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 111`** (2 nodes): `操作員模式（Operator Mode）`, `Worktree 工作樹隔離`
+- **Thin community `Community 113`** (2 nodes): `操作員模式（Operator Mode）`, `Worktree 工作樹隔離`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 112`** (2 nodes): `中心輻射架構（Hub-and-Spoke）`, `分割與合併模式（Split and Merge）`
+- **Thin community `Community 114`** (2 nodes): `中心輻射架構（Hub-and-Spoke）`, `分割與合併模式（Split and Merge）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 113`** (2 nodes): `生產力悖論（AI 使用感知與實際產出落差）`, `Token Maxing（指標武器化現象）`
+- **Thin community `Community 115`** (2 nodes): `生產力悖論（AI 使用感知與實際產出落差）`, `Token Maxing（指標武器化現象）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 114`** (2 nodes): `Naive RAG（基礎檢索增強生成）`, `搜尋滿足效應（Satisfaction of Search）`
+- **Thin community `Community 116`** (2 nodes): `Naive RAG（基礎檢索增強生成）`, `搜尋滿足效應（Satisfaction of Search）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 115`** (2 nodes): `債務優先論（Credit Before Commodity）`, `共識即貨幣（Money as Social Agreement）`
+- **Thin community `Community 117`** (2 nodes): `債務優先論（Credit Before Commodity）`, `共識即貨幣（Money as Social Agreement）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 116`** (2 nodes): `AI Founder Mode (AI創辦人模式)`, `Consumer AI Renaissance (消費者AI文藝復興)`
+- **Thin community `Community 118`** (2 nodes): `Crawl-Walk-Run-Fly Growth Framework`, `11-Star Experience Framework`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 117`** (2 nodes): `Crawl-Walk-Run-Fly Growth Framework`, `11-Star Experience Framework`
+- **Thin community `Community 119`** (2 nodes): `AI Founder Mode (AI創辦人模式)`, `Consumer AI Renaissance (消費者AI文藝復興)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 118`** (2 nodes): `資本密集壁壘（Capital Moat）：AI 算力競賽護城河`, `算力替代策略（Compute Substitution）`
+- **Thin community `Community 120`** (2 nodes): `資本密集壁壘（Capital Moat）：AI 算力競賽護城河`, `算力替代策略（Compute Substitution）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 119`** (2 nodes): `行動優先迴圈（Action-First Loop）`, `逆向定律（Backwards Law）：追逐正面體驗的悖論`
+- **Thin community `Community 121`** (2 nodes): `反脆弱成熟（Anti-fragile Adulthood）`, `身份惰性（Identity Inertia）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 120`** (2 nodes): `反脆弱成熟（Anti-fragile Adulthood）`, `身份惰性（Identity Inertia）`
+- **Thin community `Community 122`** (2 nodes): `行動優先迴圈（Action-First Loop）`, `逆向定律（Backwards Law）：追逐正面體驗的悖論`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 121`** (2 nodes): `Agent 自我診斷機制（Self-Diagnostics）`, `工具框架效應（Tool Framing Effect）`
+- **Thin community `Community 123`** (2 nodes): `Agent 自我診斷機制（Self-Diagnostics）`, `工具框架效應（Tool Framing Effect）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 122`** (2 nodes): `Agent 層級 Bitter Lesson（簡單性原則）`, `模型無關性（Model-Agnostic）與記憶系統解耦`
+- **Thin community `Community 124`** (2 nodes): `Agent 層級 Bitter Lesson（簡單性原則）`, `模型無關性（Model-Agnostic）與記憶系統解耦`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 123`** (2 nodes): `激勵相容原則（Incentive Compatibility）`, `價格機制（Price Mechanism）`
+- **Thin community `Community 125`** (2 nodes): `激勵相容原則（Incentive Compatibility）`, `價格機制（Price Mechanism）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 124`** (2 nodes): `比較優勢（Comparative Advantage）`, `機會成本（Opportunity Cost）`
+- **Thin community `Community 126`** (2 nodes): `比較優勢（Comparative Advantage）`, `機會成本（Opportunity Cost）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 125`** (1 nodes): `代理人團隊模式（Agent Teams）`
+- **Thin community `Community 127`** (1 nodes): `代理人團隊模式（Agent Teams）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 126`** (1 nodes): `Reference Pack 視覺風格系統`
+- **Thin community `Community 128`** (1 nodes): `Reference Pack 視覺風格系統`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 127`** (1 nodes): `不借錢原則`
+- **Thin community `Community 129`** (1 nodes): `不借錢原則`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 128`** (1 nodes): `Stainless Steel Grade (304/316/201)`
+- **Thin community `Community 130`** (1 nodes): `Stainless Steel Grade (304/316/201)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 129`** (1 nodes): `Heavy Metal Migration Risk (重金屬遷移)`
+- **Thin community `Community 131`** (1 nodes): `Heavy Metal Migration Risk (重金屬遷移)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 130`** (1 nodes): `GB 4806.9-2023 Food Contact Metal Standard`
+- **Thin community `Community 132`** (1 nodes): `GB 4806.9-2023 Food Contact Metal Standard`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 131`** (1 nodes): `Life Arc Three Phases (生命三階段框架)`
+- **Thin community `Community 133`** (1 nodes): `Life Arc Three Phases (生命三階段框架)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 132`** (1 nodes): `Pain + Reflection = Progress (痛苦+反思=進步)`
+- **Thin community `Community 134`** (1 nodes): `Pain + Reflection = Progress (痛苦+反思=進步)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 133`** (1 nodes): `Transcendental Meditation (超覺靜坐)`
+- **Thin community `Community 135`** (1 nodes): `Transcendental Meditation (超覺靜坐)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 134`** (1 nodes): `Humility + Audacity Balance (謙遜的槓桿)`
+- **Thin community `Community 136`** (1 nodes): `Humility + Audacity Balance (謙遜的槓桿)`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 135`** (1 nodes): `BYOT (Bring Your Own Tokens) SaaS Model`
+- **Thin community `Community 137`** (1 nodes): `BYOT (Bring Your Own Tokens) SaaS Model`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 136`** (1 nodes): `透明戰場（Transparent Battlefield）`
+- **Thin community `Community 138`** (1 nodes): `透明戰場（Transparent Battlefield）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-
-## Suggested Questions
-_Questions this graph is uniquely positioned to answer:_
-
-- **Why does `上下文圖譜治理架構` connect `Community 8` to `Community 3`?**
-  _High betweenness centrality (0.002) - this node is a cross-community bridge._
-- **Why does `CRAFT 脈絡圖（Context Graph）` connect `Community 3` to `Community 8`?**
-  _High betweenness centrality (0.001) - this node is a cross-community bridge._
-- **Are the 2 inferred relationships involving `情境基礎設施 (Context Infrastructure)` (e.g. with `脈絡圖 (Context Graph)` and `代理式商務 (Agentic Commerce)`) actually correct?**
-  _`情境基礎設施 (Context Infrastructure)` has 2 INFERRED edges - model-reasoned connections that need verification._
-- **Are the 3 inferred relationships involving `Context Engine（上下文引擎）` (e.g. with `Context Development Lifecycle（CDLC）` and `Redis AI Agent 記憶體基礎設施`) actually correct?**
-  _`Context Engine（上下文引擎）` has 3 INFERRED edges - model-reasoned connections that need verification._
-- **What connects `PRD產品思維框架`, `資訊不對稱消除`, `LLM Wiki` to the rest of the system?**
-  _737 weakly-connected nodes found - possible documentation gaps or missing edges._
-- **Should `Community 0` be split into smaller, more focused modules?**
-  _Cohesion score 0.04 - nodes in this community are weakly interconnected._
-- **Should `Community 1` be split into smaller, more focused modules?**
-  _Cohesion score 0.05 - nodes in this community are weakly interconnected._
