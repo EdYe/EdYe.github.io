@@ -1,5 +1,25 @@
 [
   {
+    "id": "ai-agent-memory-coala-framework",
+    "title": "AI Agent 記憶四大類型：CoALA框架",
+    "category": "影片筆記",
+    "tags": [
+      "工作記憶",
+      "語意記憶",
+      "程序記憶",
+      "情節記憶",
+      "CoALA框架"
+    ],
+    "description": "影片指出一個生產級 AI Agent 的關鍵設計痛點：多數開發者只關注上下文窗口（working memory），卻忽略了知識、技能與經驗三種持久記憶。",
+    "quote": "記憶正是區分聊天機器人與智能代理的關鍵——聊天機器人只給出回應，而 Agent 能給出被持久知識與累積經驗塑造過的回應。",
+    "action": "設計 Agent 前依序盤點 Working、Semantic、Procedural、Episodic 四層記憶需求（W-S-P-E法則），而非盲目全部啟用。",
+    "image": "/images/影片筆記/ai-agent-memory-coala-framework.jpg",
+    "date": "2026-07-03",
+    "source_has_timestamps": true,
+    "body": "AI Agent 記憶四大類型：CoALA 框架完整解析 IBM Technology 頻道由 Martin Keen 講解 AI Agent 的四種核心記憶類型，這套框架直接解決了「聊天機器人 vs 真正智能代理」的本質差異問題——沒有持久記憶的系統只是在對話，而非真正在學習與行動。 [scribd](https://www.scribd.com/document/869199074/Links) 核心摘要 影片指出一個生產級 AI Agent 的關鍵設計痛點：多數開發者只關注上下文窗口（working memory），卻忽略了知識、技能與經驗三種持久記憶。這套源自普林斯頓研究團隊的 CoALA（Cognitive Architectures for Language Agents）框架，將人類記憶類比對映到 Agent 架構，區分出 working、semantic、procedural、episodic 四種記憶，並說明並非每個 Agent 都需要全部四種。 [scribd](https://www.scribd.com/document/869199074/Links) 詳細重",
+    "url": "/notes/ai-agent-memory-coala-framework"
+  },
+  {
     "id": "agentic-ai-engineer",
     "title": "Agentic AI Engineer：迴圈式自動建構 AI Agent",
     "category": "AI筆記",

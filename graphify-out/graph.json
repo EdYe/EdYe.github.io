@@ -54,27 +54,27 @@
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L1",
+      "id": "scripts_rebuild_index_js",
       "community": 103,
-      "norm_label": "rebuild-index.js",
-      "id": "scripts_rebuild_index_js"
+      "norm_label": "rebuild-index.js"
     },
     {
       "label": "parseFrontMatter()",
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L11",
+      "id": "rebuild_index_parsefrontmatter",
       "community": 103,
-      "norm_label": "parsefrontmatter()",
-      "id": "rebuild_index_parsefrontmatter"
+      "norm_label": "parsefrontmatter()"
     },
     {
       "label": "buildIndex()",
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L45",
+      "id": "rebuild_index_buildindex",
       "community": 103,
-      "norm_label": "buildindex()",
-      "id": "rebuild_index_buildindex"
+      "norm_label": "buildindex()"
     },
     {
       "label": "\u5efa\u7acb\u8ac7\u5224\u81ea\u4fe1\u8207\u6d88\u9664\u6469\u64e6",
@@ -21964,9 +21964,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_agentic_ai_engineer",
       "community": 67,
-      "norm_label": "agentic ai engineer"
+      "norm_label": "agentic ai engineer",
+      "id": "agentic_ai_engineer_agentic_ai_engineer"
     },
     {
       "label": "Coding Agent Loop",
@@ -21977,9 +21977,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_coding_agent_loop",
       "community": 67,
-      "norm_label": "coding agent loop"
+      "norm_label": "coding agent loop",
+      "id": "agentic_ai_engineer_coding_agent_loop"
     },
     {
       "label": "\u96e2\u7dda\u8ff4\u5708 (Offline Loop)",
@@ -21990,9 +21990,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_offline_loop",
       "community": 67,
-      "norm_label": "\u96e2\u7dda\u8ff4\u5708 (offline loop)"
+      "norm_label": "\u96e2\u7dda\u8ff4\u5708 (offline loop)",
+      "id": "agentic_ai_engineer_offline_loop"
     },
     {
       "label": "\u7dda\u4e0a\u8ff4\u5708 (Online Loop)",
@@ -22003,9 +22003,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_online_loop",
       "community": 67,
-      "norm_label": "\u7dda\u4e0a\u8ff4\u5708 (online loop)"
+      "norm_label": "\u7dda\u4e0a\u8ff4\u5708 (online loop)",
+      "id": "agentic_ai_engineer_online_loop"
     },
     {
       "label": "Orchestrator",
@@ -22016,9 +22016,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_orchestrator",
       "community": 67,
-      "norm_label": "orchestrator"
+      "norm_label": "orchestrator",
+      "id": "agentic_ai_engineer_orchestrator"
     },
     {
       "label": "Eval \u9a45\u52d5\u958b\u767c\u8ff4\u5708 (Eval-Driven Development Loop)",
@@ -22029,9 +22029,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_eval_driven_development_loop",
       "community": 17,
-      "norm_label": "eval \u9a45\u52d5\u958b\u767c\u8ff4\u5708 (eval-driven development loop)"
+      "norm_label": "eval \u9a45\u52d5\u958b\u767c\u8ff4\u5708 (eval-driven development loop)",
+      "id": "agentic_ai_engineer_eval_driven_development_loop"
     },
     {
       "label": "Spec \u968e\u6bb5",
@@ -22042,9 +22042,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_spec_stage",
       "community": 17,
-      "norm_label": "spec \u968e\u6bb5"
+      "norm_label": "spec \u968e\u6bb5",
+      "id": "agentic_ai_engineer_spec_stage"
     },
     {
       "label": "Build \u968e\u6bb5",
@@ -22055,9 +22055,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_build_stage",
       "community": 17,
-      "norm_label": "build \u968e\u6bb5"
+      "norm_label": "build \u968e\u6bb5",
+      "id": "agentic_ai_engineer_build_stage"
     },
     {
       "label": "Evaluate \u968e\u6bb5",
@@ -22068,9 +22068,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_evaluate_stage",
       "community": 17,
-      "norm_label": "evaluate \u968e\u6bb5"
+      "norm_label": "evaluate \u968e\u6bb5",
+      "id": "agentic_ai_engineer_evaluate_stage"
     },
     {
       "label": "Ship \u968e\u6bb5",
@@ -22081,9 +22081,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_ship_stage",
       "community": 17,
-      "norm_label": "ship \u968e\u6bb5"
+      "norm_label": "ship \u968e\u6bb5",
+      "id": "agentic_ai_engineer_ship_stage"
     },
     {
       "label": "Diagnose \u968e\u6bb5",
@@ -22094,9 +22094,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_diagnose_stage",
       "community": 17,
-      "norm_label": "diagnose \u968e\u6bb5"
+      "norm_label": "diagnose \u968e\u6bb5",
+      "id": "agentic_ai_engineer_diagnose_stage"
     },
     {
       "label": "Optimize \u968e\u6bb5",
@@ -22107,9 +22107,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_optimize_stage",
       "community": 17,
-      "norm_label": "optimize \u968e\u6bb5"
+      "norm_label": "optimize \u968e\u6bb5",
+      "id": "agentic_ai_engineer_optimize_stage"
     },
     {
       "label": "\u51b7\u555f\u52d5\u8def\u5f91 (Cold Start Path)",
@@ -22120,9 +22120,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_cold_start_path",
       "community": 17,
-      "norm_label": "\u51b7\u555f\u52d5\u8def\u5f91 (cold start path)"
+      "norm_label": "\u51b7\u555f\u52d5\u8def\u5f91 (cold start path)",
+      "id": "agentic_ai_engineer_cold_start_path"
     },
     {
       "label": "\u65e2\u6709\u529f\u80fd\u512a\u5316\u8def\u5f91",
@@ -22133,9 +22133,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_existing_agent_optimization_path",
       "community": 17,
-      "norm_label": "\u65e2\u6709\u529f\u80fd\u512a\u5316\u8def\u5f91"
+      "norm_label": "\u65e2\u6709\u529f\u80fd\u512a\u5316\u8def\u5f91",
+      "id": "agentic_ai_engineer_existing_agent_optimization_path"
     },
     {
       "label": "Spec \u9a45\u52d5\u958b\u767c (Spec-Driven Development)",
@@ -22146,9 +22146,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_spec_driven_development",
       "community": 17,
-      "norm_label": "spec \u9a45\u52d5\u958b\u767c (spec-driven development)"
+      "norm_label": "spec \u9a45\u52d5\u958b\u767c (spec-driven development)",
+      "id": "agentic_ai_engineer_spec_driven_development"
     },
     {
       "label": "\u6846\u67b6\u4e0d\u53ef\u77e5\u6027 (Framework-Agnostic Design)",
@@ -22159,9 +22159,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_framework_agnostic_design",
       "community": 17,
-      "norm_label": "\u6846\u67b6\u4e0d\u53ef\u77e5\u6027 (framework-agnostic design)"
+      "norm_label": "\u6846\u67b6\u4e0d\u53ef\u77e5\u6027 (framework-agnostic design)",
+      "id": "agentic_ai_engineer_framework_agnostic_design"
     },
     {
       "label": "Eval Suite",
@@ -22172,9 +22172,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_eval_suite",
       "community": 17,
-      "norm_label": "eval suite"
+      "norm_label": "eval suite",
+      "id": "agentic_ai_engineer_eval_suite"
     },
     {
       "label": "Eval \u5373\u767c\u73fe\u904e\u7a0b (Eval as a Discovery Process)",
@@ -22185,9 +22185,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_eval_as_a_discovery_process",
       "community": 17,
-      "norm_label": "eval \u5373\u767c\u73fe\u904e\u7a0b (eval as a discovery process)"
+      "norm_label": "eval \u5373\u767c\u73fe\u904e\u7a0b (eval as a discovery process)",
+      "id": "agentic_ai_engineer_eval_as_a_discovery_process"
     },
     {
       "label": "Evaluator Agent",
@@ -22198,9 +22198,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_evaluator_agent",
       "community": 17,
-      "norm_label": "evaluator agent"
+      "norm_label": "evaluator agent",
+      "id": "agentic_ai_engineer_evaluator_agent"
     },
     {
       "label": "\u8a55\u4f30\u5373\u7d42\u6b62\u9598\u9580 (Eval as Termination Gate)",
@@ -22211,9 +22211,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_eval_as_termination_gate",
       "community": 17,
-      "norm_label": "\u8a55\u4f30\u5373\u7d42\u6b62\u9598\u9580 (eval as termination gate)"
+      "norm_label": "\u8a55\u4f30\u5373\u7d42\u6b62\u9598\u9580 (eval as termination gate)",
+      "id": "agentic_ai_engineer_eval_as_termination_gate"
     },
     {
       "label": "\u57f7\u884c\u8ecc\u8de1 (Trajectory)",
@@ -22224,9 +22224,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_trajectory",
       "community": 17,
-      "norm_label": "\u57f7\u884c\u8ecc\u8de1 (trajectory)"
+      "norm_label": "\u57f7\u884c\u8ecc\u8de1 (trajectory)",
+      "id": "agentic_ai_engineer_trajectory"
     },
     {
       "label": "\u4e8c\u5143\u8a55\u4f30 (Binary Evals)",
@@ -22237,9 +22237,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_binary_evals",
       "community": 17,
-      "norm_label": "\u4e8c\u5143\u8a55\u4f30 (binary evals)"
+      "norm_label": "\u4e8c\u5143\u8a55\u4f30 (binary evals)",
+      "id": "agentic_ai_engineer_binary_evals"
     },
     {
       "label": "LLM-as-Judge \u6821\u6e96",
@@ -22250,9 +22250,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_llm_as_judge_calibration",
       "community": 17,
-      "norm_label": "llm-as-judge \u6821\u6e96"
+      "norm_label": "llm-as-judge \u6821\u6e96",
+      "id": "agentic_ai_engineer_llm_as_judge_calibration"
     },
     {
       "label": "Diagnose Agent",
@@ -22263,9 +22263,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_diagnose_agent",
       "community": 17,
-      "norm_label": "diagnose agent"
+      "norm_label": "diagnose agent",
+      "id": "agentic_ai_engineer_diagnose_agent"
     },
     {
       "label": "\u5df2\u5b78\u7fd2\u5931\u6557\u6a21\u5f0f (Learned Failure Modes)",
@@ -22276,9 +22276,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_learned_failure_modes",
       "community": 17,
-      "norm_label": "\u5df2\u5b78\u7fd2\u5931\u6557\u6a21\u5f0f (learned failure modes)"
+      "norm_label": "\u5df2\u5b78\u7fd2\u5931\u6557\u6a21\u5f0f (learned failure modes)",
+      "id": "agentic_ai_engineer_learned_failure_modes"
     },
     {
       "label": "\u591a\u5c64\u8ffd\u8e64\u7be9\u9078 (Multi-Tier Trace Segmentation)",
@@ -22289,9 +22289,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_multi_tier_trace_segmentation",
       "community": 17,
-      "norm_label": "\u591a\u5c64\u8ffd\u8e64\u7be9\u9078 (multi-tier trace segmentation)"
+      "norm_label": "\u591a\u5c64\u8ffd\u8e64\u7be9\u9078 (multi-tier trace segmentation)",
+      "id": "agentic_ai_engineer_multi_tier_trace_segmentation"
     },
     {
       "label": "\u81ea\u4e3b\u512a\u5316\u8ff4\u5708 (Autonomous Optimization Loop)",
@@ -22302,9 +22302,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_autonomous_optimization_loop",
       "community": 17,
-      "norm_label": "\u81ea\u4e3b\u512a\u5316\u8ff4\u5708 (autonomous optimization loop)"
+      "norm_label": "\u81ea\u4e3b\u512a\u5316\u8ff4\u5708 (autonomous optimization loop)",
+      "id": "agentic_ai_engineer_autonomous_optimization_loop"
     },
     {
       "label": "Mutagent",
@@ -22315,9 +22315,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_mutagent",
       "community": 67,
-      "norm_label": "mutagent"
+      "norm_label": "mutagent",
+      "id": "agentic_ai_engineer_mutagent"
     },
     {
       "label": "Bene (Mutagent \u5171\u540c\u5275\u8fa6\u4eba)",
@@ -22328,9 +22328,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_bene",
       "community": 67,
-      "norm_label": "bene (mutagent \u5171\u540c\u5275\u8fa6\u4eba)"
+      "norm_label": "bene (mutagent \u5171\u540c\u5275\u8fa6\u4eba)",
+      "id": "agentic_ai_engineer_bene"
     },
     {
       "label": "Burak (Mutagent CTO)",
@@ -22341,9 +22341,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_burak",
       "community": 67,
-      "norm_label": "burak (mutagent cto)"
+      "norm_label": "burak (mutagent cto)",
+      "id": "agentic_ai_engineer_burak"
     },
     {
       "label": "LangFuse",
@@ -22354,9 +22354,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_langfuse",
       "community": 17,
-      "norm_label": "langfuse"
+      "norm_label": "langfuse",
+      "id": "agentic_ai_engineer_langfuse"
     },
     {
       "label": "S-E-D \u6cd5\u5247 (Spec-Eval-Diagnose)",
@@ -22367,9 +22367,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_s_e_d_rule",
       "community": 17,
-      "norm_label": "s-e-d \u6cd5\u5247 (spec-eval-diagnose)"
+      "norm_label": "s-e-d \u6cd5\u5247 (spec-eval-diagnose)",
+      "id": "agentic_ai_engineer_s_e_d_rule"
     },
     {
       "label": "\u6846\u67b6\u5f48\u6027\u7406\u7531\uff1a\u751f\u614b\u7cfb\u5feb\u901f\u8b8a\u5316\u907f\u514d\u88ab\u55ae\u4e00 Harness \u5361\u4f4f",
@@ -22380,9 +22380,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_rationale_framework_agnostic",
       "community": 17,
-      "norm_label": "\u6846\u67b6\u5f48\u6027\u7406\u7531:\u751f\u614b\u7cfb\u5feb\u901f\u8b8a\u5316\u907f\u514d\u88ab\u55ae\u4e00 harness \u5361\u4f4f"
+      "norm_label": "\u6846\u67b6\u5f48\u6027\u7406\u7531:\u751f\u614b\u7cfb\u5feb\u901f\u8b8a\u5316\u907f\u514d\u88ab\u55ae\u4e00 harness \u5361\u4f4f",
+      "id": "agentic_ai_engineer_rationale_framework_agnostic"
     },
     {
       "label": "Evaluator Agent \u7406\u7531\uff1a\u4eba\u5de5\u9010\u7b46\u6aa2\u8996 Trace \u7121\u6cd5\u898f\u6a21\u5316",
@@ -22393,9 +22393,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_rationale_evaluator_agent",
       "community": 17,
-      "norm_label": "evaluator agent \u7406\u7531:\u4eba\u5de5\u9010\u7b46\u6aa2\u8996 trace \u7121\u6cd5\u898f\u6a21\u5316"
+      "norm_label": "evaluator agent \u7406\u7531:\u4eba\u5de5\u9010\u7b46\u6aa2\u8996 trace \u7121\u6cd5\u898f\u6a21\u5316",
+      "id": "agentic_ai_engineer_rationale_evaluator_agent"
     },
     {
       "label": "\u4e8c\u5143\u8a55\u4f30\u7406\u7531\uff1a\u4e8c\u5143\u7d50\u679c\u80fd\u76f4\u63a5\u89f8\u767c\u5177\u9ad4\u884c\u52d5",
@@ -22406,9 +22406,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_rationale_binary_evals",
       "community": 17,
-      "norm_label": "\u4e8c\u5143\u8a55\u4f30\u7406\u7531:\u4e8c\u5143\u7d50\u679c\u80fd\u76f4\u63a5\u89f8\u767c\u5177\u9ad4\u884c\u52d5"
+      "norm_label": "\u4e8c\u5143\u8a55\u4f30\u7406\u7531:\u4e8c\u5143\u7d50\u679c\u80fd\u76f4\u63a5\u89f8\u767c\u5177\u9ad4\u884c\u52d5",
+      "id": "agentic_ai_engineer_rationale_binary_evals"
     },
     {
       "label": "\u7a0b\u5f0f\u78bc\u53ef\u6aa2\u6e2c\u6307\u6a19\u7406\u7531\uff1a\u6d77\u91cf Trace \u95b1\u8b80\u6210\u672c\u8d85\u904e\u57f7\u884c\u6210\u672c",
@@ -22419,9 +22419,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agentic_ai_engineer_rationale_code_detectable_metrics",
       "community": 17,
-      "norm_label": "\u7a0b\u5f0f\u78bc\u53ef\u6aa2\u6e2c\u6307\u6a19\u7406\u7531:\u6d77\u91cf trace \u95b1\u8b80\u6210\u672c\u8d85\u904e\u57f7\u884c\u6210\u672c"
+      "norm_label": "\u7a0b\u5f0f\u78bc\u53ef\u6aa2\u6e2c\u6307\u6a19\u7406\u7531:\u6d77\u91cf trace \u95b1\u8b80\u6210\u672c\u8d85\u904e\u57f7\u884c\u6210\u672c",
+      "id": "agentic_ai_engineer_rationale_code_detectable_metrics"
     }
   ],
   "links": [
@@ -22433,9 +22433,9 @@
       "weight": 1.0,
       "_src": "scripts_rebuild_index_js",
       "_tgt": "rebuild_index_parsefrontmatter",
-      "confidence_score": 1.0,
       "source": "scripts_rebuild_index_js",
-      "target": "rebuild_index_parsefrontmatter"
+      "target": "rebuild_index_parsefrontmatter",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -22445,9 +22445,9 @@
       "weight": 1.0,
       "_src": "scripts_rebuild_index_js",
       "_tgt": "rebuild_index_buildindex",
-      "confidence_score": 1.0,
       "source": "scripts_rebuild_index_js",
-      "target": "rebuild_index_buildindex"
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -22457,9 +22457,9 @@
       "weight": 1.0,
       "_src": "rebuild_index_buildindex",
       "_tgt": "rebuild_index_parsefrontmatter",
-      "confidence_score": 1.0,
       "source": "rebuild_index_parsefrontmatter",
-      "target": "rebuild_index_buildindex"
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
     },
     {
       "relation": "references",
@@ -43288,8 +43288,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": "[07:16]",
       "weight": 1.0,
-      "_src": "agentic_ai_engineer_spec_driven_development",
-      "_tgt": "agentic_ai_engineer_spec_stage",
+      "_src": "agentic_ai_engineer_spec_stage",
+      "_tgt": "agentic_ai_engineer_spec_driven_development",
       "source": "agentic_ai_engineer_spec_stage",
       "target": "agentic_ai_engineer_spec_driven_development"
     },
@@ -43300,8 +43300,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "agentic_ai_engineer_s_e_d_rule",
-      "_tgt": "agentic_ai_engineer_spec_stage",
+      "_src": "agentic_ai_engineer_spec_stage",
+      "_tgt": "agentic_ai_engineer_s_e_d_rule",
       "source": "agentic_ai_engineer_spec_stage",
       "target": "agentic_ai_engineer_s_e_d_rule"
     },
@@ -43348,8 +43348,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": "[01:24]",
       "weight": 1.0,
-      "_src": "agentic_ai_engineer_optimize_stage",
-      "_tgt": "agentic_ai_engineer_evaluate_stage",
+      "_src": "agentic_ai_engineer_evaluate_stage",
+      "_tgt": "agentic_ai_engineer_optimize_stage",
       "source": "agentic_ai_engineer_evaluate_stage",
       "target": "agentic_ai_engineer_optimize_stage"
     },
@@ -43396,8 +43396,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": "[06:03]",
       "weight": 0.7,
-      "_src": "agentic_ai_engineer_existing_agent_optimization_path",
-      "_tgt": "agentic_ai_engineer_diagnose_stage",
+      "_src": "agentic_ai_engineer_diagnose_stage",
+      "_tgt": "agentic_ai_engineer_existing_agent_optimization_path",
       "source": "agentic_ai_engineer_diagnose_stage",
       "target": "agentic_ai_engineer_existing_agent_optimization_path"
     },
@@ -43432,8 +43432,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "agentic_ai_engineer_s_e_d_rule",
-      "_tgt": "agentic_ai_engineer_diagnose_stage",
+      "_src": "agentic_ai_engineer_diagnose_stage",
+      "_tgt": "agentic_ai_engineer_s_e_d_rule",
       "source": "agentic_ai_engineer_diagnose_stage",
       "target": "agentic_ai_engineer_s_e_d_rule"
     },
@@ -43444,8 +43444,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": "[06:03]",
       "weight": 0.7,
-      "_src": "agentic_ai_engineer_existing_agent_optimization_path",
-      "_tgt": "agentic_ai_engineer_optimize_stage",
+      "_src": "agentic_ai_engineer_optimize_stage",
+      "_tgt": "agentic_ai_engineer_existing_agent_optimization_path",
       "source": "agentic_ai_engineer_optimize_stage",
       "target": "agentic_ai_engineer_existing_agent_optimization_path"
     },
@@ -43480,8 +43480,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": null,
       "weight": 0.6,
-      "_src": "agentic_ai_engineer_framework_agnostic_design",
-      "_tgt": "agentic_ai_engineer_spec_driven_development",
+      "_src": "agentic_ai_engineer_spec_driven_development",
+      "_tgt": "agentic_ai_engineer_framework_agnostic_design",
       "source": "agentic_ai_engineer_spec_driven_development",
       "target": "agentic_ai_engineer_framework_agnostic_design"
     },
@@ -43492,8 +43492,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": "[08:53]",
       "weight": 1.0,
-      "_src": "agentic_ai_engineer_rationale_framework_agnostic",
-      "_tgt": "agentic_ai_engineer_framework_agnostic_design",
+      "_src": "agentic_ai_engineer_framework_agnostic_design",
+      "_tgt": "agentic_ai_engineer_rationale_framework_agnostic",
       "source": "agentic_ai_engineer_framework_agnostic_design",
       "target": "agentic_ai_engineer_rationale_framework_agnostic"
     },
@@ -43528,8 +43528,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": "[22:48]",
       "weight": 1.0,
-      "_src": "agentic_ai_engineer_autonomous_optimization_loop",
-      "_tgt": "agentic_ai_engineer_eval_suite",
+      "_src": "agentic_ai_engineer_eval_suite",
+      "_tgt": "agentic_ai_engineer_autonomous_optimization_loop",
       "source": "agentic_ai_engineer_eval_suite",
       "target": "agentic_ai_engineer_autonomous_optimization_loop"
     },
@@ -43540,8 +43540,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "agentic_ai_engineer_s_e_d_rule",
-      "_tgt": "agentic_ai_engineer_eval_suite",
+      "_src": "agentic_ai_engineer_eval_suite",
+      "_tgt": "agentic_ai_engineer_s_e_d_rule",
       "source": "agentic_ai_engineer_eval_suite",
       "target": "agentic_ai_engineer_s_e_d_rule"
     },
@@ -43552,8 +43552,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": null,
       "weight": 0.65,
-      "_src": "agentic_ai_engineer_learned_failure_modes",
-      "_tgt": "agentic_ai_engineer_eval_as_a_discovery_process",
+      "_src": "agentic_ai_engineer_eval_as_a_discovery_process",
+      "_tgt": "agentic_ai_engineer_learned_failure_modes",
       "source": "agentic_ai_engineer_eval_as_a_discovery_process",
       "target": "agentic_ai_engineer_learned_failure_modes"
     },
@@ -43576,8 +43576,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": "[13:41]",
       "weight": 1.0,
-      "_src": "agentic_ai_engineer_rationale_evaluator_agent",
-      "_tgt": "agentic_ai_engineer_evaluator_agent",
+      "_src": "agentic_ai_engineer_evaluator_agent",
+      "_tgt": "agentic_ai_engineer_rationale_evaluator_agent",
       "source": "agentic_ai_engineer_evaluator_agent",
       "target": "agentic_ai_engineer_rationale_evaluator_agent"
     },
@@ -43648,8 +43648,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": "[15:30]",
       "weight": 1.0,
-      "_src": "agentic_ai_engineer_rationale_binary_evals",
-      "_tgt": "agentic_ai_engineer_binary_evals",
+      "_src": "agentic_ai_engineer_binary_evals",
+      "_tgt": "agentic_ai_engineer_rationale_binary_evals",
       "source": "agentic_ai_engineer_binary_evals",
       "target": "agentic_ai_engineer_rationale_binary_evals"
     },
@@ -43684,8 +43684,8 @@
       "source_file": "_notes/agentic-ai-engineer.md",
       "source_location": "[19:05]",
       "weight": 1.0,
-      "_src": "agentic_ai_engineer_rationale_code_detectable_metrics",
-      "_tgt": "agentic_ai_engineer_learned_failure_modes",
+      "_src": "agentic_ai_engineer_learned_failure_modes",
+      "_tgt": "agentic_ai_engineer_rationale_code_detectable_metrics",
       "source": "agentic_ai_engineer_learned_failure_modes",
       "target": "agentic_ai_engineer_rationale_code_detectable_metrics"
     },

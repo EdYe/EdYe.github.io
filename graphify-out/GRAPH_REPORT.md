@@ -1,7 +1,7 @@
-# Graph Report - .  (2026-07-01)
+# Graph Report - .  (2026-07-03)
 
 ## Corpus Check
-- 0 files · ~99,999 words
+- 1 files · ~22,342,843 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -796,3 +796,21 @@ Nodes (1): 透明戰場（Transparent Battlefield）
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 - **Thin community `Community 138`** (1 nodes): `透明戰場（Transparent Battlefield）`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+
+## Suggested Questions
+_Questions this graph is uniquely positioned to answer:_
+
+- **Are the 2 inferred relationships involving `情境基礎設施 (Context Infrastructure)` (e.g. with `脈絡圖 (Context Graph)` and `代理式商務 (Agentic Commerce)`) actually correct?**
+  _`情境基礎設施 (Context Infrastructure)` has 2 INFERRED edges - model-reasoned connections that need verification._
+- **Are the 3 inferred relationships involving `Context Engine（上下文引擎）` (e.g. with `Context Development Lifecycle（CDLC）` and `Redis AI Agent 記憶體基礎設施`) actually correct?**
+  _`Context Engine（上下文引擎）` has 3 INFERRED edges - model-reasoned connections that need verification._
+- **What connects `PRD產品思維框架`, `資訊不對稱消除`, `LLM Wiki` to the rest of the system?**
+  _751 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Should `Community 0` be split into smaller, more focused modules?**
+  _Cohesion score 0.04 - nodes in this community are weakly interconnected._
+- **Should `Community 1` be split into smaller, more focused modules?**
+  _Cohesion score 0.05 - nodes in this community are weakly interconnected._
+- **Should `Community 2` be split into smaller, more focused modules?**
+  _Cohesion score 0.05 - nodes in this community are weakly interconnected._
+- **Should `Community 3` be split into smaller, more focused modules?**
+  _Cohesion score 0.06 - nodes in this community are weakly interconnected._
