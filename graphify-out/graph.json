@@ -52,27 +52,27 @@
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L1",
+      "id": "scripts_rebuild_index_js",
       "community": 104,
-      "norm_label": "rebuild-index.js",
-      "id": "scripts_rebuild_index_js"
+      "norm_label": "rebuild-index.js"
     },
     {
       "label": "parseFrontMatter()",
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L11",
+      "id": "rebuild_index_parsefrontmatter",
       "community": 104,
-      "norm_label": "parsefrontmatter()",
-      "id": "rebuild_index_parsefrontmatter"
+      "norm_label": "parsefrontmatter()"
     },
     {
       "label": "buildIndex()",
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L45",
+      "id": "rebuild_index_buildindex",
       "community": 104,
-      "norm_label": "buildindex()",
-      "id": "rebuild_index_buildindex"
+      "norm_label": "buildindex()"
     },
     {
       "label": "\u5efa\u7acb\u8ac7\u5224\u81ea\u4fe1\u8207\u6d88\u9664\u6469\u64e6",
@@ -22430,9 +22430,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_medme_health",
       "community": 37,
-      "norm_label": "medme health"
+      "norm_label": "medme health",
+      "id": "he_picked_the_market_everyone_skipped_medme_health"
     },
     {
       "label": "Purya Sarmadi",
@@ -22443,9 +22443,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_purya_sarmadi",
       "community": 37,
-      "norm_label": "purya sarmadi"
+      "norm_label": "purya sarmadi",
+      "id": "he_picked_the_market_everyone_skipped_purya_sarmadi"
     },
     {
       "label": "Nick (\u5171\u540c\u5275\u8fa6\u4eba)",
@@ -22456,9 +22456,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_nick",
       "community": 37,
-      "norm_label": "nick (\u5171\u540c\u5275\u8fa6\u4eba)"
+      "norm_label": "nick (\u5171\u540c\u5275\u8fa6\u4eba)",
+      "id": "he_picked_the_market_everyone_skipped_nick"
     },
     {
       "label": "Dr. Tyrone David",
@@ -22469,9 +22469,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_dr_tyrone_david",
       "community": 37,
-      "norm_label": "dr. tyrone david"
+      "norm_label": "dr. tyrone david",
+      "id": "he_picked_the_market_everyone_skipped_dr_tyrone_david"
     },
     {
       "label": "\u6954\u5b50\uff08Wedge\uff09\u8207\u5e02\u5834\uff08Market\uff09\u7684\u5340\u5206",
@@ -22482,9 +22482,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_wedge_vs_market_framework",
       "community": 37,
-      "norm_label": "\u6954\u5b50(wedge)\u8207\u5e02\u5834(market)\u7684\u5340\u5206"
+      "norm_label": "\u6954\u5b50(wedge)\u8207\u5e02\u5834(market)\u7684\u5340\u5206",
+      "id": "he_picked_the_market_everyone_skipped_wedge_vs_market_framework"
     },
     {
       "label": "\u6f23\u6f2a\u6548\u61c9\u5f0f\u5f71\u97ff\u529b",
@@ -22495,9 +22495,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_ripple_effect_impact",
       "community": 37,
-      "norm_label": "\u6f23\u6f2a\u6548\u61c9\u5f0f\u5f71\u97ff\u529b"
+      "norm_label": "\u6f23\u6f2a\u6548\u61c9\u5f0f\u5f71\u97ff\u529b",
+      "id": "he_picked_the_market_everyone_skipped_ripple_effect_impact"
     },
     {
       "label": "\u56db\u6b21\u8f49\u578b\uff08Pivot\uff09",
@@ -22508,9 +22508,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_four_pivots",
       "community": 37,
-      "norm_label": "\u56db\u6b21\u8f49\u578b(pivot)"
+      "norm_label": "\u56db\u6b21\u8f49\u578b(pivot)",
+      "id": "he_picked_the_market_everyone_skipped_four_pivots"
     },
     {
       "label": "\u4e00\u53e5\u8a71\u9a57\u8b49\u6cd5\uff08One-line Test\uff09",
@@ -22521,9 +22521,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_one_line_test",
       "community": 37,
-      "norm_label": "\u4e00\u53e5\u8a71\u9a57\u8b49\u6cd5(one-line test)"
+      "norm_label": "\u4e00\u53e5\u8a71\u9a57\u8b49\u6cd5(one-line test)",
+      "id": "he_picked_the_market_everyone_skipped_one_line_test"
     },
     {
       "label": "\u5371\u6a5f\u9a57\u8b49\u5047\u8aaa\uff08Crisis-Validated Thesis\uff09",
@@ -22534,9 +22534,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_crisis_validated_thesis",
       "community": 37,
-      "norm_label": "\u5371\u6a5f\u9a57\u8b49\u5047\u8aaa(crisis-validated thesis)"
+      "norm_label": "\u5371\u6a5f\u9a57\u8b49\u5047\u8aaa(crisis-validated thesis)",
+      "id": "he_picked_the_market_everyone_skipped_crisis_validated_thesis"
     },
     {
       "label": "\u4efb\u52d9\u4e0d\u8b8a\u8ad6\uff08Jobs-to-be-Done Invariance\uff09",
@@ -22547,9 +22547,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_jobs_to_be_done_invariance",
       "community": 37,
-      "norm_label": "\u4efb\u52d9\u4e0d\u8b8a\u8ad6(jobs-to-be-done invariance)"
+      "norm_label": "\u4efb\u52d9\u4e0d\u8b8a\u8ad6(jobs-to-be-done invariance)",
+      "id": "he_picked_the_market_everyone_skipped_jobs_to_be_done_invariance"
     },
     {
       "label": "\u881f\u71ed\u539f\u5247",
@@ -22560,9 +22560,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_candle_principle",
       "community": 37,
-      "norm_label": "\u881f\u71ed\u539f\u5247"
+      "norm_label": "\u881f\u71ed\u539f\u5247",
+      "id": "he_picked_the_market_everyone_skipped_candle_principle"
     },
     {
       "label": "W-O-T \u6cd5\u5247",
@@ -22573,9 +22573,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_wot_rule",
       "community": 37,
-      "norm_label": "w-o-t \u6cd5\u5247"
+      "norm_label": "w-o-t \u6cd5\u5247",
+      "id": "he_picked_the_market_everyone_skipped_wot_rule"
     },
     {
       "label": "COVID-19 \u75ab\u60c5",
@@ -22586,9 +22586,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_covid_19",
       "community": 37,
-      "norm_label": "covid-19 \u75ab\u60c5"
+      "norm_label": "covid-19 \u75ab\u60c5",
+      "id": "he_picked_the_market_everyone_skipped_covid_19"
     },
     {
       "label": "Product-Market Fit\uff08\u7522\u54c1\u5e02\u5834\u5951\u5408\uff09",
@@ -22599,9 +22599,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_product_market_fit",
       "community": 37,
-      "norm_label": "product-market fit(\u7522\u54c1\u5e02\u5834\u5951\u5408)"
+      "norm_label": "product-market fit(\u7522\u54c1\u5e02\u5834\u5951\u5408)",
+      "id": "he_picked_the_market_everyone_skipped_product_market_fit"
     },
     {
       "label": "\u85e5\u5c40\u7522\u696d",
@@ -22612,9 +22612,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_pharmacy_industry",
       "community": 37,
-      "norm_label": "\u85e5\u5c40\u7522\u696d"
+      "norm_label": "\u85e5\u5c40\u7522\u696d",
+      "id": "he_picked_the_market_everyone_skipped_pharmacy_industry"
     },
     {
       "label": "\u81ea\u52d5\u6383\u63cf\u8655\u65b9\u7b8b\uff082018\u5e74\u9996\u6b21\u5617\u8a66\uff09",
@@ -22625,9 +22625,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_prescription_scanning_attempt",
       "community": 37,
-      "norm_label": "\u81ea\u52d5\u6383\u63cf\u8655\u65b9\u7b8b(2018\u5e74\u9996\u6b21\u5617\u8a66)"
+      "norm_label": "\u81ea\u52d5\u6383\u63cf\u8655\u65b9\u7b8b(2018\u5e74\u9996\u6b21\u5617\u8a66)",
+      "id": "he_picked_the_market_everyone_skipped_prescription_scanning_attempt"
     },
     {
       "label": "\u85e5\u7269\u4f9d\u5f9e\u6027\u786c\u9ad4\u7522\u54c1",
@@ -22638,9 +22638,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_medication_adherence_hardware",
       "community": 37,
-      "norm_label": "\u85e5\u7269\u4f9d\u5f9e\u6027\u786c\u9ad4\u7522\u54c1"
+      "norm_label": "\u85e5\u7269\u4f9d\u5f9e\u6027\u786c\u9ad4\u7522\u54c1",
+      "id": "he_picked_the_market_everyone_skipped_medication_adherence_hardware"
     },
     {
       "label": "\u8aee\u8a62\u5f0f\u81e8\u5e8a\u7167\u8b77\u8edf\u9ad4\u5de5\u5177",
@@ -22651,9 +22651,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "he_picked_the_market_everyone_skipped_clinical_care_software",
       "community": 37,
-      "norm_label": "\u8aee\u8a62\u5f0f\u81e8\u5e8a\u7167\u8b77\u8edf\u9ad4\u5de5\u5177"
+      "norm_label": "\u8aee\u8a62\u5f0f\u81e8\u5e8a\u7167\u8b77\u8edf\u9ad4\u5de5\u5177",
+      "id": "he_picked_the_market_everyone_skipped_clinical_care_software"
     }
   ],
   "links": [
@@ -22665,9 +22665,9 @@
       "weight": 1.0,
       "_src": "scripts_rebuild_index_js",
       "_tgt": "rebuild_index_parsefrontmatter",
-      "confidence_score": 1.0,
       "source": "scripts_rebuild_index_js",
-      "target": "rebuild_index_parsefrontmatter"
+      "target": "rebuild_index_parsefrontmatter",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -22677,9 +22677,9 @@
       "weight": 1.0,
       "_src": "scripts_rebuild_index_js",
       "_tgt": "rebuild_index_buildindex",
-      "confidence_score": 1.0,
       "source": "scripts_rebuild_index_js",
-      "target": "rebuild_index_buildindex"
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -22689,9 +22689,9 @@
       "weight": 1.0,
       "_src": "rebuild_index_buildindex",
       "_tgt": "rebuild_index_parsefrontmatter",
-      "confidence_score": 1.0,
       "source": "rebuild_index_parsefrontmatter",
-      "target": "rebuild_index_buildindex"
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
     },
     {
       "relation": "references",
@@ -43952,8 +43952,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_purya_sarmadi",
-      "_tgt": "he_picked_the_market_everyone_skipped_medme_health",
+      "_src": "he_picked_the_market_everyone_skipped_medme_health",
+      "_tgt": "he_picked_the_market_everyone_skipped_purya_sarmadi",
       "source": "he_picked_the_market_everyone_skipped_medme_health",
       "target": "he_picked_the_market_everyone_skipped_purya_sarmadi"
     },
@@ -43964,8 +43964,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_nick",
-      "_tgt": "he_picked_the_market_everyone_skipped_medme_health",
+      "_src": "he_picked_the_market_everyone_skipped_medme_health",
+      "_tgt": "he_picked_the_market_everyone_skipped_nick",
       "source": "he_picked_the_market_everyone_skipped_medme_health",
       "target": "he_picked_the_market_everyone_skipped_nick"
     },
@@ -43976,8 +43976,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_ripple_effect_impact",
-      "_tgt": "he_picked_the_market_everyone_skipped_medme_health",
+      "_src": "he_picked_the_market_everyone_skipped_medme_health",
+      "_tgt": "he_picked_the_market_everyone_skipped_ripple_effect_impact",
       "source": "he_picked_the_market_everyone_skipped_medme_health",
       "target": "he_picked_the_market_everyone_skipped_ripple_effect_impact"
     },
@@ -43988,8 +43988,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_four_pivots",
-      "_tgt": "he_picked_the_market_everyone_skipped_medme_health",
+      "_src": "he_picked_the_market_everyone_skipped_medme_health",
+      "_tgt": "he_picked_the_market_everyone_skipped_four_pivots",
       "source": "he_picked_the_market_everyone_skipped_medme_health",
       "target": "he_picked_the_market_everyone_skipped_four_pivots"
     },
@@ -44000,8 +44000,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_clinical_care_software",
-      "_tgt": "he_picked_the_market_everyone_skipped_medme_health",
+      "_src": "he_picked_the_market_everyone_skipped_medme_health",
+      "_tgt": "he_picked_the_market_everyone_skipped_clinical_care_software",
       "source": "he_picked_the_market_everyone_skipped_medme_health",
       "target": "he_picked_the_market_everyone_skipped_clinical_care_software"
     },
@@ -44012,8 +44012,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_crisis_validated_thesis",
-      "_tgt": "he_picked_the_market_everyone_skipped_medme_health",
+      "_src": "he_picked_the_market_everyone_skipped_medme_health",
+      "_tgt": "he_picked_the_market_everyone_skipped_crisis_validated_thesis",
       "source": "he_picked_the_market_everyone_skipped_medme_health",
       "target": "he_picked_the_market_everyone_skipped_crisis_validated_thesis"
     },
@@ -44072,8 +44072,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_candle_principle",
-      "_tgt": "he_picked_the_market_everyone_skipped_purya_sarmadi",
+      "_src": "he_picked_the_market_everyone_skipped_purya_sarmadi",
+      "_tgt": "he_picked_the_market_everyone_skipped_candle_principle",
       "source": "he_picked_the_market_everyone_skipped_purya_sarmadi",
       "target": "he_picked_the_market_everyone_skipped_candle_principle"
     },
@@ -44084,8 +44084,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_candle_principle",
-      "_tgt": "he_picked_the_market_everyone_skipped_nick",
+      "_src": "he_picked_the_market_everyone_skipped_nick",
+      "_tgt": "he_picked_the_market_everyone_skipped_candle_principle",
       "source": "he_picked_the_market_everyone_skipped_nick",
       "target": "he_picked_the_market_everyone_skipped_candle_principle"
     },
@@ -44120,8 +44120,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_wot_rule",
-      "_tgt": "he_picked_the_market_everyone_skipped_wedge_vs_market_framework",
+      "_src": "he_picked_the_market_everyone_skipped_wedge_vs_market_framework",
+      "_tgt": "he_picked_the_market_everyone_skipped_wot_rule",
       "source": "he_picked_the_market_everyone_skipped_wedge_vs_market_framework",
       "target": "he_picked_the_market_everyone_skipped_wot_rule"
     },
@@ -44132,8 +44132,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_jobs_to_be_done_invariance",
-      "_tgt": "he_picked_the_market_everyone_skipped_wedge_vs_market_framework",
+      "_src": "he_picked_the_market_everyone_skipped_wedge_vs_market_framework",
+      "_tgt": "he_picked_the_market_everyone_skipped_jobs_to_be_done_invariance",
       "source": "he_picked_the_market_everyone_skipped_wedge_vs_market_framework",
       "target": "he_picked_the_market_everyone_skipped_jobs_to_be_done_invariance"
     },
@@ -44144,8 +44144,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_prescription_scanning_attempt",
-      "_tgt": "he_picked_the_market_everyone_skipped_four_pivots",
+      "_src": "he_picked_the_market_everyone_skipped_four_pivots",
+      "_tgt": "he_picked_the_market_everyone_skipped_prescription_scanning_attempt",
       "source": "he_picked_the_market_everyone_skipped_four_pivots",
       "target": "he_picked_the_market_everyone_skipped_prescription_scanning_attempt"
     },
@@ -44156,8 +44156,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_medication_adherence_hardware",
-      "_tgt": "he_picked_the_market_everyone_skipped_four_pivots",
+      "_src": "he_picked_the_market_everyone_skipped_four_pivots",
+      "_tgt": "he_picked_the_market_everyone_skipped_medication_adherence_hardware",
       "source": "he_picked_the_market_everyone_skipped_four_pivots",
       "target": "he_picked_the_market_everyone_skipped_medication_adherence_hardware"
     },
@@ -44168,8 +44168,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_clinical_care_software",
-      "_tgt": "he_picked_the_market_everyone_skipped_four_pivots",
+      "_src": "he_picked_the_market_everyone_skipped_four_pivots",
+      "_tgt": "he_picked_the_market_everyone_skipped_clinical_care_software",
       "source": "he_picked_the_market_everyone_skipped_four_pivots",
       "target": "he_picked_the_market_everyone_skipped_clinical_care_software"
     },
@@ -44192,8 +44192,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_wot_rule",
-      "_tgt": "he_picked_the_market_everyone_skipped_one_line_test",
+      "_src": "he_picked_the_market_everyone_skipped_one_line_test",
+      "_tgt": "he_picked_the_market_everyone_skipped_wot_rule",
       "source": "he_picked_the_market_everyone_skipped_one_line_test",
       "target": "he_picked_the_market_everyone_skipped_wot_rule"
     },
@@ -44204,8 +44204,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_covid_19",
-      "_tgt": "he_picked_the_market_everyone_skipped_crisis_validated_thesis",
+      "_src": "he_picked_the_market_everyone_skipped_crisis_validated_thesis",
+      "_tgt": "he_picked_the_market_everyone_skipped_covid_19",
       "source": "he_picked_the_market_everyone_skipped_crisis_validated_thesis",
       "target": "he_picked_the_market_everyone_skipped_covid_19"
     },
@@ -44216,8 +44216,8 @@
       "source_file": "_notes/he-picked-the-market-everyone-skipped.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "he_picked_the_market_everyone_skipped_wot_rule",
-      "_tgt": "he_picked_the_market_everyone_skipped_crisis_validated_thesis",
+      "_src": "he_picked_the_market_everyone_skipped_crisis_validated_thesis",
+      "_tgt": "he_picked_the_market_everyone_skipped_wot_rule",
       "source": "he_picked_the_market_everyone_skipped_crisis_validated_thesis",
       "target": "he_picked_the_market_everyone_skipped_wot_rule"
     },
