@@ -1,5 +1,25 @@
 [
   {
+    "id": "he-picked-the-market-everyone-skipped",
+    "title": "MedMe創辦人：找對楔子勝過找對市場",
+    "category": "影片筆記",
+    "tags": [
+      "楔子與市場",
+      "產品市場契合",
+      "共同創辦人關係",
+      "危機驗證",
+      "創業轉型"
+    ],
+    "description": "這支影片記錄 MedMe Health 共同創辦人暨執行長 Purya Sarmadi 的創業歷程，揭示藥局產業長期未被解決的痛點：藥局被低估為單純的「藥物配送站」",
+    "quote": "不要把選錯楔子誤判為選錯市場（Don't mistake being in the wrong wedge as being in the wrong market）。",
+    "action": "用 W-O-T 法則驗證創業方向：先驗證單一楔子、用一句話測試客戶依賴度、在危機時刻驗證市場假說。",
+    "image": "/images/影片筆記/he-picked-the-market-everyone-skipped.jpg",
+    "date": "2026-07-03",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這支影片記錄 MedMe Health 共同創辦人暨執行長 Purya Sarmadi 的創業歷程，揭示藥局產業長期未被解決的痛點：藥局被低估為單純的「藥物配送站」，而非社區醫療樞紐。影片核心貢獻在於提出「錯誤楔子（Wedge）vs. 錯誤市場」的判斷框架，說明創辦人如何透過四次轉型（Pivot）逐步逼近正確切入點，並在 COVID-19 期間十週內將合作藥局從百家擴張至近 1,200 家。此外，影片也深入剖析共同創辦人關係經營的關鍵原則。 [youtube](https://www.youtube.com/watch?v=3OXwVGNbkrw) 童年經歷驅動使命  Purya 六、七歲時目睹母親心臟瓣膜手術的驚險過程，外科醫師 Dr. Tyrone David 的自信與成功，讓他體悟到醫療對個人與家庭具有「漣漪效應」式的深遠影響。這段經歷雖讓他一度立志成為心臟外科醫師，但因手部不夠穩定及睡眠問題轉而結合科技與數據科學，尋求以更大規模創造醫療影響力，此為其創業的核心動機。關鍵概念：漣漪效應式影響力。 [youtube](https://www.youtube.com/wat",
+    "url": "/notes/he-picked-the-market-everyone-skipped"
+  },
+  {
     "id": "ai-agent-memory-coala-framework",
     "title": "AI Agent 記憶四大類型：CoALA框架",
     "category": "影片筆記",
