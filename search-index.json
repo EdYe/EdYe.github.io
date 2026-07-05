@@ -1,5 +1,25 @@
 [
   {
+    "id": "agents-building-agents",
+    "title": "雙Agent架構：用AI建造AI的自我修復法",
+    "category": "AI筆記",
+    "tags": [
+      "AutoAgent",
+      "Golden Dataset",
+      "Harness Engineering",
+      "自我修復評測",
+      "失效叢集分析"
+    ],
+    "description": "本片核心揭示了「用 AI 建造 AI」的系統工程方法,解決了 AI Agent 開發中精準度低、難以迭代、且難以規模化維運的痛點。講者提出雙 Agent 架構——由 Coding Agent 擔任建造者",
+    "quote": "💡AI is very powerful and very good at building any type of software... so we are using AI to build AI.",
+    "action": "🎯依序建立 Golden Dataset、Eval Loop 與 Harness 三大基礎設施（G-E-H 法則），讓 Coding Agent 能安全自主迭代 Agent。",
+    "image": "/images/AI筆記/agents-building-agents.jpg",
+    "date": "2026-07-05",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本片核心揭示了「用 AI 建造 AI」的系統工程方法,解決了 AI Agent 開發中精準度低、難以迭代、且難以規模化維運的痛點 。講者 Alfonso Graziano 提出雙 Agent 架構——由 Coding Agent(如 Claude Code)擔任建造者,自動修正目標 Agent 的程式碼、System Prompt 與工具邏輯,並透過自我修復評測(Self-Healing Evals)機制持續迭代收斂,讓 Agent 開發從「Prompt 調試」進化為可規模化的「系統工程」。 [youtube](https://www.youtube.com/watch?v=0TpFfTOuhU) 詳細重點整理 1. AI Agent 的核心問題與架構  業界普遍追求 AI Agent 自動化,但其非決定性(Non-deterministic)本質帶來幻覺、延遲、成本等問題。講者將 Agent 拆解為「LLM(大腦)+ 工具 + 上下文 + Agentic Loop」的基本元件 。核心概念:Agentic Loop 三元素模型。 [youtube](https://www.y",
+    "url": "/notes/agents-building-agents"
+  },
+  {
     "id": "tongue-scalloping-reveals-metabolic-risks",
     "title": "舌頭齒痕背後隱藏的四大代謝危機",
     "category": "影片筆記",
