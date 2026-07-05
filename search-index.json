@@ -1,5 +1,25 @@
 [
   {
+    "id": "building-autonomous-engineering-org",
+    "title": "1%冠軍計畫：打造自主代理式工程組織",
+    "category": "AI筆記",
+    "tags": [
+      "代理式工程",
+      "成熟度模型",
+      "1%冠軍計畫",
+      "AI友善程式庫",
+      "Builder Bot"
+    ],
+    "description": "這部影片由 Block（Square 母公司）開發者體驗副總裁 Angie Jones 分享,如何在一年內將 3,500 人的工程組織從「使用 AI 工具」轉化",
+    "quote": "我為打造出自主工程組織而自豪的隔天,公司就裁員了——我究竟是在賦能團隊,還是在加速他們被取代?",
+    "action": "用1-3-5法則:先組1%冠軍團隊打造範本,再打通Issue Tracker、GitHub、Slack三大委派入口,目標讓代理達到自主產出成果的第五階段成熟度",
+    "image": "/images/AI筆記/building-autonomous-engineering-org.jpg",
+    "date": "2026-07-05",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片由 Block（Square 母公司）開發者體驗副總裁 Angie Jones 分享,如何在一年內將 3,500 人的工程組織從「使用 AI 工具」轉化為「自主代理式工程」(Agentic Engineering)。核心痛點是:即使 90% 工程師都在用 AI 編碼工具,功能交付速度卻沒有提升,問題出在 AI 只被用來輔助寫程式碼,而非真正委派任務給代理人執行 。她提出五階段成熟度模型與1% 冠軍計畫的策略,最終成功建立可自主交付成果的工程體系,但也在組織達成目標後立即面臨大規模裁員的倫理衝擊。 [youtube](https://www.youtube.com/watch?v=whue9YquGA) 詳細重點整理 1. 問題浮現:用了 AI 卻沒變快  Block 的 Goose 編碼代理早於 LLM 支援工具呼叫前就已開發,並成為 MCP(Model Context Protocol)的參考實作,90% 工程師日常使用 Goose 與 Claude Code,但 CEO 認為工程團隊根本沒在用 AI,因為功能交付速度沒有提升。關鍵概念:AI 採用三階段模型(實驗、",
+    "url": "/notes/building-autonomous-engineering-org"
+  },
+  {
     "id": "agents-building-agents",
     "title": "雙Agent架構：用AI建造AI的自我修復法",
     "category": "AI筆記",
