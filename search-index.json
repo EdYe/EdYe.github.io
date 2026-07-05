@@ -1,5 +1,25 @@
 [
   {
+    "id": "html-agents-visual-graphics",
+    "title": "HTML是Agent做視覺任務的正解",
+    "category": "影片筆記",
+    "tags": [
+      "語言原生性",
+      "HTML版面能力",
+      "座標式工具錯配",
+      "資料驅動生成",
+      "Nori實戰案例"
+    ],
+    "description": "這部影片揭示一個關鍵洞察：AI Coding Agent 並非真的不擅長處理視覺與空間任務，問題出在工具本身用人類的操作邏輯（拖曳、座標、像素）強加給 Agent",
+    "quote": "💡不要用使用者的角度思考，要用模型的角度思考（Stop thinking like a user. Think like the model.）",
+    "action": "🎯善用H-T-M法則，讓Agent優先以HTML/CSS作為中介格式產出視覺成品，再轉換成最終呈現格式",
+    "image": "/images/影片筆記/html-agents-visual-graphics.jpg",
+    "date": "2026-07-05",
+    "source_has_timestamps": true,
+    "body": "核心摘要 這部影片揭示了一個關鍵洞察：AI Coding Agent 並非真的不擅長處理視覺與空間任務，問題出在工具本身用人類的操作邏輯（拖曳、座標、像素）強加給 Agent。講者 Amol Kapoor 主張應該讓 Agent 用它最熟悉的「語言」——HTML——來建構投影片、文件甚至影片，因為 HTML 的標籤本身就帶有語意結構（標題、圖表、網格），讓模型能以「結構化思考」取代「座標運算」，從而徹底解決 Agent 在製作視覺成品時常見的版面錯位、文字重疊等問題。 [youtube](https://www.youtube.com/watch?v=ikb6kqhsDw4) 詳細重點整理 1. 座標式工具是錯配的根源  PowerPoint、Figma、Canva 這類工具的底層資料結構，是為了人類手眼協調（點擊、拖曳、對齊網格）而設計，當交給 Agent 操作時，輸出常常版面錯亂、文字看不清。人機介面錯配正是 AI 在視覺任務上「看起來很爛」的真正原因，而非模型本身缺乏空間推理能力。 [youtube](https://www.youtube.com/watch?v=ikb6kqh",
+    "url": "/notes/html-agents-visual-graphics"
+  },
+  {
     "id": "building-autonomous-engineering-org",
     "title": "1%冠軍計畫：打造自主代理式工程組織",
     "category": "AI筆記",

@@ -839,27 +839,27 @@
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L1",
+      "id": "scripts_rebuild_index_js",
       "community": 106,
-      "norm_label": "rebuild-index.js",
-      "id": "scripts_rebuild_index_js"
+      "norm_label": "rebuild-index.js"
     },
     {
       "label": "parseFrontMatter()",
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L11",
+      "id": "rebuild_index_parsefrontmatter",
       "community": 106,
-      "norm_label": "parsefrontmatter()",
-      "id": "rebuild_index_parsefrontmatter"
+      "norm_label": "parsefrontmatter()"
     },
     {
       "label": "buildIndex()",
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L45",
+      "id": "rebuild_index_buildindex",
       "community": 106,
-      "norm_label": "buildindex()",
-      "id": "rebuild_index_buildindex"
+      "norm_label": "buildindex()"
     },
     {
       "label": "\u5efa\u7acb\u8ac7\u5224\u81ea\u4fe1\u8207\u6d88\u9664\u6469\u64e6",
@@ -23451,9 +23451,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tongue_scalloping_reveals_metabolic_risks_scalloped_tongue",
       "community": 55,
-      "norm_label": "\u9f52\u75d5\u820c (scalloped tongue)"
+      "norm_label": "\u9f52\u75d5\u820c (scalloped tongue)",
+      "id": "tongue_scalloping_reveals_metabolic_risks_scalloped_tongue"
     },
     {
       "label": "\u7d44\u7e54\u6c34\u816b (Tissue Edema)",
@@ -23464,9 +23464,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tongue_scalloping_reveals_metabolic_risks_tissue_edema",
       "community": 55,
-      "norm_label": "\u7d44\u7e54\u6c34\u816b (tissue edema)"
+      "norm_label": "\u7d44\u7e54\u6c34\u816b (tissue edema)",
+      "id": "tongue_scalloping_reveals_metabolic_risks_tissue_edema"
     },
     {
       "label": "\u7532\u72c0\u817a\u529f\u80fd\u6e1b\u9000 (Hypothyroidism)",
@@ -23477,9 +23477,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tongue_scalloping_reveals_metabolic_risks_hypothyroidism",
       "community": 55,
-      "norm_label": "\u7532\u72c0\u817a\u529f\u80fd\u6e1b\u9000 (hypothyroidism)"
+      "norm_label": "\u7532\u72c0\u817a\u529f\u80fd\u6e1b\u9000 (hypothyroidism)",
+      "id": "tongue_scalloping_reveals_metabolic_risks_hypothyroidism"
     },
     {
       "label": "\u9ecf\u6db2\u6027\u6c34\u816b (Myxedema)",
@@ -23490,9 +23490,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tongue_scalloping_reveals_metabolic_risks_myxedema",
       "community": 55,
-      "norm_label": "\u9ecf\u6db2\u6027\u6c34\u816b (myxedema)"
+      "norm_label": "\u9ecf\u6db2\u6027\u6c34\u816b (myxedema)",
+      "id": "tongue_scalloping_reveals_metabolic_risks_myxedema"
     },
     {
       "label": "\u4f4e\u767d\u86cb\u767d\u8840\u75c7 (Hypoalbuminemia)",
@@ -23503,9 +23503,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tongue_scalloping_reveals_metabolic_risks_hypoalbuminemia",
       "community": 55,
-      "norm_label": "\u4f4e\u767d\u86cb\u767d\u8840\u75c7 (hypoalbuminemia)"
+      "norm_label": "\u4f4e\u767d\u86cb\u767d\u8840\u75c7 (hypoalbuminemia)",
+      "id": "tongue_scalloping_reveals_metabolic_risks_hypoalbuminemia"
     },
     {
       "label": "\u81a0\u9ad4\u6ef2\u900f\u58d3\u5931\u8861 (Colloid Osmotic Pressure Imbalance)",
@@ -23516,9 +23516,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tongue_scalloping_reveals_metabolic_risks_colloid_osmotic_imbalance",
       "community": 55,
-      "norm_label": "\u81a0\u9ad4\u6ef2\u900f\u58d3\u5931\u8861 (colloid osmotic pressure imbalance)"
+      "norm_label": "\u81a0\u9ad4\u6ef2\u900f\u58d3\u5931\u8861 (colloid osmotic pressure imbalance)",
+      "id": "tongue_scalloping_reveals_metabolic_risks_colloid_osmotic_imbalance"
     },
     {
       "label": "\u4ee3\u8b1d\u75c7\u5019\u7fa4/\u80f0\u5cf6\u7d20\u62b5\u6297 (Metabolic Syndrome / Insulin Resistance)",
@@ -23529,9 +23529,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tongue_scalloping_reveals_metabolic_risks_metabolic_syndrome",
       "community": 55,
-      "norm_label": "\u4ee3\u8b1d\u75c7\u5019\u7fa4/\u80f0\u5cf6\u7d20\u62b5\u6297 (metabolic syndrome / insulin resistance)"
+      "norm_label": "\u4ee3\u8b1d\u75c7\u5019\u7fa4/\u80f0\u5cf6\u7d20\u62b5\u6297 (metabolic syndrome / insulin resistance)",
+      "id": "tongue_scalloping_reveals_metabolic_risks_metabolic_syndrome"
     },
     {
       "label": "\u6c34\u9209\u7026\u7559 (Sodium-Water Retention)",
@@ -23542,9 +23542,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tongue_scalloping_reveals_metabolic_risks_sodium_water_retention",
       "community": 55,
-      "norm_label": "\u6c34\u9209\u7026\u7559 (sodium-water retention)"
+      "norm_label": "\u6c34\u9209\u7026\u7559 (sodium-water retention)",
+      "id": "tongue_scalloping_reveals_metabolic_risks_sodium_water_retention"
     },
     {
       "label": "\u6162\u6027\u4f4e\u5ea6\u708e\u75c7 (Chronic Low-grade Inflammation)",
@@ -23555,9 +23555,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tongue_scalloping_reveals_metabolic_risks_chronic_inflammation",
       "community": 55,
-      "norm_label": "\u6162\u6027\u4f4e\u5ea6\u708e\u75c7 (chronic low-grade inflammation)"
+      "norm_label": "\u6162\u6027\u4f4e\u5ea6\u708e\u75c7 (chronic low-grade inflammation)",
+      "id": "tongue_scalloping_reveals_metabolic_risks_chronic_inflammation"
     },
     {
       "label": "\u8840\u7ba1\u901a\u900f\u6027\u589e\u52a0 (Increased Vascular Permeability)",
@@ -23568,9 +23568,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tongue_scalloping_reveals_metabolic_risks_vascular_permeability",
       "community": 55,
-      "norm_label": "\u8840\u7ba1\u901a\u900f\u6027\u589e\u52a0 (increased vascular permeability)"
+      "norm_label": "\u8840\u7ba1\u901a\u900f\u6027\u589e\u52a0 (increased vascular permeability)",
+      "id": "tongue_scalloping_reveals_metabolic_risks_vascular_permeability"
     },
     {
       "label": "\u75c5\u56e0\u7279\u7570\u6027\u5e72\u9810 (Cause-Specific Intervention)",
@@ -23581,9 +23581,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tongue_scalloping_reveals_metabolic_risks_cause_specific_intervention",
       "community": 55,
-      "norm_label": "\u75c5\u56e0\u7279\u7570\u6027\u5e72\u9810 (cause-specific intervention)"
+      "norm_label": "\u75c5\u56e0\u7279\u7570\u6027\u5e72\u9810 (cause-specific intervention)",
+      "id": "tongue_scalloping_reveals_metabolic_risks_cause_specific_intervention"
     },
     {
       "label": "\u9f52-\u67e5-\u6cbb\u4e09\u6b65\u6cd5\u5247 (Tooth-Check-Treat Rule)",
@@ -23594,9 +23594,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "tongue_scalloping_reveals_metabolic_risks_tooth_check_treat_rule",
       "community": 55,
-      "norm_label": "\u9f52-\u67e5-\u6cbb\u4e09\u6b65\u6cd5\u5247 (tooth-check-treat rule)"
+      "norm_label": "\u9f52-\u67e5-\u6cbb\u4e09\u6b65\u6cd5\u5247 (tooth-check-treat rule)",
+      "id": "tongue_scalloping_reveals_metabolic_risks_tooth_check_treat_rule"
     },
     {
       "label": "Agent SaaS",
@@ -23607,9 +23607,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_agent_saas",
       "community": 20,
-      "norm_label": "agent saas"
+      "norm_label": "agent saas",
+      "id": "agent_saas_sell_the_job_agent_saas"
     },
     {
       "label": "\u5de5\u4f5c\u5373\u7522\u54c1 (Product Is the Job)",
@@ -23620,9 +23620,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_product_is_the_job",
       "community": 20,
-      "norm_label": "\u5de5\u4f5c\u5373\u7522\u54c1 (product is the job)"
+      "norm_label": "\u5de5\u4f5c\u5373\u7522\u54c1 (product is the job)",
+      "id": "agent_saas_sell_the_job_product_is_the_job"
     },
     {
       "label": "Slang AI\uff08\u9910\u5ef3\u96fb\u8a71\u4ee3\u63a5\uff09",
@@ -23633,9 +23633,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_slang_ai",
       "community": 20,
-      "norm_label": "slang ai(\u9910\u5ef3\u96fb\u8a71\u4ee3\u63a5)"
+      "norm_label": "slang ai(\u9910\u5ef3\u96fb\u8a71\u4ee3\u63a5)",
+      "id": "agent_saas_sell_the_job_slang_ai"
     },
     {
       "label": "Same Day\uff08\u5c45\u5bb6\u670d\u52d9\u6d3e\u5de5\uff09",
@@ -23646,9 +23646,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_same_day",
       "community": 20,
-      "norm_label": "same day(\u5c45\u5bb6\u670d\u52d9\u6d3e\u5de5)"
+      "norm_label": "same day(\u5c45\u5bb6\u670d\u52d9\u6d3e\u5de5)",
+      "id": "agent_saas_sell_the_job_same_day"
     },
     {
       "label": "\u5e36\u85aa\u6c34\u7684\u5de5\u4f5c\u6d41\u7a0b (Workflow With a Paycheck)",
@@ -23659,9 +23659,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_workflow_with_paycheck",
       "community": 20,
-      "norm_label": "\u5e36\u85aa\u6c34\u7684\u5de5\u4f5c\u6d41\u7a0b (workflow with a paycheck)"
+      "norm_label": "\u5e36\u85aa\u6c34\u7684\u5de5\u4f5c\u6d41\u7a0b (workflow with a paycheck)",
+      "id": "agent_saas_sell_the_job_workflow_with_paycheck"
     },
     {
       "label": "\u7d30\u7bc0\u5373\u7522\u54c1 (The Detail Is the Product)",
@@ -23672,9 +23672,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_detail_is_the_product",
       "community": 20,
-      "norm_label": "\u7d30\u7bc0\u5373\u7522\u54c1 (the detail is the product)"
+      "norm_label": "\u7d30\u7bc0\u5373\u7522\u54c1 (the detail is the product)",
+      "id": "agent_saas_sell_the_job_detail_is_the_product"
     },
     {
       "label": "\u6700\u5c0f\u53ef\u7528 Agent (Minimum Useful Agent, MUA)",
@@ -23685,9 +23685,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_minimum_useful_agent",
       "community": 20,
-      "norm_label": "\u6700\u5c0f\u53ef\u7528 agent (minimum useful agent, mua)"
+      "norm_label": "\u6700\u5c0f\u53ef\u7528 agent (minimum useful agent, mua)",
+      "id": "agent_saas_sell_the_job_minimum_useful_agent"
     },
     {
       "label": "Anthropic\uff08\u5efa\u8b70\u5f15\u7528\u4f86\u6e90\uff09",
@@ -23698,9 +23698,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_anthropic",
       "community": 20,
-      "norm_label": "anthropic(\u5efa\u8b70\u5f15\u7528\u4f86\u6e90)"
+      "norm_label": "anthropic(\u5efa\u8b70\u5f15\u7528\u4f86\u6e90)",
+      "id": "agent_saas_sell_the_job_anthropic"
     },
     {
       "label": "\u8a55\u6e2c\u9a45\u52d5\u4fe1\u4efb (Eval-Driven Trust)",
@@ -23711,9 +23711,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_eval_driven_trust",
       "community": 20,
-      "norm_label": "\u8a55\u6e2c\u9a45\u52d5\u4fe1\u4efb (eval-driven trust)"
+      "norm_label": "\u8a55\u6e2c\u9a45\u52d5\u4fe1\u4efb (eval-driven trust)",
+      "id": "agent_saas_sell_the_job_eval_driven_trust"
     },
     {
       "label": "\u6210\u679c\u8a08\u50f9 (Outcome Pricing)",
@@ -23724,9 +23724,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_outcome_pricing",
       "community": 20,
-      "norm_label": "\u6210\u679c\u8a08\u50f9 (outcome pricing)"
+      "norm_label": "\u6210\u679c\u8a08\u50f9 (outcome pricing)",
+      "id": "agent_saas_sell_the_job_outcome_pricing"
     },
     {
       "label": "\u5de5\u4f5c\u6d41\u7a0b\u62c6\u89e3 (Workflow Teardown)",
@@ -23737,9 +23737,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_workflow_teardown",
       "community": 20,
-      "norm_label": "\u5de5\u4f5c\u6d41\u7a0b\u62c6\u89e3 (workflow teardown)"
+      "norm_label": "\u5de5\u4f5c\u6d41\u7a0b\u62c6\u89e3 (workflow teardown)",
+      "id": "agent_saas_sell_the_job_workflow_teardown"
     },
     {
       "label": "\u96f6\u5230\u767e\u8a08\u756b (Zero-to-100 Plan)",
@@ -23750,9 +23750,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_zero_to_100_plan",
       "community": 20,
-      "norm_label": "\u96f6\u5230\u767e\u8a08\u756b (zero-to-100 plan)"
+      "norm_label": "\u96f6\u5230\u767e\u8a08\u756b (zero-to-100 plan)",
+      "id": "agent_saas_sell_the_job_zero_to_100_plan"
     },
     {
       "label": "S-S-P \u6cd5\u5247 (Shadow-Spec-Pilot)",
@@ -23763,9 +23763,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agent_saas_sell_the_job_ssp_rule",
       "community": 20,
-      "norm_label": "s-s-p \u6cd5\u5247 (shadow-spec-pilot)"
+      "norm_label": "s-s-p \u6cd5\u5247 (shadow-spec-pilot)",
+      "id": "agent_saas_sell_the_job_ssp_rule"
     },
     {
       "label": "\u96d9 Agent \u67b6\u69cb\uff08\u7528 AI \u5efa\u9020 AI\uff09",
@@ -23776,9 +23776,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_dual_agent_architecture",
       "community": 20,
-      "norm_label": "\u96d9 agent \u67b6\u69cb(\u7528 ai \u5efa\u9020 ai)"
+      "norm_label": "\u96d9 agent \u67b6\u69cb(\u7528 ai \u5efa\u9020 ai)",
+      "id": "agents_building_agents_dual_agent_architecture"
     },
     {
       "label": "Alfonso Graziano\uff08\u8b1b\u8005\uff09",
@@ -23789,9 +23789,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_alfonso_graziano",
       "community": 20,
-      "norm_label": "alfonso graziano(\u8b1b\u8005)"
+      "norm_label": "alfonso graziano(\u8b1b\u8005)",
+      "id": "agents_building_agents_alfonso_graziano"
     },
     {
       "label": "Coding Agent\uff08\u5efa\u9020\u8005\u89d2\u8272\uff09",
@@ -23802,9 +23802,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_coding_agent",
       "community": 20,
-      "norm_label": "coding agent(\u5efa\u9020\u8005\u89d2\u8272)"
+      "norm_label": "coding agent(\u5efa\u9020\u8005\u89d2\u8272)",
+      "id": "agents_building_agents_coding_agent"
     },
     {
       "label": "Claude Code",
@@ -23815,9 +23815,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_claude_code",
       "community": 20,
-      "norm_label": "claude code"
+      "norm_label": "claude code",
+      "id": "agents_building_agents_claude_code"
     },
     {
       "label": "Agentic Loop \u4e09\u5143\u7d20\u6a21\u578b",
@@ -23828,9 +23828,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_agentic_loop_model",
       "community": 20,
-      "norm_label": "agentic loop \u4e09\u5143\u7d20\u6a21\u578b"
+      "norm_label": "agentic loop \u4e09\u5143\u7d20\u6a21\u578b",
+      "id": "agents_building_agents_agentic_loop_model"
     },
     {
       "label": "Golden Dataset",
@@ -23841,9 +23841,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_golden_dataset",
       "community": 20,
-      "norm_label": "golden dataset"
+      "norm_label": "golden dataset",
+      "id": "agents_building_agents_golden_dataset"
     },
     {
       "label": "AutoAgent\uff08\u81ea\u4e3b\u512a\u5316\u8ff4\u5708\uff09",
@@ -23854,9 +23854,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_autoagent",
       "community": 20,
-      "norm_label": "autoagent(\u81ea\u4e3b\u512a\u5316\u8ff4\u5708)"
+      "norm_label": "autoagent(\u81ea\u4e3b\u512a\u5316\u8ff4\u5708)",
+      "id": "agents_building_agents_autoagent"
     },
     {
       "label": "AutoResearch",
@@ -23867,9 +23867,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_autoresearch",
       "community": 20,
-      "norm_label": "autoresearch"
+      "norm_label": "autoresearch",
+      "id": "agents_building_agents_autoresearch"
     },
     {
       "label": "Andrej Karpathy",
@@ -23880,9 +23880,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_andrej_karpathy",
       "community": 20,
-      "norm_label": "andrej karpathy"
+      "norm_label": "andrej karpathy",
+      "id": "agents_building_agents_andrej_karpathy"
     },
     {
       "label": "\u5047\u8a2d\u9a45\u52d5\u7684\u5206\u652f\u56de\u6eaf\u6a5f\u5236 (Hypothesis-Branch-Rollback)",
@@ -23893,9 +23893,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_hypothesis_branch_rollback",
       "community": 20,
-      "norm_label": "\u5047\u8a2d\u9a45\u52d5\u7684\u5206\u652f\u56de\u6eaf\u6a5f\u5236 (hypothesis-branch-rollback)"
+      "norm_label": "\u5047\u8a2d\u9a45\u52d5\u7684\u5206\u652f\u56de\u6eaf\u6a5f\u5236 (hypothesis-branch-rollback)",
+      "id": "agents_building_agents_hypothesis_branch_rollback"
     },
     {
       "label": "\u5373\u6642\u6578\u64da\u56de\u994b\u8ff4\u5708 (Live Data Feedback Loop)",
@@ -23906,9 +23906,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_live_data_feedback_loop",
       "community": 20,
-      "norm_label": "\u5373\u6642\u6578\u64da\u56de\u994b\u8ff4\u5708 (live data feedback loop)"
+      "norm_label": "\u5373\u6642\u6578\u64da\u56de\u994b\u8ff4\u5708 (live data feedback loop)",
+      "id": "agents_building_agents_live_data_feedback_loop"
     },
     {
       "label": "\u5931\u6548\u53e2\u96c6\u5206\u6790 (Failure Cluster Analysis)",
@@ -23919,9 +23919,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_failure_cluster_analysis",
       "community": 20,
-      "norm_label": "\u5931\u6548\u53e2\u96c6\u5206\u6790 (failure cluster analysis)"
+      "norm_label": "\u5931\u6548\u53e2\u96c6\u5206\u6790 (failure cluster analysis)",
+      "id": "agents_building_agents_failure_cluster_analysis"
     },
     {
       "label": "Harness Engineering",
@@ -23932,9 +23932,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_harness_engineering",
       "community": 20,
-      "norm_label": "harness engineering"
+      "norm_label": "harness engineering",
+      "id": "agents_building_agents_harness_engineering"
     },
     {
       "label": "G-E-H \u6cd5\u5247 (Golden Dataset - Eval Loop - Harness)",
@@ -23945,9 +23945,9 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "agents_building_agents_geh_rule",
       "community": 20,
-      "norm_label": "g-e-h \u6cd5\u5247 (golden dataset - eval loop - harness)"
+      "norm_label": "g-e-h \u6cd5\u5247 (golden dataset - eval loop - harness)",
+      "id": "agents_building_agents_geh_rule"
     }
   ],
   "links": [
@@ -23959,9 +23959,9 @@
       "weight": 1.0,
       "_src": "scripts_rebuild_index_js",
       "_tgt": "rebuild_index_parsefrontmatter",
-      "confidence_score": 1.0,
       "source": "scripts_rebuild_index_js",
-      "target": "rebuild_index_parsefrontmatter"
+      "target": "rebuild_index_parsefrontmatter",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -23971,9 +23971,9 @@
       "weight": 1.0,
       "_src": "scripts_rebuild_index_js",
       "_tgt": "rebuild_index_buildindex",
-      "confidence_score": 1.0,
       "source": "scripts_rebuild_index_js",
-      "target": "rebuild_index_buildindex"
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -23983,9 +23983,9 @@
       "weight": 1.0,
       "_src": "rebuild_index_buildindex",
       "_tgt": "rebuild_index_parsefrontmatter",
-      "confidence_score": 1.0,
       "source": "rebuild_index_parsefrontmatter",
-      "target": "rebuild_index_buildindex"
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
     },
     {
       "relation": "references",
@@ -24030,8 +24030,8 @@
       "source_file": "_notes/salary-negotiation-reciprocity-narrative.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "salary_negotiation_reciprocity_narrative_main",
-      "_tgt": "salary_negotiation_confidence_friction_main",
+      "_src": "salary_negotiation_confidence_friction_main",
+      "_tgt": "salary_negotiation_reciprocity_narrative_main",
       "source": "salary_negotiation_confidence_friction_main",
       "target": "salary_negotiation_reciprocity_narrative_main"
     },
@@ -24102,8 +24102,8 @@
       "source_file": "_notes/ai-memory-system-open-brain.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "ai_memory_system_open_brain_primary",
-      "_tgt": "ai_knowledge_system_revolution_primary",
+      "_src": "ai_knowledge_system_revolution_primary",
+      "_tgt": "ai_memory_system_open_brain_primary",
       "source": "ai_knowledge_system_revolution_primary",
       "target": "ai_memory_system_open_brain_primary"
     },
@@ -24174,8 +24174,8 @@
       "source_file": "_notes/claude-code-skill-chaining-context-optimization.md",
       "source_location": "01:54",
       "weight": 1.0,
-      "_src": "claude_code_skill_chaining_context_optimization_context_compounding",
-      "_tgt": "claude_code_skill_chaining_context_optimization_skill_chaining",
+      "_src": "claude_code_skill_chaining_context_optimization_skill_chaining",
+      "_tgt": "claude_code_skill_chaining_context_optimization_context_compounding",
       "source": "claude_code_skill_chaining_context_optimization_skill_chaining",
       "target": "claude_code_skill_chaining_context_optimization_context_compounding"
     },
@@ -24186,8 +24186,8 @@
       "source_file": "_notes/claude-code-skill-chaining-context-optimization.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "claude_code_skill_chaining_context_optimization_ffc_law",
-      "_tgt": "claude_code_skill_chaining_context_optimization_context_fork",
+      "_src": "claude_code_skill_chaining_context_optimization_context_fork",
+      "_tgt": "claude_code_skill_chaining_context_optimization_ffc_law",
       "source": "claude_code_skill_chaining_context_optimization_context_fork",
       "target": "claude_code_skill_chaining_context_optimization_ffc_law"
     },
@@ -24210,8 +24210,8 @@
       "source_file": "_notes/claude-code-skill-chaining-context-optimization.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "claude_code_skill_chaining_context_optimization_ffc_law",
-      "_tgt": "claude_code_skill_chaining_context_optimization_file_handoff",
+      "_src": "claude_code_skill_chaining_context_optimization_file_handoff",
+      "_tgt": "claude_code_skill_chaining_context_optimization_ffc_law",
       "source": "claude_code_skill_chaining_context_optimization_file_handoff",
       "target": "claude_code_skill_chaining_context_optimization_ffc_law"
     },
@@ -24222,8 +24222,8 @@
       "source_file": "_notes/claude-code-skill-chaining-context-optimization.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "claude_code_skill_chaining_context_optimization_ffc_law",
-      "_tgt": "claude_code_skill_chaining_context_optimization_command_substitution",
+      "_src": "claude_code_skill_chaining_context_optimization_command_substitution",
+      "_tgt": "claude_code_skill_chaining_context_optimization_ffc_law",
       "source": "claude_code_skill_chaining_context_optimization_command_substitution",
       "target": "claude_code_skill_chaining_context_optimization_ffc_law"
     },
@@ -24246,8 +24246,8 @@
       "source_file": "_notes/ai-coding-for-real-engineers.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "ai_coding_for_real_engineers_cognitive_limits",
-      "_tgt": "claude_code_skill_chaining_context_optimization_context_compounding",
+      "_src": "claude_code_skill_chaining_context_optimization_context_compounding",
+      "_tgt": "ai_coding_for_real_engineers_cognitive_limits",
       "source": "claude_code_skill_chaining_context_optimization_context_compounding",
       "target": "ai_coding_for_real_engineers_cognitive_limits"
     },
@@ -24294,8 +24294,8 @@
       "source_file": "_notes/five-pillars-agentic-engineering.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "five_pillars_agentic_engineering_main",
-      "_tgt": "harness_engineering_main",
+      "_src": "harness_engineering_main",
+      "_tgt": "five_pillars_agentic_engineering_main",
       "source": "harness_engineering_main",
       "target": "five_pillars_agentic_engineering_main"
     },
@@ -24306,8 +24306,8 @@
       "source_file": "_notes/harness-design-claude-frontend-multi-agent.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "harness_design_claude_frontend_multi_agent_main",
-      "_tgt": "harness_engineering_main",
+      "_src": "harness_engineering_main",
+      "_tgt": "harness_design_claude_frontend_multi_agent_main",
       "source": "harness_engineering_main",
       "target": "harness_design_claude_frontend_multi_agent_main"
     },
@@ -24318,8 +24318,8 @@
       "source_file": "_notes/harness-engineering-ai-next-frontier.md",
       "source_location": null,
       "weight": 0.95,
-      "_src": "harness_engineering_ai_next_frontier_main",
-      "_tgt": "harness_engineering_main",
+      "_src": "harness_engineering_main",
+      "_tgt": "harness_engineering_ai_next_frontier_main",
       "source": "harness_engineering_main",
       "target": "harness_engineering_ai_next_frontier_main"
     },
@@ -24522,8 +24522,8 @@
       "source_file": "_notes/ai-safety-agi-2-years.md",
       "source_location": null,
       "weight": 0.62,
-      "_src": "ai_safety_education_collapse",
-      "_tgt": "redefining_intelligence_definition",
+      "_src": "redefining_intelligence_definition",
+      "_tgt": "ai_safety_education_collapse",
       "source": "redefining_intelligence_definition",
       "target": "ai_safety_education_collapse"
     },
@@ -24606,8 +24606,8 @@
       "source_file": "_notes/prompt-to-harness-engineering.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "prompt_to_harness_engineering_context_firewall",
-      "_tgt": "perplexity_computer_digital_employee_multi_agent",
+      "_src": "perplexity_computer_digital_employee_multi_agent",
+      "_tgt": "prompt_to_harness_engineering_context_firewall",
       "source": "perplexity_computer_digital_employee_multi_agent",
       "target": "prompt_to_harness_engineering_context_firewall"
     },
@@ -24618,8 +24618,8 @@
       "source_file": "_notes/mcp2cli-context-bloat-solution.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "mcp2cli_context_bloat_solution_skills_system",
-      "_tgt": "perplexity_computer_digital_employee_mcp_connector",
+      "_src": "perplexity_computer_digital_employee_mcp_connector",
+      "_tgt": "mcp2cli_context_bloat_solution_skills_system",
       "source": "perplexity_computer_digital_employee_mcp_connector",
       "target": "mcp2cli_context_bloat_solution_skills_system"
     },
@@ -24642,8 +24642,8 @@
       "source_file": "_notes/claude-design-team-sprint.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "claude_design_team_sprint_1_10_1_law",
-      "_tgt": "claude_design_team_sprint_claude_design",
+      "_src": "claude_design_team_sprint_claude_design",
+      "_tgt": "claude_design_team_sprint_1_10_1_law",
       "source": "claude_design_team_sprint_claude_design",
       "target": "claude_design_team_sprint_1_10_1_law"
     },
@@ -24738,8 +24738,8 @@
       "source_file": "_notes/ai-harness-engineering-guide.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_harness_engineering_guide_pge",
-      "_tgt": "ai_harness_engineering_guide_harness",
+      "_src": "ai_harness_engineering_guide_harness",
+      "_tgt": "ai_harness_engineering_guide_pge",
       "source": "ai_harness_engineering_guide_harness",
       "target": "ai_harness_engineering_guide_pge"
     },
@@ -24834,8 +24834,8 @@
       "source_file": "_notes/cli-anything-features.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "cli_anything_agent_native",
-      "_tgt": "cli_tools_primary",
+      "_src": "cli_tools_primary",
+      "_tgt": "cli_anything_agent_native",
       "source": "cli_tools_primary",
       "target": "cli_anything_agent_native"
     },
@@ -24894,8 +24894,8 @@
       "source_file": "_notes/5-truths-after-layoff.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "5_truths_after_layoff_main",
-      "_tgt": "15_negotiating_when_fired_main",
+      "_src": "15_negotiating_when_fired_main",
+      "_tgt": "5_truths_after_layoff_main",
       "source": "15_negotiating_when_fired_main",
       "target": "5_truths_after_layoff_main"
     },
@@ -24906,8 +24906,8 @@
       "source_file": "_notes/agents-vs-workflows.md",
       "source_location": "### 3. Agent \u7684\u5de5\u5177\u547c\u53eb\u6a5f\u5236",
       "weight": 1.0,
-      "_src": "agentsvsworkflows_tool_calling_loop",
-      "_tgt": "agentsvsworkflows_agent_definition",
+      "_src": "agentsvsworkflows_agent_definition",
+      "_tgt": "agentsvsworkflows_tool_calling_loop",
       "source": "agentsvsworkflows_agent_definition",
       "target": "agentsvsworkflows_tool_calling_loop"
     },
@@ -24918,8 +24918,8 @@
       "source_file": "_notes/agents-vs-workflows.md",
       "source_location": "### 2. Anthropic \u7684\u6b0a\u5a01\u5b9a\u7fa9",
       "weight": 1.0,
-      "_src": "agentsvsworkflows_building_effective_agents",
-      "_tgt": "agentsvsworkflows_agent_definition",
+      "_src": "agentsvsworkflows_agent_definition",
+      "_tgt": "agentsvsworkflows_building_effective_agents",
       "source": "agentsvsworkflows_agent_definition",
       "target": "agentsvsworkflows_building_effective_agents"
     },
@@ -24930,8 +24930,8 @@
       "source_file": "_notes/agents-vs-workflows.md",
       "source_location": "### 6. Agent\u2013Workflow \u9023\u7e8c\u5149\u8b5c",
       "weight": 1.0,
-      "_src": "agentsvsworkflows_max_steps",
-      "_tgt": "agentsvsworkflows_agent_definition",
+      "_src": "agentsvsworkflows_agent_definition",
+      "_tgt": "agentsvsworkflows_max_steps",
       "source": "agentsvsworkflows_agent_definition",
       "target": "agentsvsworkflows_max_steps"
     },
@@ -24942,8 +24942,8 @@
       "source_file": "_notes/agents-vs-workflows.md",
       "source_location": "### 6. Agent\u2013Workflow \u9023\u7e8c\u5149\u8b5c",
       "weight": 1.0,
-      "_src": "agentsvsworkflows_agent_workflow_spectrum",
-      "_tgt": "agentsvsworkflows_agent_definition",
+      "_src": "agentsvsworkflows_agent_definition",
+      "_tgt": "agentsvsworkflows_agent_workflow_spectrum",
       "source": "agentsvsworkflows_agent_definition",
       "target": "agentsvsworkflows_agent_workflow_spectrum"
     },
@@ -24954,8 +24954,8 @@
       "source_file": "_notes/agents-vs-workflows.md",
       "source_location": "### 5. \u9078\u64c7\u6e96\u5247\uff1a\u8def\u5f91\u662f\u5426\u5df2\u77e5",
       "weight": 1.0,
-      "_src": "agentsvsworkflows_generalize_vs_optimize",
-      "_tgt": "agentsvsworkflows_agent_definition",
+      "_src": "agentsvsworkflows_agent_definition",
+      "_tgt": "agentsvsworkflows_generalize_vs_optimize",
       "source": "agentsvsworkflows_agent_definition",
       "target": "agentsvsworkflows_generalize_vs_optimize"
     },
@@ -24966,8 +24966,8 @@
       "source_file": "_notes/agents-vs-workflows.md",
       "source_location": "### 1. OpenAI Agent Kit \u7684\u547d\u540d\u8aa4\u7528",
       "weight": 1.0,
-      "_src": "agentsvsworkflows_agent_inflation",
-      "_tgt": "agentsvsworkflows_agent_definition",
+      "_src": "agentsvsworkflows_agent_definition",
+      "_tgt": "agentsvsworkflows_agent_inflation",
       "source": "agentsvsworkflows_agent_definition",
       "target": "agentsvsworkflows_agent_inflation"
     },
@@ -24978,8 +24978,8 @@
       "source_file": "_notes/claude-code-real-engineering.md",
       "source_location": "### 2. \u63a2\u7d22\u5b50\u4ee3\u7406 + \u6f84\u6e05\u554f\u984c\u8ff4\u5708",
       "weight": 0.72,
-      "_src": "claudecode_explore_subagent",
-      "_tgt": "agentsvsworkflows_agent_definition",
+      "_src": "agentsvsworkflows_agent_definition",
+      "_tgt": "claudecode_explore_subagent",
       "source": "agentsvsworkflows_agent_definition",
       "target": "claudecode_explore_subagent"
     },
@@ -24990,8 +24990,8 @@
       "source_file": "_notes/agents-vs-workflows.md",
       "source_location": "### 2. Anthropic \u7684\u6b0a\u5a01\u5b9a\u7fa9",
       "weight": 1.0,
-      "_src": "agentsvsworkflows_building_effective_agents",
-      "_tgt": "agentsvsworkflows_workflow_definition",
+      "_src": "agentsvsworkflows_workflow_definition",
+      "_tgt": "agentsvsworkflows_building_effective_agents",
       "source": "agentsvsworkflows_workflow_definition",
       "target": "agentsvsworkflows_building_effective_agents"
     },
@@ -25002,8 +25002,8 @@
       "source_file": "_notes/agents-vs-workflows.md",
       "source_location": "### 4. Workflow \u7684\u53ef\u512a\u5316\u6027\u512a\u52e2",
       "weight": 1.0,
-      "_src": "agentsvsworkflows_parallelizable_workflow",
-      "_tgt": "agentsvsworkflows_workflow_definition",
+      "_src": "agentsvsworkflows_workflow_definition",
+      "_tgt": "agentsvsworkflows_parallelizable_workflow",
       "source": "agentsvsworkflows_workflow_definition",
       "target": "agentsvsworkflows_parallelizable_workflow"
     },
@@ -25014,8 +25014,8 @@
       "source_file": "_notes/agents-vs-workflows.md",
       "source_location": "### 6. Agent\u2013Workflow \u9023\u7e8c\u5149\u8b5c",
       "weight": 1.0,
-      "_src": "agentsvsworkflows_agent_workflow_spectrum",
-      "_tgt": "agentsvsworkflows_workflow_definition",
+      "_src": "agentsvsworkflows_workflow_definition",
+      "_tgt": "agentsvsworkflows_agent_workflow_spectrum",
       "source": "agentsvsworkflows_workflow_definition",
       "target": "agentsvsworkflows_agent_workflow_spectrum"
     },
@@ -25026,8 +25026,8 @@
       "source_file": "_notes/agents-vs-workflows.md",
       "source_location": "### 5. \u9078\u64c7\u6e96\u5247\uff1a\u8def\u5f91\u662f\u5426\u5df2\u77e5",
       "weight": 1.0,
-      "_src": "agentsvsworkflows_generalize_vs_optimize",
-      "_tgt": "agentsvsworkflows_workflow_definition",
+      "_src": "agentsvsworkflows_workflow_definition",
+      "_tgt": "agentsvsworkflows_generalize_vs_optimize",
       "source": "agentsvsworkflows_workflow_definition",
       "target": "agentsvsworkflows_generalize_vs_optimize"
     },
@@ -25038,8 +25038,8 @@
       "source_file": "_notes/matt-pocock-skills-lightweight-ai-dev.md",
       "source_location": "## \u6280\u8853/\u6578\u64da\u5c0d\u6bd4",
       "weight": 0.65,
-      "_src": "mattpocock_anti_framework_philosophy",
-      "_tgt": "agentsvsworkflows_workflow_definition",
+      "_src": "agentsvsworkflows_workflow_definition",
+      "_tgt": "mattpocock_anti_framework_philosophy",
       "source": "agentsvsworkflows_workflow_definition",
       "target": "mattpocock_anti_framework_philosophy"
     },
@@ -25074,8 +25074,8 @@
       "source_file": "_notes/agents-vs-workflows.md",
       "source_location": "## \u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "agentsvsworkflows_rationale_agent_vs_workflow",
-      "_tgt": "agentsvsworkflows_generalize_vs_optimize",
+      "_src": "agentsvsworkflows_generalize_vs_optimize",
+      "_tgt": "agentsvsworkflows_rationale_agent_vs_workflow",
       "source": "agentsvsworkflows_generalize_vs_optimize",
       "target": "agentsvsworkflows_rationale_agent_vs_workflow"
     },
@@ -25170,8 +25170,8 @@
       "source_file": "_notes/the-agentic-economy.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "the_agentic_economy_agentic_economy",
-      "_tgt": "the_ai_native_software_engineer_ai_native",
+      "_src": "the_ai_native_software_engineer_ai_native",
+      "_tgt": "the_agentic_economy_agentic_economy",
       "source": "the_ai_native_software_engineer_ai_native",
       "target": "the_agentic_economy_agentic_economy"
     },
@@ -25218,8 +25218,8 @@
       "source_file": "_notes/nvidia-gtc-2026.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "nvidia_gtc_2026_physical_ai",
-      "_tgt": "otter_ai_voice_startup_voice_interface",
+      "_src": "otter_ai_voice_startup_voice_interface",
+      "_tgt": "nvidia_gtc_2026_physical_ai",
       "source": "otter_ai_voice_startup_voice_interface",
       "target": "nvidia_gtc_2026_physical_ai"
     },
@@ -25254,8 +25254,8 @@
       "source_file": "_notes/ai-era-human-role-transformation.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "ai_era_human_role_main",
-      "_tgt": "ai_era_core_skill_judgment_main",
+      "_src": "ai_era_core_skill_judgment_main",
+      "_tgt": "ai_era_human_role_main",
       "source": "ai_era_core_skill_judgment_main",
       "target": "ai_era_human_role_main"
     },
@@ -25266,8 +25266,8 @@
       "source_file": "_notes/ai-era-human-skills-competitive-edge.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "ai_era_human_skills_questioning",
-      "_tgt": "ai_era_core_skill_judgment_main",
+      "_src": "ai_era_core_skill_judgment_main",
+      "_tgt": "ai_era_human_skills_questioning",
       "source": "ai_era_core_skill_judgment_main",
       "target": "ai_era_human_skills_questioning"
     },
@@ -25278,8 +25278,8 @@
       "source_file": "_notes/ai-era-boss-mindset-transformation.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "ai_era_boss_direction_review",
-      "_tgt": "ai_era_core_skill_judgment_micro_ceo",
+      "_src": "ai_era_core_skill_judgment_micro_ceo",
+      "_tgt": "ai_era_boss_direction_review",
       "source": "ai_era_core_skill_judgment_micro_ceo",
       "target": "ai_era_boss_direction_review"
     },
@@ -25326,8 +25326,8 @@
       "source_file": "_notes/ai-knowledge-system-self-evolving.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_knowledge_system_self_evolving_primary",
-      "_tgt": "ai_research_workflow_claude_notebooklm_obsidian_primary",
+      "_src": "ai_research_workflow_claude_notebooklm_obsidian_primary",
+      "_tgt": "ai_knowledge_system_self_evolving_primary",
       "source": "ai_research_workflow_claude_notebooklm_obsidian_primary",
       "target": "ai_knowledge_system_self_evolving_primary"
     },
@@ -25338,8 +25338,8 @@
       "source_file": "_notes/ai-knowledge-system-self-evolving.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_knowledge_system_self_evolving_claude_code",
-      "_tgt": "ai_research_workflow_claude_notebooklm_obsidian_claude_code",
+      "_src": "ai_research_workflow_claude_notebooklm_obsidian_claude_code",
+      "_tgt": "ai_knowledge_system_self_evolving_claude_code",
       "source": "ai_research_workflow_claude_notebooklm_obsidian_claude_code",
       "target": "ai_knowledge_system_self_evolving_claude_code"
     },
@@ -25398,8 +25398,8 @@
       "source_file": "_notes/ai-era-survival-rules-tech-bubble.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "ai_era_survival_rules_tech_bubble_curiosity",
-      "_tgt": "ai_historical_opportunity_future_squash",
+      "_src": "ai_historical_opportunity_future_squash",
+      "_tgt": "ai_era_survival_rules_tech_bubble_curiosity",
       "source": "ai_historical_opportunity_future_squash",
       "target": "ai_era_survival_rules_tech_bubble_curiosity"
     },
@@ -25638,8 +25638,8 @@
       "source_file": "_notes/claude-cowork-project-features.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "claude_cowork_project_features_main",
-      "_tgt": "claude_cowork_toolkit_main",
+      "_src": "claude_cowork_toolkit_main",
+      "_tgt": "claude_cowork_project_features_main",
       "source": "claude_cowork_toolkit_main",
       "target": "claude_cowork_project_features_main"
     },
@@ -25650,8 +25650,8 @@
       "source_file": "_notes/claude-browser-agent-extension.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "claude_browser_agent_extension_main",
-      "_tgt": "claude_cowork_toolkit_main",
+      "_src": "claude_cowork_toolkit_main",
+      "_tgt": "claude_browser_agent_extension_main",
       "source": "claude_cowork_toolkit_main",
       "target": "claude_browser_agent_extension_main"
     },
@@ -25698,8 +25698,8 @@
       "source_file": "_notes/ai-agents-context-graph-decision-tracing.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_agents_context_graph_decision_tracing_main",
-      "_tgt": "ai_agent_context_graph_governance_main",
+      "_src": "ai_agent_context_graph_governance_main",
+      "_tgt": "ai_agents_context_graph_decision_tracing_main",
       "source": "ai_agent_context_graph_governance_main",
       "target": "ai_agents_context_graph_decision_tracing_main"
     },
@@ -25710,8 +25710,8 @@
       "source_file": "_notes/ai-agent-iam-maturity-model.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_agent_iam_maturity_model_main",
-      "_tgt": "ai_agent_context_graph_governance_main",
+      "_src": "ai_agent_context_graph_governance_main",
+      "_tgt": "ai_agent_iam_maturity_model_main",
       "source": "ai_agent_context_graph_governance_main",
       "target": "ai_agent_iam_maturity_model_main"
     },
@@ -25770,8 +25770,8 @@
       "source_file": "_notes/dog-sniffing-private-area-science.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "dog_sniffing_private_area_science_main",
-      "_tgt": "dog_shadow_behavior_psychology_main",
+      "_src": "dog_shadow_behavior_psychology_main",
+      "_tgt": "dog_sniffing_private_area_science_main",
       "source": "dog_shadow_behavior_psychology_main",
       "target": "dog_sniffing_private_area_science_main"
     },
@@ -25818,8 +25818,8 @@
       "source_file": "_notes/disposable-software-ai-trends-hidden-costs.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "disposable_software_attention_economy",
-      "_tgt": "desire_learning_info_overload",
+      "_src": "desire_learning_info_overload",
+      "_tgt": "disposable_software_attention_economy",
       "source": "desire_learning_info_overload",
       "target": "disposable_software_attention_economy"
     },
@@ -25866,8 +25866,8 @@
       "source_file": "_notes/09-handling-weak-managers.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "09_handling_weak_managers_leverage",
-      "_tgt": "17_how_to_avoid_politics_scarce_skill",
+      "_src": "17_how_to_avoid_politics_scarce_skill",
+      "_tgt": "09_handling_weak_managers_leverage",
       "source": "17_how_to_avoid_politics_scarce_skill",
       "target": "09_handling_weak_managers_leverage"
     },
@@ -25914,8 +25914,8 @@
       "source_file": "_notes/ai-startup-90-day-revenue.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "ai_startup_90_day_revenue_main",
-      "_tgt": "ai_startup_truth_gumloop_main",
+      "_src": "ai_startup_truth_gumloop_main",
+      "_tgt": "ai_startup_90_day_revenue_main",
       "source": "ai_startup_truth_gumloop_main",
       "target": "ai_startup_90_day_revenue_main"
     },
@@ -25926,8 +25926,8 @@
       "source_file": "_notes/ai-startup-allocating-intelligence.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "ai_startup_allocating_intelligence_main",
-      "_tgt": "ai_startup_truth_gumloop_main",
+      "_src": "ai_startup_truth_gumloop_main",
+      "_tgt": "ai_startup_allocating_intelligence_main",
       "source": "ai_startup_truth_gumloop_main",
       "target": "ai_startup_allocating_intelligence_main"
     },
@@ -25986,8 +25986,8 @@
       "source_file": "_notes/18-advice-for-younger-self.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "18_advice_for_younger_self_relationship_driven",
-      "_tgt": "16_promotion_above_senior_oxygen_test",
+      "_src": "16_promotion_above_senior_oxygen_test",
+      "_tgt": "18_advice_for_younger_self_relationship_driven",
       "source": "16_promotion_above_senior_oxygen_test",
       "target": "18_advice_for_younger_self_relationship_driven"
     },
@@ -26034,8 +26034,8 @@
       "source_file": "_notes/salary-negotiation-five-rules.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "salary_negotiation_five_rules_main",
-      "_tgt": "salary_negotiation_rescue_ownership_main",
+      "_src": "salary_negotiation_rescue_ownership_main",
+      "_tgt": "salary_negotiation_five_rules_main",
       "source": "salary_negotiation_rescue_ownership_main",
       "target": "salary_negotiation_five_rules_main"
     },
@@ -26082,8 +26082,8 @@
       "source_file": "_notes/claude-code-powerup-insights.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "claude_code_powerup_insights_insights",
-      "_tgt": "claude_code_six_dimensional_memory_system_main",
+      "_src": "claude_code_six_dimensional_memory_system_main",
+      "_tgt": "claude_code_powerup_insights_insights",
       "source": "claude_code_six_dimensional_memory_system_main",
       "target": "claude_code_powerup_insights_insights"
     },
@@ -26094,8 +26094,8 @@
       "source_file": "_notes/claude-cowork-project-features.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "claude_cowork_project_features_dual_memory",
-      "_tgt": "claude_code_six_dimensional_memory_system_instruction_memory",
+      "_src": "claude_code_six_dimensional_memory_system_instruction_memory",
+      "_tgt": "claude_cowork_project_features_dual_memory",
       "source": "claude_code_six_dimensional_memory_system_instruction_memory",
       "target": "claude_cowork_project_features_dual_memory"
     },
@@ -26106,8 +26106,8 @@
       "source_file": "_notes/claude-code-hidden-features-optimization.md",
       "source_location": null,
       "weight": 0.95,
-      "_src": "claude_code_hidden_features_optimization_dream",
-      "_tgt": "claude_code_six_dimensional_memory_system_auto_dream",
+      "_src": "claude_code_six_dimensional_memory_system_auto_dream",
+      "_tgt": "claude_code_hidden_features_optimization_dream",
       "source": "claude_code_six_dimensional_memory_system_auto_dream",
       "target": "claude_code_hidden_features_optimization_dream"
     },
@@ -26142,8 +26142,8 @@
       "source_file": "_notes/workplace-politics-influence-narrative.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "workplace_politics_influence_narrative_office_politics",
-      "_tgt": "workplace_villain_defense_strategy_villain_defense",
+      "_src": "workplace_villain_defense_strategy_villain_defense",
+      "_tgt": "workplace_politics_influence_narrative_office_politics",
       "source": "workplace_villain_defense_strategy_villain_defense",
       "target": "workplace_politics_influence_narrative_office_politics"
     },
@@ -26190,8 +26190,8 @@
       "source_file": "_notes/agent-teams-git-tree.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "agent_teams_git_tree_sandbox",
-      "_tgt": "agent_teams_git_tree_main",
+      "_src": "agent_teams_git_tree_main",
+      "_tgt": "agent_teams_git_tree_sandbox",
       "source": "agent_teams_git_tree_main",
       "target": "agent_teams_git_tree_sandbox"
     },
@@ -26214,8 +26214,8 @@
       "source_file": "_notes/2026-ai-agent-economy-trends.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "2026_ai_agent_economy_trends_founder_agent_fit",
-      "_tgt": "agent_teams_git_tree_orchestrator",
+      "_src": "agent_teams_git_tree_orchestrator",
+      "_tgt": "2026_ai_agent_economy_trends_founder_agent_fit",
       "source": "agent_teams_git_tree_orchestrator",
       "target": "2026_ai_agent_economy_trends_founder_agent_fit"
     },
@@ -26250,8 +26250,8 @@
       "source_file": "_notes/whole-brain-living.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "whole_brain_living_emotion_management",
-      "_tgt": "tony_robbins_ai_future_you_focus_meaning",
+      "_src": "tony_robbins_ai_future_you_focus_meaning",
+      "_tgt": "whole_brain_living_emotion_management",
       "source": "tony_robbins_ai_future_you_focus_meaning",
       "target": "whole_brain_living_emotion_management"
     },
@@ -26262,8 +26262,8 @@
       "source_file": "_notes/thinking-habit-ai-era-competitiveness.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "thinking_habit_ai_era_competitiveness_thinking_habit",
-      "_tgt": "tony_robbins_ai_future_you_focus_meaning",
+      "_src": "tony_robbins_ai_future_you_focus_meaning",
+      "_tgt": "thinking_habit_ai_era_competitiveness_thinking_habit",
       "source": "tony_robbins_ai_future_you_focus_meaning",
       "target": "thinking_habit_ai_era_competitiveness_thinking_habit"
     },
@@ -26310,8 +26310,8 @@
       "source_file": "_notes/taiwan-silicon-shield-geopolitics.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "taiwan_silicon_shield_geopolitics_silicon_shield",
-      "_tgt": "time_experience_unfair_advantage_assets_unfair_advantage",
+      "_src": "time_experience_unfair_advantage_assets_unfair_advantage",
+      "_tgt": "taiwan_silicon_shield_geopolitics_silicon_shield",
       "source": "time_experience_unfair_advantage_assets_unfair_advantage",
       "target": "taiwan_silicon_shield_geopolitics_silicon_shield"
     },
@@ -26346,8 +26346,8 @@
       "source_file": "_notes/ai-agents-six-layer-architecture-evolution.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_agents_six_layer_architecture_evolution_main",
-      "_tgt": "ai_agent_era_enterprise_challenges_main",
+      "_src": "ai_agent_era_enterprise_challenges_main",
+      "_tgt": "ai_agents_six_layer_architecture_evolution_main",
       "source": "ai_agent_era_enterprise_challenges_main",
       "target": "ai_agents_six_layer_architecture_evolution_main"
     },
@@ -26358,8 +26358,8 @@
       "source_file": "_notes/ai-agent-enterprise-transformation.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_agent_enterprise_transformation_main",
-      "_tgt": "ai_agent_era_enterprise_challenges_main",
+      "_src": "ai_agent_era_enterprise_challenges_main",
+      "_tgt": "ai_agent_enterprise_transformation_main",
       "source": "ai_agent_era_enterprise_challenges_main",
       "target": "ai_agent_enterprise_transformation_main"
     },
@@ -26490,8 +26490,8 @@
       "source_file": "_notes/gemini-enterprise-agent-platform.md",
       "source_location": "\u5169\u8005\u5747\u70ba\u90e8\u7f72\u524dAI\u4ee3\u7406\u54c1\u8cea\u9a57\u8b49\u6846\u67b6",
       "weight": 0.82,
-      "_src": "gemini_enterprise_agent_platform_agent_simulation",
-      "_tgt": "google_agents_cli_evaluation_harness",
+      "_src": "google_agents_cli_evaluation_harness",
+      "_tgt": "gemini_enterprise_agent_platform_agent_simulation",
       "source": "google_agents_cli_evaluation_harness",
       "target": "gemini_enterprise_agent_platform_agent_simulation"
     },
@@ -26502,8 +26502,8 @@
       "source_file": "_notes/designing-data-intensive-application.md",
       "source_location": "AI\u7a0b\u5f0f\u78bc\u54c1\u8cea\u4fdd\u8b49\u7684\u5171\u540c\u9700\u6c42",
       "weight": 0.68,
-      "_src": "designing_data_intensive_application_formal_verification",
-      "_tgt": "google_agents_cli_evaluation_harness",
+      "_src": "google_agents_cli_evaluation_harness",
+      "_tgt": "designing_data_intensive_application_formal_verification",
       "source": "google_agents_cli_evaluation_harness",
       "target": "designing_data_intensive_application_formal_verification"
     },
@@ -26514,8 +26514,8 @@
       "source_file": "_notes/gemini-enterprise-agent-platform.md",
       "source_location": "Section 1 - ADK\u8aaa\u660e",
       "weight": 1.0,
-      "_src": "gemini_enterprise_agent_platform_adk",
-      "_tgt": "google_agents_cli_adk_project",
+      "_src": "google_agents_cli_adk_project",
+      "_tgt": "gemini_enterprise_agent_platform_adk",
       "source": "google_agents_cli_adk_project",
       "target": "gemini_enterprise_agent_platform_adk"
     },
@@ -26598,8 +26598,8 @@
       "source_file": "_notes/claude-code-chaining-skills-explained.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "claude_code_chaining_skills_explained_obsidian",
-      "_tgt": "claude_code_powerup_insights_insights",
+      "_src": "claude_code_powerup_insights_insights",
+      "_tgt": "claude_code_chaining_skills_explained_obsidian",
       "source": "claude_code_powerup_insights_insights",
       "target": "claude_code_chaining_skills_explained_obsidian"
     },
@@ -26610,8 +26610,8 @@
       "source_file": "_notes/gateways-are-all-you-need.md",
       "source_location": "line 33",
       "weight": 1.0,
-      "_src": "gateways_are_all_you_need_three_headed_hydra",
-      "_tgt": "gateways_are_all_you_need_mcp_gateway",
+      "_src": "gateways_are_all_you_need_mcp_gateway",
+      "_tgt": "gateways_are_all_you_need_three_headed_hydra",
       "source": "gateways_are_all_you_need_mcp_gateway",
       "target": "gateways_are_all_you_need_three_headed_hydra"
     },
@@ -26622,8 +26622,8 @@
       "source_file": "_notes/gateways-are-all-you-need.md",
       "source_location": "line 29-36",
       "weight": 1.0,
-      "_src": "gateways_are_all_you_need_mcp_registry",
-      "_tgt": "gateways_are_all_you_need_mcp_gateway",
+      "_src": "gateways_are_all_you_need_mcp_gateway",
+      "_tgt": "gateways_are_all_you_need_mcp_registry",
       "source": "gateways_are_all_you_need_mcp_gateway",
       "target": "gateways_are_all_you_need_mcp_registry"
     },
@@ -26682,8 +26682,8 @@
       "source_file": "_notes/gateways-are-all-you-need.md",
       "source_location": "line 64-68",
       "weight": 1.0,
-      "_src": "gateways_are_all_you_need_dco_principle",
-      "_tgt": "gateways_are_all_you_need_mcp_gateway",
+      "_src": "gateways_are_all_you_need_mcp_gateway",
+      "_tgt": "gateways_are_all_you_need_dco_principle",
       "source": "gateways_are_all_you_need_mcp_gateway",
       "target": "gateways_are_all_you_need_dco_principle"
     },
@@ -26694,8 +26694,8 @@
       "source_file": "_notes/gateways-are-all-you-need.md",
       "source_location": "line 29-41",
       "weight": 1.0,
-      "_src": "gateways_are_all_you_need_rationale_gateway_over_registry",
-      "_tgt": "gateways_are_all_you_need_mcp_gateway",
+      "_src": "gateways_are_all_you_need_mcp_gateway",
+      "_tgt": "gateways_are_all_you_need_rationale_gateway_over_registry",
       "source": "gateways_are_all_you_need_mcp_gateway",
       "target": "gateways_are_all_you_need_rationale_gateway_over_registry"
     },
@@ -26730,8 +26730,8 @@
       "source_file": "_notes/iam-for-ai.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "iam_for_ai_ephemeral_credentials",
-      "_tgt": "gateways_are_all_you_need_root_of_trust",
+      "_src": "gateways_are_all_you_need_root_of_trust",
+      "_tgt": "iam_for_ai_ephemeral_credentials",
       "source": "gateways_are_all_you_need_root_of_trust",
       "target": "iam_for_ai_ephemeral_credentials"
     },
@@ -26754,8 +26754,8 @@
       "source_file": "_notes/iam-for-ai.md",
       "source_location": null,
       "weight": 0.78,
-      "_src": "iam_for_ai_siem",
-      "_tgt": "gateways_are_all_you_need_three_headed_hydra",
+      "_src": "gateways_are_all_you_need_three_headed_hydra",
+      "_tgt": "iam_for_ai_siem",
       "source": "gateways_are_all_you_need_three_headed_hydra",
       "target": "iam_for_ai_siem"
     },
@@ -26802,8 +26802,8 @@
       "source_file": "_notes/gateways-are-all-you-need.md",
       "source_location": "line 29-32",
       "weight": 1.0,
-      "_src": "gateways_are_all_you_need_rationale_gateway_over_registry",
-      "_tgt": "gateways_are_all_you_need_mcp_registry",
+      "_src": "gateways_are_all_you_need_mcp_registry",
+      "_tgt": "gateways_are_all_you_need_rationale_gateway_over_registry",
       "source": "gateways_are_all_you_need_mcp_registry",
       "target": "gateways_are_all_you_need_rationale_gateway_over_registry"
     },
@@ -26886,8 +26886,8 @@
       "source_file": "_notes/claude-code-btw-sidebar-rewind.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "claude_code_btw_sidebar_rewind_rewind",
-      "_tgt": "claude_code_concepts_explained_main",
+      "_src": "claude_code_concepts_explained_main",
+      "_tgt": "claude_code_btw_sidebar_rewind_rewind",
       "source": "claude_code_concepts_explained_main",
       "target": "claude_code_btw_sidebar_rewind_rewind"
     },
@@ -26898,8 +26898,8 @@
       "source_file": "_notes/claude-code-commands-guide.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "claude_code_commands_guide_compact",
-      "_tgt": "claude_code_concepts_explained_context_rot",
+      "_src": "claude_code_concepts_explained_context_rot",
+      "_tgt": "claude_code_commands_guide_compact",
       "source": "claude_code_concepts_explained_context_rot",
       "target": "claude_code_commands_guide_compact"
     },
@@ -26910,8 +26910,8 @@
       "source_file": "_notes/claude-code-guide-subagent.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "claude_code_guide_subagent_hooks_17",
-      "_tgt": "claude_code_concepts_explained_hooks",
+      "_src": "claude_code_concepts_explained_hooks",
+      "_tgt": "claude_code_guide_subagent_hooks_17",
       "source": "claude_code_concepts_explained_hooks",
       "target": "claude_code_guide_subagent_hooks_17"
     },
@@ -26922,8 +26922,8 @@
       "source_file": "_notes/claude-code-internal-architecture.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "claude_code_internal_architecture_middleware",
-      "_tgt": "claude_code_concepts_explained_hooks",
+      "_src": "claude_code_concepts_explained_hooks",
+      "_tgt": "claude_code_internal_architecture_middleware",
       "source": "claude_code_concepts_explained_hooks",
       "target": "claude_code_internal_architecture_middleware"
     },
@@ -27066,8 +27066,8 @@
       "source_file": "_notes/enterprise-ai-context-infrastructure.md",
       "source_location": "conclusion",
       "weight": 1.0,
-      "_src": "enterprise_ai_context_infrastructure_321_rule",
-      "_tgt": "enterprise_ai_context_infrastructure_context_infrastructure",
+      "_src": "enterprise_ai_context_infrastructure_context_infrastructure",
+      "_tgt": "enterprise_ai_context_infrastructure_321_rule",
       "source": "enterprise_ai_context_infrastructure_context_infrastructure",
       "target": "enterprise_ai_context_infrastructure_321_rule"
     },
@@ -27090,8 +27090,8 @@
       "source_file": "_notes/agentic-commerce.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "agentic_commerce_agentic_commerce",
-      "_tgt": "enterprise_ai_context_infrastructure_context_infrastructure",
+      "_src": "enterprise_ai_context_infrastructure_context_infrastructure",
+      "_tgt": "agentic_commerce_agentic_commerce",
       "source": "enterprise_ai_context_infrastructure_context_infrastructure",
       "target": "agentic_commerce_agentic_commerce"
     },
@@ -27126,8 +27126,8 @@
       "source_file": "_notes/ai-capture-decision-record.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "ai_capture_decision_record_revisit_conditions",
-      "_tgt": "enterprise_ai_context_infrastructure_temporal_memory",
+      "_src": "enterprise_ai_context_infrastructure_temporal_memory",
+      "_tgt": "ai_capture_decision_record_revisit_conditions",
       "source": "enterprise_ai_context_infrastructure_temporal_memory",
       "target": "ai_capture_decision_record_revisit_conditions"
     },
@@ -27138,8 +27138,8 @@
       "source_file": "_notes/agentic-commerce.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "agentic_commerce_ai_conductor",
-      "_tgt": "enterprise_ai_context_infrastructure_modular_ai_assistant",
+      "_src": "enterprise_ai_context_infrastructure_modular_ai_assistant",
+      "_tgt": "agentic_commerce_ai_conductor",
       "source": "enterprise_ai_context_infrastructure_modular_ai_assistant",
       "target": "agentic_commerce_ai_conductor"
     },
@@ -27198,8 +27198,8 @@
       "source_file": "_notes/07-orgs-stealing-scope.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "07_orgs_stealing_scope_main",
-      "_tgt": "02_stealing_scope_main",
+      "_src": "02_stealing_scope_main",
+      "_tgt": "07_orgs_stealing_scope_main",
       "source": "02_stealing_scope_main",
       "target": "07_orgs_stealing_scope_main"
     },
@@ -27282,8 +27282,8 @@
       "source_file": "_notes/reinventing-organizations.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "reinventing_organizations_primary",
-      "_tgt": "new_bottleneck_orchestration_primary",
+      "_src": "new_bottleneck_orchestration_primary",
+      "_tgt": "reinventing_organizations_primary",
       "source": "new_bottleneck_orchestration_primary",
       "target": "reinventing_organizations_primary"
     },
@@ -27294,8 +27294,8 @@
       "source_file": "_notes/prompt-to-harness-engineering.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "prompt_to_harness_engineering_primary",
-      "_tgt": "new_bottleneck_orchestration_primary",
+      "_src": "new_bottleneck_orchestration_primary",
+      "_tgt": "prompt_to_harness_engineering_primary",
       "source": "new_bottleneck_orchestration_primary",
       "target": "prompt_to_harness_engineering_primary"
     },
@@ -27306,8 +27306,8 @@
       "source_file": "_notes/new-bottleneck-orchestration.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "new_bottleneck_orchestration_codebase_contracts",
-      "_tgt": "new_bottleneck_orchestration_semantic_conflict",
+      "_src": "new_bottleneck_orchestration_semantic_conflict",
+      "_tgt": "new_bottleneck_orchestration_codebase_contracts",
       "source": "new_bottleneck_orchestration_semantic_conflict",
       "target": "new_bottleneck_orchestration_codebase_contracts"
     },
@@ -27354,8 +27354,8 @@
       "source_file": "_notes/ai-era-boss-mindset-transformation.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "ai_era_boss_main",
-      "_tgt": "ai_era_human_role_main",
+      "_src": "ai_era_human_role_main",
+      "_tgt": "ai_era_boss_main",
       "source": "ai_era_human_role_main",
       "target": "ai_era_boss_main"
     },
@@ -27546,8 +27546,8 @@
       "source_file": "_notes/high-iq-traits-hidden-advantages.md",
       "source_location": null,
       "weight": 0.6,
-      "_src": "high_iq_traits_hidden_advantages_main",
-      "_tgt": "grey_rock_effect_main",
+      "_src": "grey_rock_effect_main",
+      "_tgt": "high_iq_traits_hidden_advantages_main",
       "source": "grey_rock_effect_main",
       "target": "high_iq_traits_hidden_advantages_main"
     },
@@ -27594,8 +27594,8 @@
       "source_file": "_notes/claude-code-real-engineering.md",
       "source_location": "## \u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "claudecode_pce_law",
-      "_tgt": "claudecode_plan_mode",
+      "_src": "claudecode_plan_mode",
+      "_tgt": "claudecode_pce_law",
       "source": "claudecode_plan_mode",
       "target": "claudecode_pce_law"
     },
@@ -27606,8 +27606,8 @@
       "source_file": "_notes/claude-code-real-engineering.md",
       "source_location": "### 3. \u8a18\u61b6\u6a94\u6848\u7684\u300c\u6975\u7c21\u898f\u5247\u300d",
       "weight": 0.75,
-      "_src": "claudecode_conciseness_memory_rule",
-      "_tgt": "claudecode_plan_mode",
+      "_src": "claudecode_plan_mode",
+      "_tgt": "claudecode_conciseness_memory_rule",
       "source": "claudecode_plan_mode",
       "target": "claudecode_conciseness_memory_rule"
     },
@@ -27618,8 +27618,8 @@
       "source_file": "_notes/matt-pocock-skills-lightweight-ai-dev.md",
       "source_location": "### 2. \u6838\u5fc3\u6280\u80fd\uff1aGrill Me",
       "weight": 0.85,
-      "_src": "mattpocock_decision_tree_resolution",
-      "_tgt": "claudecode_clarifying_questions_loop",
+      "_src": "claudecode_clarifying_questions_loop",
+      "_tgt": "mattpocock_decision_tree_resolution",
       "source": "claudecode_clarifying_questions_loop",
       "target": "mattpocock_decision_tree_resolution"
     },
@@ -27630,8 +27630,8 @@
       "source_file": "_notes/matt-pocock-skills-lightweight-ai-dev.md",
       "source_location": "## 5. \u6548\u7387\u512a\u5316\uff1aCaveman Mode",
       "weight": 0.82,
-      "_src": "mattpocock_caveman_mode",
-      "_tgt": "claudecode_conciseness_memory_rule",
+      "_src": "claudecode_conciseness_memory_rule",
+      "_tgt": "mattpocock_caveman_mode",
       "source": "claudecode_conciseness_memory_rule",
       "target": "mattpocock_caveman_mode"
     },
@@ -27666,8 +27666,8 @@
       "source_file": "_notes/claude-code-real-engineering.md",
       "source_location": "### 6. \u4ee5 GitHub Issue \u4f5c\u70ba\u8de8\u8996\u7a97\u8a08\u5283\u6301\u4e45\u5316",
       "weight": 1.0,
-      "_src": "claudecode_plan_externalization",
-      "_tgt": "claudecode_multi_phase_plan",
+      "_src": "claudecode_multi_phase_plan",
+      "_tgt": "claudecode_plan_externalization",
       "source": "claudecode_multi_phase_plan",
       "target": "claudecode_plan_externalization"
     },
@@ -27678,8 +27678,8 @@
       "source_file": "_notes/claude-code-real-engineering.md",
       "source_location": "## \u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "claudecode_pce_law",
-      "_tgt": "claudecode_phase_boundary_commit",
+      "_src": "claudecode_phase_boundary_commit",
+      "_tgt": "claudecode_pce_law",
       "source": "claudecode_phase_boundary_commit",
       "target": "claudecode_pce_law"
     },
@@ -27702,8 +27702,8 @@
       "source_file": "_notes/claude-code-real-engineering.md",
       "source_location": "## \u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "claudecode_pce_law",
-      "_tgt": "claudecode_plan_externalization",
+      "_src": "claudecode_plan_externalization",
+      "_tgt": "claudecode_pce_law",
       "source": "claudecode_plan_externalization",
       "target": "claudecode_pce_law"
     },
@@ -27714,8 +27714,8 @@
       "source_file": "_notes/matt-pocock-skills-lightweight-ai-dev.md",
       "source_location": "### 3. \u5951\u7d04\u5316\u9818\u57df\u8a9e\u8a00\uff1aGrill with Docs",
       "weight": 0.78,
-      "_src": "mattpocock_contextual_compounding",
-      "_tgt": "claudecode_plan_externalization",
+      "_src": "claudecode_plan_externalization",
+      "_tgt": "mattpocock_contextual_compounding",
       "source": "claudecode_plan_externalization",
       "target": "mattpocock_contextual_compounding"
     },
@@ -27810,8 +27810,8 @@
       "source_file": "_notes/ai-agent-civilization-externalization.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_agent_civilization_externalization_memory_offload",
-      "_tgt": "ai_agent_civilization_externalization_cultural_accumulation",
+      "_src": "ai_agent_civilization_externalization_cultural_accumulation",
+      "_tgt": "ai_agent_civilization_externalization_memory_offload",
       "source": "ai_agent_civilization_externalization_cultural_accumulation",
       "target": "ai_agent_civilization_externalization_memory_offload"
     },
@@ -27894,8 +27894,8 @@
       "source_file": "_notes/ai-changing-software-engineering-gergely.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "gergely_leaving_priors",
-      "_tgt": "learn_to_disappear_dynamic_adaptation",
+      "_src": "learn_to_disappear_dynamic_adaptation",
+      "_tgt": "gergely_leaving_priors",
       "source": "learn_to_disappear_dynamic_adaptation",
       "target": "gergely_leaving_priors"
     },
@@ -27918,8 +27918,8 @@
       "source_file": "_notes/how-to-use-enemies-gain-power.md",
       "source_location": "\u8a73\u7d30\u91cd\u9ede\u6574\u7406 \u00a73",
       "weight": 0.75,
-      "_src": "how_to_use_enemies_social_theater",
-      "_tgt": "learn_to_disappear_ego_management",
+      "_src": "learn_to_disappear_ego_management",
+      "_tgt": "how_to_use_enemies_social_theater",
       "source": "learn_to_disappear_ego_management",
       "target": "how_to_use_enemies_social_theater"
     },
@@ -27978,8 +27978,8 @@
       "source_file": "_notes/ai-era-solo-company.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "ai_era_solo_company_primary",
-      "_tgt": "ai_era_team_building_enterprise_primary",
+      "_src": "ai_era_team_building_enterprise_primary",
+      "_tgt": "ai_era_solo_company_primary",
       "source": "ai_era_team_building_enterprise_primary",
       "target": "ai_era_solo_company_primary"
     },
@@ -28038,8 +28038,8 @@
       "source_file": "_notes/semantic-layer-vs-context-layer.md",
       "source_location": "\u8a73\u7d30\u91cd\u9ede\u6574\u7406 \u00a71",
       "weight": 1.0,
-      "_src": "semantic_layer_vs_context_layer_semantic_layer_framework",
-      "_tgt": "semantic_layer_vs_context_layer_semantic_layer",
+      "_src": "semantic_layer_vs_context_layer_semantic_layer",
+      "_tgt": "semantic_layer_vs_context_layer_semantic_layer_framework",
       "source": "semantic_layer_vs_context_layer_semantic_layer",
       "target": "semantic_layer_vs_context_layer_semantic_layer_framework"
     },
@@ -28098,8 +28098,8 @@
       "source_file": "_notes/semantic-layer-vs-context-layer.md",
       "source_location": "\u60c5\u5883\u5c64\u8207\u8a9e\u610f\u5c64\uff1a\u7d44\u6210\u5143\u4ef6\u8207\u4f7f\u7528\u60c5\u5883",
       "weight": 1.0,
-      "_src": "semantic_layer_vs_context_layer_context_layer",
-      "_tgt": "semantic_layer_vs_context_layer_semantic_layer",
+      "_src": "semantic_layer_vs_context_layer_semantic_layer",
+      "_tgt": "semantic_layer_vs_context_layer_context_layer",
       "source": "semantic_layer_vs_context_layer_semantic_layer",
       "target": "semantic_layer_vs_context_layer_context_layer"
     },
@@ -28134,8 +28134,8 @@
       "source_file": "_notes/semantic-layer-vs-context-layer.md",
       "source_location": "\u6838\u5fc3\u6458\u8981",
       "weight": 1.0,
-      "_src": "semantic_layer_vs_context_layer_rationale_context_over_semantics",
-      "_tgt": "semantic_layer_vs_context_layer_context_layer",
+      "_src": "semantic_layer_vs_context_layer_context_layer",
+      "_tgt": "semantic_layer_vs_context_layer_rationale_context_over_semantics",
       "source": "semantic_layer_vs_context_layer_context_layer",
       "target": "semantic_layer_vs_context_layer_rationale_context_over_semantics"
     },
@@ -28218,8 +28218,8 @@
       "source_file": "_notes/semantic-layer-vs-context-layer.md",
       "source_location": "\u8a73\u7d30\u91cd\u9ede\u6574\u7406 \u00a72",
       "weight": 1.0,
-      "_src": "semantic_layer_vs_context_layer_llm",
-      "_tgt": "semantic_layer_vs_context_layer_probabilistic_reasoning",
+      "_src": "semantic_layer_vs_context_layer_probabilistic_reasoning",
+      "_tgt": "semantic_layer_vs_context_layer_llm",
       "source": "semantic_layer_vs_context_layer_probabilistic_reasoning",
       "target": "semantic_layer_vs_context_layer_llm"
     },
@@ -28230,8 +28230,8 @@
       "source_file": "_notes/semantic-layer-vs-context-layer.md",
       "source_location": "\u771f\u5be6\u4e16\u754c\u4f7f\u7528\u60c5\u5883",
       "weight": 1.0,
-      "_src": "semantic_layer_vs_context_layer_due_diligence_agent",
-      "_tgt": "semantic_layer_vs_context_layer_working_memory",
+      "_src": "semantic_layer_vs_context_layer_working_memory",
+      "_tgt": "semantic_layer_vs_context_layer_due_diligence_agent",
       "source": "semantic_layer_vs_context_layer_working_memory",
       "target": "semantic_layer_vs_context_layer_due_diligence_agent"
     },
@@ -28278,8 +28278,8 @@
       "source_file": "_notes/claude-managed-agents-ai-cloud-employees.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "claude_managed_agents_mcp_servers",
-      "_tgt": "claude_skills_plugins",
+      "_src": "claude_skills_plugins",
+      "_tgt": "claude_managed_agents_mcp_servers",
       "source": "claude_skills_plugins",
       "target": "claude_managed_agents_mcp_servers"
     },
@@ -28314,8 +28314,8 @@
       "source_file": "_notes/sdlc-to-adlc.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "sdlc_to_adlc_main",
-      "_tgt": "scrum_in_ai_agent_era_main",
+      "_src": "scrum_in_ai_agent_era_main",
+      "_tgt": "sdlc_to_adlc_main",
       "source": "scrum_in_ai_agent_era_main",
       "target": "sdlc_to_adlc_main"
     },
@@ -28326,8 +28326,8 @@
       "source_file": "_notes/solo-company-myth.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "solo_company_myth_main",
-      "_tgt": "scrum_in_ai_agent_era_main",
+      "_src": "scrum_in_ai_agent_era_main",
+      "_tgt": "solo_company_myth_main",
       "source": "scrum_in_ai_agent_era_main",
       "target": "solo_company_myth_main"
     },
@@ -28410,8 +28410,8 @@
       "source_file": "_notes/llm-top-10-security-vulnerabilities.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "llm_top_10_security_vulnerabilities_ai_gateway",
-      "_tgt": "llm_top_10_security_vulnerabilities_prompt_injection",
+      "_src": "llm_top_10_security_vulnerabilities_prompt_injection",
+      "_tgt": "llm_top_10_security_vulnerabilities_ai_gateway",
       "source": "llm_top_10_security_vulnerabilities_prompt_injection",
       "target": "llm_top_10_security_vulnerabilities_ai_gateway"
     },
@@ -28698,8 +28698,8 @@
       "source_file": "_notes/dog-owner-attachment-bond.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "dog_owner_attachment_stress_mirroring",
-      "_tgt": "dog_licking_jacobson_organ",
+      "_src": "dog_licking_jacobson_organ",
+      "_tgt": "dog_owner_attachment_stress_mirroring",
       "source": "dog_licking_jacobson_organ",
       "target": "dog_owner_attachment_stress_mirroring"
     },
@@ -28794,8 +28794,8 @@
       "source_file": "_notes/startup-business-metrics-trinity.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "startup_business_metrics_trinity_main",
-      "_tgt": "startup_profit_first_main",
+      "_src": "startup_profit_first_main",
+      "_tgt": "startup_business_metrics_trinity_main",
       "source": "startup_profit_first_main",
       "target": "startup_business_metrics_trinity_main"
     },
@@ -28998,8 +28998,8 @@
       "source_file": "_notes/startup-embrace-trouble.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "startup_embrace_trouble_main",
-      "_tgt": "startup_business_metrics_trinity_main",
+      "_src": "startup_business_metrics_trinity_main",
+      "_tgt": "startup_embrace_trouble_main",
       "source": "startup_business_metrics_trinity_main",
       "target": "startup_embrace_trouble_main"
     },
@@ -29010,8 +29010,8 @@
       "source_file": "_notes/rich-use-debt-to-build-wealth.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "rich_use_debt_to_build_wealth_main",
-      "_tgt": "startup_business_metrics_trinity_main",
+      "_src": "startup_business_metrics_trinity_main",
+      "_tgt": "rich_use_debt_to_build_wealth_main",
       "source": "startup_business_metrics_trinity_main",
       "target": "rich_use_debt_to_build_wealth_main"
     },
@@ -29118,8 +29118,8 @@
       "source_file": "_notes/ai-agent-long-term-memory.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_agent_long_term_memory_main",
-      "_tgt": "ai_agents_context_graph_decision_tracing_three_memory",
+      "_src": "ai_agents_context_graph_decision_tracing_three_memory",
+      "_tgt": "ai_agent_long_term_memory_main",
       "source": "ai_agents_context_graph_decision_tracing_three_memory",
       "target": "ai_agent_long_term_memory_main"
     },
@@ -29130,8 +29130,8 @@
       "source_file": "_notes/ai-agents-tacit-knowledge-gap.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_agents_tacit_knowledge_gap_main",
-      "_tgt": "ai_agents_context_graph_decision_tracing_ontology",
+      "_src": "ai_agents_context_graph_decision_tracing_ontology",
+      "_tgt": "ai_agents_tacit_knowledge_gap_main",
       "source": "ai_agents_context_graph_decision_tracing_ontology",
       "target": "ai_agents_tacit_knowledge_gap_main"
     },
@@ -29178,8 +29178,8 @@
       "source_file": "_notes/ai-agent-destructive-decisions.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_agent_destructive_decisions_structural_flaws",
-      "_tgt": "ai_agent_iam_maturity_model_main",
+      "_src": "ai_agent_iam_maturity_model_main",
+      "_tgt": "ai_agent_destructive_decisions_structural_flaws",
       "source": "ai_agent_iam_maturity_model_main",
       "target": "ai_agent_destructive_decisions_structural_flaws"
     },
@@ -29190,8 +29190,8 @@
       "source_file": "_notes/ai-agent-destructive-decisions.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_agent_destructive_decisions_main",
-      "_tgt": "ai_agent_iam_maturity_model_main",
+      "_src": "ai_agent_iam_maturity_model_main",
+      "_tgt": "ai_agent_destructive_decisions_main",
       "source": "ai_agent_iam_maturity_model_main",
       "target": "ai_agent_destructive_decisions_main"
     },
@@ -29262,8 +29262,8 @@
       "source_file": "_notes/wealthy-family-wealth-inheritance.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "wealthy_family_wealth_inheritance_separation",
-      "_tgt": "taiwan_property_gift_tax_trap_inheritance_strategy",
+      "_src": "taiwan_property_gift_tax_trap_inheritance_strategy",
+      "_tgt": "wealthy_family_wealth_inheritance_separation",
       "source": "taiwan_property_gift_tax_trap_inheritance_strategy",
       "target": "wealthy_family_wealth_inheritance_separation"
     },
@@ -29322,8 +29322,8 @@
       "source_file": "_notes/claude-ai-agent-team-deep-dive.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "claude_ai_agent_team_deep_dive_fanout",
-      "_tgt": "claude_ai_agent_team_deep_dive_harness",
+      "_src": "claude_ai_agent_team_deep_dive_harness",
+      "_tgt": "claude_ai_agent_team_deep_dive_fanout",
       "source": "claude_ai_agent_team_deep_dive_harness",
       "target": "claude_ai_agent_team_deep_dive_fanout"
     },
@@ -29406,8 +29406,8 @@
       "source_file": "_notes/ai-era-management-decentralization.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "ai_era_management_accountability",
-      "_tgt": "ai_era_five_value_liability",
+      "_src": "ai_era_five_value_liability",
+      "_tgt": "ai_era_management_accountability",
       "source": "ai_era_five_value_liability",
       "target": "ai_era_management_accountability"
     },
@@ -29418,8 +29418,8 @@
       "source_file": "_notes/ai-destroys-global-economy.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "ai_destroys_economy_intelligence_premium",
-      "_tgt": "ai_era_five_value_liability",
+      "_src": "ai_era_five_value_liability",
+      "_tgt": "ai_destroys_economy_intelligence_premium",
       "source": "ai_era_five_value_liability",
       "target": "ai_destroys_economy_intelligence_premium"
     },
@@ -29490,8 +29490,8 @@
       "source_file": "_notes/ai-capture-decision-record.md",
       "source_location": "section 3",
       "weight": 1.0,
-      "_src": "ai_capture_decision_record_ai_workflow",
-      "_tgt": "ai_capture_decision_record_decision_record",
+      "_src": "ai_capture_decision_record_decision_record",
+      "_tgt": "ai_capture_decision_record_ai_workflow",
       "source": "ai_capture_decision_record_decision_record",
       "target": "ai_capture_decision_record_ai_workflow"
     },
@@ -29502,8 +29502,8 @@
       "source_file": "_notes/ai-capture-decision-record.md",
       "source_location": "body",
       "weight": 1.0,
-      "_src": "ai_capture_decision_record_craft_methodology",
-      "_tgt": "ai_capture_decision_record_decision_record",
+      "_src": "ai_capture_decision_record_decision_record",
+      "_tgt": "ai_capture_decision_record_craft_methodology",
       "source": "ai_capture_decision_record_decision_record",
       "target": "ai_capture_decision_record_craft_methodology"
     },
@@ -29514,8 +29514,8 @@
       "source_file": "_notes/ai-capture-decision-record.md",
       "source_location": "body",
       "weight": 1.0,
-      "_src": "ai_capture_decision_record_context_graph",
-      "_tgt": "ai_capture_decision_record_decision_record",
+      "_src": "ai_capture_decision_record_decision_record",
+      "_tgt": "ai_capture_decision_record_context_graph",
       "source": "ai_capture_decision_record_decision_record",
       "target": "ai_capture_decision_record_context_graph"
     },
@@ -29526,8 +29526,8 @@
       "source_file": "_notes/why-you-dream-neuroscience.md",
       "source_location": null,
       "weight": 0.68,
-      "_src": "why_you_dream_neuroscience_ulysses_contract",
-      "_tgt": "ai_capture_decision_record_revisit_conditions",
+      "_src": "ai_capture_decision_record_revisit_conditions",
+      "_tgt": "why_you_dream_neuroscience_ulysses_contract",
       "source": "ai_capture_decision_record_revisit_conditions",
       "target": "why_you_dream_neuroscience_ulysses_contract"
     },
@@ -29538,8 +29538,8 @@
       "source_file": "_notes/ai-capture-decision-record.md",
       "source_location": "section 3",
       "weight": 1.0,
-      "_src": "ai_capture_decision_record_five_minute_principle",
-      "_tgt": "ai_capture_decision_record_ai_workflow",
+      "_src": "ai_capture_decision_record_ai_workflow",
+      "_tgt": "ai_capture_decision_record_five_minute_principle",
       "source": "ai_capture_decision_record_ai_workflow",
       "target": "ai_capture_decision_record_five_minute_principle"
     },
@@ -29634,8 +29634,8 @@
       "source_file": "_notes/ai-era-solo-company.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "ai_era_solo_company_orchestrate",
-      "_tgt": "ai_skills_evolution_organization_infrastructure",
+      "_src": "ai_skills_evolution_organization_infrastructure",
+      "_tgt": "ai_era_solo_company_orchestrate",
       "source": "ai_skills_evolution_organization_infrastructure",
       "target": "ai_era_solo_company_orchestrate"
     },
@@ -29670,8 +29670,8 @@
       "source_file": "_notes/dog-love-neuroscience.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "dog_love_neuroscience_primary",
-      "_tgt": "dog_owner_attachment_primary",
+      "_src": "dog_owner_attachment_primary",
+      "_tgt": "dog_love_neuroscience_primary",
       "source": "dog_owner_attachment_primary",
       "target": "dog_love_neuroscience_primary"
     },
@@ -29682,8 +29682,8 @@
       "source_file": "_notes/dog-emotional-needs.md",
       "source_location": null,
       "weight": 0.95,
-      "_src": "dog_emotional_needs_safe_base",
-      "_tgt": "dog_owner_attachment_secure_base",
+      "_src": "dog_owner_attachment_secure_base",
+      "_tgt": "dog_emotional_needs_safe_base",
       "source": "dog_owner_attachment_secure_base",
       "target": "dog_emotional_needs_safe_base"
     },
@@ -29730,8 +29730,8 @@
       "source_file": "_notes/devops-lessons-for-ai-dev.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "devops_lessons_ideas_bottleneck",
-      "_tgt": "delivery_time_collapse_decision_points",
+      "_src": "delivery_time_collapse_decision_points",
+      "_tgt": "devops_lessons_ideas_bottleneck",
       "source": "delivery_time_collapse_decision_points",
       "target": "devops_lessons_ideas_bottleneck"
     },
@@ -29838,8 +29838,8 @@
       "source_file": "_notes/dog-emotional-harm-ten-behaviors.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "dog_emotional_harm_primary",
-      "_tgt": "dog_emotional_needs_primary",
+      "_src": "dog_emotional_needs_primary",
+      "_tgt": "dog_emotional_harm_primary",
       "source": "dog_emotional_needs_primary",
       "target": "dog_emotional_harm_primary"
     },
@@ -29982,8 +29982,8 @@
       "source_file": "_notes/solo-company-myth.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "solo_company_myth_main",
-      "_tgt": "sdlc_to_adlc_main",
+      "_src": "sdlc_to_adlc_main",
+      "_tgt": "solo_company_myth_main",
       "source": "sdlc_to_adlc_main",
       "target": "solo_company_myth_main"
     },
@@ -30078,8 +30078,8 @@
       "source_file": "_notes/ai-stitch-2-design-automation.md",
       "source_location": null,
       "weight": 0.95,
-      "_src": "ai_stitch_2_design_automation_main",
-      "_tgt": "ai_web_design_stitch_claude_main",
+      "_src": "ai_web_design_stitch_claude_main",
+      "_tgt": "ai_stitch_2_design_automation_main",
       "source": "ai_web_design_stitch_claude_main",
       "target": "ai_stitch_2_design_automation_main"
     },
@@ -30090,8 +30090,8 @@
       "source_file": "_notes/ai-stitch-2-design-automation.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_stitch_2_design_automation_stitch",
-      "_tgt": "ai_web_design_stitch_claude_stitch",
+      "_src": "ai_web_design_stitch_claude_stitch",
+      "_tgt": "ai_stitch_2_design_automation_stitch",
       "source": "ai_web_design_stitch_claude_stitch",
       "target": "ai_stitch_2_design_automation_stitch"
     },
@@ -30102,8 +30102,8 @@
       "source_file": "_notes/ai-transforms-software-engineering.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "ai_transforms_software_engineering_claude_code",
-      "_tgt": "ai_web_design_stitch_claude_claude",
+      "_src": "ai_web_design_stitch_claude_claude",
+      "_tgt": "ai_transforms_software_engineering_claude_code",
       "source": "ai_web_design_stitch_claude_claude",
       "target": "ai_transforms_software_engineering_claude_code"
     },
@@ -30246,8 +30246,8 @@
       "source_file": "_notes/nobody-knows-your-worth-ai-era.md",
       "source_location": "### 1. \u50f9\u503c\u7684\u5d29\u6f70\u8207\u91cd\u7d44",
       "weight": 0.9,
-      "_src": "nobody_knows_your_worth_ai_era_productivity_overflow",
-      "_tgt": "nobody_knows_your_worth_ai_era_value_collapse",
+      "_src": "nobody_knows_your_worth_ai_era_value_collapse",
+      "_tgt": "nobody_knows_your_worth_ai_era_productivity_overflow",
       "source": "nobody_knows_your_worth_ai_era_value_collapse",
       "target": "nobody_knows_your_worth_ai_era_productivity_overflow"
     },
@@ -30258,8 +30258,8 @@
       "source_file": "_notes/nobody-knows-your-worth-ai-era.md",
       "source_location": "### 2. \u539f\u5247\u4e00",
       "weight": 0.9,
-      "_src": "nobody_knows_your_worth_ai_era_vibe_code",
-      "_tgt": "nobody_knows_your_worth_ai_era_understanding_over_generation",
+      "_src": "nobody_knows_your_worth_ai_era_understanding_over_generation",
+      "_tgt": "nobody_knows_your_worth_ai_era_vibe_code",
       "source": "nobody_knows_your_worth_ai_era_understanding_over_generation",
       "target": "nobody_knows_your_worth_ai_era_vibe_code"
     },
@@ -30270,8 +30270,8 @@
       "source_file": "_notes/nobody-knows-your-worth-ai-era.md",
       "source_location": "### 2. \u539f\u5247\u4e00",
       "weight": 0.9,
-      "_src": "nobody_knows_your_worth_ai_era_taste",
-      "_tgt": "nobody_knows_your_worth_ai_era_understanding_over_generation",
+      "_src": "nobody_knows_your_worth_ai_era_understanding_over_generation",
+      "_tgt": "nobody_knows_your_worth_ai_era_taste",
       "source": "nobody_knows_your_worth_ai_era_understanding_over_generation",
       "target": "nobody_knows_your_worth_ai_era_taste"
     },
@@ -30282,8 +30282,8 @@
       "source_file": "_notes/nobody-knows-your-worth-ai-era.md",
       "source_location": "### 2. \u539f\u5247\u4e00",
       "weight": 1.0,
-      "_src": "nobody_knows_your_worth_ai_era_rationale_slow_down",
-      "_tgt": "nobody_knows_your_worth_ai_era_understanding_over_generation",
+      "_src": "nobody_knows_your_worth_ai_era_understanding_over_generation",
+      "_tgt": "nobody_knows_your_worth_ai_era_rationale_slow_down",
       "source": "nobody_knows_your_worth_ai_era_understanding_over_generation",
       "target": "nobody_knows_your_worth_ai_era_rationale_slow_down"
     },
@@ -30294,8 +30294,8 @@
       "source_file": "_notes/nobody-knows-your-worth-ai-era.md",
       "source_location": "### 3. \u539f\u5247\u4e8c",
       "weight": 1.0,
-      "_src": "nobody_knows_your_worth_ai_era_explanation_as_product",
-      "_tgt": "nobody_knows_your_worth_ai_era_explanation_artifact",
+      "_src": "nobody_knows_your_worth_ai_era_explanation_artifact",
+      "_tgt": "nobody_knows_your_worth_ai_era_explanation_as_product",
       "source": "nobody_knows_your_worth_ai_era_explanation_artifact",
       "target": "nobody_knows_your_worth_ai_era_explanation_as_product"
     },
@@ -30306,8 +30306,8 @@
       "source_file": "_notes/nobody-knows-your-worth-ai-era.md",
       "source_location": "### 3. \u539f\u5247\u4e8c",
       "weight": 1.0,
-      "_src": "nobody_knows_your_worth_ai_era_rationale_explanation",
-      "_tgt": "nobody_knows_your_worth_ai_era_explanation_artifact",
+      "_src": "nobody_knows_your_worth_ai_era_explanation_artifact",
+      "_tgt": "nobody_knows_your_worth_ai_era_rationale_explanation",
       "source": "nobody_knows_your_worth_ai_era_explanation_artifact",
       "target": "nobody_knows_your_worth_ai_era_rationale_explanation"
     },
@@ -30330,8 +30330,8 @@
       "source_file": "_notes/nobody-knows-your-worth-ai-era.md",
       "source_location": "## \u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 0.85,
-      "_src": "nobody_knows_your_worth_ai_era_4w_method",
-      "_tgt": "nobody_knows_your_worth_ai_era_explanation_as_product",
+      "_src": "nobody_knows_your_worth_ai_era_explanation_as_product",
+      "_tgt": "nobody_knows_your_worth_ai_era_4w_method",
       "source": "nobody_knows_your_worth_ai_era_explanation_as_product",
       "target": "nobody_knows_your_worth_ai_era_4w_method"
     },
@@ -30342,8 +30342,8 @@
       "source_file": "_notes/nobody-knows-your-worth-ai-era.md",
       "source_location": "### 4. \u539f\u5247\u4e09\u8207\u56db",
       "weight": 0.85,
-      "_src": "nobody_knows_your_worth_ai_era_talent_board",
-      "_tgt": "nobody_knows_your_worth_ai_era_micro_transactions",
+      "_src": "nobody_knows_your_worth_ai_era_micro_transactions",
+      "_tgt": "nobody_knows_your_worth_ai_era_talent_board",
       "source": "nobody_knows_your_worth_ai_era_micro_transactions",
       "target": "nobody_knows_your_worth_ai_era_talent_board"
     },
@@ -30354,8 +30354,8 @@
       "source_file": "_notes/nobody-knows-your-worth-ai-era.md",
       "source_location": "## \u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 0.8,
-      "_src": "nobody_knows_your_worth_ai_era_understanding_diary",
-      "_tgt": "nobody_knows_your_worth_ai_era_4w_method",
+      "_src": "nobody_knows_your_worth_ai_era_4w_method",
+      "_tgt": "nobody_knows_your_worth_ai_era_understanding_diary",
       "source": "nobody_knows_your_worth_ai_era_4w_method",
       "target": "nobody_knows_your_worth_ai_era_understanding_diary"
     },
@@ -30402,8 +30402,8 @@
       "source_file": "_notes/anti-cancer-wellness.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "anti_cancer_wellness_main",
-      "_tgt": "chronic_inflammation_diet_guide_main",
+      "_src": "chronic_inflammation_diet_guide_main",
+      "_tgt": "anti_cancer_wellness_main",
       "source": "chronic_inflammation_diet_guide_main",
       "target": "anti_cancer_wellness_main"
     },
@@ -30414,8 +30414,8 @@
       "source_file": "_notes/body-fat-reduction-timeline.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "body_fat_reduction_timeline_main",
-      "_tgt": "chronic_inflammation_diet_guide_main",
+      "_src": "chronic_inflammation_diet_guide_main",
+      "_tgt": "body_fat_reduction_timeline_main",
       "source": "chronic_inflammation_diet_guide_main",
       "target": "body_fat_reduction_timeline_main"
     },
@@ -30426,8 +30426,8 @@
       "source_file": "_notes/anti-cancer-wellness.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "anti_cancer_wellness_keto",
-      "_tgt": "chronic_inflammation_diet_guide_antiinflam",
+      "_src": "chronic_inflammation_diet_guide_antiinflam",
+      "_tgt": "anti_cancer_wellness_keto",
       "source": "chronic_inflammation_diet_guide_antiinflam",
       "target": "anti_cancer_wellness_keto"
     },
@@ -30594,8 +30594,8 @@
       "source_file": "_notes/14-how-to-fire-managers.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "14_how_to_fire_managers_constructive_termination",
-      "_tgt": "14_how_to_fire_managers_exit_door",
+      "_src": "14_how_to_fire_managers_exit_door",
+      "_tgt": "14_how_to_fire_managers_constructive_termination",
       "source": "14_how_to_fire_managers_exit_door",
       "target": "14_how_to_fire_managers_constructive_termination"
     },
@@ -30642,8 +30642,8 @@
       "source_file": "_notes/ai-driven-content-creation-system.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "ai_content_creation_main",
-      "_tgt": "ai_era_open_brain_main",
+      "_src": "ai_era_open_brain_main",
+      "_tgt": "ai_content_creation_main",
       "source": "ai_era_open_brain_main",
       "target": "ai_content_creation_main"
     },
@@ -30654,8 +30654,8 @@
       "source_file": "_notes/ai-era-open-brain-knowledge-system.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_era_open_brain_memory_lockin",
-      "_tgt": "ai_era_open_brain_mcp",
+      "_src": "ai_era_open_brain_mcp",
+      "_tgt": "ai_era_open_brain_memory_lockin",
       "source": "ai_era_open_brain_mcp",
       "target": "ai_era_open_brain_memory_lockin"
     },
@@ -30702,8 +30702,8 @@
       "source_file": "_notes/claude-code-internal-architecture.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "claude_code_internal_architecture_main",
-      "_tgt": "claude_code_leak_deep_analysis_main",
+      "_src": "claude_code_leak_deep_analysis_main",
+      "_tgt": "claude_code_internal_architecture_main",
       "source": "claude_code_leak_deep_analysis_main",
       "target": "claude_code_internal_architecture_main"
     },
@@ -30714,8 +30714,8 @@
       "source_file": "_notes/claude-code-ai-agent-architecture-deep-dive.md",
       "source_location": null,
       "weight": 0.95,
-      "_src": "claude_code_ai_agent_architecture_deep_dive_main",
-      "_tgt": "claude_code_leak_deep_analysis_main",
+      "_src": "claude_code_leak_deep_analysis_main",
+      "_tgt": "claude_code_ai_agent_architecture_deep_dive_main",
       "source": "claude_code_leak_deep_analysis_main",
       "target": "claude_code_ai_agent_architecture_deep_dive_main"
     },
@@ -30726,8 +30726,8 @@
       "source_file": "_notes/claude-code-ai-agent-architecture-deep-dive.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "claude_code_ai_agent_architecture_deep_dive_plumbing",
-      "_tgt": "claude_code_leak_deep_analysis_main",
+      "_src": "claude_code_leak_deep_analysis_main",
+      "_tgt": "claude_code_ai_agent_architecture_deep_dive_plumbing",
       "source": "claude_code_leak_deep_analysis_main",
       "target": "claude_code_ai_agent_architecture_deep_dive_plumbing"
     },
@@ -30738,8 +30738,8 @@
       "source_file": "_notes/claude-code-ai-agent-architecture-deep-dive.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "claude_code_ai_agent_architecture_deep_dive_permission_layers",
-      "_tgt": "claude_code_leak_deep_analysis_workflow_state",
+      "_src": "claude_code_leak_deep_analysis_workflow_state",
+      "_tgt": "claude_code_ai_agent_architecture_deep_dive_permission_layers",
       "source": "claude_code_leak_deep_analysis_workflow_state",
       "target": "claude_code_ai_agent_architecture_deep_dive_permission_layers"
     },
@@ -30750,8 +30750,8 @@
       "source_file": "_notes/claude-code-internal-architecture.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "claude_code_internal_architecture_compaction",
-      "_tgt": "claude_code_leak_deep_analysis_token_budget",
+      "_src": "claude_code_leak_deep_analysis_token_budget",
+      "_tgt": "claude_code_internal_architecture_compaction",
       "source": "claude_code_leak_deep_analysis_token_budget",
       "target": "claude_code_internal_architecture_compaction"
     },
@@ -30810,8 +30810,8 @@
       "source_file": "_notes/ai-transforms-software-engineering.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "ai_transforms_software_engineering_main",
-      "_tgt": "ai_transformation_devx_pain_points_main",
+      "_src": "ai_transformation_devx_pain_points_main",
+      "_tgt": "ai_transforms_software_engineering_main",
       "source": "ai_transformation_devx_pain_points_main",
       "target": "ai_transforms_software_engineering_main"
     },
@@ -30822,8 +30822,8 @@
       "source_file": "_notes/chrome-144-ai-agent-debugging.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "chrome_144_ai_agent_debugging_main",
-      "_tgt": "ai_transformation_devx_pain_points_devx",
+      "_src": "ai_transformation_devx_pain_points_devx",
+      "_tgt": "chrome_144_ai_agent_debugging_main",
       "source": "ai_transformation_devx_pain_points_devx",
       "target": "chrome_144_ai_agent_debugging_main"
     },
@@ -30834,8 +30834,8 @@
       "source_file": "_notes/apple-ai-strategy-agentic-ecosystem.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "apple_ai_strategy_agentic_ecosystem_main",
-      "_tgt": "ai_transformation_devx_pain_points_agentic",
+      "_src": "ai_transformation_devx_pain_points_agentic",
+      "_tgt": "apple_ai_strategy_agentic_ecosystem_main",
       "source": "ai_transformation_devx_pain_points_agentic",
       "target": "apple_ai_strategy_agentic_ecosystem_main"
     },
@@ -30870,8 +30870,8 @@
       "source_file": "_notes/corporate-culture-biggest-lie.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "corporate_culture_burnout_gap",
-      "_tgt": "corporate_culture_performative_compliance",
+      "_src": "corporate_culture_performative_compliance",
+      "_tgt": "corporate_culture_burnout_gap",
       "source": "corporate_culture_performative_compliance",
       "target": "corporate_culture_burnout_gap"
     },
@@ -30882,8 +30882,8 @@
       "source_file": "_notes/craft-methodology-how-we-build-systems.md",
       "source_location": null,
       "weight": 0.65,
-      "_src": "craft_methodology_constitution",
-      "_tgt": "corporate_culture_performative_compliance",
+      "_src": "corporate_culture_performative_compliance",
+      "_tgt": "craft_methodology_constitution",
       "source": "corporate_culture_performative_compliance",
       "target": "craft_methodology_constitution"
     },
@@ -31026,8 +31026,8 @@
       "source_file": "_notes/ai-startup-allocating-intelligence.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "ai_startup_allocating_intelligence_main",
-      "_tgt": "ai_startup_90_day_revenue_main",
+      "_src": "ai_startup_90_day_revenue_main",
+      "_tgt": "ai_startup_allocating_intelligence_main",
       "source": "ai_startup_90_day_revenue_main",
       "target": "ai_startup_allocating_intelligence_main"
     },
@@ -31146,8 +31146,8 @@
       "source_file": "_notes/gemini-live-api-voice-agent.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "gemini_live_api_voice_agent_main",
-      "_tgt": "google_ai_update_highlights_main",
+      "_src": "google_ai_update_highlights_main",
+      "_tgt": "gemini_live_api_voice_agent_main",
       "source": "google_ai_update_highlights_main",
       "target": "gemini_live_api_voice_agent_main"
     },
@@ -31398,8 +31398,8 @@
       "source_file": "_notes/obsidian-8-essential-plugins.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "obsidian_8_essential_plugins_1_3_3_rule",
-      "_tgt": "obsidian_8_essential_plugins_web_clipper",
+      "_src": "obsidian_8_essential_plugins_web_clipper",
+      "_tgt": "obsidian_8_essential_plugins_1_3_3_rule",
       "source": "obsidian_8_essential_plugins_web_clipper",
       "target": "obsidian_8_essential_plugins_1_3_3_rule"
     },
@@ -31422,8 +31422,8 @@
       "source_file": "_notes/obsidian-8-essential-plugins.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "obsidian_8_essential_plugins_1_3_3_rule",
-      "_tgt": "obsidian_8_essential_plugins_setting_search",
+      "_src": "obsidian_8_essential_plugins_setting_search",
+      "_tgt": "obsidian_8_essential_plugins_1_3_3_rule",
       "source": "obsidian_8_essential_plugins_setting_search",
       "target": "obsidian_8_essential_plugins_1_3_3_rule"
     },
@@ -31434,8 +31434,8 @@
       "source_file": "_notes/obsidian-8-essential-plugins.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "obsidian_8_essential_plugins_1_3_3_rule",
-      "_tgt": "obsidian_8_essential_plugins_recent_files",
+      "_src": "obsidian_8_essential_plugins_recent_files",
+      "_tgt": "obsidian_8_essential_plugins_1_3_3_rule",
       "source": "obsidian_8_essential_plugins_recent_files",
       "target": "obsidian_8_essential_plugins_1_3_3_rule"
     },
@@ -31458,8 +31458,8 @@
       "source_file": "_notes/obsidian-8-essential-plugins.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "obsidian_8_essential_plugins_1_3_3_rule",
-      "_tgt": "obsidian_8_essential_plugins_calendar",
+      "_src": "obsidian_8_essential_plugins_calendar",
+      "_tgt": "obsidian_8_essential_plugins_1_3_3_rule",
       "source": "obsidian_8_essential_plugins_calendar",
       "target": "obsidian_8_essential_plugins_1_3_3_rule"
     },
@@ -31494,8 +31494,8 @@
       "source_file": "_notes/obsidian-8-essential-plugins.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "obsidian_8_essential_plugins_1_3_3_rule",
-      "_tgt": "obsidian_8_essential_plugins_omnisearch",
+      "_src": "obsidian_8_essential_plugins_omnisearch",
+      "_tgt": "obsidian_8_essential_plugins_1_3_3_rule",
       "source": "obsidian_8_essential_plugins_omnisearch",
       "target": "obsidian_8_essential_plugins_1_3_3_rule"
     },
@@ -31530,8 +31530,8 @@
       "source_file": "_notes/obsidian-8-essential-plugins.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "obsidian_8_essential_plugins_1_3_3_rule",
-      "_tgt": "obsidian_8_essential_plugins_quickadd",
+      "_src": "obsidian_8_essential_plugins_quickadd",
+      "_tgt": "obsidian_8_essential_plugins_1_3_3_rule",
       "source": "obsidian_8_essential_plugins_quickadd",
       "target": "obsidian_8_essential_plugins_1_3_3_rule"
     },
@@ -31542,8 +31542,8 @@
       "source_file": "_notes/obsidian-8-essential-plugins.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "obsidian_8_essential_plugins_1_3_3_rule",
-      "_tgt": "obsidian_8_essential_plugins_tasks",
+      "_src": "obsidian_8_essential_plugins_tasks",
+      "_tgt": "obsidian_8_essential_plugins_1_3_3_rule",
       "source": "obsidian_8_essential_plugins_tasks",
       "target": "obsidian_8_essential_plugins_1_3_3_rule"
     },
@@ -31566,8 +31566,8 @@
       "source_file": "_notes/obsidian-8-essential-plugins.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "obsidian_8_essential_plugins_flow_state_protection",
-      "_tgt": "obsidian_8_essential_plugins_cognitive_load_reduction",
+      "_src": "obsidian_8_essential_plugins_cognitive_load_reduction",
+      "_tgt": "obsidian_8_essential_plugins_flow_state_protection",
       "source": "obsidian_8_essential_plugins_cognitive_load_reduction",
       "target": "obsidian_8_essential_plugins_flow_state_protection"
     },
@@ -31602,8 +31602,8 @@
       "source_file": "_notes/startup-theory-of-constraints.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "startup_theory_of_constraints_main",
-      "_tgt": "startup_embrace_trouble_main",
+      "_src": "startup_embrace_trouble_main",
+      "_tgt": "startup_theory_of_constraints_main",
       "source": "startup_embrace_trouble_main",
       "target": "startup_theory_of_constraints_main"
     },
@@ -31650,8 +31650,8 @@
       "source_file": "_notes/anthropic-advisor-strategy-explained.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "anthropic_advisor_strategy_explained_main",
-      "_tgt": "ai_transforms_software_engineering_claude_code",
+      "_src": "ai_transforms_software_engineering_claude_code",
+      "_tgt": "anthropic_advisor_strategy_explained_main",
       "source": "ai_transforms_software_engineering_claude_code",
       "target": "anthropic_advisor_strategy_explained_main"
     },
@@ -31770,8 +31770,8 @@
       "source_file": "_notes/salary-negotiation-after-offer.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "salary_negotiation_after_offer_main",
-      "_tgt": "salary_negotiation_overcoming_greed_main",
+      "_src": "salary_negotiation_overcoming_greed_main",
+      "_tgt": "salary_negotiation_after_offer_main",
       "source": "salary_negotiation_overcoming_greed_main",
       "target": "salary_negotiation_after_offer_main"
     },
@@ -31818,8 +31818,8 @@
       "source_file": "_notes/ai-destroys-global-economy.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "ai_destroys_economy_main",
-      "_tgt": "ai_economic_shift_main",
+      "_src": "ai_economic_shift_main",
+      "_tgt": "ai_destroys_economy_main",
       "source": "ai_economic_shift_main",
       "target": "ai_destroys_economy_main"
     },
@@ -31974,8 +31974,8 @@
       "source_file": "_notes/ai-as-persona-not-program.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_as_persona_not_program_emergent_misalignment",
-      "_tgt": "ai_agent_destructive_decisions_main",
+      "_src": "ai_agent_destructive_decisions_main",
+      "_tgt": "ai_as_persona_not_program_emergent_misalignment",
       "source": "ai_agent_destructive_decisions_main",
       "target": "ai_as_persona_not_program_emergent_misalignment"
     },
@@ -31986,8 +31986,8 @@
       "source_file": "_notes/refuse-to-save-others-self-protection.md",
       "source_location": "[21:22]",
       "weight": 1.0,
-      "_src": "refuse_to_save_others_self_protection_flattery_self_protection",
-      "_tgt": "refuse_to_save_others_self_protection_boundary",
+      "_src": "refuse_to_save_others_self_protection_boundary",
+      "_tgt": "refuse_to_save_others_self_protection_flattery_self_protection",
       "source": "refuse_to_save_others_self_protection_boundary",
       "target": "refuse_to_save_others_self_protection_flattery_self_protection"
     },
@@ -31998,8 +31998,8 @@
       "source_file": "_notes/refuse-to-save-others-self-protection.md",
       "source_location": "\u6838\u5fc3\u6458\u8981",
       "weight": 1.0,
-      "_src": "refuse_to_save_others_self_protection_refusing_to_save_others",
-      "_tgt": "refuse_to_save_others_self_protection_boundary",
+      "_src": "refuse_to_save_others_self_protection_boundary",
+      "_tgt": "refuse_to_save_others_self_protection_refusing_to_save_others",
       "source": "refuse_to_save_others_self_protection_boundary",
       "target": "refuse_to_save_others_self_protection_refusing_to_save_others"
     },
@@ -32070,8 +32070,8 @@
       "source_file": "_notes/refuse-to-save-others-self-protection.md",
       "source_location": "\u6838\u5fc3\u6458\u8981",
       "weight": 1.0,
-      "_src": "refuse_to_save_others_self_protection_rationale_no_intervention",
-      "_tgt": "refuse_to_save_others_self_protection_refusing_to_save_others",
+      "_src": "refuse_to_save_others_self_protection_refusing_to_save_others",
+      "_tgt": "refuse_to_save_others_self_protection_rationale_no_intervention",
       "source": "refuse_to_save_others_self_protection_refusing_to_save_others",
       "target": "refuse_to_save_others_self_protection_rationale_no_intervention"
     },
@@ -32142,8 +32142,8 @@
       "source_file": "_notes/ai-era-engineer-career-bet.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "ai_era_engineer_career_bet_augment",
-      "_tgt": "ai_software_paradigm_printing_revolution",
+      "_src": "ai_software_paradigm_printing_revolution",
+      "_tgt": "ai_era_engineer_career_bet_augment",
       "source": "ai_software_paradigm_printing_revolution",
       "target": "ai_era_engineer_career_bet_augment"
     },
@@ -32202,8 +32202,8 @@
       "source_file": "_notes/claude-code-interactive-artifacts-workflow.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "claude_code_interactive_artifacts_workflow_channels",
-      "_tgt": "claude_code_ai_marketing_team_mcp",
+      "_src": "claude_code_ai_marketing_team_mcp",
+      "_tgt": "claude_code_interactive_artifacts_workflow_channels",
       "source": "claude_code_ai_marketing_team_mcp",
       "target": "claude_code_interactive_artifacts_workflow_channels"
     },
@@ -32262,8 +32262,8 @@
       "source_file": "_notes/howard-marks-investment-philosophy.md",
       "source_location": "conclusion",
       "weight": 1.0,
-      "_src": "howard_marks_investment_philosophy_3v_rule",
-      "_tgt": "howard_marks_investment_philosophy_risk_control",
+      "_src": "howard_marks_investment_philosophy_risk_control",
+      "_tgt": "howard_marks_investment_philosophy_3v_rule",
       "source": "howard_marks_investment_philosophy_risk_control",
       "target": "howard_marks_investment_philosophy_3v_rule"
     },
@@ -32286,8 +32286,8 @@
       "source_file": "_notes/howard-marks-investment-philosophy.md",
       "source_location": "conclusion",
       "weight": 1.0,
-      "_src": "howard_marks_investment_philosophy_3v_rule",
-      "_tgt": "howard_marks_investment_philosophy_value_vs_price",
+      "_src": "howard_marks_investment_philosophy_value_vs_price",
+      "_tgt": "howard_marks_investment_philosophy_3v_rule",
       "source": "howard_marks_investment_philosophy_value_vs_price",
       "target": "howard_marks_investment_philosophy_3v_rule"
     },
@@ -32466,8 +32466,8 @@
       "source_file": "_notes/anthropic-pm-fast-iteration.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "anthropic_pm_fast_iteration_pm_role_shift",
-      "_tgt": "how_to_become_builder_pm_builder_pm",
+      "_src": "how_to_become_builder_pm_builder_pm",
+      "_tgt": "anthropic_pm_fast_iteration_pm_role_shift",
       "source": "how_to_become_builder_pm_builder_pm",
       "target": "anthropic_pm_fast_iteration_pm_role_shift"
     },
@@ -32514,8 +32514,8 @@
       "source_file": "_notes/google-cloud-next-26-developer-keynote.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "google_cloud_next_26_developer_keynote_mcp",
-      "_tgt": "how_to_become_builder_pm_agent_scaffolding",
+      "_src": "how_to_become_builder_pm_agent_scaffolding",
+      "_tgt": "google_cloud_next_26_developer_keynote_mcp",
       "source": "how_to_become_builder_pm_agent_scaffolding",
       "target": "google_cloud_next_26_developer_keynote_mcp"
     },
@@ -32574,8 +32574,8 @@
       "source_file": "_notes/economics-drives-business.md",
       "source_location": "section 5",
       "weight": 0.7,
-      "_src": "economics_drives_business_bounded_rationality",
-      "_tgt": "economics_drives_business_market_power",
+      "_src": "economics_drives_business_market_power",
+      "_tgt": "economics_drives_business_bounded_rationality",
       "source": "economics_drives_business_market_power",
       "target": "economics_drives_business_bounded_rationality"
     },
@@ -32586,8 +32586,8 @@
       "source_file": "_notes/how-spies-analyze-you.md",
       "source_location": null,
       "weight": 0.65,
-      "_src": "how_spies_analyze_you_elicitation_reciprocity",
-      "_tgt": "economics_drives_business_information_asymmetry",
+      "_src": "economics_drives_business_information_asymmetry",
+      "_tgt": "how_spies_analyze_you_elicitation_reciprocity",
       "source": "economics_drives_business_information_asymmetry",
       "target": "how_spies_analyze_you_elicitation_reciprocity"
     },
@@ -32658,8 +32658,8 @@
       "source_file": "_notes/ai-evaluation-guide.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_evaluation_guide_primary",
-      "_tgt": "ai_evaluation_systematic_quality_primary",
+      "_src": "ai_evaluation_systematic_quality_primary",
+      "_tgt": "ai_evaluation_guide_primary",
       "source": "ai_evaluation_systematic_quality_primary",
       "target": "ai_evaluation_guide_primary"
     },
@@ -32706,8 +32706,8 @@
       "source_file": "_notes/ai-agent-evaluation-system-design.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_agent_evaluation_system_design_main",
-      "_tgt": "ai_agent_four_species_main",
+      "_src": "ai_agent_four_species_main",
+      "_tgt": "ai_agent_evaluation_system_design_main",
       "source": "ai_agent_four_species_main",
       "target": "ai_agent_evaluation_system_design_main"
     },
@@ -32730,8 +32730,8 @@
       "source_file": "_notes/ai-agent-current-state-future-practice.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_agent_current_state_future_practice_dark_factory",
-      "_tgt": "ai_agent_four_species_dark_factory",
+      "_src": "ai_agent_four_species_dark_factory",
+      "_tgt": "ai_agent_current_state_future_practice_dark_factory",
       "source": "ai_agent_four_species_dark_factory",
       "target": "ai_agent_current_state_future_practice_dark_factory"
     },
@@ -32766,8 +32766,8 @@
       "source_file": "_notes/07-orgs-stealing-scope.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "07_orgs_stealing_scope_respect_distance",
-      "_tgt": "07_orgs_stealing_scope_main",
+      "_src": "07_orgs_stealing_scope_main",
+      "_tgt": "07_orgs_stealing_scope_respect_distance",
       "source": "07_orgs_stealing_scope_main",
       "target": "07_orgs_stealing_scope_respect_distance"
     },
@@ -33054,8 +33054,8 @@
       "source_file": "_notes/reinventing-organizations.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "reinventing_organizations_self_management",
-      "_tgt": "reinventing_organizations_teal",
+      "_src": "reinventing_organizations_teal",
+      "_tgt": "reinventing_organizations_self_management",
       "source": "reinventing_organizations_teal",
       "target": "reinventing_organizations_self_management"
     },
@@ -33090,8 +33090,8 @@
       "source_file": "_notes/wealthy-asset-allocation-structure.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "wealthy_asset_allocation_structure_three_layer",
-      "_tgt": "wealthy_family_wealth_inheritance_seven_locks",
+      "_src": "wealthy_family_wealth_inheritance_seven_locks",
+      "_tgt": "wealthy_asset_allocation_structure_three_layer",
       "source": "wealthy_family_wealth_inheritance_seven_locks",
       "target": "wealthy_asset_allocation_structure_three_layer"
     },
@@ -33174,8 +33174,8 @@
       "source_file": "_notes/obsidian-claude-code-ai-system.md",
       "source_location": null,
       "weight": 0.95,
-      "_src": "obsidian_claude_code_ai_system_primary",
-      "_tgt": "obsidian_claude_code_digital_brain_primary",
+      "_src": "obsidian_claude_code_digital_brain_primary",
+      "_tgt": "obsidian_claude_code_ai_system_primary",
       "source": "obsidian_claude_code_digital_brain_primary",
       "target": "obsidian_claude_code_ai_system_primary"
     },
@@ -33258,8 +33258,8 @@
       "source_file": "_notes/obsidian-claude-code-ai-system.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "obsidian_claude_code_ai_system_primary",
-      "_tgt": "obsidian_ai_second_brain_workflow_primary",
+      "_src": "obsidian_ai_second_brain_workflow_primary",
+      "_tgt": "obsidian_claude_code_ai_system_primary",
       "source": "obsidian_ai_second_brain_workflow_primary",
       "target": "obsidian_claude_code_ai_system_primary"
     },
@@ -33318,8 +33318,8 @@
       "source_file": "_notes/ai-growth-strategy-future-roles.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "ai_growth_strategy_future_roles_generalist",
-      "_tgt": "ai_era_product_management_triple_threat",
+      "_src": "ai_era_product_management_triple_threat",
+      "_tgt": "ai_growth_strategy_future_roles_generalist",
       "source": "ai_era_product_management_triple_threat",
       "target": "ai_growth_strategy_future_roles_generalist"
     },
@@ -33366,8 +33366,8 @@
       "source_file": "_notes/claude-code-agent-teams-tmux.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "claude_code_agent_teams_tmux_main",
-      "_tgt": "claude_code_advanced_settings_main",
+      "_src": "claude_code_advanced_settings_main",
+      "_tgt": "claude_code_agent_teams_tmux_main",
       "source": "claude_code_advanced_settings_main",
       "target": "claude_code_agent_teams_tmux_main"
     },
@@ -33462,8 +33462,8 @@
       "source_file": "_notes/claude-code-six-layer-architecture.md",
       "source_location": "Act IV: The Architecture \u2013 Layer 4",
       "weight": 1.0,
-      "_src": "claude_code_six_layer_architecture_six_layer_architecture",
-      "_tgt": "claude_code_six_layer_architecture_agentic_loop",
+      "_src": "claude_code_six_layer_architecture_agentic_loop",
+      "_tgt": "claude_code_six_layer_architecture_six_layer_architecture",
       "source": "claude_code_six_layer_architecture_agentic_loop",
       "target": "claude_code_six_layer_architecture_six_layer_architecture"
     },
@@ -33510,8 +33510,8 @@
       "source_file": "_notes/the-future-of-mcp.md",
       "source_location": "Section 3 \u2013 scripted batch execution vs per-loop tool calls",
       "weight": 0.7,
-      "_src": "the_future_of_mcp_programmatic_tool_calling",
-      "_tgt": "claude_code_six_layer_architecture_agentic_loop",
+      "_src": "claude_code_six_layer_architecture_agentic_loop",
+      "_tgt": "the_future_of_mcp_programmatic_tool_calling",
       "source": "claude_code_six_layer_architecture_agentic_loop",
       "target": "the_future_of_mcp_programmatic_tool_calling"
     },
@@ -33522,8 +33522,8 @@
       "source_file": "_notes/claude-code-six-layer-architecture.md",
       "source_location": "The System Prompt",
       "weight": 1.0,
-      "_src": "claude_code_six_layer_architecture_six_layer_architecture",
-      "_tgt": "claude_code_six_layer_architecture_system_prompt_layers",
+      "_src": "claude_code_six_layer_architecture_system_prompt_layers",
+      "_tgt": "claude_code_six_layer_architecture_six_layer_architecture",
       "source": "claude_code_six_layer_architecture_system_prompt_layers",
       "target": "claude_code_six_layer_architecture_six_layer_architecture"
     },
@@ -33546,8 +33546,8 @@
       "source_file": "_notes/claude-code-six-layer-architecture.md",
       "source_location": "The Guardrails \u2013 Permission Layer",
       "weight": 1.0,
-      "_src": "claude_code_six_layer_architecture_six_layer_architecture",
-      "_tgt": "claude_code_six_layer_architecture_deny_first_architecture",
+      "_src": "claude_code_six_layer_architecture_deny_first_architecture",
+      "_tgt": "claude_code_six_layer_architecture_six_layer_architecture",
       "source": "claude_code_six_layer_architecture_deny_first_architecture",
       "target": "claude_code_six_layer_architecture_six_layer_architecture"
     },
@@ -33606,8 +33606,8 @@
       "source_file": "_notes/claude-code-six-layer-architecture.md",
       "source_location": "Act IV \u2013 Layer 3: Tool System includes Subagents",
       "weight": 1.0,
-      "_src": "claude_code_six_layer_architecture_six_layer_architecture",
-      "_tgt": "claude_code_six_layer_architecture_subagents",
+      "_src": "claude_code_six_layer_architecture_subagents",
+      "_tgt": "claude_code_six_layer_architecture_six_layer_architecture",
       "source": "claude_code_six_layer_architecture_subagents",
       "target": "claude_code_six_layer_architecture_six_layer_architecture"
     },
@@ -33642,8 +33642,8 @@
       "source_file": "_notes/rethinking-ai-agents-the-rise-of-harness-engineering.md",
       "source_location": "Section 1 \u2013 OS analogy maps to Claude Code layered arch",
       "weight": 0.8,
-      "_src": "rethinking_ai_agents_os_analogy",
-      "_tgt": "claude_code_six_layer_architecture_six_layer_architecture",
+      "_src": "claude_code_six_layer_architecture_six_layer_architecture",
+      "_tgt": "rethinking_ai_agents_os_analogy",
       "source": "claude_code_six_layer_architecture_six_layer_architecture",
       "target": "rethinking_ai_agents_os_analogy"
     },
@@ -33654,8 +33654,8 @@
       "source_file": "_notes/rethinking-ai-agents-the-rise-of-harness-engineering.md",
       "source_location": "Section 2 \u2013 justifies single-loop, layered design over complex swarm",
       "weight": 0.8,
-      "_src": "rethinking_ai_agents_architecture_over_weights",
-      "_tgt": "claude_code_six_layer_architecture_six_layer_architecture",
+      "_src": "claude_code_six_layer_architecture_six_layer_architecture",
+      "_tgt": "rethinking_ai_agents_architecture_over_weights",
       "source": "claude_code_six_layer_architecture_six_layer_architecture",
       "target": "rethinking_ai_agents_architecture_over_weights"
     },
@@ -33906,8 +33906,8 @@
       "source_file": "_notes/the-future-of-mcp.md",
       "source_location": "Section 5",
       "weight": 1.0,
-      "_src": "the_future_of_mcp_auto_discovery",
-      "_tgt": "the_future_of_mcp_ecosystem_standardization",
+      "_src": "the_future_of_mcp_ecosystem_standardization",
+      "_tgt": "the_future_of_mcp_auto_discovery",
       "source": "the_future_of_mcp_ecosystem_standardization",
       "target": "the_future_of_mcp_auto_discovery"
     },
@@ -33966,8 +33966,8 @@
       "source_file": "_notes/subscription-economy-ownership-crisis.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "subscription_economy_ownership_crisis_ownership",
-      "_tgt": "wealthy_asset_allocation_structure_three_layer",
+      "_src": "wealthy_asset_allocation_structure_three_layer",
+      "_tgt": "subscription_economy_ownership_crisis_ownership",
       "source": "wealthy_asset_allocation_structure_three_layer",
       "target": "subscription_economy_ownership_crisis_ownership"
     },
@@ -34146,8 +34146,8 @@
       "source_file": "_notes/ai-context-window-wisc.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "ai_context_window_wisc_main",
-      "_tgt": "ai_cost_optimization_main",
+      "_src": "ai_cost_optimization_main",
+      "_tgt": "ai_context_window_wisc_main",
       "source": "ai_cost_optimization_main",
       "target": "ai_context_window_wisc_main"
     },
@@ -34194,8 +34194,8 @@
       "source_file": "_notes/ai-agent-evaluation-system-design.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_agent_evaluation_system_design_llm_as_judge",
-      "_tgt": "ai_agent_long_running_blueprint_adversarial_eval",
+      "_src": "ai_agent_long_running_blueprint_adversarial_eval",
+      "_tgt": "ai_agent_evaluation_system_design_llm_as_judge",
       "source": "ai_agent_long_running_blueprint_adversarial_eval",
       "target": "ai_agent_evaluation_system_design_llm_as_judge"
     },
@@ -34542,8 +34542,8 @@
       "source_file": "_notes/claude-code-commands-guide.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "claude_code_commands_guide_compact",
-      "_tgt": "claude_code_internal_architecture_compaction",
+      "_src": "claude_code_internal_architecture_compaction",
+      "_tgt": "claude_code_commands_guide_compact",
       "source": "claude_code_internal_architecture_compaction",
       "target": "claude_code_commands_guide_compact"
     },
@@ -34818,8 +34818,8 @@
       "source_file": "_notes/claude-code-agent-teams-tmux.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "claude_code_agent_teams_tmux_skill_encapsulation",
-      "_tgt": "claude_code_chaining_skills_explained_main",
+      "_src": "claude_code_chaining_skills_explained_main",
+      "_tgt": "claude_code_agent_teams_tmux_skill_encapsulation",
       "source": "claude_code_chaining_skills_explained_main",
       "target": "claude_code_agent_teams_tmux_skill_encapsulation"
     },
@@ -34914,8 +34914,8 @@
       "source_file": "_notes/jim-rohn-success-mindset.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "jim_rohn_success_mindset_small_discipline",
-      "_tgt": "jim_rohn_success_mindset_personal_development",
+      "_src": "jim_rohn_success_mindset_personal_development",
+      "_tgt": "jim_rohn_success_mindset_small_discipline",
       "source": "jim_rohn_success_mindset_personal_development",
       "target": "jim_rohn_success_mindset_small_discipline"
     },
@@ -34974,8 +34974,8 @@
       "source_file": "_notes/building-ai-agent-team.md",
       "source_location": "Section 3 - \u56e0\u624d\u9069\u7528",
       "weight": 1.0,
-      "_src": "building_ai_agent_team_model_selection",
-      "_tgt": "building_ai_agent_team_seven_roles",
+      "_src": "building_ai_agent_team_seven_roles",
+      "_tgt": "building_ai_agent_team_model_selection",
       "source": "building_ai_agent_team_seven_roles",
       "target": "building_ai_agent_team_model_selection"
     },
@@ -34986,8 +34986,8 @@
       "source_file": "_notes/google-cloud-next-26-keynote.md",
       "source_location": "Section 1 - \u6578\u4f4d\u4efb\u52d9\u7d44",
       "weight": 0.85,
-      "_src": "google_cloud_next_26_keynote_digital_task_forces",
-      "_tgt": "building_ai_agent_team_seven_roles",
+      "_src": "building_ai_agent_team_seven_roles",
+      "_tgt": "google_cloud_next_26_keynote_digital_task_forces",
       "source": "building_ai_agent_team_seven_roles",
       "target": "google_cloud_next_26_keynote_digital_task_forces"
     },
@@ -34998,8 +34998,8 @@
       "source_file": "_notes/gemini-enterprise-agent-platform.md",
       "source_location": "\u81ea\u52d5\u512a\u5316\u8207\u8a55\u8ad6\u8005\u4ee3\u7406\u5747\u8ca0\u8cac\u54c1\u8cea\u56de\u994b",
       "weight": 0.73,
-      "_src": "gemini_enterprise_agent_platform_agent_optimizer",
-      "_tgt": "building_ai_agent_team_role_critic",
+      "_src": "building_ai_agent_team_role_critic",
+      "_tgt": "gemini_enterprise_agent_platform_agent_optimizer",
       "source": "building_ai_agent_team_role_critic",
       "target": "gemini_enterprise_agent_platform_agent_optimizer"
     },
@@ -35010,8 +35010,8 @@
       "source_file": "_notes/markitdown-llm-document-converter.md",
       "source_location": "RAG\u7ba1\u9053\u8aaa\u660e",
       "weight": 0.72,
-      "_src": "markitdown_llm_document_converter_rag_pipeline",
-      "_tgt": "building_ai_agent_team_role_learner",
+      "_src": "building_ai_agent_team_role_learner",
+      "_tgt": "markitdown_llm_document_converter_rag_pipeline",
       "source": "building_ai_agent_team_role_learner",
       "target": "markitdown_llm_document_converter_rag_pipeline"
     },
@@ -35190,8 +35190,8 @@
       "source_file": "_notes/amazon-interview-behavioral-signals.md",
       "source_location": null,
       "weight": 0.6,
-      "_src": "amazon_interview_behavioral_signals_main",
-      "_tgt": "blooms_taxonomy_six_thinking_levels_critical",
+      "_src": "blooms_taxonomy_six_thinking_levels_critical",
+      "_tgt": "amazon_interview_behavioral_signals_main",
       "source": "blooms_taxonomy_six_thinking_levels_critical",
       "target": "amazon_interview_behavioral_signals_main"
     },
@@ -35334,8 +35334,8 @@
       "source_file": "_notes/md-this-page-webpage-to-markdown.md",
       "source_location": "\u8a73\u7d30\u91cd\u9ede\u6574\u7406 \u00a71",
       "weight": 1.0,
-      "_src": "md_this_page_tool",
-      "_tgt": "md_this_page_denoising",
+      "_src": "md_this_page_denoising",
+      "_tgt": "md_this_page_tool",
       "source": "md_this_page_denoising",
       "target": "md_this_page_tool"
     },
@@ -35358,8 +35358,8 @@
       "source_file": "_notes/md-this-page-webpage-to-markdown.md",
       "source_location": "\u8a73\u7d30\u91cd\u9ede\u6574\u7406 \u00a72",
       "weight": 1.0,
-      "_src": "md_this_page_tool",
-      "_tgt": "md_this_page_markdown_for_llm",
+      "_src": "md_this_page_markdown_for_llm",
+      "_tgt": "md_this_page_tool",
       "source": "md_this_page_markdown_for_llm",
       "target": "md_this_page_tool"
     },
@@ -35370,8 +35370,8 @@
       "source_file": "_notes/md-this-page-webpage-to-markdown.md",
       "source_location": "\u8a73\u7d30\u91cd\u9ede\u6574\u7406 \u00a73",
       "weight": 1.0,
-      "_src": "md_this_page_tool",
-      "_tgt": "md_this_page_readability_turndown",
+      "_src": "md_this_page_readability_turndown",
+      "_tgt": "md_this_page_tool",
       "source": "md_this_page_readability_turndown",
       "target": "md_this_page_tool"
     },
@@ -35454,8 +35454,8 @@
       "source_file": "_notes/claude-code-memory-patterns.md",
       "source_location": "Section 5",
       "weight": 1.0,
-      "_src": "claude_code_memory_patterns_hooks_injection",
-      "_tgt": "claude_code_memory_patterns_six_pillars",
+      "_src": "claude_code_memory_patterns_six_pillars",
+      "_tgt": "claude_code_memory_patterns_hooks_injection",
       "source": "claude_code_memory_patterns_six_pillars",
       "target": "claude_code_memory_patterns_hooks_injection"
     },
@@ -35562,8 +35562,8 @@
       "source_file": "_notes/ai-security-intent-laundering.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "ai_security_intent_laundering_keyword_dependency",
-      "_tgt": "ai_security_intent_laundering_intent_laundering",
+      "_src": "ai_security_intent_laundering_intent_laundering",
+      "_tgt": "ai_security_intent_laundering_keyword_dependency",
       "source": "ai_security_intent_laundering_intent_laundering",
       "target": "ai_security_intent_laundering_keyword_dependency"
     },
@@ -35610,8 +35610,8 @@
       "source_file": "_notes/how-to-use-enemies-gain-power.md",
       "source_location": "\u8a73\u7d30\u91cd\u9ede\u6574\u7406 \u00a71-2",
       "weight": 1.0,
-      "_src": "how_to_use_enemies_self_control",
-      "_tgt": "how_to_use_enemies_power_essence",
+      "_src": "how_to_use_enemies_power_essence",
+      "_tgt": "how_to_use_enemies_self_control",
       "source": "how_to_use_enemies_power_essence",
       "target": "how_to_use_enemies_self_control"
     },
@@ -35634,8 +35634,8 @@
       "source_file": "_notes/ai-changing-software-engineering-gergely.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "gergely_leaving_priors",
-      "_tgt": "how_to_use_enemies_mental_fluidity",
+      "_src": "how_to_use_enemies_mental_fluidity",
+      "_tgt": "gergely_leaving_priors",
       "source": "how_to_use_enemies_mental_fluidity",
       "target": "gergely_leaving_priors"
     },
@@ -35754,8 +35754,8 @@
       "source_file": "_notes/horse-stance-hip-recovery.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "horse_stance_hip_recovery_eccentric_loading",
-      "_tgt": "horse_stance_hip_recovery_sedentary_damage",
+      "_src": "horse_stance_hip_recovery_sedentary_damage",
+      "_tgt": "horse_stance_hip_recovery_eccentric_loading",
       "source": "horse_stance_hip_recovery_sedentary_damage",
       "target": "horse_stance_hip_recovery_eccentric_loading"
     },
@@ -35778,8 +35778,8 @@
       "source_file": "_notes/claude-live-artifacts-command-center.md",
       "source_location": "MCP\u5354\u8b70\u6574\u5408\u751f\u614b",
       "weight": 0.65,
-      "_src": "claude_live_artifacts_mcp_connectors",
-      "_tgt": "gemini_enterprise_agent_platform_a2a",
+      "_src": "gemini_enterprise_agent_platform_a2a",
+      "_tgt": "claude_live_artifacts_mcp_connectors",
       "source": "gemini_enterprise_agent_platform_a2a",
       "target": "claude_live_artifacts_mcp_connectors"
     },
@@ -35802,8 +35802,8 @@
       "source_file": "_notes/gemini-enterprise-agent-platform.md",
       "source_location": "Section 3",
       "weight": 1.0,
-      "_src": "gemini_enterprise_agent_platform_model_armor",
-      "_tgt": "gemini_enterprise_agent_platform_agent_runtime",
+      "_src": "gemini_enterprise_agent_platform_agent_runtime",
+      "_tgt": "gemini_enterprise_agent_platform_model_armor",
       "source": "gemini_enterprise_agent_platform_agent_runtime",
       "target": "gemini_enterprise_agent_platform_model_armor"
     },
@@ -35814,8 +35814,8 @@
       "source_file": "_notes/google-cloud-next-26-keynote.md",
       "source_location": "Section 4",
       "weight": 0.78,
-      "_src": "google_cloud_next_26_keynote_whiz_defense",
-      "_tgt": "gemini_enterprise_agent_platform_model_armor",
+      "_src": "gemini_enterprise_agent_platform_model_armor",
+      "_tgt": "google_cloud_next_26_keynote_whiz_defense",
       "source": "gemini_enterprise_agent_platform_model_armor",
       "target": "google_cloud_next_26_keynote_whiz_defense"
     },
@@ -35874,8 +35874,8 @@
       "source_file": "_notes/graphify-knowledge-graph-intro.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "graphify_knowledge_graph_intro_main",
-      "_tgt": "graphrag_ontology_driven_ai_agent_main",
+      "_src": "graphrag_ontology_driven_ai_agent_main",
+      "_tgt": "graphify_knowledge_graph_intro_main",
       "source": "graphrag_ontology_driven_ai_agent_main",
       "target": "graphify_knowledge_graph_intro_main"
     },
@@ -35922,8 +35922,8 @@
       "source_file": "_notes/chrome-144-ai-agent-debugging.md",
       "source_location": null,
       "weight": 0.65,
-      "_src": "chrome_144_ai_agent_debugging_mcp",
-      "_tgt": "apple_ai_strategy_agentic_ecosystem_app_intents",
+      "_src": "apple_ai_strategy_agentic_ecosystem_app_intents",
+      "_tgt": "chrome_144_ai_agent_debugging_mcp",
       "source": "apple_ai_strategy_agentic_ecosystem_app_intents",
       "target": "chrome_144_ai_agent_debugging_mcp"
     },
@@ -36006,8 +36006,8 @@
       "source_file": "_notes/claude-code-monitor-tool.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "claude_code_monitor_tool_event_driven",
-      "_tgt": "claude_code_commands_guide_main",
+      "_src": "claude_code_commands_guide_main",
+      "_tgt": "claude_code_monitor_tool_event_driven",
       "source": "claude_code_commands_guide_main",
       "target": "claude_code_monitor_tool_event_driven"
     },
@@ -36102,8 +36102,8 @@
       "source_file": "_notes/rich-use-debt-to-build-wealth.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "rich_use_debt_to_build_wealth_leverage",
-      "_tgt": "rich_use_debt_to_build_wealth_main",
+      "_src": "rich_use_debt_to_build_wealth_main",
+      "_tgt": "rich_use_debt_to_build_wealth_leverage",
       "source": "rich_use_debt_to_build_wealth_main",
       "target": "rich_use_debt_to_build_wealth_leverage"
     },
@@ -36162,8 +36162,8 @@
       "source_file": "_notes/the-new-application-layer.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "new_app_layer_api_cli_first",
-      "_tgt": "ai_agent_protocols_acp",
+      "_src": "ai_agent_protocols_acp",
+      "_tgt": "new_app_layer_api_cli_first",
       "source": "ai_agent_protocols_acp",
       "target": "new_app_layer_api_cli_first"
     },
@@ -36258,8 +36258,8 @@
       "source_file": "_notes/ai-design-creative-director-guide.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "ai_design_creative_director_main",
-      "_tgt": "ai_design_quality_claude_main",
+      "_src": "ai_design_quality_claude_main",
+      "_tgt": "ai_design_creative_director_main",
       "source": "ai_design_quality_claude_main",
       "target": "ai_design_creative_director_main"
     },
@@ -36270,8 +36270,8 @@
       "source_file": "_notes/ai-design-quality-claude-code.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_design_quality_claude_ai_slop",
-      "_tgt": "ai_design_quality_claude_skill_ui",
+      "_src": "ai_design_quality_claude_skill_ui",
+      "_tgt": "ai_design_quality_claude_ai_slop",
       "source": "ai_design_quality_claude_skill_ui",
       "target": "ai_design_quality_claude_ai_slop"
     },
@@ -36318,8 +36318,8 @@
       "source_file": "_notes/the-new-application-layer.md",
       "source_location": "\u8a73\u7d30\u91cd\u9ede\u6574\u7406 \u00a75",
       "weight": 1.0,
-      "_src": "new_app_layer_application_layer_dominance",
-      "_tgt": "new_app_layer_ai_agents",
+      "_src": "new_app_layer_ai_agents",
+      "_tgt": "new_app_layer_application_layer_dominance",
       "source": "new_app_layer_ai_agents",
       "target": "new_app_layer_application_layer_dominance"
     },
@@ -36330,8 +36330,8 @@
       "source_file": "_notes/ai-changing-software-engineering-gergely.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "gergely_mech_suit_engineer",
-      "_tgt": "new_app_layer_ai_agents",
+      "_src": "new_app_layer_ai_agents",
+      "_tgt": "gergely_mech_suit_engineer",
       "source": "new_app_layer_ai_agents",
       "target": "gergely_mech_suit_engineer"
     },
@@ -36462,8 +36462,8 @@
       "source_file": "_notes/rethinking-ai-agents-the-rise-of-harness-engineering.md",
       "source_location": "Section 3",
       "weight": 1.0,
-      "_src": "rethinking_ai_agents_nlh",
-      "_tgt": "rethinking_ai_agents_execution_contracts",
+      "_src": "rethinking_ai_agents_execution_contracts",
+      "_tgt": "rethinking_ai_agents_nlh",
       "source": "rethinking_ai_agents_execution_contracts",
       "target": "rethinking_ai_agents_nlh"
     },
@@ -36474,8 +36474,8 @@
       "source_file": "_notes/rethinking-ai-agents-the-rise-of-harness-engineering.md",
       "source_location": "Section 5 \u2013 self-evolution prunes harness",
       "weight": 0.8,
-      "_src": "rethinking_ai_agents_meta_harness",
-      "_tgt": "rethinking_ai_agents_discipline_narrowing",
+      "_src": "rethinking_ai_agents_discipline_narrowing",
+      "_tgt": "rethinking_ai_agents_meta_harness",
       "source": "rethinking_ai_agents_discipline_narrowing",
       "target": "rethinking_ai_agents_meta_harness"
     },
@@ -36510,8 +36510,8 @@
       "source_file": "_notes/walking-burns-belly-fat.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "walking_burns_belly_fat_zone2",
-      "_tgt": "tension_headache_relief_exercises_tension_headache",
+      "_src": "tension_headache_relief_exercises_tension_headache",
+      "_tgt": "walking_burns_belly_fat_zone2",
       "source": "tension_headache_relief_exercises_tension_headache",
       "target": "walking_burns_belly_fat_zone2"
     },
@@ -36546,8 +36546,8 @@
       "source_file": "_notes/global-debt-system-revealed.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "global_debt_system_revealed_main",
-      "_tgt": "finance_risk_life_philosophy_main",
+      "_src": "finance_risk_life_philosophy_main",
+      "_tgt": "global_debt_system_revealed_main",
       "source": "finance_risk_life_philosophy_main",
       "target": "global_debt_system_revealed_main"
     },
@@ -36654,8 +36654,8 @@
       "source_file": "_notes/10-backchanneling.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "10_backchanneling_empathic_parsing",
-      "_tgt": "06_handling_political_operators_motive",
+      "_src": "06_handling_political_operators_motive",
+      "_tgt": "10_backchanneling_empathic_parsing",
       "source": "06_handling_political_operators_motive",
       "target": "10_backchanneling_empathic_parsing"
     },
@@ -36726,8 +36726,8 @@
       "source_file": "_notes/iam-for-ai.md",
       "source_location": "line 15",
       "weight": 1.0,
-      "_src": "iam_for_ai_rationale_maturity_progression",
-      "_tgt": "iam_for_ai_iam_maturity_model",
+      "_src": "iam_for_ai_iam_maturity_model",
+      "_tgt": "iam_for_ai_rationale_maturity_progression",
       "source": "iam_for_ai_iam_maturity_model",
       "target": "iam_for_ai_rationale_maturity_progression"
     },
@@ -36846,8 +36846,8 @@
       "source_file": "_notes/iam-for-ai.md",
       "source_location": "line 24",
       "weight": 1.0,
-      "_src": "iam_for_ai_ai_agent_security_risks",
-      "_tgt": "iam_for_ai_least_privilege",
+      "_src": "iam_for_ai_least_privilege",
+      "_tgt": "iam_for_ai_ai_agent_security_risks",
       "source": "iam_for_ai_least_privilege",
       "target": "iam_for_ai_ai_agent_security_risks"
     },
@@ -36858,8 +36858,8 @@
       "source_file": "_notes/iam-for-ai.md",
       "source_location": "line 23",
       "weight": 1.0,
-      "_src": "iam_for_ai_ai_agent_security_risks",
-      "_tgt": "iam_for_ai_accountability",
+      "_src": "iam_for_ai_accountability",
+      "_tgt": "iam_for_ai_ai_agent_security_risks",
       "source": "iam_for_ai_accountability",
       "target": "iam_for_ai_ai_agent_security_risks"
     },
@@ -36966,8 +36966,8 @@
       "source_file": "_notes/markitdown-llm-document-converter.md",
       "source_location": "\u6587\u4ef6\u651d\u53d6\u8207\u77e5\u8b58\u5316",
       "weight": 0.7,
-      "_src": "markitdown_llm_document_converter_rag_pipeline",
-      "_tgt": "google_cloud_next_26_keynote_knowledge_catalog",
+      "_src": "google_cloud_next_26_keynote_knowledge_catalog",
+      "_tgt": "markitdown_llm_document_converter_rag_pipeline",
       "source": "google_cloud_next_26_keynote_knowledge_catalog",
       "target": "markitdown_llm_document_converter_rag_pipeline"
     },
@@ -37014,8 +37014,8 @@
       "source_file": "_notes/life-goals-process-and-optionality.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "life_goals_process_and_optionality_financial_discipline",
-      "_tgt": "life_goals_process_and_optionality_process_focus",
+      "_src": "life_goals_process_and_optionality_process_focus",
+      "_tgt": "life_goals_process_and_optionality_financial_discipline",
       "source": "life_goals_process_and_optionality_process_focus",
       "target": "life_goals_process_and_optionality_financial_discipline"
     },
@@ -37122,8 +37122,8 @@
       "source_file": "_notes/anthropic-pm-fast-iteration.md",
       "source_location": "01:09:58",
       "weight": 1.0,
-      "_src": "anthropic_pm_fast_iteration_100pct_automation",
-      "_tgt": "anthropic_pm_fast_iteration_fast_iteration",
+      "_src": "anthropic_pm_fast_iteration_fast_iteration",
+      "_tgt": "anthropic_pm_fast_iteration_100pct_automation",
       "source": "anthropic_pm_fast_iteration_fast_iteration",
       "target": "anthropic_pm_fast_iteration_100pct_automation"
     },
@@ -37146,8 +37146,8 @@
       "source_file": "_notes/office-politics-smart-people-guide.md",
       "source_location": null,
       "weight": 0.65,
-      "_src": "office_politics_smart_people_guide_cognitive_authority",
-      "_tgt": "anthropic_pm_fast_iteration_product_taste",
+      "_src": "anthropic_pm_fast_iteration_product_taste",
+      "_tgt": "office_politics_smart_people_guide_cognitive_authority",
       "source": "anthropic_pm_fast_iteration_product_taste",
       "target": "office_politics_smart_people_guide_cognitive_authority"
     },
@@ -37194,8 +37194,8 @@
       "source_file": "_notes/graphify-ai-project-knowledge-graph.md",
       "source_location": null,
       "weight": 0.95,
-      "_src": "graphify_ai_project_knowledge_graph_main",
-      "_tgt": "graphify_knowledge_graph_intro_main",
+      "_src": "graphify_knowledge_graph_intro_main",
+      "_tgt": "graphify_ai_project_knowledge_graph_main",
       "source": "graphify_knowledge_graph_intro_main",
       "target": "graphify_ai_project_knowledge_graph_main"
     },
@@ -37326,8 +37326,8 @@
       "source_file": "_notes/ai-revolution-starts-with-the-boss.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "ai_revolution_starts_with_the_boss_deepmind_model",
-      "_tgt": "ai_revolution_starts_with_the_boss_leadership_self_revolution",
+      "_src": "ai_revolution_starts_with_the_boss_leadership_self_revolution",
+      "_tgt": "ai_revolution_starts_with_the_boss_deepmind_model",
       "source": "ai_revolution_starts_with_the_boss_leadership_self_revolution",
       "target": "ai_revolution_starts_with_the_boss_deepmind_model"
     },
@@ -37350,8 +37350,8 @@
       "source_file": "_notes/ai-revolution-starts-with-the-boss.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "ai_revolution_starts_with_the_boss_boss_productivity",
-      "_tgt": "ai_revolution_starts_with_the_boss_sme_ai_strategy",
+      "_src": "ai_revolution_starts_with_the_boss_sme_ai_strategy",
+      "_tgt": "ai_revolution_starts_with_the_boss_boss_productivity",
       "source": "ai_revolution_starts_with_the_boss_sme_ai_strategy",
       "target": "ai_revolution_starts_with_the_boss_boss_productivity"
     },
@@ -37410,8 +37410,8 @@
       "source_file": "_notes/ai-revolution-starts-with-the-boss.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "ai_revolution_starts_with_the_boss_133_transformation_rule",
-      "_tgt": "ai_revolution_starts_with_the_boss_data_pipeline",
+      "_src": "ai_revolution_starts_with_the_boss_data_pipeline",
+      "_tgt": "ai_revolution_starts_with_the_boss_133_transformation_rule",
       "source": "ai_revolution_starts_with_the_boss_data_pipeline",
       "target": "ai_revolution_starts_with_the_boss_133_transformation_rule"
     },
@@ -37506,8 +37506,8 @@
       "source_file": "_notes/ai-era-designer-transformation.md",
       "source_location": null,
       "weight": 0.75,
-      "_src": "ai_era_designer_main",
-      "_tgt": "ai_design_creative_director_main",
+      "_src": "ai_design_creative_director_main",
+      "_tgt": "ai_era_designer_main",
       "source": "ai_design_creative_director_main",
       "target": "ai_era_designer_main"
     },
@@ -37542,8 +37542,8 @@
       "source_file": "_notes/how-spies-analyze-you.md",
       "source_location": "summary & section 1",
       "weight": 1.0,
-      "_src": "how_spies_analyze_you_humint",
-      "_tgt": "how_spies_analyze_you_baseline_behavior",
+      "_src": "how_spies_analyze_you_baseline_behavior",
+      "_tgt": "how_spies_analyze_you_humint",
       "source": "how_spies_analyze_you_baseline_behavior",
       "target": "how_spies_analyze_you_humint"
     },
@@ -37566,8 +37566,8 @@
       "source_file": "_notes/how-spies-analyze-you.md",
       "source_location": "conclusion",
       "weight": 1.0,
-      "_src": "how_spies_analyze_you_bha_rule",
-      "_tgt": "how_spies_analyze_you_baseline_behavior",
+      "_src": "how_spies_analyze_you_baseline_behavior",
+      "_tgt": "how_spies_analyze_you_bha_rule",
       "source": "how_spies_analyze_you_baseline_behavior",
       "target": "how_spies_analyze_you_bha_rule"
     },
@@ -37590,8 +37590,8 @@
       "source_file": "_notes/how-spies-analyze-you.md",
       "source_location": "summary & section 3",
       "weight": 1.0,
-      "_src": "how_spies_analyze_you_humint",
-      "_tgt": "how_spies_analyze_you_hotspot",
+      "_src": "how_spies_analyze_you_hotspot",
+      "_tgt": "how_spies_analyze_you_humint",
       "source": "how_spies_analyze_you_hotspot",
       "target": "how_spies_analyze_you_humint"
     },
@@ -37602,8 +37602,8 @@
       "source_file": "_notes/how-spies-analyze-you.md",
       "source_location": "conclusion",
       "weight": 1.0,
-      "_src": "how_spies_analyze_you_bha_rule",
-      "_tgt": "how_spies_analyze_you_hotspot",
+      "_src": "how_spies_analyze_you_hotspot",
+      "_tgt": "how_spies_analyze_you_bha_rule",
       "source": "how_spies_analyze_you_hotspot",
       "target": "how_spies_analyze_you_bha_rule"
     },
@@ -37614,8 +37614,8 @@
       "source_file": "_notes/how-spies-analyze-you.md",
       "source_location": "summary & section 4",
       "weight": 1.0,
-      "_src": "how_spies_analyze_you_humint",
-      "_tgt": "how_spies_analyze_you_elicitation_reciprocity",
+      "_src": "how_spies_analyze_you_elicitation_reciprocity",
+      "_tgt": "how_spies_analyze_you_humint",
       "source": "how_spies_analyze_you_elicitation_reciprocity",
       "target": "how_spies_analyze_you_humint"
     },
@@ -37674,8 +37674,8 @@
       "source_file": "_notes/ai-context-window-wisc.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_context_window_wisc_rot",
-      "_tgt": "ai_context_window_wisc_wisc",
+      "_src": "ai_context_window_wisc_wisc",
+      "_tgt": "ai_context_window_wisc_rot",
       "source": "ai_context_window_wisc_wisc",
       "target": "ai_context_window_wisc_rot"
     },
@@ -37710,8 +37710,8 @@
       "source_file": "_notes/salary-negotiation-potential-value.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "salary_negotiation_potential_value_main",
-      "_tgt": "salary_negotiation_after_offer_main",
+      "_src": "salary_negotiation_after_offer_main",
+      "_tgt": "salary_negotiation_potential_value_main",
       "source": "salary_negotiation_after_offer_main",
       "target": "salary_negotiation_potential_value_main"
     },
@@ -37782,8 +37782,8 @@
       "source_file": "_notes/psychology-of-applying-high-salary.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "psychology_of_applying_high_salary_wishlist_jd",
-      "_tgt": "psychology_of_applying_high_salary_self_filtering",
+      "_src": "psychology_of_applying_high_salary_self_filtering",
+      "_tgt": "psychology_of_applying_high_salary_wishlist_jd",
       "source": "psychology_of_applying_high_salary_self_filtering",
       "target": "psychology_of_applying_high_salary_wishlist_jd"
     },
@@ -37830,8 +37830,8 @@
       "source_file": "_notes/ai-destroys-global-economy.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_destroys_economy_intelligence_premium",
-      "_tgt": "ai_destroys_economy_ghost_gdp",
+      "_src": "ai_destroys_economy_ghost_gdp",
+      "_tgt": "ai_destroys_economy_intelligence_premium",
       "source": "ai_destroys_economy_ghost_gdp",
       "target": "ai_destroys_economy_intelligence_premium"
     },
@@ -37914,8 +37914,8 @@
       "source_file": "_notes/matt-pocock-skills-lightweight-ai-dev.md",
       "source_location": "## \u6838\u5fc3\u6458\u8981",
       "weight": 1.0,
-      "_src": "mattpocock_skills_project",
-      "_tgt": "mattpocock_anti_framework_philosophy",
+      "_src": "mattpocock_anti_framework_philosophy",
+      "_tgt": "mattpocock_skills_project",
       "source": "mattpocock_anti_framework_philosophy",
       "target": "mattpocock_skills_project"
     },
@@ -37926,8 +37926,8 @@
       "source_file": "_notes/matt-pocock-skills-lightweight-ai-dev.md",
       "source_location": "### 1. \u53cd\u6846\u67b6\u7684\u5de5\u7a0b\u54f2\u5b78",
       "weight": 1.0,
-      "_src": "mattpocock_skills_project",
-      "_tgt": "mattpocock_composable_building_blocks",
+      "_src": "mattpocock_composable_building_blocks",
+      "_tgt": "mattpocock_skills_project",
       "source": "mattpocock_composable_building_blocks",
       "target": "mattpocock_skills_project"
     },
@@ -37938,8 +37938,8 @@
       "source_file": "_notes/matt-pocock-skills-lightweight-ai-dev.md",
       "source_location": "### 2. \u6838\u5fc3\u6280\u80fd\uff1aGrill Me",
       "weight": 1.0,
-      "_src": "mattpocock_skills_project",
-      "_tgt": "mattpocock_grill_me",
+      "_src": "mattpocock_grill_me",
+      "_tgt": "mattpocock_skills_project",
       "source": "mattpocock_grill_me",
       "target": "mattpocock_skills_project"
     },
@@ -37974,8 +37974,8 @@
       "source_file": "_notes/matt-pocock-skills-lightweight-ai-dev.md",
       "source_location": "## \u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "mattpocock_gtd_law",
-      "_tgt": "mattpocock_grill_me",
+      "_src": "mattpocock_grill_me",
+      "_tgt": "mattpocock_gtd_law",
       "source": "mattpocock_grill_me",
       "target": "mattpocock_gtd_law"
     },
@@ -37986,8 +37986,8 @@
       "source_file": "_notes/matt-pocock-skills-lightweight-ai-dev.md",
       "source_location": "## \u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "mattpocock_gtd_law",
-      "_tgt": "mattpocock_contextual_compounding",
+      "_src": "mattpocock_contextual_compounding",
+      "_tgt": "mattpocock_gtd_law",
       "source": "mattpocock_contextual_compounding",
       "target": "mattpocock_gtd_law"
     },
@@ -37998,8 +37998,8 @@
       "source_file": "_notes/matt-pocock-skills-lightweight-ai-dev.md",
       "source_location": "## \u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "mattpocock_gtd_law",
-      "_tgt": "mattpocock_structured_debugging_loop",
+      "_src": "mattpocock_structured_debugging_loop",
+      "_tgt": "mattpocock_gtd_law",
       "source": "mattpocock_structured_debugging_loop",
       "target": "mattpocock_gtd_law"
     },
@@ -38010,8 +38010,8 @@
       "source_file": "_notes/matt-pocock-skills-lightweight-ai-dev.md",
       "source_location": "## 5. \u6548\u7387\u512a\u5316\uff1aCaveman Mode",
       "weight": 1.0,
-      "_src": "mattpocock_skills_project",
-      "_tgt": "mattpocock_caveman_mode",
+      "_src": "mattpocock_caveman_mode",
+      "_tgt": "mattpocock_skills_project",
       "source": "mattpocock_caveman_mode",
       "target": "mattpocock_skills_project"
     },
@@ -38094,8 +38094,8 @@
       "source_file": "_notes/why-you-dream-neuroscience.md",
       "source_location": "section 3",
       "weight": 1.0,
-      "_src": "why_you_dream_neuroscience_dream_visual_territory",
-      "_tgt": "why_you_dream_neuroscience_brain_plasticity",
+      "_src": "why_you_dream_neuroscience_brain_plasticity",
+      "_tgt": "why_you_dream_neuroscience_dream_visual_territory",
       "source": "why_you_dream_neuroscience_brain_plasticity",
       "target": "why_you_dream_neuroscience_dream_visual_territory"
     },
@@ -38106,8 +38106,8 @@
       "source_file": "_notes/why-you-dream-neuroscience.md",
       "source_location": "conclusion",
       "weight": 1.0,
-      "_src": "why_you_dream_neuroscience_3n_rule",
-      "_tgt": "why_you_dream_neuroscience_ulysses_contract",
+      "_src": "why_you_dream_neuroscience_ulysses_contract",
+      "_tgt": "why_you_dream_neuroscience_3n_rule",
       "source": "why_you_dream_neuroscience_ulysses_contract",
       "target": "why_you_dream_neuroscience_3n_rule"
     },
@@ -38118,8 +38118,8 @@
       "source_file": "_notes/why-you-dream-neuroscience.md",
       "source_location": "conclusion",
       "weight": 1.0,
-      "_src": "why_you_dream_neuroscience_3n_rule",
-      "_tgt": "why_you_dream_neuroscience_cognitive_reserve",
+      "_src": "why_you_dream_neuroscience_cognitive_reserve",
+      "_tgt": "why_you_dream_neuroscience_3n_rule",
       "source": "why_you_dream_neuroscience_cognitive_reserve",
       "target": "why_you_dream_neuroscience_3n_rule"
     },
@@ -38310,8 +38310,8 @@
       "source_file": "_notes/01-empire-building.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "01_empire_building_headcount_metric",
-      "_tgt": "01_empire_building_main",
+      "_src": "01_empire_building_main",
+      "_tgt": "01_empire_building_headcount_metric",
       "source": "01_empire_building_main",
       "target": "01_empire_building_headcount_metric"
     },
@@ -38358,8 +38358,8 @@
       "source_file": "_notes/05-political-messaging.md",
       "source_location": null,
       "weight": 0.9,
-      "_src": "05_political_messaging_careful_phrasing",
-      "_tgt": "01_empire_building_quid_pro_quo",
+      "_src": "01_empire_building_quid_pro_quo",
+      "_tgt": "05_political_messaging_careful_phrasing",
       "source": "01_empire_building_quid_pro_quo",
       "target": "05_political_messaging_careful_phrasing"
     },
@@ -38394,8 +38394,8 @@
       "source_file": "_notes/stop-relitigating-decisions.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "stop_relitigating_decisions_decision_record",
-      "_tgt": "your_estimation_model_is_lying_to_you_decision_points",
+      "_src": "your_estimation_model_is_lying_to_you_decision_points",
+      "_tgt": "stop_relitigating_decisions_decision_record",
       "source": "your_estimation_model_is_lying_to_you_decision_points",
       "target": "stop_relitigating_decisions_decision_record"
     },
@@ -38538,8 +38538,8 @@
       "source_file": "_notes/claude-code-project-management-upgrade.md",
       "source_location": null,
       "weight": 0.78,
-      "_src": "claude_code_project_management_upgrade_context_management",
-      "_tgt": "claude_code_memory_systems_compared_memory_levels",
+      "_src": "claude_code_memory_systems_compared_memory_levels",
+      "_tgt": "claude_code_project_management_upgrade_context_management",
       "source": "claude_code_memory_systems_compared_memory_levels",
       "target": "claude_code_project_management_upgrade_context_management"
     },
@@ -38550,8 +38550,8 @@
       "source_file": "_notes/claude-code-memory-systems-compared.md",
       "source_location": "06:31",
       "weight": 1.0,
-      "_src": "claude_code_memory_systems_compared_session_hook",
-      "_tgt": "claude_code_memory_systems_compared_claude_md",
+      "_src": "claude_code_memory_systems_compared_claude_md",
+      "_tgt": "claude_code_memory_systems_compared_session_hook",
       "source": "claude_code_memory_systems_compared_claude_md",
       "target": "claude_code_memory_systems_compared_session_hook"
     },
@@ -38586,8 +38586,8 @@
       "source_file": "_notes/google-cloud-next-26-developer-keynote.md",
       "source_location": "24:21",
       "weight": 1.0,
-      "_src": "google_cloud_next_26_developer_keynote_a2a",
-      "_tgt": "google_cloud_next_26_developer_keynote_adk",
+      "_src": "google_cloud_next_26_developer_keynote_adk",
+      "_tgt": "google_cloud_next_26_developer_keynote_a2a",
       "source": "google_cloud_next_26_developer_keynote_adk",
       "target": "google_cloud_next_26_developer_keynote_a2a"
     },
@@ -38598,8 +38598,8 @@
       "source_file": "_notes/google-cloud-next-26-developer-keynote.md",
       "source_location": "29:52",
       "weight": 1.0,
-      "_src": "google_cloud_next_26_developer_keynote_memory_bank",
-      "_tgt": "google_cloud_next_26_developer_keynote_adk",
+      "_src": "google_cloud_next_26_developer_keynote_adk",
+      "_tgt": "google_cloud_next_26_developer_keynote_memory_bank",
       "source": "google_cloud_next_26_developer_keynote_adk",
       "target": "google_cloud_next_26_developer_keynote_memory_bank"
     },
@@ -38610,8 +38610,8 @@
       "source_file": "_notes/google-cloud-next-26-developer-keynote.md",
       "source_location": "37:42",
       "weight": 1.0,
-      "_src": "google_cloud_next_26_developer_keynote_gemini_cloud_assist",
-      "_tgt": "google_cloud_next_26_developer_keynote_adk",
+      "_src": "google_cloud_next_26_developer_keynote_adk",
+      "_tgt": "google_cloud_next_26_developer_keynote_gemini_cloud_assist",
       "source": "google_cloud_next_26_developer_keynote_adk",
       "target": "google_cloud_next_26_developer_keynote_gemini_cloud_assist"
     },
@@ -38622,8 +38622,8 @@
       "source_file": "_notes/google-cloud-next-26-developer-keynote.md",
       "source_location": "57:26",
       "weight": 1.0,
-      "_src": "google_cloud_next_26_developer_keynote_agent_identity",
-      "_tgt": "google_cloud_next_26_developer_keynote_a2a",
+      "_src": "google_cloud_next_26_developer_keynote_a2a",
+      "_tgt": "google_cloud_next_26_developer_keynote_agent_identity",
       "source": "google_cloud_next_26_developer_keynote_a2a",
       "target": "google_cloud_next_26_developer_keynote_agent_identity"
     },
@@ -38670,8 +38670,8 @@
       "source_file": "_notes/subscription-economy-ownership-crisis.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "subscription_economy_ownership_crisis_dark_pattern",
-      "_tgt": "subscription_economy_ownership_crisis_subscription_trap",
+      "_src": "subscription_economy_ownership_crisis_subscription_trap",
+      "_tgt": "subscription_economy_ownership_crisis_dark_pattern",
       "source": "subscription_economy_ownership_crisis_subscription_trap",
       "target": "subscription_economy_ownership_crisis_dark_pattern"
     },
@@ -38874,8 +38874,8 @@
       "source_file": "_notes/agentic-commerce.md",
       "source_location": "section 2-3",
       "weight": 1.0,
-      "_src": "agentic_commerce_ai_conductor",
-      "_tgt": "agentic_commerce_performance_leap",
+      "_src": "agentic_commerce_performance_leap",
+      "_tgt": "agentic_commerce_ai_conductor",
       "source": "agentic_commerce_performance_leap",
       "target": "agentic_commerce_ai_conductor"
     },
@@ -38898,8 +38898,8 @@
       "source_file": "_notes/agentic-commerce.md",
       "source_location": "conclusion",
       "weight": 1.0,
-      "_src": "agentic_commerce_123_conductor_rule",
-      "_tgt": "agentic_commerce_ai_conductor",
+      "_src": "agentic_commerce_ai_conductor",
+      "_tgt": "agentic_commerce_123_conductor_rule",
       "source": "agentic_commerce_ai_conductor",
       "target": "agentic_commerce_123_conductor_rule"
     },
@@ -38910,8 +38910,8 @@
       "source_file": "_notes/agentic-commerce.md",
       "source_location": "section 4",
       "weight": 1.0,
-      "_src": "agentic_commerce_organizational_inertia",
-      "_tgt": "agentic_commerce_compute_replaces_labor",
+      "_src": "agentic_commerce_compute_replaces_labor",
+      "_tgt": "agentic_commerce_organizational_inertia",
       "source": "agentic_commerce_compute_replaces_labor",
       "target": "agentic_commerce_organizational_inertia"
     },
@@ -38982,8 +38982,8 @@
       "source_file": "_notes/designing-data-intensive-application.md",
       "source_location": "Section 3 - \u53cd\u62bd\u8c61\u5316\u601d\u8003",
       "weight": 1.0,
-      "_src": "designing_data_intensive_application_rationale_vendor_lock",
-      "_tgt": "designing_data_intensive_application_cloud_native",
+      "_src": "designing_data_intensive_application_cloud_native",
+      "_tgt": "designing_data_intensive_application_rationale_vendor_lock",
       "source": "designing_data_intensive_application_cloud_native",
       "target": "designing_data_intensive_application_rationale_vendor_lock"
     },
@@ -38994,8 +38994,8 @@
       "source_file": "_notes/designing-data-intensive-application.md",
       "source_location": "Section 5 - \u5c40\u90e8\u512a\u5148\u5c0d\u6bd4\u96f2\u7aef",
       "weight": 0.8,
-      "_src": "designing_data_intensive_application_local_first",
-      "_tgt": "designing_data_intensive_application_cloud_native",
+      "_src": "designing_data_intensive_application_cloud_native",
+      "_tgt": "designing_data_intensive_application_local_first",
       "source": "designing_data_intensive_application_cloud_native",
       "target": "designing_data_intensive_application_local_first"
     },
@@ -39462,8 +39462,8 @@
       "source_file": "_notes/ai-coding-for-real-engineers.md",
       "source_location": "12:27",
       "weight": 1.0,
-      "_src": "ai_coding_for_real_engineers_grill_me",
-      "_tgt": "ai_coding_for_real_engineers_cognitive_limits",
+      "_src": "ai_coding_for_real_engineers_cognitive_limits",
+      "_tgt": "ai_coding_for_real_engineers_grill_me",
       "source": "ai_coding_for_real_engineers_cognitive_limits",
       "target": "ai_coding_for_real_engineers_grill_me"
     },
@@ -39474,8 +39474,8 @@
       "source_file": "_notes/ai-coding-for-real-engineers.md",
       "source_location": "01:06:46",
       "weight": 1.0,
-      "_src": "ai_coding_for_real_engineers_tdd",
-      "_tgt": "ai_coding_for_real_engineers_cognitive_limits",
+      "_src": "ai_coding_for_real_engineers_cognitive_limits",
+      "_tgt": "ai_coding_for_real_engineers_tdd",
       "source": "ai_coding_for_real_engineers_cognitive_limits",
       "target": "ai_coding_for_real_engineers_tdd"
     },
@@ -39870,8 +39870,8 @@
       "source_file": "_notes/creating-your-own-agentic-os.md",
       "source_location": "section 6",
       "weight": 1.0,
-      "_src": "creating_gsd_framework",
-      "_tgt": "creating_context_rot",
+      "_src": "creating_context_rot",
+      "_tgt": "creating_gsd_framework",
       "source": "creating_context_rot",
       "target": "creating_gsd_framework"
     },
@@ -40014,8 +40014,8 @@
       "source_file": "_notes/google-pm-ai-agent-startup-workflow.md",
       "source_location": null,
       "weight": 0.72,
-      "_src": "google_pm_vibe_coding_anti_pattern",
-      "_tgt": "skill_system_mega_skill",
+      "_src": "skill_system_mega_skill",
+      "_tgt": "google_pm_vibe_coding_anti_pattern",
       "source": "skill_system_mega_skill",
       "target": "google_pm_vibe_coding_anti_pattern"
     },
@@ -40026,8 +40026,8 @@
       "source_file": "_notes/skill-system-vs-mega-skill.md",
       "source_location": "section 3",
       "weight": 1.0,
-      "_src": "skill_system_orchestrator",
-      "_tgt": "skill_system_sequential_workflow",
+      "_src": "skill_system_sequential_workflow",
+      "_tgt": "skill_system_orchestrator",
       "source": "skill_system_sequential_workflow",
       "target": "skill_system_orchestrator"
     },
@@ -40038,8 +40038,8 @@
       "source_file": "_notes/google-pm-ai-agent-startup-workflow.md",
       "source_location": null,
       "weight": 0.85,
-      "_src": "google_pm_agentified_division",
-      "_tgt": "skill_system_subagent_division",
+      "_src": "skill_system_subagent_division",
+      "_tgt": "google_pm_agentified_division",
       "source": "skill_system_subagent_division",
       "target": "google_pm_agentified_division"
     },
@@ -40110,8 +40110,8 @@
       "source_file": "_notes/claude-context-maintenance-craft.md",
       "source_location": "section 4",
       "weight": 0.8,
-      "_src": "craft_context_drift",
-      "_tgt": "craft_correction_loop",
+      "_src": "craft_correction_loop",
+      "_tgt": "craft_context_drift",
       "source": "craft_correction_loop",
       "target": "craft_context_drift"
     },
@@ -40122,8 +40122,8 @@
       "source_file": "_notes/claude-context-maintenance-craft.md",
       "source_location": "section 3",
       "weight": 1.0,
-      "_src": "craft_context_graph",
-      "_tgt": "craft_structured_project_facts",
+      "_src": "craft_structured_project_facts",
+      "_tgt": "craft_context_graph",
       "source": "craft_structured_project_facts",
       "target": "craft_context_graph"
     },
@@ -40134,8 +40134,8 @@
       "source_file": "_notes/google-pm-ai-agent-startup-workflow.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "google_pm_institutional_knowledge",
-      "_tgt": "craft_structured_project_facts",
+      "_src": "craft_structured_project_facts",
+      "_tgt": "google_pm_institutional_knowledge",
       "source": "craft_structured_project_facts",
       "target": "google_pm_institutional_knowledge"
     },
@@ -40146,8 +40146,8 @@
       "source_file": "_notes/claude-context-maintenance-craft.md",
       "source_location": "section 2",
       "weight": 1.0,
-      "_src": "craft_rationale_context_graph",
-      "_tgt": "craft_context_graph",
+      "_src": "craft_context_graph",
+      "_tgt": "craft_rationale_context_graph",
       "source": "craft_context_graph",
       "target": "craft_rationale_context_graph"
     },
@@ -40158,8 +40158,8 @@
       "source_file": "_notes/google-pm-ai-agent-startup-workflow.md",
       "source_location": null,
       "weight": 0.82,
-      "_src": "google_pm_context_scaffolding",
-      "_tgt": "craft_context_graph",
+      "_src": "craft_context_graph",
+      "_tgt": "google_pm_context_scaffolding",
       "source": "craft_context_graph",
       "target": "google_pm_context_scaffolding"
     },
@@ -40482,8 +40482,8 @@
       "source_file": "_notes/ai-thin-ice-moment-job-audit.md",
       "source_location": "\u554f\u984c\u6301\u5b88 vs. \u554f\u984c\u56de\u7b54",
       "weight": 1.0,
-      "_src": "ai_thin_ice_moment_durable_work",
-      "_tgt": "ai_thin_ice_moment_question_holding",
+      "_src": "ai_thin_ice_moment_question_holding",
+      "_tgt": "ai_thin_ice_moment_durable_work",
       "source": "ai_thin_ice_moment_question_holding",
       "target": "ai_thin_ice_moment_durable_work"
     },
@@ -40494,8 +40494,8 @@
       "source_file": "_notes/ai-thin-ice-moment-job-audit.md",
       "source_location": "\u53ef\u898b\u6027\u6096\u8ad6",
       "weight": 1.0,
-      "_src": "ai_thin_ice_moment_durable_work",
-      "_tgt": "ai_thin_ice_moment_partial_legibility",
+      "_src": "ai_thin_ice_moment_partial_legibility",
+      "_tgt": "ai_thin_ice_moment_durable_work",
       "source": "ai_thin_ice_moment_partial_legibility",
       "target": "ai_thin_ice_moment_durable_work"
     },
@@ -40554,8 +40554,8 @@
       "source_file": "_notes/agi-sequoia-ascent-cognitive-revolution.md",
       "source_location": null,
       "weight": 0.78,
-      "_src": "agi_sequoia_ascent_long_horizon_agent",
-      "_tgt": "redis_ai_agent_memory_infrastructure_redis",
+      "_src": "redis_ai_agent_memory_infrastructure_redis",
+      "_tgt": "agi_sequoia_ascent_long_horizon_agent",
       "source": "redis_ai_agent_memory_infrastructure_redis",
       "target": "agi_sequoia_ascent_long_horizon_agent"
     },
@@ -40662,8 +40662,8 @@
       "source_file": "_notes/entire-map-of-money.md",
       "source_location": null,
       "weight": 0.6,
-      "_src": "entire_map_of_money_silent_wealth_redistribution",
-      "_tgt": "agi_sequoia_ascent_services_as_software",
+      "_src": "agi_sequoia_ascent_services_as_software",
+      "_tgt": "entire_map_of_money_silent_wealth_redistribution",
       "source": "agi_sequoia_ascent_services_as_software",
       "target": "entire_map_of_money_silent_wealth_redistribution"
     },
@@ -40782,8 +40782,8 @@
       "source_file": "_notes/fortify-gate-deployment-checklist.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "fortify_gate_deployment_checklist_fortify_gate",
-      "_tgt": "context_is_the_new_code_context_evals",
+      "_src": "context_is_the_new_code_context_evals",
+      "_tgt": "fortify_gate_deployment_checklist_fortify_gate",
       "source": "context_is_the_new_code_context_evals",
       "target": "fortify_gate_deployment_checklist_fortify_gate"
     },
@@ -40794,8 +40794,8 @@
       "source_file": "_notes/entire-map-of-money.md",
       "source_location": null,
       "weight": 0.8,
-      "_src": "entire_map_of_money_credit_before_commodity",
-      "_tgt": "entire_map_of_money_money_as_social_agreement",
+      "_src": "entire_map_of_money_money_as_social_agreement",
+      "_tgt": "entire_map_of_money_credit_before_commodity",
       "source": "entire_map_of_money_money_as_social_agreement",
       "target": "entire_map_of_money_credit_before_commodity"
     },
@@ -40854,8 +40854,8 @@
       "source_file": "_notes/high-eq-social-skills-altruism-rules.md",
       "source_location": "\u5229\u4ed6\u7cbe\u795e\u8ddf\u4f60\u60f3\u7684\u4e0d\u4e00\u6a23",
       "weight": 1.0,
-      "_src": "high_eq_social_skills_altruism_rules_formula",
-      "_tgt": "high_eq_social_skills_emotional_value",
+      "_src": "high_eq_social_skills_emotional_value",
+      "_tgt": "high_eq_social_skills_altruism_rules_formula",
       "source": "high_eq_social_skills_emotional_value",
       "target": "high_eq_social_skills_altruism_rules_formula"
     },
@@ -40866,8 +40866,8 @@
       "source_file": "_notes/youtube-one-million-income-strategy.md",
       "source_location": null,
       "weight": 0.72,
-      "_src": "youtube_one_million_trust_asset",
-      "_tgt": "high_eq_social_skills_emotional_value",
+      "_src": "high_eq_social_skills_emotional_value",
+      "_tgt": "youtube_one_million_trust_asset",
       "source": "high_eq_social_skills_emotional_value",
       "target": "youtube_one_million_trust_asset"
     },
@@ -40878,8 +40878,8 @@
       "source_file": "_notes/high-eq-social-skills-altruism-rules.md",
       "source_location": "\u9ad8\u6bb5\u4f4d\u793e\u4ea4\u5fc5\u4fee\u8ab2",
       "weight": 1.0,
-      "_src": "high_eq_social_skills_altruism_rules_formula",
-      "_tgt": "high_eq_social_skills_interpersonal_boundary",
+      "_src": "high_eq_social_skills_interpersonal_boundary",
+      "_tgt": "high_eq_social_skills_altruism_rules_formula",
       "source": "high_eq_social_skills_interpersonal_boundary",
       "target": "high_eq_social_skills_altruism_rules_formula"
     },
@@ -40974,8 +40974,8 @@
       "source_file": "_notes/scott-galloway-ai-not-for-you.md",
       "source_location": "AI \u5b64\u7368\u5371\u6a5f\u6b63\u5728\u919e\u91c0",
       "weight": 1.0,
-      "_src": "scott_galloway_rejection_tolerance_atrophy",
-      "_tgt": "scott_galloway_connection_scarcity_premium",
+      "_src": "scott_galloway_connection_scarcity_premium",
+      "_tgt": "scott_galloway_rejection_tolerance_atrophy",
       "source": "scott_galloway_connection_scarcity_premium",
       "target": "scott_galloway_rejection_tolerance_atrophy"
     },
@@ -40998,8 +40998,8 @@
       "source_file": "_notes/youtube-one-million-income-strategy.md",
       "source_location": "YouTuber \u8cfa\u9322\u5fc3\u6cd5",
       "weight": 1.0,
-      "_src": "youtube_one_million_youtube_revenue_structure",
-      "_tgt": "youtube_one_million_trust_asset",
+      "_src": "youtube_one_million_trust_asset",
+      "_tgt": "youtube_one_million_youtube_revenue_structure",
       "source": "youtube_one_million_trust_asset",
       "target": "youtube_one_million_youtube_revenue_structure"
     },
@@ -41058,8 +41058,8 @@
       "source_file": "_notes/openai-symphony-agent-harness-architecture.md",
       "source_location": "section 4",
       "weight": 1.0,
-      "_src": "openai_symphony_agent_harness_architecture_guides",
-      "_tgt": "openai_symphony_agent_harness_architecture_agent_harness",
+      "_src": "openai_symphony_agent_harness_architecture_agent_harness",
+      "_tgt": "openai_symphony_agent_harness_architecture_guides",
       "source": "openai_symphony_agent_harness_architecture_agent_harness",
       "target": "openai_symphony_agent_harness_architecture_guides"
     },
@@ -41094,8 +41094,8 @@
       "source_file": "_notes/openai-symphony-agent-harness-architecture.md",
       "source_location": "section 6",
       "weight": 1.0,
-      "_src": "openai_symphony_agent_harness_architecture_orchestrator_layer",
-      "_tgt": "openai_symphony_agent_harness_architecture_outer_harness",
+      "_src": "openai_symphony_agent_harness_architecture_outer_harness",
+      "_tgt": "openai_symphony_agent_harness_architecture_orchestrator_layer",
       "source": "openai_symphony_agent_harness_architecture_outer_harness",
       "target": "openai_symphony_agent_harness_architecture_orchestrator_layer"
     },
@@ -41106,8 +41106,8 @@
       "source_file": "_notes/skill-issue-ai-agents-supabase.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "skill_issue_ai_agents_supabase_agent_skills",
-      "_tgt": "openai_symphony_agent_harness_architecture_outer_harness",
+      "_src": "openai_symphony_agent_harness_architecture_outer_harness",
+      "_tgt": "skill_issue_ai_agents_supabase_agent_skills",
       "source": "openai_symphony_agent_harness_architecture_outer_harness",
       "target": "skill_issue_ai_agents_supabase_agent_skills"
     },
@@ -41130,8 +41130,8 @@
       "source_file": "_notes/coding-is-solved-boris-cherny-sequoia-2026.md",
       "source_location": null,
       "weight": 0.72,
-      "_src": "coding_is_solved_boris_cherny_sequoia_2026_loop_agent",
-      "_tgt": "openai_symphony_agent_harness_architecture_orchestrator_layer",
+      "_src": "openai_symphony_agent_harness_architecture_orchestrator_layer",
+      "_tgt": "coding_is_solved_boris_cherny_sequoia_2026_loop_agent",
       "source": "openai_symphony_agent_harness_architecture_orchestrator_layer",
       "target": "coding_is_solved_boris_cherny_sequoia_2026_loop_agent"
     },
@@ -41166,8 +41166,8 @@
       "source_file": "_notes/six-time-management-tips-double-productivity.md",
       "source_location": null,
       "weight": 0.7,
-      "_src": "six_time_management_tips_double_productivity_core_strengths",
-      "_tgt": "nine_life_advice_before_30_survival_skills",
+      "_src": "nine_life_advice_before_30_survival_skills",
+      "_tgt": "six_time_management_tips_double_productivity_core_strengths",
       "source": "nine_life_advice_before_30_survival_skills",
       "target": "six_time_management_tips_double_productivity_core_strengths"
     },
@@ -41178,8 +41178,8 @@
       "source_file": "_notes/coding-is-solved-boris-cherny-sequoia-2026.md",
       "source_location": null,
       "weight": 0.65,
-      "_src": "coding_is_solved_boris_cherny_sequoia_2026_cross_disciplinary_generalist",
-      "_tgt": "nine_life_advice_before_30_survival_skills",
+      "_src": "nine_life_advice_before_30_survival_skills",
+      "_tgt": "coding_is_solved_boris_cherny_sequoia_2026_cross_disciplinary_generalist",
       "source": "nine_life_advice_before_30_survival_skills",
       "target": "coding_is_solved_boris_cherny_sequoia_2026_cross_disciplinary_generalist"
     },
@@ -41298,8 +41298,8 @@
       "source_file": "_notes/markitdown-hidden-agent-tool.md",
       "source_location": "section 1",
       "weight": 1.0,
-      "_src": "markitdown_hidden_agent_tool_karpathy",
-      "_tgt": "markitdown_hidden_agent_tool_markdown_lingua_franca",
+      "_src": "markitdown_hidden_agent_tool_markdown_lingua_franca",
+      "_tgt": "markitdown_hidden_agent_tool_karpathy",
       "source": "markitdown_hidden_agent_tool_markdown_lingua_franca",
       "target": "markitdown_hidden_agent_tool_karpathy"
     },
@@ -41370,8 +41370,8 @@
       "source_file": "_notes/let-ai-agents-tell-you-what-they-need.md",
       "source_location": "section 5",
       "weight": 1.0,
-      "_src": "let_ai_agents_tell_you_what_they_need_context_gap_scanner",
-      "_tgt": "let_ai_agents_tell_you_what_they_need_demand_driven_context",
+      "_src": "let_ai_agents_tell_you_what_they_need_demand_driven_context",
+      "_tgt": "let_ai_agents_tell_you_what_they_need_context_gap_scanner",
       "source": "let_ai_agents_tell_you_what_they_need_demand_driven_context",
       "target": "let_ai_agents_tell_you_what_they_need_context_gap_scanner"
     },
@@ -41382,8 +41382,8 @@
       "source_file": "_notes/let-ai-agents-tell-you-what-they-need.md",
       "source_location": "section 6",
       "weight": 1.0,
-      "_src": "let_ai_agents_tell_you_what_they_need_knowledge_version_control",
-      "_tgt": "let_ai_agents_tell_you_what_they_need_demand_driven_context",
+      "_src": "let_ai_agents_tell_you_what_they_need_demand_driven_context",
+      "_tgt": "let_ai_agents_tell_you_what_they_need_knowledge_version_control",
       "source": "let_ai_agents_tell_you_what_they_need_demand_driven_context",
       "target": "let_ai_agents_tell_you_what_they_need_knowledge_version_control"
     },
@@ -41394,8 +41394,8 @@
       "source_file": "_notes/let-ai-agents-tell-you-what-they-need.md",
       "source_location": "section 7",
       "weight": 1.0,
-      "_src": "let_ai_agents_tell_you_what_they_need_domain_meta_model",
-      "_tgt": "let_ai_agents_tell_you_what_they_need_demand_driven_context",
+      "_src": "let_ai_agents_tell_you_what_they_need_demand_driven_context",
+      "_tgt": "let_ai_agents_tell_you_what_they_need_domain_meta_model",
       "source": "let_ai_agents_tell_you_what_they_need_demand_driven_context",
       "target": "let_ai_agents_tell_you_what_they_need_domain_meta_model"
     },
@@ -41454,8 +41454,8 @@
       "source_file": "_notes/skill-issue-ai-agents-supabase.md",
       "source_location": "section 5",
       "weight": 1.0,
-      "_src": "skill_issue_ai_agents_supabase_eval_driven_development",
-      "_tgt": "skill_issue_ai_agents_supabase_agent_skills",
+      "_src": "skill_issue_ai_agents_supabase_agent_skills",
+      "_tgt": "skill_issue_ai_agents_supabase_eval_driven_development",
       "source": "skill_issue_ai_agents_supabase_agent_skills",
       "target": "skill_issue_ai_agents_supabase_eval_driven_development"
     },
@@ -41526,8 +41526,8 @@
       "source_file": "_notes/coding-is-solved-boris-cherny-sequoia-2026.md",
       "source_location": "section 5",
       "weight": 1.0,
-      "_src": "coding_is_solved_boris_cherny_sequoia_2026_seven_powers",
-      "_tgt": "coding_is_solved_boris_cherny_sequoia_2026_software_democratization",
+      "_src": "coding_is_solved_boris_cherny_sequoia_2026_software_democratization",
+      "_tgt": "coding_is_solved_boris_cherny_sequoia_2026_seven_powers",
       "source": "coding_is_solved_boris_cherny_sequoia_2026_software_democratization",
       "target": "coding_is_solved_boris_cherny_sequoia_2026_seven_powers"
     },
@@ -41550,8 +41550,8 @@
       "source_file": "_notes/six-time-management-tips-double-productivity.md",
       "source_location": "section 4",
       "weight": 1.0,
-      "_src": "six_time_management_tips_double_productivity_decision_fatigue",
-      "_tgt": "six_time_management_tips_double_productivity_core_strengths",
+      "_src": "six_time_management_tips_double_productivity_core_strengths",
+      "_tgt": "six_time_management_tips_double_productivity_decision_fatigue",
       "source": "six_time_management_tips_double_productivity_core_strengths",
       "target": "six_time_management_tips_double_productivity_decision_fatigue"
     },
@@ -41562,8 +41562,8 @@
       "source_file": "_notes/six-time-management-tips-double-productivity.md",
       "source_location": "section 5",
       "weight": 1.0,
-      "_src": "six_time_management_tips_double_productivity_review_mechanism",
-      "_tgt": "six_time_management_tips_double_productivity_core_strengths",
+      "_src": "six_time_management_tips_double_productivity_core_strengths",
+      "_tgt": "six_time_management_tips_double_productivity_review_mechanism",
       "source": "six_time_management_tips_double_productivity_core_strengths",
       "target": "six_time_management_tips_double_productivity_review_mechanism"
     },
@@ -45546,8 +45546,8 @@
       "source_file": "_notes/tongue-scalloping-reveals-metabolic-risks.md",
       "source_location": "\u8a73\u7d30\u91cd\u9ede\u6574\u7406 6\uff1a\u7cfe\u6b63\u4e09\u5927\u8ff7\u601d",
       "weight": 1.0,
-      "_src": "tongue_scalloping_reveals_metabolic_risks_cause_specific_intervention",
-      "_tgt": "tongue_scalloping_reveals_metabolic_risks_scalloped_tongue",
+      "_src": "tongue_scalloping_reveals_metabolic_risks_scalloped_tongue",
+      "_tgt": "tongue_scalloping_reveals_metabolic_risks_cause_specific_intervention",
       "source": "tongue_scalloping_reveals_metabolic_risks_scalloped_tongue",
       "target": "tongue_scalloping_reveals_metabolic_risks_cause_specific_intervention"
     },
@@ -45654,8 +45654,8 @@
       "source_file": "_notes/tongue-scalloping-reveals-metabolic-risks.md",
       "source_location": "\u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "tongue_scalloping_reveals_metabolic_risks_tooth_check_treat_rule",
-      "_tgt": "tongue_scalloping_reveals_metabolic_risks_cause_specific_intervention",
+      "_src": "tongue_scalloping_reveals_metabolic_risks_cause_specific_intervention",
+      "_tgt": "tongue_scalloping_reveals_metabolic_risks_tooth_check_treat_rule",
       "source": "tongue_scalloping_reveals_metabolic_risks_cause_specific_intervention",
       "target": "tongue_scalloping_reveals_metabolic_risks_tooth_check_treat_rule"
     },
@@ -45738,8 +45738,8 @@
       "source_file": "_notes/agent-saas-sell-the-job.md",
       "source_location": "\u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "agent_saas_sell_the_job_ssp_rule",
-      "_tgt": "agent_saas_sell_the_job_detail_is_the_product",
+      "_src": "agent_saas_sell_the_job_detail_is_the_product",
+      "_tgt": "agent_saas_sell_the_job_ssp_rule",
       "source": "agent_saas_sell_the_job_detail_is_the_product",
       "target": "agent_saas_sell_the_job_ssp_rule"
     },
@@ -45822,8 +45822,8 @@
       "source_file": "_notes/agent-saas-sell-the-job.md",
       "source_location": "\u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "agent_saas_sell_the_job_ssp_rule",
-      "_tgt": "agent_saas_sell_the_job_outcome_pricing",
+      "_src": "agent_saas_sell_the_job_outcome_pricing",
+      "_tgt": "agent_saas_sell_the_job_ssp_rule",
       "source": "agent_saas_sell_the_job_outcome_pricing",
       "target": "agent_saas_sell_the_job_ssp_rule"
     },
@@ -45846,8 +45846,8 @@
       "source_file": "_notes/agents-building-agents.md",
       "source_location": "\u6838\u5fc3\u6458\u8981",
       "weight": 1.0,
-      "_src": "agents_building_agents_alfonso_graziano",
-      "_tgt": "agents_building_agents_dual_agent_architecture",
+      "_src": "agents_building_agents_dual_agent_architecture",
+      "_tgt": "agents_building_agents_alfonso_graziano",
       "source": "agents_building_agents_dual_agent_architecture",
       "target": "agents_building_agents_alfonso_graziano"
     },
@@ -45918,8 +45918,8 @@
       "source_file": "_notes/agents-building-agents.md",
       "source_location": "\u8a73\u7d30\u91cd\u9ede\u6574\u7406 6\uff1a\u4fee\u5fa9\u5f8c\u7684\u5931\u6548\u6a21\u5f0f\u6703\u56de\u5beb\u9032 Golden Dataset",
       "weight": 1.0,
-      "_src": "agents_building_agents_failure_cluster_analysis",
-      "_tgt": "agents_building_agents_golden_dataset",
+      "_src": "agents_building_agents_golden_dataset",
+      "_tgt": "agents_building_agents_failure_cluster_analysis",
       "source": "agents_building_agents_golden_dataset",
       "target": "agents_building_agents_failure_cluster_analysis"
     },
@@ -45930,8 +45930,8 @@
       "source_file": "_notes/agents-building-agents.md",
       "source_location": "\u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "agents_building_agents_geh_rule",
-      "_tgt": "agents_building_agents_golden_dataset",
+      "_src": "agents_building_agents_golden_dataset",
+      "_tgt": "agents_building_agents_geh_rule",
       "source": "agents_building_agents_golden_dataset",
       "target": "agents_building_agents_geh_rule"
     },
@@ -45966,8 +45966,8 @@
       "source_file": "_notes/agents-building-agents.md",
       "source_location": "\u8a73\u7d30\u91cd\u9ede\u6574\u7406 7",
       "weight": 1.0,
-      "_src": "agents_building_agents_harness_engineering",
-      "_tgt": "agents_building_agents_autoagent",
+      "_src": "agents_building_agents_autoagent",
+      "_tgt": "agents_building_agents_harness_engineering",
       "source": "agents_building_agents_autoagent",
       "target": "agents_building_agents_harness_engineering"
     },
@@ -45978,8 +45978,8 @@
       "source_file": "_notes/agents-building-agents.md",
       "source_location": "\u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "agents_building_agents_geh_rule",
-      "_tgt": "agents_building_agents_autoagent",
+      "_src": "agents_building_agents_autoagent",
+      "_tgt": "agents_building_agents_geh_rule",
       "source": "agents_building_agents_autoagent",
       "target": "agents_building_agents_geh_rule"
     },
@@ -46026,8 +46026,8 @@
       "source_file": "_notes/agents-building-agents.md",
       "source_location": "\u8a73\u7d30\u91cd\u9ede\u6574\u7406 7",
       "weight": 1.0,
-      "_src": "agents_building_agents_harness_engineering",
-      "_tgt": "agents_building_agents_failure_cluster_analysis",
+      "_src": "agents_building_agents_failure_cluster_analysis",
+      "_tgt": "agents_building_agents_harness_engineering",
       "source": "agents_building_agents_failure_cluster_analysis",
       "target": "agents_building_agents_harness_engineering"
     },
@@ -46038,8 +46038,8 @@
       "source_file": "_notes/agents-building-agents.md",
       "source_location": "\u7d50\u8ad6\u8207\u884c\u52d5\u5efa\u8b70",
       "weight": 1.0,
-      "_src": "agents_building_agents_geh_rule",
-      "_tgt": "agents_building_agents_harness_engineering",
+      "_src": "agents_building_agents_harness_engineering",
+      "_tgt": "agents_building_agents_geh_rule",
       "source": "agents_building_agents_harness_engineering",
       "target": "agents_building_agents_geh_rule"
     }

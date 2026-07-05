@@ -1,7 +1,8 @@
 # Graph Report - .  (2026-07-05)
 
 ## Corpus Check
-- Large corpus: 435 files · ~105,527 words. Semantic extraction will be expensive (many Claude tokens). Consider running on a subfolder, or use --no-semantic to run AST-only.
+- 1 files · ~22,580,292 words
+- Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
 - 1779 nodes · 1841 edges · 142 communities detected
@@ -167,8 +168,8 @@
 ## Surprising Connections (you probably didn't know these)
 - `系統優於目標` --semantically_similar_to--> `治理工程（Harness Engineering）`  [INFERRED] [semantically similar]
   _notes/redefining-intelligence-self-evolution.md → _notes/harness-engineering-from-openai.md
-- `反框架工程哲學（Anti-Framework Philosophy）` --semantically_similar_to--> `Workflow 定義：預先定義程式碼路徑的有向流程`  [INFERRED] [semantically similar]
-  _notes/matt-pocock-skills-lightweight-ai-dev.md → _notes/agents-vs-workflows.md
+- `Workflow 定義：預先定義程式碼路徑的有向流程` --semantically_similar_to--> `反框架工程哲學（Anti-Framework Philosophy）`  [INFERRED] [semantically similar]
+  _notes/agents-vs-workflows.md → _notes/matt-pocock-skills-lightweight-ai-dev.md
 - `語境/私有數據` --semantically_similar_to--> `Open Brain 開放大腦`  [INFERRED] [semantically similar]
   _notes/ai-era-five-value-layers.md → _notes/ai-era-open-brain-knowledge-system.md
 - `多模態 AI 助理（語音與視覺感知）` --semantically_similar_to--> `AI 代理人作為新應用層`  [INFERRED] [semantically similar]
@@ -872,8 +873,6 @@ Nodes (1): 透明戰場（Transparent Battlefield）
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `/insights 行為分析報告` connect `Community 25` to `Community 0`?**
-  _High betweenness centrality (0.002) - this node is a cross-community bridge._
 - **Are the 2 inferred relationships involving `情境基礎設施 (Context Infrastructure)` (e.g. with `脈絡圖 (Context Graph)` and `代理式商務 (Agentic Commerce)`) actually correct?**
   _`情境基礎設施 (Context Infrastructure)` has 2 INFERRED edges - model-reasoned connections that need verification._
 - **Are the 3 inferred relationships involving `Context Engine（上下文引擎）` (e.g. with `Context Development Lifecycle（CDLC）` and `Redis AI Agent 記憶體基礎設施`) actually correct?**
@@ -886,3 +885,5 @@ _Questions this graph is uniquely positioned to answer:_
   _Cohesion score 0.05 - nodes in this community are weakly interconnected._
 - **Should `Community 2` be split into smaller, more focused modules?**
   _Cohesion score 0.05 - nodes in this community are weakly interconnected._
+- **Should `Community 3` be split into smaller, more focused modules?**
+  _Cohesion score 0.06 - nodes in this community are weakly interconnected._
