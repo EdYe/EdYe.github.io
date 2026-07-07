@@ -20,6 +20,26 @@
     "url": "/notes/good-employee-prey-to-hunter"
   },
   {
+    "id": "field-guide-to-fable",
+    "title": "Fable 實戰指南：解放 Claude 的四大框架",
+    "category": "AI筆記",
+    "tags": [
+      "能力斷層",
+      "情境優先於限制",
+      "地圖與疆域",
+      "保持在迴圈中",
+      "不講理原則"
+    ],
+    "description": "模型能力並非均勻成長，而是以「跳躍式」（spiky）的方式提升，這造成使用者難以掌握模型真正能做到什麼的痛點。",
+    "quote": "💡建造變得更容易，但創造價值依然困難（Building is easier, but generating value is still hard）",
+    "action": "🎯採用M-U-L法則：先畫Map、再用Fable挖掘Unknown、最後Log記錄偏差，確保工程師掌握主導權",
+    "image": "/images/AI筆記/field-guide-to-fable.jpeg",
+    "date": "2026-07-07",
+    "source_has_timestamps": true,
+    "body": "Field Guide to Fable — Anthropic 工程師實戰指南 這是 Anthropic Claude Code 團隊成員 Thariq Shihipar 在 AI Engineer 大會上的演講，主題聚焦於 Anthropic 最新模型「Fable」的實戰使用方法論。 [telegra](https://telegra.ph/file/cb5de4740a27c00f7ca74.mp4) [核心摘要] 模型能力並非均勻成長，而是以「跳躍式」（spiky）的方式提升，這造成使用者難以掌握模型真正能做到什麼的痛點。演講提出四大框架：解放 Claude（unhobbling）、找出未知數、面對失落感、以及變得「不講理」，教導工程師如何重新設計提示詞策略、發現隱藏需求，並藉由新模型打破「好、快、便宜」三選二的傳統取捨迷思。 [telegra](https://telegra.ph/file/cb5de4740a27c00f7ca74.mp4) [詳細重點整理] 1. 能力斷層與解放 Claude  講者以「寶可夢名字以 AW 結尾」的例子說明：一般對話模型答不出來，但 Cl",
+    "url": "/notes/field-guide-to-fable"
+  },
+  {
     "id": "cortisol-belly-three-lever-protocol",
     "title": "皮質醇肚：三槓桿逆轉協議",
     "category": "影片筆記",
