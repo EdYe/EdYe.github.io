@@ -1,5 +1,25 @@
 [
   {
+    "id": "cortisol-belly-three-lever-protocol",
+    "title": "皮質醇肚：三槓桿逆轉協議",
+    "category": "影片筆記",
+    "tags": [
+      "皮質醇肚",
+      "腹腦迴路",
+      "三槓桿協議",
+      "進食時窗",
+      "Zone2步行"
+    ],
+    "description": "腹部脂肪細胞會自行製造皮質醇，形成脂肪與壓力荷爾蒙的惡性循環。作者提出三槓桿協議：降低皮質醇輸入、解耦胰島素、縮小內臟脂肪，8到12週逆轉腹部脂肪與腦霧疲勞。",
+    "quote": "身體不是被設計來永久攜帶內臟脂肪的，它只有在皮質醇循環持續餵養它時才會停留。",
+    "action": "晚上7點前吃完晚餐、早上曬10分鐘太陽、三餐不吃零食、每天安排一段可邊走邊聊天速度的散步。",
+    "image": "/images/影片筆記/cortisol-belly-three-lever-protocol.jpeg",
+    "date": "2026-07-07",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 這部影片由 Dr. David Jockers 主講，解析「皮質醇肚（Cortisol Belly）」的生理機制——腹部脂肪細胞本身會透過 11-beta HSD1 酵素自行製造皮質醇，形成脂肪與壓力荷爾蒙的惡性循環。他提出一套「三槓桿協議」，透過降低皮質醇輸入、解耦胰島素與皮質醇、縮小內臟脂肪三個層面同時介入，在 8 到 12 週內逆轉腹部脂肪、腦霧與疲勞問題，解決一般飲食運動計畫「只打一個節點卻打不斷循環」的痛點。 [youtube](https://www.youtube.com/watch?v=i7l6GdmwZGk) [詳細重點整理] 1. 什麼是皮質醇肚  腹部脂肪細胞內的 11-beta HSD1 酵素會把血液中「休眠版」的皮質酮（cortisone）轉化為活性皮質醇，代表這類脂肪即使在你不覺得壓力大、腎上腺平靜時，仍會 24 小時自行製造皮質醇。這種脂肪同時擁有比一般脂肪更多的皮質醇受器，形成「工廠自產＋額外吸收」的雙重疊加效應。關鍵概念：皮質醇工廠效應。 [youtube](https://www.youtube.com/watch?v=i7l6Gdmw",
+    "url": "/notes/cortisol-belly-three-lever-protocol"
+  },
+  {
     "id": "html-agents-visual-graphics",
     "title": "HTML是Agent做視覺任務的正解",
     "category": "影片筆記",
