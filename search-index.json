@@ -1,5 +1,25 @@
 [
   {
+    "id": "harness-engineering-masterclass",
+    "title": "Harness工程：AI Agent失敗診斷法則",
+    "category": "AI筆記",
+    "tags": [
+      "Harness工程",
+      "代理迴圈",
+      "上下文管理",
+      "工具介面",
+      "驗證與可觀測性"
+    ],
+    "description": "影片核心貢獻是將「AI Agent為何失敗」的模糊問題，拆解成可診斷的具體層級，解決了業界普遍「出錯就怪模型不夠聰明」的認知盲點。",
+    "quote": "當 Agent 失敗時，不要只問模型夠不夠聰明，要問是哪一層 Harness 撐不住了。",
+    "action": "套用十二層診斷法則，每次 Agent 出錯時依序排查指令、上下文傳遞、上下文管理、工具介面、執行環境、持久狀態、編排、子代理、技能層、驗證與可觀測性等層級的瓶頸所在。",
+    "image": "/images/AI筆記/harness-engineering-masterclass.jpeg",
+    "date": "2026-07-07",
+    "source_has_timestamps": true,
+    "body": "Harness Engineering Masterclass 筆記 這部影片深入拆解「Harness Engineering」（護欄工程／代理系統框架設計），說明打造可靠 AI Agent 系統背後的十多個核心元件（primitives），而非僅依賴模型本身的智能 。 [youtube](https://www.youtube.com/watch?v=Gz7S1v1k664) [核心摘要] 影片核心貢獻是將「AI Agent 為何失敗」的模糊問題，拆解成可診斷的具體層級，解決了業界普遍「出錯就怪模型不夠聰明」的認知盲點 。作者指出，Codex、Claude Code、Gemini CLI 等系統之所以強大，並非單靠模型，而是模型周圍那層決定「模型看到什麼、能做什麼、記得什麼、如何驗證與復原」的 Harness 系統 。 [youtube](https://www.youtube.com/watch?v=Gz7S1v1k664) [詳細重點整理] 1. 模型與 Agent 的邊界  模型只能看到 Prompt 內的內容，一旦專案或任務資訊不在輸入中，模型就會開始猜測，這正是幻覺（Hal",
+    "url": "/notes/harness-engineering-masterclass"
+  },
+  {
     "id": "good-employee-prey-to-hunter",
     "title": "別再當好員工：從獵物變成獵人",
     "category": "影片筆記",
