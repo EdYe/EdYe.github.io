@@ -1,5 +1,25 @@
 [
   {
+    "id": "ai-skills-repo-v1-1-wayfinder",
+    "title": "AI技能庫v1.1：新增Wayfinder規劃術",
+    "category": "AI筆記",
+    "tags": [
+      "規格導向命名",
+      "事實與決策分離",
+      "流程串接",
+      "臭味喚名",
+      "共享地圖式規劃"
+    ],
+    "description": "Matt Pocock 發布 AI 開發技能庫 v1.1 更新，將零散規劃技能整合成完整 SDLC 流程，並新增 Wayfinder 解決大型專案規劃困境。",
+    "quote": "💡一個模糊的想法太大，裝不進單一 agent session，還籠罩在迷霧中——這正是 Wayfinder 存在的理由。",
+    "action": "🎯套用 G-S-T-I-C 法則（Grill → Spec → Tickets → Implement → Code Review）作為日常 AI 協作開發的標準流程骨架。",
+    "image": "/images/AI筆記/ai-skills-repo-v1-1-wayfinder.jpg",
+    "date": "2026-07-09",
+    "source_has_timestamps": true,
+    "body": "Matt Pocock AI 開發技能庫 v1.1 更新筆記 本文整理 Matt Pocock 發布之 AI 開發技能庫（skills repo）v1.1 版本重點，涵蓋新版 SDLC 流程、Grilling 技能修正與全新 Wayfinder 大型規劃技能。 [youtube](https://youtu.be/A8mokinYOs?si=TR5dk2rhoQSoBjVD) [核心摘要] Matt Pocock 發布其 AI 開發技能庫（skills repo）的 v1.1 更新，核心貢獻是把原本零散的「規劃型技能」整合成一套完整的軟體開發生命週期（SDLC）流程，並新增 Wayfinder 技能來解決大型專案「規劃過大、超出單一 agent session 智慧區（smart zone）」的痛點。此版本同時修正了 grilling 技能中「多問題同時詢問」與「自我 grilling」等已知 bug。 [youtube](https://youtu.be/A8mokinYOs?si=TR5dk2rhoQSoBjVD) [詳細重點整理] 1. 技能改名：to-spec 與 to-tic",
+    "url": "/notes/ai-skills-repo-v1-1-wayfinder"
+  },
+  {
     "id": "harness-engineering-masterclass",
     "title": "Harness工程：AI Agent失敗診斷法則",
     "category": "AI筆記",
