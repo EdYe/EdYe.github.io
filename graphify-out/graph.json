@@ -50,27 +50,27 @@
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L1",
+      "id": "scripts_rebuild_index_js",
       "community": 108,
-      "norm_label": "rebuild-index.js",
-      "id": "scripts_rebuild_index_js"
+      "norm_label": "rebuild-index.js"
     },
     {
       "label": "parseFrontMatter()",
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L11",
+      "id": "rebuild_index_parsefrontmatter",
       "community": 108,
-      "norm_label": "parsefrontmatter()",
-      "id": "rebuild_index_parsefrontmatter"
+      "norm_label": "parsefrontmatter()"
     },
     {
       "label": "buildIndex()",
       "file_type": "code",
       "source_file": "scripts/rebuild-index.js",
       "source_location": "L45",
+      "id": "rebuild_index_buildindex",
       "community": 108,
-      "norm_label": "buildindex()",
-      "id": "rebuild_index_buildindex"
+      "norm_label": "buildindex()"
     },
     {
       "label": "\u5efa\u7acb\u8ac7\u5224\u81ea\u4fe1\u8207\u6d88\u9664\u6469\u64e6",
@@ -24054,9 +24054,9 @@
       "weight": 1.0,
       "_src": "scripts_rebuild_index_js",
       "_tgt": "rebuild_index_parsefrontmatter",
-      "confidence_score": 1.0,
       "source": "scripts_rebuild_index_js",
-      "target": "rebuild_index_parsefrontmatter"
+      "target": "rebuild_index_parsefrontmatter",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -24066,9 +24066,9 @@
       "weight": 1.0,
       "_src": "scripts_rebuild_index_js",
       "_tgt": "rebuild_index_buildindex",
-      "confidence_score": 1.0,
       "source": "scripts_rebuild_index_js",
-      "target": "rebuild_index_buildindex"
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -24078,9 +24078,9 @@
       "weight": 1.0,
       "_src": "rebuild_index_buildindex",
       "_tgt": "rebuild_index_parsefrontmatter",
-      "confidence_score": 1.0,
       "source": "rebuild_index_parsefrontmatter",
-      "target": "rebuild_index_buildindex"
+      "target": "rebuild_index_buildindex",
+      "confidence_score": 1.0
     },
     {
       "relation": "references",
@@ -46169,8 +46169,8 @@
       "source_file": "_notes/good-employee-prey-to-hunter.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "good_employee_prey_to_hunter_xie_yunfan",
-      "_tgt": "good_employee_prey_to_hunter_value_visualization",
+      "_src": "good_employee_prey_to_hunter_value_visualization",
+      "_tgt": "good_employee_prey_to_hunter_xie_yunfan",
       "source": "good_employee_prey_to_hunter_value_visualization",
       "target": "good_employee_prey_to_hunter_xie_yunfan"
     },
@@ -46181,8 +46181,8 @@
       "source_file": "_notes/good-employee-prey-to-hunter.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "good_employee_prey_to_hunter_prey_hunter_mindset",
-      "_tgt": "good_employee_prey_to_hunter_agency_transfer",
+      "_src": "good_employee_prey_to_hunter_agency_transfer",
+      "_tgt": "good_employee_prey_to_hunter_prey_hunter_mindset",
       "source": "good_employee_prey_to_hunter_agency_transfer",
       "target": "good_employee_prey_to_hunter_prey_hunter_mindset"
     },
@@ -46205,8 +46205,8 @@
       "source_file": "_notes/good-employee-prey-to-hunter.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "good_employee_prey_to_hunter_xie_yunfan",
-      "_tgt": "good_employee_prey_to_hunter_agency_transfer",
+      "_src": "good_employee_prey_to_hunter_agency_transfer",
+      "_tgt": "good_employee_prey_to_hunter_xie_yunfan",
       "source": "good_employee_prey_to_hunter_agency_transfer",
       "target": "good_employee_prey_to_hunter_xie_yunfan"
     },
@@ -46253,8 +46253,8 @@
       "source_file": "_notes/good-employee-prey-to-hunter.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "good_employee_prey_to_hunter_xie_yunfan",
-      "_tgt": "good_employee_prey_to_hunter_prey_hunter_mindset",
+      "_src": "good_employee_prey_to_hunter_prey_hunter_mindset",
+      "_tgt": "good_employee_prey_to_hunter_xie_yunfan",
       "source": "good_employee_prey_to_hunter_prey_hunter_mindset",
       "target": "good_employee_prey_to_hunter_xie_yunfan"
     },
@@ -46265,8 +46265,8 @@
       "source_file": "_notes/ai-skills-repo-v1-1-wayfinder.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_skills_repo_v1_1_wayfinder_matt_pocock",
-      "_tgt": "ai_skills_repo_v1_1_wayfinder_spec_driven_naming",
+      "_src": "ai_skills_repo_v1_1_wayfinder_spec_driven_naming",
+      "_tgt": "ai_skills_repo_v1_1_wayfinder_matt_pocock",
       "source": "ai_skills_repo_v1_1_wayfinder_spec_driven_naming",
       "target": "ai_skills_repo_v1_1_wayfinder_matt_pocock"
     },
@@ -46301,8 +46301,8 @@
       "source_file": "_notes/ai-skills-repo-v1-1-wayfinder.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_skills_repo_v1_1_wayfinder_matt_pocock",
-      "_tgt": "ai_skills_repo_v1_1_wayfinder_flow_chaining",
+      "_src": "ai_skills_repo_v1_1_wayfinder_flow_chaining",
+      "_tgt": "ai_skills_repo_v1_1_wayfinder_matt_pocock",
       "source": "ai_skills_repo_v1_1_wayfinder_flow_chaining",
       "target": "ai_skills_repo_v1_1_wayfinder_matt_pocock"
     },
@@ -46325,8 +46325,8 @@
       "source_file": "_notes/ai-skills-repo-v1-1-wayfinder.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_skills_repo_v1_1_wayfinder_decoupling_refactor_tdd",
-      "_tgt": "ai_skills_repo_v1_1_wayfinder_smell_naming",
+      "_src": "ai_skills_repo_v1_1_wayfinder_smell_naming",
+      "_tgt": "ai_skills_repo_v1_1_wayfinder_decoupling_refactor_tdd",
       "source": "ai_skills_repo_v1_1_wayfinder_smell_naming",
       "target": "ai_skills_repo_v1_1_wayfinder_decoupling_refactor_tdd"
     },
@@ -46337,8 +46337,8 @@
       "source_file": "_notes/ai-skills-repo-v1-1-wayfinder.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "ai_skills_repo_v1_1_wayfinder_matt_pocock",
-      "_tgt": "ai_skills_repo_v1_1_wayfinder_wayfinder",
+      "_src": "ai_skills_repo_v1_1_wayfinder_wayfinder",
+      "_tgt": "ai_skills_repo_v1_1_wayfinder_matt_pocock",
       "source": "ai_skills_repo_v1_1_wayfinder_wayfinder",
       "target": "ai_skills_repo_v1_1_wayfinder_matt_pocock"
     },
@@ -46385,8 +46385,8 @@
       "source_file": "_notes/cortisol-belly-three-lever-protocol.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "cortisol_belly_three_lever_protocol_david_jockers",
-      "_tgt": "cortisol_belly_three_lever_protocol_cortisol_factory_effect",
+      "_src": "cortisol_belly_three_lever_protocol_cortisol_factory_effect",
+      "_tgt": "cortisol_belly_three_lever_protocol_david_jockers",
       "source": "cortisol_belly_three_lever_protocol_cortisol_factory_effect",
       "target": "cortisol_belly_three_lever_protocol_david_jockers"
     },
@@ -46433,8 +46433,8 @@
       "source_file": "_notes/cortisol-belly-three-lever-protocol.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "cortisol_belly_three_lever_protocol_three_lever_protocol",
-      "_tgt": "cortisol_belly_three_lever_protocol_morning_light_reset",
+      "_src": "cortisol_belly_three_lever_protocol_morning_light_reset",
+      "_tgt": "cortisol_belly_three_lever_protocol_three_lever_protocol",
       "source": "cortisol_belly_three_lever_protocol_morning_light_reset",
       "target": "cortisol_belly_three_lever_protocol_three_lever_protocol"
     },
@@ -46445,8 +46445,8 @@
       "source_file": "_notes/cortisol-belly-three-lever-protocol.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "cortisol_belly_three_lever_protocol_three_lever_protocol",
-      "_tgt": "cortisol_belly_three_lever_protocol_eating_window_over_macros",
+      "_src": "cortisol_belly_three_lever_protocol_eating_window_over_macros",
+      "_tgt": "cortisol_belly_three_lever_protocol_three_lever_protocol",
       "source": "cortisol_belly_three_lever_protocol_eating_window_over_macros",
       "target": "cortisol_belly_three_lever_protocol_three_lever_protocol"
     },
@@ -46457,8 +46457,8 @@
       "source_file": "_notes/cortisol-belly-three-lever-protocol.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "cortisol_belly_three_lever_protocol_three_lever_protocol",
-      "_tgt": "cortisol_belly_three_lever_protocol_zone2_walking_effect",
+      "_src": "cortisol_belly_three_lever_protocol_zone2_walking_effect",
+      "_tgt": "cortisol_belly_three_lever_protocol_three_lever_protocol",
       "source": "cortisol_belly_three_lever_protocol_zone2_walking_effect",
       "target": "cortisol_belly_three_lever_protocol_three_lever_protocol"
     },
@@ -46469,8 +46469,8 @@
       "source_file": "_notes/cortisol-belly-three-lever-protocol.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "cortisol_belly_three_lever_protocol_david_jockers",
-      "_tgt": "cortisol_belly_three_lever_protocol_three_lever_protocol",
+      "_src": "cortisol_belly_three_lever_protocol_three_lever_protocol",
+      "_tgt": "cortisol_belly_three_lever_protocol_david_jockers",
       "source": "cortisol_belly_three_lever_protocol_three_lever_protocol",
       "target": "cortisol_belly_three_lever_protocol_david_jockers"
     },
@@ -46493,8 +46493,8 @@
       "source_file": "_notes/field-guide-to-fable.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "field_guide_to_fable_thariq_shihipar",
-      "_tgt": "field_guide_to_fable_capability_overhang",
+      "_src": "field_guide_to_fable_capability_overhang",
+      "_tgt": "field_guide_to_fable_thariq_shihipar",
       "source": "field_guide_to_fable_capability_overhang",
       "target": "field_guide_to_fable_thariq_shihipar"
     },
@@ -46505,8 +46505,8 @@
       "source_file": "_notes/field-guide-to-fable.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "field_guide_to_fable_tool_capability_unlocking",
-      "_tgt": "field_guide_to_fable_capability_overhang",
+      "_src": "field_guide_to_fable_capability_overhang",
+      "_tgt": "field_guide_to_fable_tool_capability_unlocking",
       "source": "field_guide_to_fable_capability_overhang",
       "target": "field_guide_to_fable_tool_capability_unlocking"
     },
@@ -46517,8 +46517,8 @@
       "source_file": "_notes/html-agents-visual-graphics.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "html_agents_visual_graphics_native_medium",
-      "_tgt": "field_guide_to_fable_context_over_constraints",
+      "_src": "field_guide_to_fable_context_over_constraints",
+      "_tgt": "html_agents_visual_graphics_native_medium",
       "source": "field_guide_to_fable_context_over_constraints",
       "target": "html_agents_visual_graphics_native_medium"
     },
@@ -46553,8 +46553,8 @@
       "source_file": "_notes/field-guide-to-fable.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "field_guide_to_fable_thariq_shihipar",
-      "_tgt": "field_guide_to_fable_map_vs_territory",
+      "_src": "field_guide_to_fable_map_vs_territory",
+      "_tgt": "field_guide_to_fable_thariq_shihipar",
       "source": "field_guide_to_fable_map_vs_territory",
       "target": "field_guide_to_fable_thariq_shihipar"
     },
@@ -46589,8 +46589,8 @@
       "source_file": "_notes/field-guide-to-fable.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "field_guide_to_fable_thariq_shihipar",
-      "_tgt": "field_guide_to_fable_being_unreasonable",
+      "_src": "field_guide_to_fable_being_unreasonable",
+      "_tgt": "field_guide_to_fable_thariq_shihipar",
       "source": "field_guide_to_fable_being_unreasonable",
       "target": "field_guide_to_fable_thariq_shihipar"
     },
@@ -46649,8 +46649,8 @@
       "source_file": "_notes/html-agents-visual-graphics.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "html_agents_visual_graphics_amol_kapoor",
-      "_tgt": "html_agents_visual_graphics_native_medium",
+      "_src": "html_agents_visual_graphics_native_medium",
+      "_tgt": "html_agents_visual_graphics_amol_kapoor",
       "source": "html_agents_visual_graphics_native_medium",
       "target": "html_agents_visual_graphics_amol_kapoor"
     },
@@ -46685,8 +46685,8 @@
       "source_file": "_notes/html-agents-visual-graphics.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "html_agents_visual_graphics_amol_kapoor",
-      "_tgt": "html_agents_visual_graphics_nori_case_study",
+      "_src": "html_agents_visual_graphics_nori_case_study",
+      "_tgt": "html_agents_visual_graphics_amol_kapoor",
       "source": "html_agents_visual_graphics_nori_case_study",
       "target": "html_agents_visual_graphics_amol_kapoor"
     },
@@ -46853,8 +46853,8 @@
       "source_file": "_notes/harness-engineering-masterclass.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "harness_engineering_masterclass_agent_postmortem_loop",
-      "_tgt": "harness_engineering_masterclass_twelve_layer_diagnosis",
+      "_src": "harness_engineering_masterclass_twelve_layer_diagnosis",
+      "_tgt": "harness_engineering_masterclass_agent_postmortem_loop",
       "source": "harness_engineering_masterclass_twelve_layer_diagnosis",
       "target": "harness_engineering_masterclass_agent_postmortem_loop"
     },
@@ -46865,8 +46865,8 @@
       "source_file": "_notes/building-autonomous-engineering-org.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "building_autonomous_engineering_org_auto_fix_loop",
-      "_tgt": "harness_engineering_masterclass_agent_postmortem_loop",
+      "_src": "harness_engineering_masterclass_agent_postmortem_loop",
+      "_tgt": "building_autonomous_engineering_org_auto_fix_loop",
       "source": "harness_engineering_masterclass_agent_postmortem_loop",
       "target": "building_autonomous_engineering_org_auto_fix_loop"
     },
@@ -46901,8 +46901,8 @@
       "source_file": "_notes/building-autonomous-engineering-org.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "building_autonomous_engineering_org_angie_jones",
-      "_tgt": "building_autonomous_engineering_org_maturity_model_six_stage",
+      "_src": "building_autonomous_engineering_org_maturity_model_six_stage",
+      "_tgt": "building_autonomous_engineering_org_angie_jones",
       "source": "building_autonomous_engineering_org_maturity_model_six_stage",
       "target": "building_autonomous_engineering_org_angie_jones"
     },
@@ -46937,8 +46937,8 @@
       "source_file": "_notes/building-autonomous-engineering-org.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "building_autonomous_engineering_org_angie_jones",
-      "_tgt": "building_autonomous_engineering_org_one_percent_champion_program",
+      "_src": "building_autonomous_engineering_org_one_percent_champion_program",
+      "_tgt": "building_autonomous_engineering_org_angie_jones",
       "source": "building_autonomous_engineering_org_one_percent_champion_program",
       "target": "building_autonomous_engineering_org_angie_jones"
     },
@@ -47009,8 +47009,8 @@
       "source_file": "_notes/building-autonomous-engineering-org.md",
       "source_location": null,
       "weight": 1.0,
-      "_src": "building_autonomous_engineering_org_angie_jones",
-      "_tgt": "building_autonomous_engineering_org_builder_bot",
+      "_src": "building_autonomous_engineering_org_builder_bot",
+      "_tgt": "building_autonomous_engineering_org_angie_jones",
       "source": "building_autonomous_engineering_org_builder_bot",
       "target": "building_autonomous_engineering_org_angie_jones"
     }

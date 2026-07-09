@@ -1,5 +1,25 @@
 [
   {
+    "id": "claude-code-12-hidden-settings",
+    "title": "Claude Code 12項隱藏設定技巧",
+    "category": "AI筆記",
+    "tags": [
+      "權限白名單",
+      "Deny Rules",
+      "Plan-Execute模型分層",
+      "Effort Level",
+      "Context衰退"
+    ],
+    "description": "Claude Code 提供數百項設定，但僅需 12 項一行設定即可徹底改變日常工作流。涵蓋通知提醒、權限管理、模型成本優化、資料隱私控制、上下文品質維護等面向",
+    "quote": "瓶頸不再是模型本身，而是你能否縮短「你要求的」與「真正需要發生的」之間的差距。",
+    "action": "依 S.P.E.E.D. 法則設定 settings.json：啟用通知、建立權限白名單與Deny Rules、模型分層與Effort調校、隱私與Auto-compact優化、給目標不給步驟。",
+    "image": "/images/AI筆記/claude-code-12-hidden-settings.jpg",
+    "date": "2026-07-10",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Claude Code 提供數百項設定，但僅需 12 項一行設定即可徹底改變日常工作流。涵蓋通知提醒、權限管理、模型成本優化、資料隱私控制、上下文品質維護等面向，解決開發者最常見的痛點：等待權限確認的時間浪費、API 額度快速耗盡、上下文衰退導致品質下降，以及歷史記錄無故消失。所有設定均集中在 ~/.claude/settings.json 單一檔案中完成，無需撰寫任何程式碼 。 [youtube](https://www.youtube.com/watch?v=Gz7S1v1k664) [詳細重點整理] 1. 啟用通知音效  輸入 /config 開啟設定介面，找到 local notifications 選項，透過空白鍵切換通知方式（terminal bell、ghosty 等），讓 Claude Code 完成任務或需要權限確認時即時通知桌面。同場加映 Dave Schumacher 開發的 Claude Sounds 庫，可作為 notification hook 替代方案，提供趣味語音提醒。 關鍵概念：非同步通知機制（Asynchronous Notificat",
+    "url": "/notes/claude-code-12-hidden-settings"
+  },
+  {
     "id": "ai-skills-repo-v1-1-wayfinder",
     "title": "AI技能庫v1.1：新增Wayfinder規劃術",
     "category": "AI筆記",
