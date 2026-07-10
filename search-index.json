@@ -1,5 +1,25 @@
 [
   {
+    "id": "microsoft-fde-frontier-company",
+    "title": "微軟砸25億美元組FDE正規軍跳過顧問業",
+    "category": "影片筆記",
+    "tags": [
+      "FDE",
+      "微軟",
+      "Azure壟斷",
+      "認知剝奪",
+      "諮詢公司"
+    ],
+    "description": "微軟砸下25億美元，派6,000名工程師以FDE模式直接入駐客戶辦公室，繞過傳統諮詢公司，為企業打造客製化AI解決方案。",
+    "quote": "免費的最貴——當有人免費幫你建高速公路時，真正的利潤在每一滴油裡。",
+    "action": "採用D-R-A法則：導入AI服務前先診斷資料品質、保留業務知識轉移條款、避免被單一雲端廠商鎖定。",
+    "image": "/images/影片筆記/microsoft-fde-frontier-company.jpg",
+    "date": "2026-07-10",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 微軟於 2026 年 7 月宣佈成立 Microsoft Frontier Company，砸下 25 億美元派出 6,000 名頂尖工程師直接入駐客戶辦公室，採用 FDE（Forward Deployed Engineering，前沿部署工程） 模式，繞過傳統諮詢公司，親自為企業打造客製化 AI 解決方案。此舉直擊企業 AI 落地的核心痛點——九成企業在 AI 上的投資連電費都賺不回來，而通用型 SaaS 產品無法解決非標準化的行業深度問題。FDE 的本質是一場以短期人力虧損換取長期雲端基礎設施壟斷的商業豪賭。 [詳細重點整理] 1. AI 泡沫的真相與微軟的策略轉向  全球企業在過去兩年於 AI 上燒掉上千億美元，但九成連伺服器電費都沒賺回來。業務部門將 AI 當成高級自動回覆工具，程式設計師只拿來寫邊角料程式碼，生產力提升約 5%，但 IT 預算被直接拉爆。矽谷將此現象稱為「試點疲勞」（Pilot Fatigue）——企業客戶受夠了在封閉環境中跑得很完美的 Demo，要的是能直接反映在財報上的 ROI。微軟商業業務 CEO Jason Altman 明確表態：「客戶",
+    "url": "/notes/microsoft-fde-frontier-company"
+  },
+  {
     "id": "claude-code-12-hidden-settings",
     "title": "Claude Code 12項隱藏設定技巧",
     "category": "AI筆記",
@@ -18,6 +38,26 @@
     "source_has_timestamps": true,
     "body": "[核心摘要] Claude Code 提供數百項設定，但僅需 12 項一行設定即可徹底改變日常工作流。涵蓋通知提醒、權限管理、模型成本優化、資料隱私控制、上下文品質維護等面向，解決開發者最常見的痛點：等待權限確認的時間浪費、API 額度快速耗盡、上下文衰退導致品質下降，以及歷史記錄無故消失。所有設定均集中在 ~/.claude/settings.json 單一檔案中完成，無需撰寫任何程式碼 。 [youtube](https://www.youtube.com/watch?v=Gz7S1v1k664) [詳細重點整理] 1. 啟用通知音效  輸入 /config 開啟設定介面，找到 local notifications 選項，透過空白鍵切換通知方式（terminal bell、ghosty 等），讓 Claude Code 完成任務或需要權限確認時即時通知桌面。同場加映 Dave Schumacher 開發的 Claude Sounds 庫，可作為 notification hook 替代方案，提供趣味語音提醒。 關鍵概念：非同步通知機制（Asynchronous Notificat",
     "url": "/notes/claude-code-12-hidden-settings"
+  },
+  {
+    "id": "beyond-the-harness-adaptive-engineering",
+    "title": "從固定式Harness邁向適應性工程",
+    "category": "影片筆記",
+    "tags": [
+      "Harness工程",
+      "湧現",
+      "複雜系統",
+      "適應性工程",
+      "水平智慧"
+    ],
+    "description": "當前 AI 工程依賴「固定式 Harness」（如 Claude Code、Cursor、LangChain）——在工程開始前預先定義角色、工具與流程順序，",
+    "quote": "💡Harness 不再是你打造的輸入，而是你允許湧現的輸出。限制因子不是模型的強度，而是 Harness 的適應力。",
+    "action": "🎯採用C-S-R法則：設計約束條件、感知湧現變化、在runtime中持續回應調整，而非事前規劃到底。",
+    "image": "/images/影片筆記/beyond-the-harness-adaptive-engineering.jpg",
+    "date": "2026-07-10",
+    "source_has_timestamps": true,
+    "body": "Beyond the Harness: A Journey Towards Adaptive Engineering [核心摘要] 當前 AI 工程依賴「固定式 Harness」（如 Claude Code、Cursor、LangChain）——在工程開始前預先定義角色、工具與流程順序，類似工廠流水線，產出可靠且可審計。然而，隨模型能力呈指數增長且 AI 走向真實世界（多 Agent、多機構、觸及物理環境），固定 Harness 因抑制變異而變得脆弱且過時。Rajiv Chandegra 提出「適應性工程」：工程師僅設計約束條件（遊戲規則），讓 Harness 在工程過程中自我湧現、穩定、適應甚至消散，使 Harness 從「輸入」轉變為「輸出」。  [詳細重點整理] 1. 當前範式與未來挑戰  現有 AI 工程範式的核心是使用固定 Harness 來引導 Agent。典型工具包括 CLI 類（Claude Code、Codex、Pi）、IDE 類（Cursor）、多 Agent 編排框架（LangChain、Hermes、Klein、Goose）。所有角色、輸出格式、流程順序、記憶機",
+    "url": "/notes/beyond-the-harness-adaptive-engineering"
   },
   {
     "id": "ai-skills-repo-v1-1-wayfinder",
