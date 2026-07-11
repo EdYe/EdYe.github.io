@@ -15,7 +15,7 @@ from PIL import Image
 
 def convert_png_to_jpeg(input_path: Path, output_path: Path | None = None, quality: int = 90) -> Path:
     if output_path is None:
-        output_path = input_path.with_suffix(".jpg")
+        output_path = input_path.with_suffix(".jpeg")
 
     with Image.open(input_path) as img:
         if img.mode in ("RGBA", "LA", "P"):
