@@ -1,5 +1,25 @@
 [
   {
+    "id": "skills-masterclass",
+    "title": "Skill：Agent的程序性記憶封裝",
+    "category": "AI筆記",
+    "tags": [
+      "Skill",
+      "Harness工程",
+      "程序性記憶",
+      "Sub-agent",
+      "漸進式載入"
+    ],
+    "description": "Skill 是代理系統中可重複載入的「程序性記憶」——它將資深工程師的審查流程（如 PR Review 的步驟、驗證、陷阱）封裝為可被 Harness 發現、載",
+    "quote": "💡不要要求模型靠 vibes 記住工作流程。把工作流程放在 Harness 找得到、測得了、改得動的地方。",
+    "action": "🎯用 R-P-M-E 法則（重複性/程序性/錯誤代價/非顯而易見）四項皆是才建立 Skill，否則歸入 Instructions/Tools/Sub-agents",
+    "image": "/images/AI筆記/skills-masterclass.jpg",
+    "date": "2026-07-12",
+    "source_has_timestamps": true,
+    "body": "Skills Masterclass | 技術深度解析：為代理系統建構 Skills [核心摘要] Skill 是代理系統中可重複載入的「程序性記憶」——它將資深工程師的審查流程（如 PR Review 的步驟、驗證、陷阱）封裝為可被 Harness 發現、載入並執行的結構化資產。核心價值在於：解決 AI Agent 每次面對重複任務時「重新發明流程」的問題，將專家判斷從人腦搬移到 Harness 中，使審查品質從依賴個人變為系統化、可測量、可迭代的工程實踐 。 [youtube](https://www.youtube.com/watch?v=ICEDgpNICjk) [詳細重點整理] 1. 問題起點：審查品質無法規模化  每個工程團隊都有少數幾位資深 Reviewer，他們會檢查 auth middleware 是否移動、token 缺失時的 denied path、是否執行 focused check。但他們的時間有限，無法參與每個 PR，導致審查品質不均——有些 PR 獲得深度審查，有些只確認 CI 是否綠燈 。 [youtube](https://www.youtube.co",
+    "url": "/notes/skills-masterclass"
+  },
+  {
     "id": "context-management-masterclass",
     "title": "上下文管理大師課：Agent為何變笨",
     "category": "AI筆記",
@@ -20,6 +40,26 @@
     "url": "/notes/context-management-masterclass"
   },
   {
+    "id": "building-ai-agent-from-scratch",
+    "title": "從零打造 AI Agent：15章建構全紀錄",
+    "category": "AI筆記",
+    "tags": [
+      "Harness架構",
+      "上下文管理",
+      "工具呼叫",
+      "沙箱安全",
+      "子代理委派"
+    ],
+    "description": "這部影片以「Agent = Model + Harness + UI」為核心架構，從零開始用 Python 逐步建構一個真實可運作的 Coding Agent",
+    "quote": "💡提示詞是意圖，不是圍欄。不要告訴模型別碰機密——根本不給它機密。",
+    "action": "🎯套用 M-H-U 法則檢視 AI Agent 專案：Model 可抽換、Harness 承載工程邏輯、UI 只做事件消費者，並確認具備上下文壓縮、審批閘道、驗證機制、可觀測性四項生產就緒指標。",
+    "image": "/images/AI筆記/building-ai-agent-from-scratch.jpg",
+    "date": "2026-07-12",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 這部影片以「Agent = Model + Harness + UI」為核心架構，從零開始用 Python 逐步建構一個真實可運作的 Coding Agent，共 15 個章節、約 2,500 行程式碼。每一章新增一個原語（primitive），從無狀態的 LLM 呼叫出發，依序加入歷史記憶、指令系統、上下文交付、工具呼叫、上下文壓縮、技能載入、沙箱安全、持久化記憶、任務規劃、子代理委派、自我驗證、可觀測性追蹤，最終完成終端 UI。整套程式碼以 Git Tag 形式釋出（ch0→ch14），可逐章切換、實機運行，完整揭示了 AI Agent 背後的工程本質：真正讓模型「感覺像代理」的，全都在 Harness 層 。 [scribd](https://www.scribd.com/document/869199074/Links) [詳細重點整理] 1. 全局框架與三層架構  影片開場即定義核心等式：Agent = Model + Harness + UI。Model 是一個無狀態推理引擎，僅靠一次 API 呼叫；UI 是人類觸達代理的介面；真正讓代理「有感」的中間層——H",
+    "url": "/notes/building-ai-agent-from-scratch"
+  },
+  {
     "id": "ai-agent-sandboxing-layers",
     "title": "AI Agent 沙盒化五層架構解析",
     "category": "AI筆記",
@@ -38,6 +78,26 @@
     "source_has_timestamps": true,
     "body": "[核心摘要] 本影片系統性拆解了 AI Agent 沙盒化的五層架構：V8 Isolate/WASM、OS 級沙盒、Docker 容器、gVisor 用戶空間核心、Firecracker microVM。核心痛點在於：當 Coding Agent 從純文字生成進化到能讀寫檔案、執行指令、安裝套件時，Prompt 指令不再是安全邊界，真正的防線必須由作業系統與執行環境提供。影片建立了一個從「意圖」（Intent）到「圍堵」（Containment）的心智模型，幫助開發者依據 Blast Radius 選擇最適沙盒層級，而非盲目追求最強隔離。 [詳細重點整理] 1. Coding Agent 為何需要沙盒  現代 Coding Agent 能直接在終端機執行真實指令：跑測試、編輯檔案、安裝套件。核心問題是——什麼在阻止它做出「正常軟體級別的災難」？例如刪錯資料夾、讀取不該看的 .env 檔、執行惡意的 post-install 腳本、或被 README 中的惡意指令誤導。 關鍵概念：Blast Radius（爆炸半徑）——當 Agent 出錯時，損害在哪一層停止擴散。 2. Agent H",
     "url": "/notes/ai-agent-sandboxing-layers"
+  },
+  {
+    "id": "ai-agent-memory-masterclass",
+    "title": "AI Agent 記憶架構四層解析",
+    "category": "AI筆記",
+    "tags": [
+      "工作記憶",
+      "情節記憶",
+      "語意記憶",
+      "程序記憶",
+      "Context Assembly"
+    ],
+    "description": "AI Agent 的記憶架構並非模型本身的能力，而是模型周圍的系統工程。模型在 context window 關閉後權重不變，真正讓 Agent「記得」的是一套",
+    "quote": "「持久存儲是檔案櫃，工作記憶是書桌。模型只在書桌上工作——一切都取決於什麼被從檔案櫃中取出、放在它面前。」",
+    "action": "依 W-R-S-P 法則檢查四層記憶：工作記憶是否純淨、能否找到正確的過去 session、事實是否為當前有效、程序是否最新。",
+    "image": "/images/AI筆記/ai-agent-memory-masterclass.jpg",
+    "date": "2026-07-12",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] AI Agent 的記憶架構並非模型本身的能力，而是模型周圍的系統工程。模型在 context window 關閉後權重不變，真正讓 Agent「記得」的是一套決定何時儲存、召回、更新與遺忘狀態的記憶架構。影片以 cricket 聯賽管理應用為貫穿範例，拆解 工作記憶、情節記憶、語意記憶 與 程序記憶 四層結構如何協同運作，並指出記憶管理的核心挑戰不在儲存，而在「context assembly」——如何把正確的狀態在正確的時間推進 context window 。 [youtube](https://www.youtube.com/watch?v=SdoPo1UH6Ew) [詳細重點整理] 1. 記憶架構的本質：模型不記得，系統才記得  模型在 context window 關閉後，權重不會改變，也不會「醒來」時帶著昨天的筆記。真正讓 Agent 具備記憶的，是圍繞模型的外部系統——Harness（駕馭層）。Harness 包含工具、context、沙箱等所有包裹原始模型的機制，記憶是其中一個基礎元件，決定哪些狀態能存活到下一個動作。 關鍵概念：Harness Prim",
+    "url": "/notes/ai-agent-memory-masterclass"
   },
   {
     "id": "microsoft-fde-frontier-company",
