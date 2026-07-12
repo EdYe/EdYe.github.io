@@ -1,5 +1,25 @@
 [
   {
+    "id": "context-management-masterclass",
+    "title": "上下文管理大師課：Agent為何變笨",
+    "category": "AI筆記",
+    "tags": [
+      "上下文管理",
+      "四操作框架",
+      "上下文隔離",
+      "提示快取失效",
+      "Codex與Hermes對比"
+    ],
+    "description": "Agent 在長任務中「變笨」的真正原因，通常不是模型本身退步，而是上下文窗口被雜訊淹沒。影片以真實 StreamIt 直播除錯案例貫穿全場，剖析上下文管理的核心職責。",
+    "quote": "💡你的 Agent 沒有變笨，是它的窗口變髒了。模型沒有退化，退化的是你放進窗口的東西。",
+    "action": "🎯遇到 Agent 表現退化時，依序檢查 Select、Compress、Write、Isolate 四操作，並先確認能否看到窗口中實際送達模型的內容。",
+    "image": "/images/AI筆記/context-management-masterclass.jpg",
+    "date": "2026-07-12",
+    "source_has_timestamps": true,
+    "body": "Context Management Masterclass — Technical Deep Dive [核心摘要] Agent 在長任務中「變笨」的真正原因，通常不是模型本身退步，而是上下文窗口被雜訊淹沒。影片以一個真實的 StreamIt 直播串流除蟲案例貫穿全場，剖析上下文管理作為 Harness Engineering 第三原語的核心職責：決定每一回合究竟有哪些內容真正進入模型視野 。提出 Select（篩選）、Compress（壓縮）、Write（寫入磁碟）、Isolate（隔離子代理） 四大操作，並對比 Codex 與 Hermes 兩套 Harness 在每一環節的相反設計賭注 。 [youtube](https://www.youtube.com/watch?v=SdoPo1UH6Ew) [詳細重點整理] 1. StreamIt Bug：Agent 在第 40 回合「斷線」  StreamIt 是一個將手機 WebRTC 影像透過 Node 伺服器以 FFmpeg 重新編碼後推送到 YouTube 的直播應用。在處理「行動網路下影片卡頓、解析度下降、音訊雜訊」的 Bu",
+    "url": "/notes/context-management-masterclass"
+  },
+  {
     "id": "microsoft-fde-frontier-company",
     "title": "微軟砸25億美元組FDE正規軍跳過顧問業",
     "category": "影片筆記",
