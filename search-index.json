@@ -20,6 +20,26 @@
     "url": "/notes/context-management-masterclass"
   },
   {
+    "id": "ai-agent-sandboxing-layers",
+    "title": "AI Agent 沙盒化五層架構解析",
+    "category": "AI筆記",
+    "tags": [
+      "沙盒隔離",
+      "爆炸半徑",
+      "Agent Harness",
+      "工具攻擊面",
+      "圍堵邊界"
+    ],
+    "description": "本影片系統性拆解 AI Agent 沙盒化的五層架構，說明當 Agent 能讀寫檔案、執行指令時，Prompt 不再是安全邊界，真正防線須由系統提供。",
+    "quote": "「Prompt 是意圖，不是邊界。邊界是當指令失效時仍然有效的東西。」",
+    "action": "依 S-C-A-L-E 法則設計 Agent 沙盒：預設關閉、覆蓋子程序、依爆炸半徑選層級、限縮工具攻擊面、讓安全路徑保持簡單。",
+    "image": "/images/AI筆記/ai-agent-sandboxing-layers.jpg",
+    "date": "2026-07-12",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 本影片系統性拆解了 AI Agent 沙盒化的五層架構：V8 Isolate/WASM、OS 級沙盒、Docker 容器、gVisor 用戶空間核心、Firecracker microVM。核心痛點在於：當 Coding Agent 從純文字生成進化到能讀寫檔案、執行指令、安裝套件時，Prompt 指令不再是安全邊界，真正的防線必須由作業系統與執行環境提供。影片建立了一個從「意圖」（Intent）到「圍堵」（Containment）的心智模型，幫助開發者依據 Blast Radius 選擇最適沙盒層級，而非盲目追求最強隔離。 [詳細重點整理] 1. Coding Agent 為何需要沙盒  現代 Coding Agent 能直接在終端機執行真實指令：跑測試、編輯檔案、安裝套件。核心問題是——什麼在阻止它做出「正常軟體級別的災難」？例如刪錯資料夾、讀取不該看的 .env 檔、執行惡意的 post-install 腳本、或被 README 中的惡意指令誤導。 關鍵概念：Blast Radius（爆炸半徑）——當 Agent 出錯時，損害在哪一層停止擴散。 2. Agent H",
+    "url": "/notes/ai-agent-sandboxing-layers"
+  },
+  {
     "id": "microsoft-fde-frontier-company",
     "title": "微軟砸25億美元組FDE正規軍跳過顧問業",
     "category": "影片筆記",
@@ -116,7 +136,7 @@
     "image": "/images/AI筆記/harness-engineering-masterclass.jpeg",
     "date": "2026-07-07",
     "source_has_timestamps": true,
-    "body": "Harness Engineering Masterclass 筆記 這部影片深入拆解「Harness Engineering」（護欄工程／代理系統框架設計），說明打造可靠 AI Agent 系統背後的十多個核心元件（primitives），而非僅依賴模型本身的智能 。 [youtube](https://www.youtube.com/watch?v=Gz7S1v1k664) [核心摘要] 影片核心貢獻是將「AI Agent 為何失敗」的模糊問題，拆解成可診斷的具體層級，解決了業界普遍「出錯就怪模型不夠聰明」的認知盲點 。作者指出，Codex、Claude Code、Gemini CLI 等系統之所以強大，並非單靠模型，而是模型周圍那層決定「模型看到什麼、能做什麼、記得什麼、如何驗證與復原」的 Harness 系統 。 [youtube](https://www.youtube.com/watch?v=Gz7S1v1k664) [詳細重點整理] 1. 模型與 Agent 的邊界  模型只能看到 Prompt 內的內容，一旦專案或任務資訊不在輸入中，模型就會開始猜測，這正是幻覺（Hal",
+    "body": "[核心摘要] 本影片系統性地拆解了 AI Agent 的「Harness Engineering（支架工程）」——即圍繞模型所建構的完整系統層。模型本身只是推理引擎，真正讓 Claude Code、Codex 等工具展現「魔法」的，是九大基元（Primitive）：指令、上下文交付、上下文管理、工具介面、執行環境、持久狀態、編排、子代理、技能層，以及驗證與可觀測性。核心貢獻在於提供一套可診斷的框架：當 Agent 失敗時，不應只問「模型是否夠好」，而應逐層排查「哪個 Harness 層失效」，藉此將偶發的聰明行為轉化為可依賴的系統工程 。 [scribd](https://www.scribd.com/document/869199074/Links) [詳細重點整理] 1. Harness 工程的定義與模型邊界  模型本身只是接收 Prompt、輸出文字的推理引擎，其能力邊界在於只能看到 Prompt 內容與訓練資料。若當前專案、Repository 或事件不在輸入範圍內，模型只能猜測，這就是幻覺（Hallucination）的根源。因此，第一個問題不是「模型是否聰明」，而是「我們到",
     "url": "/notes/harness-engineering-masterclass"
   },
   {
