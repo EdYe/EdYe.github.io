@@ -12,9 +12,6 @@ Jekyll + GitHub Pages 的視覺筆記圖片展示網站，部署於 `https://EdY
 # 重建 Fuse.js 搜尋索引（每次新增或修改 _notes/ 後執行）
 node scripts/rebuild-index.js
 
-# 增量更新知識圖譜（每次新增或修改 _notes/ 後執行）
-graphify update .
-
 # 批次處理 raw-notes/ 底下所有未處理的檔案
 ./scripts/batch-convert.sh
 
@@ -22,20 +19,13 @@ graphify update .
 bundle exec jekyll serve
 ```
 
-## 知識圖譜
-
-`graphify-out/` 存放知識圖譜產出（graph.json、graph.html、GRAPH_REPORT.md、manifest.json）。
-
-- 回答架構或內容問題前，先讀 `graphify-out/GRAPH_REPORT.md` 了解社群結構與核心節點。
-- 每次修改 `_notes/` 後執行 `graphify update .` 保持圖譜同步（純 AST 分析，無 API 費用）。
-
 ## Git
 
-每次操作：stage 所有變更 → commit（含 graphify-out/ 變更） → push。無需確認，直接執行。
+每次操作：stage 所有變更 → commit → push。無需確認，直接執行。
 
 ## Skills
 
-`/add-note` 技能定義在 `.claude/skills/add-note/add-note.md`，負責單張筆記的完整新增流程（預檢→生成 Front Matter→複製圖片→更新搜尋索引→更新知識圖譜→部署）。其他自訂技能查 `.claude/skills/` 目錄。
+`/add-note` 技能定義在 `.claude/skills/add-note/add-note.md`，負責單張筆記的完整新增流程（預檢→生成 Front Matter→複製圖片→更新搜尋索引→部署）。其他自訂技能查 `.claude/skills/` 目錄。
 
 ---
 
