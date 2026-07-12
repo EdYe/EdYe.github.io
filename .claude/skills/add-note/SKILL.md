@@ -62,7 +62,7 @@ agent: general-purpose
    - 執行：node scripts/rebuild-index.js
 
 7. **更新知識圖譜**
-   - 執行 `/graphify ./_notes --update` 以增量方式更新 graphify-out/ 知識圖譜
+   - 執行 `/graphify . --update` 以增量方式更新 graphify-out/ 知識圖譜（範圍須為專案根目錄 `.`，與 graphify-out/manifest.json 的追蹤範圍一致；若只掃 `./_notes`，graphify 會把 `_notes/` 以外所有已存在的檔案誤判為刪除，導致知識圖譜節點被誤刪）
    - 只會重新萃取新增或修改的檔案，不重跑整個語料庫
    - 若 graphify 尚未安裝或執行失敗，顯示警告但不中斷流程
 
