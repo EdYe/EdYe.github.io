@@ -1,5 +1,25 @@
 [
   {
+    "id": "forward-deployed-engineering-cursor",
+    "title": "Cursor 的前瞻部署工程（FDE）",
+    "category": "影片筆記",
+    "tags": [
+      "前瞻部署工程",
+      "適用性矩陣",
+      "獨角獸人才",
+      "矛尖策略",
+      "ROI"
+    ],
+    "description": "Cursor 的前瞻部署工程（Forward Deployed Engineering, FDE）是一個介於產品工程與客戶轉型之間的獨立職能，",
+    "quote": "💡把最新最好的技術放進組織，卻不陪伴人員一起改變，沒有人會使用它。",
+    "action": "🎯用 M-R-I 法則：以矩陣判斷是否啟動 FDE、以 ROI 衡量每個專案、讓客戶全程參與（Involve）。",
+    "image": "/images/影片筆記/forward-deployed-engineering-cursor.jpg",
+    "date": "2026-07-17",
+    "source_has_timestamps": true,
+    "body": "Forward Deployed Engineering at Cursor — Pauline Brunet [核心摘要] Cursor 的前瞻部署工程（Forward Deployed Engineering, FDE）是一個介於產品工程與客戶轉型之間的獨立職能，核心目標是與客戶共同設計、共同打造 AI 軟體工廠。FDE 解決的痛點是：企業導入 AI 工具時，缺乏能深入理解技術與業務、同時推動組織變革的橋接角色。Pauline Brunet 提出一套「客戶數位成熟度 × 產品可客製化程度」矩陣，明確界定 FDE 的適用場景與不適用場景，避免淪為傳統 SaaS 部署或人力外包，確保每個專案都能驅動可量化的 ROI。 [詳細重點整理] 1. FDE 的定位與價值主張  Cursor 是 AI 編碼平台，產品線涵蓋從自主編碼、同步/非同步 Agent 到 AI 軟體工廠的完整路徑。Pauline Brunet 擁有 10 年企業級 AI 部署經驗，負責 Cursor 全球 FDE 團隊，她認為 2026 年將是 FDE 成為「最熱門職位」的關鍵年份。 關鍵概念：前瞻部署工程（Forwar",
+    "url": "/notes/forward-deployed-engineering-cursor"
+  },
+  {
     "id": "same-os-different-business",
     "title": "同一套作業系統，不同的事業",
     "category": "AI筆記",
