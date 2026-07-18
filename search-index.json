@@ -1,5 +1,25 @@
 [
   {
+    "id": "zero-token-architecture",
+    "title": "零Token架構：推理一次，匯出，無推理執行",
+    "category": "AI筆記",
+    "tags": [
+      "零Token架構",
+      "推理即工具生成",
+      "Token燃燒悖論",
+      "技術共依存",
+      "基礎驅動創新"
+    ],
+    "description": "Kelsey Hightower提出零Token架構（ZTA）：推理一次、匯出結果，之後於無推理環境重複執行，解決企業燒Token的成本與系統不透明問題。",
+    "quote": "💡「推理一次，匯出，在無推理的環境中執行。」（Infer once, export, and run without inference.）",
+    "action": "🎯依I-E-R法則：推理一次（Infer）、匯出為工具（Export）、無推理重複執行（Run），直到需求變更才再次推理。",
+    "image": "/images/AI筆記/zero-token-architecture.jpg",
+    "date": "2026-07-18",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Kelsey Hightower 於 PlatformCon 2026 提出「零 Token 架構」（Zero Token Architecture, ZTA），核心主張是：不要在循環中重複消耗 LLM 推理 Token，而應「推理一次、匯出結果、之後在無推理的環境中重複執行」。這直接解決了企業盲目燒 Token 帶來的高成本、系統不透明、以及工程師基礎能力流失三大痛點 。 [drjh.cyc.edu](https://www.drjh.cyc.edu.tw/modules/tadnews/index.php?nsn=6497) [詳細重點整理] 1. 電鋸隱喻：工具的危險性  Kelsey 以購買軌道鋸（track saw）為開場比喻：花了 10 小時研究選購、50 小時看 YouTube 教學影片後自認為木工達人，實際操作時鋸片卻高速彈出軌道。這正映射當前 AI 使用者的狀態——看了一堆教學就以為自己是平台工程師，實際上只是讓 Claude Code 部署了一個 Kubernetes 叢集，並不代表你就是平台工程師 。 [drjh.cyc.edu](https://w",
+    "url": "/notes/zero-token-architecture"
+  },
+  {
     "id": "why-ai-forces-us-to-rethink-leadership-and-organizations",
     "title": "AI迫使我們重新思考領導與組織",
     "category": "影片筆記",
