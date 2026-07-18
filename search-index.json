@@ -1,5 +1,25 @@
 [
   {
+    "id": "why-ai-forces-us-to-rethink-leadership-and-organizations",
+    "title": "AI迫使我們重新思考領導與組織",
+    "category": "影片筆記",
+    "tags": [
+      "組織作業系統",
+      "層級制",
+      "協調能力",
+      "判斷力",
+      "領導力"
+    ],
+    "description": "AI不只是改變任務，而是改變組織的「作業系統」——那些處理複雜性、資訊流動、信任與決策的隱形規則。層級制曾是過去對抗複雜性的合理解方案，但當AI讓更多人能處理複…",
+    "quote": "💡數十年來，層級制是對複雜性的解方案。如今，AI 迫使我們尋找新的答案。",
+    "action": "🎯實踐 A-C-J 法則（適應、協調、判斷），及早展開組織實驗而非等待技術成熟。",
+    "image": "/images/影片筆記/why-ai-forces-us-to-rethink-leadership-and-organizations.png",
+    "date": "2026-07-18",
+    "source_has_timestamps": true,
+    "body": "Why AI forces us to rethink leadership and organizations [核心摘要] AI 不只是改變任務，而是改變組織的「作業系統」——那些處理複雜性、資訊流動、信任與決策的隱形規則。層級制曾是過去對抗複雜性的合理解方案，但當 AI 讓更多人能處理複雜判斷、評估選項並執行流程時，傳統組織結構開始動搖。領導者必須在舊模式過時之前，從資訊分級轉向判斷力分級、從流程合規轉向協調能力、從保護職位轉向發展人類獨有能力。 [詳細重點整理] 1. 從「工具」到「重新設計運作方式」的覺醒  作者長期將 AI 程式設計輔助工具視為生產力工具——有用、令人印象深刻，但仍只是工具。然而在一家柏林新創公司，他目睹團隊不只是給開發者配備助手，而是重新設計了從需求定義、程式撰寫、測試到發布的整個價值創造流程。三個月內完成原本需要十二個月和更多工程師的工作量，速度提升 5–10 倍。 關鍵不在於加速單一任務，而在於圍繞一個全新能力重新設計整個運作方式。 關鍵概念：能力重設計（Capability Redesign） 2. 組織的隱形「作業系統」  許多人以為企業按照組織架",
+    "url": "/notes/why-ai-forces-us-to-rethink-leadership-and-organizations"
+  },
+  {
     "id": "forward-deployed-engineering-cursor",
     "title": "Cursor 的前瞻部署工程（FDE）",
     "category": "影片筆記",
