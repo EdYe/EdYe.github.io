@@ -20,6 +20,26 @@
     "url": "/notes/why-ai-forces-us-to-rethink-leadership-and-organizations"
   },
   {
+    "id": "mattpocock-skills-end-to-end-workflow",
+    "title": "Matt Pocock 的 AI 代理開發工作流",
+    "category": "AI筆記",
+    "tags": [
+      "Skills Repo",
+      "Grill with Docs",
+      "智慧區門檻",
+      "雙軸審查",
+      "Spec與Tickets"
+    ],
+    "description": "Matt Pocock 的 skills repo 以 Claude Code 為核心，透過 Grill→Spec→Tickets→Implement 流程解決上下文有限與品質難控管的痛點。",
+    "quote": "💡對齊先於實作，壓縮先於擴張——AI 開發的效率不在於跑得多快，而在於每一步都把上下文花在刀口上。",
+    "action": "🎯依 G-S-T-I 法則：Grill 訪談需求、Spec 壓縮規格、Tickets 拆分工單、Implement 觸發雙軸 Code Review。",
+    "image": "/images/AI筆記/mattpocock-skills-end-to-end-workflow.jpg",
+    "date": "2026-07-18",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Matt Pocock 的 skills repo 是一套以 Claude Code 等 AI 代理為核心的開發工作流框架，擁有超過 17 萬 GitHub stars 與 750 萬次下載量。其核心價值在於解決 AI 輔助開發中「上下文視窗有限、規劃與實作混雜、品質難以控管」三大痛點，透過 Grill-with-docs → Spec → Tickets → Implement（含 Code Review） 的結構化流程，將模糊想法逐步壓縮為可執行、可審查的程式碼變更，並透過 sub-agent 機制確保程式碼審查品質 。 [scribd](https://www.scribd.com/document/869199074/Links) [詳細重點整理] 1. 安裝 Skills Repo  使用 npx skills@latest add mattpocock/skills 安裝，需預先具備 Node.js 環境。安裝過程中可選擇 38 個 skills，分為官方認可的 mattpocockskills 與實驗性 skills 兩組。安裝器支援多種代理（Claude ",
+    "url": "/notes/mattpocock-skills-end-to-end-workflow"
+  },
+  {
     "id": "forward-deployed-engineering-cursor",
     "title": "Cursor 的前瞻部署工程（FDE）",
     "category": "影片筆記",
