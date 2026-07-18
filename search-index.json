@@ -60,6 +60,26 @@
     "url": "/notes/mattpocock-skills-end-to-end-workflow"
   },
   {
+    "id": "context-layer-ai-agents",
+    "title": "AI Agent失敗真相：上下文才是關鍵",
+    "category": "影片筆記",
+    "tags": [
+      "上下文層",
+      "公司大腦",
+      "複利學習迴圈",
+      "上下文即IP",
+      "Context Sprawl"
+    ],
+    "description": "Atlan共同創辦人Prukalpa Sankar揭示AI Agent失敗真因：非模型不夠聰明，而是缺乏業務上下文，績效=智力×上下文。",
+    "quote": "💡「當你與競爭對手擁有相同的模型與相同的智力時，差異化來自你的上下文——上下文就是你的 IP。」",
+    "action": "🎯依M-I-C-E法則（挖掘Mine、整合Integrate、複利Compound、演化Evolve）打造企業Context Layer，並建立如Code Review般的Context Review流程。",
+    "image": "/images/影片筆記/context-layer-ai-agents.jpg",
+    "date": "2026-07-18",
+    "source_has_timestamps": true,
+    "body": "WTF Is the Context Layer? The Missing Infrastructure for Production Agents — Prukalpa Sankar [核心摘要] 本場演講由 Atlan 共同創辦人 Prukalpa Sankar 主講，揭示 AI Agent 在生產環境中失敗的根本原因：不是模型不夠聰明，而是缺乏業務上下文（Context）。她提出「績效 = 智力 × 上下文」的框架，說明模型智力在過去十年成長了 1000 倍，但企業上下文幾乎原地踏步。她進一步描繪「Context Layer」的架構藍圖——一個類似 GitHub 的上下文管理系統，具備版本控制、依賴管理、品質治理與複利學習迴圈，讓 Agent 能像人類團隊一樣共享知識、持續學習，最終將企業文化與規範編碼為真正的智慧資產（IP）。 [web.archive](https://web.archive.org/web/20190710043004/https:/www.youtube.com/watch?v=ransFQVzf6c) [詳細重點整理] 1. Context 的時代來臨 ",
+    "url": "/notes/context-layer-ai-agents"
+  },
+  {
     "id": "forward-deployed-engineering-cursor",
     "title": "Cursor 的前瞻部署工程（FDE）",
     "category": "影片筆記",
