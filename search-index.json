@@ -1,5 +1,25 @@
 [
   {
+    "id": "company-brain-ai-native-workforce",
+    "title": "新商業物理學：打造AI原生公司大腦",
+    "category": "AI筆記",
+    "tags": [
+      "Skill File",
+      "Company Brain",
+      "Context Engineering",
+      "AI原生公司",
+      "Skillify紀律"
+    ],
+    "description": "Garry Tan 提出「新商業物理學」：透過將 AI 視為工作力而非自動完成工具，精簡團隊即可達到過去需千人規模的產出。",
+    "quote": "💡「Model quality is rented, but if you build your brain, you own that brain.」模型品質是租來的，但你建構的大腦是你自己的。",
+    "action": "🎯依 S-S-C-L 法則：Skillify（技能化每項完成的工作）、Space（釐清計算應在潛在或確定性空間）、Context（建構 Company Brain）、Library（將組織視為圖書館而非單一工作流）。",
+    "image": "/images/AI筆記/company-brain-ai-native-workforce.jpg",
+    "date": "2026-07-19",
+    "source_has_timestamps": true,
+    "body": "The New Physics of Business — Garry Tan, Y Combinator [核心摘要] Garry Tan 提出「新商業物理學」：透過將 AI 視為工作力而非自動完成工具，精簡團隊即可達到過去需千人規模的產出 。核心架構是將組織角色、流程、績效考核全部編碼為 Skill File（技能檔案），搭配 Company Brain（公司大腦） 作為機構知識庫與圖書館員，確保 Agent 在正確時刻獲取正確上下文 。其個人產出已從 2013 年每日 14 行程式碼提升至約 400 倍，且關鍵不在模型權重，而在於「如何接線工作」（how you wire the work）。 [youtube](https://www.youtube.com/watch?v=CjVQJdIrDJ0) [詳細重點整理] 1. 400 倍生產力跳躍  2013 年 Tan 作為 YC 合夥人兼全職工程師，每日僅能產出約 14 行可用邏輯程式碼，這在當時屬於正常水準 。2026 年他全職管理 YC、工時反而更少，卻透過管理 AI Agent 達到約 400 倍的產出提升；即使以最嚴苛",
+    "url": "/notes/company-brain-ai-native-workforce"
+  },
+  {
     "id": "zero-token-architecture",
     "title": "零Token架構：推理一次，匯出，無推理執行",
     "category": "AI筆記",
