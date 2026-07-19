@@ -1,5 +1,25 @@
 [
   {
+    "id": "google-flow-agent-storyboard-ai-ads",
+    "title": "故事板+主提示詞打造AI廣告工作流",
+    "category": "AI筆記",
+    "tags": [
+      "故事板",
+      "主提示詞",
+      "Google Flow Agent",
+      "角色設定表",
+      "AI廣告製作"
+    ],
+    "description": "本影片展示了一套以「單一故事板圖像 + 主提示詞」驅動的 AI 商業廣告完整工作流程。核心痛點在於：傳統 AI 影片製作需要逐鏡頭、逐提示詞反覆生成，耗時且難以",
+    "quote": "💡「不要讓 AI 邊想邊做——先把所有上下文準備到位，Agent 就能替你完成剩下的工作。」",
+    "action": "🎯依S-S-M法則：先完成腳本（Script）與故事板（Storyboard），再整合為主提示詞（Master Prompt）交給Agent Mode自動執行。",
+    "image": "/images/AI筆記/google-flow-agent-storyboard-ai-ads.jpg",
+    "date": "2026-07-20",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 本影片展示了一套以「單一故事板圖像 + 主提示詞」驅動的 AI 商業廣告完整工作流程。核心痛點在於：傳統 AI 影片製作需要逐鏡頭、逐提示詞反覆生成，耗時且難以維持一致性。透過 ChatGPT 完成腳本撰寫、角色設定表與視覺故事板，再將所有素材上傳至 Google Flow 的 Agent Mode，由 AI 自動解析故事板並生成每一鏡頭的提示詞與影片片段，大幅降低手動干預頻率，同時提升角色與場景的一致性 。 [youtube](https://www.youtube.com/s//ytembeds//ss/k=ytembeds.base.8L0UK0zLZXQ.L.W.O/am=AAAABQ/d=0/br=1/rs=AGKMywGu0fQBzucTMjQC10NB9hvoNRMZ2w) [詳細重點整理] 1. AI 影片工作流程的痛點  傳統 AI 影片製作流程需要逐鏡頭生成，每個畫面都需獨立撰寫提示詞，效率低落且一致性難以控制。本影片提出替代方案：先製作一張完整的故事板圖像，再用一個主提示詞交由 Google Flow Agent Mode 自動處理後續所有鏡頭生成 ",
+    "url": "/notes/google-flow-agent-storyboard-ai-ads"
+  },
+  {
     "id": "company-brain-ai-native-workforce",
     "title": "新商業物理學：打造AI原生公司大腦",
     "category": "AI筆記",
