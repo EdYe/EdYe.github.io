@@ -1,5 +1,25 @@
 [
   {
+    "id": "officecli-ai-agent-document-tool",
+    "title": "OfficeCLI：AI代理免裝Office出文件",
+    "category": "AI筆記",
+    "tags": [
+      "代理優先設計",
+      "單一二進位取代",
+      "視覺反饋迴圈",
+      "驗證即回傳",
+      "寫入即求值"
+    ],
+    "description": "OfficeCLI 是一款開源的命令列工具，讓 AI 代理程式能在無需安裝 Microsoft Office 的前提下，直接生成、編輯與渲染真實的 Word、E",
+    "quote": "💡「AI 代理真正的力量，不在於它能說什麼，而在於它能交付什麼——一份可開啟、可計算、可驗證的文件，只需一條命令。」",
+    "action": "🎯依O-R-A法則：單一命令生成（One command）、渲染自檢（Render）、封閉迴圈迭代（Agent-loop），打造零人力介入的文件自動化流程。",
+    "image": "/images/AI筆記/officecli-ai-agent-document-tool.jpg",
+    "date": "2026-07-20",
+    "source_has_timestamps": true,
+    "body": "OfficeCLI Hit 13,000 Stars: AI Agents Now Run Office [核心摘要] OfficeCLI 是一款開源的命令列工具，讓 AI 代理程式能在無需安裝 Microsoft Office 的前提下，直接生成、編輯與渲染真實的 Word、Excel、PowerPoint 檔案。它以單一自包含二進位檔案的形式，重新實作了三大 Office 格式，解決了過去 AI 代理生成文件需依賴昂貴的 Office 授權、脆弱的 Python 函式庫組合以及手動 XML 編輯的三大痛點，實現了從「對話」到「交付真實文件」的跨越。 [詳細重點整理] 1. 13,000 星標且持續攀升  OfficeCLI 在短短數週內從不到 11,000 星標躍升至 13,000+ 星標，GitHub 900 forks、127 次發佈。這種成長曲線通常意味著工具擊中了開發者的核心痛點——讓 AI 代理真正「做事」而非僅僅「說話」。Repo 為 iOfficeAI/OfficeCLI，定位為「第一個且最好的、為 AI 代理專門打造的辦公套件」。 關鍵概念：代理優先設計（Agent",
+    "url": "/notes/officecli-ai-agent-document-tool"
+  },
+  {
     "id": "google-flow-agent-storyboard-ai-ads",
     "title": "故事板+主提示詞打造AI廣告工作流",
     "category": "AI筆記",
