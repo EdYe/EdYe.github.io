@@ -60,6 +60,26 @@
     "url": "/notes/google-flow-agent-storyboard-ai-ads"
   },
   {
+    "id": "build-evals-that-actually-matter",
+    "title": "如何打造真正有效的AI評測系統",
+    "category": "影片筆記",
+    "tags": [
+      "對抗式用戶模擬器",
+      "LLM Judge校準",
+      "錯誤分析迴圈",
+      "評測反模式",
+      "統計嚴謹性"
+    ],
+    "description": "Lyft 客服 AI Agent 每月處理數百萬通對話，解決約三分之一的客服問題。影片揭示其端到端評測管線的核心痛點：用前沿 LLM 模擬用戶過於「禮貌」，導致",
+    "quote": "如果你的評測通過率高達 90%，那不是你的 Agent 太強，而是你的用戶模擬器太弱。",
+    "action": "採用 Data First、Fine-tune、Calibrate 的 D-F-C 法則打造評測系統，並建立每週錯誤分析迴圈持續迭代。",
+    "image": "/images/影片筆記/build-evals-that-actually-matter.jpg",
+    "date": "2026-07-20",
+    "source_has_timestamps": true,
+    "body": "Build Evals That Actually Matter — Nick Ung, Lyft [核心摘要] Lyft 客服 AI Agent 每月處理數百萬通對話，解決約三分之一的客服問題。影片揭示其端到端評測管線的核心痛點：用前沿 LLM 模擬用戶過於「禮貌」，導致離線評測通過率虛高至 90%，上線後立刻暴露大量未預見的失敗模式。解法是微調一個基於真實 Lyft 用戶逐字稿的對抗式用戶模擬器，搭配可校準的 LLM 評審機制、統計嚴謹性與持續錯誤分析迴圈，形成完整的「離線評測 → 線上評測 → 回饋改進」閉環 。 [youtube](https://www.youtube.com/s//ytembeds//ss/k=ytembeds.base.8L0UK0zLZXQ.L.W.O/am=AAAABQ/d=0/br=1/rs=AGKMywGu0fQBzucTMjQC10NB9hvoNRMZ2w) [詳細重點整理] 1. 評測系統全貌：開發 → 離線評測 → 上線 → 線上評測  整個評測生命週期分為兩大階段。開發階段涵蓋上下文管理、RAG 管線、工具定義、Agent Graph 建構",
+    "url": "/notes/build-evals-that-actually-matter"
+  },
+  {
     "id": "ai-native-org-chart-talent-shapes",
     "title": "AI 原生時代組織圖：T型專家與M型通才",
     "category": "AI筆記",
