@@ -1,5 +1,25 @@
 [
   {
+    "id": "stop-burning-tokens-domain-expertise",
+    "title": "別再燒Token：自我優化需要領域專家",
+    "category": "影片筆記",
+    "tags": [
+      "高信號評估器",
+      "自我優化迴圈",
+      "目標函數",
+      "領域專家協作",
+      "首次迭代效應"
+    ],
+    "description": "本研究在 Langfuse 平台上設計了一個自動優化迴圈（Auto-Improvement Loop），以學術論文分類任務作為具備清晰目標函數的測試案例，",
+    "quote": "如果你無法用『程式碼能否編譯』來判斷好壞，就必須重新定義什麼是『好』——而這個定義，只有領域專家能給你。",
+    "action": "將評估器設計為 yes/no 判定，與領域專家協作挖掘隱性知識，並為迴圈設置停止條件與逃生艙，避免無限燒 Token。",
+    "image": "/images/影片筆記/stop-burning-tokens-domain-expertise.jpg",
+    "date": "2026-07-20",
+    "source_has_timestamps": true,
+    "body": "Stop Burning Tokens: Why self-improvement needs domain expertise first [核心摘要] 本研究在 Langfuse 平台上設計了一個自動優化迴圈（Auto-Improvement Loop），以學術論文分類任務作為具備清晰目標函數的測試案例，驗證 AI Agent 能否透過反覆分析錯誤、提出假設並更新 Prompt 來自動提升準確率。實驗結果顯示，從基線 68% 到最終約 83% 的準確率提升中，首次迭代即貢獻了 10% 的躍升，證明高信號回饋（yes/no 對錯判定）與足夠資料量是驅動自動改善的基石。更關鍵的發現是：在缺乏「程式碼能否編譯」這類確定性目標函數的領域中，必須由領域專家協助定義高信號評估器（High-Signal Evaluators），將抽象的「品質」轉化為具體可量化的 yes/no 判定，才能避免無意義地消耗 Token。 [詳細重點整理] 1. 迴圈時代的來臨與程式碼領域的優勢  2026 年中，整個 AI 社群聚焦於「迴圈（Loops）」概念——Boris Journey 宣稱不再手寫 Promp",
+    "url": "/notes/stop-burning-tokens-domain-expertise"
+  },
+  {
     "id": "officecli-ai-agent-document-tool",
     "title": "OfficeCLI：AI代理免裝Office出文件",
     "category": "AI筆記",
