@@ -1,5 +1,25 @@
 [
   {
+    "id": "fde-million-dollar-ai-job",
+    "title": "FDE：AI時代的百萬美元部署工程師",
+    "category": "影片筆記",
+    "tags": [
+      "FDE",
+      "智慧商品化",
+      "隱性流程知識",
+      "審計評測部署",
+      "生產級責任制"
+    ],
+    "description": "AI 時代，前沿智慧已成為人人可買的商品——每家公司都能取得相同的 Claude、GPT、Gemini 模型。當「擁有智慧」不再是護城河，真正的競爭優勢轉移到「",
+    "quote": "💡當每個人都能買到相同的智慧，差異化的戰場就從「擁有什麼」轉移到「如何部署」。",
+    "action": "🎯用 A-E-D 法則：Audit 深入現場繪製工作流地圖，Evals 建立可量化證據，Deploy 嵌入人工審核部署到既有系統。",
+    "image": "/images/影片筆記/fde-million-dollar-ai-job.jpg",
+    "date": "2026-07-22",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] AI 時代，前沿智慧已成為人人可買的商品——每家公司都能取得相同的 Claude、GPT、Gemini 模型。當「擁有智慧」不再是護城河，真正的競爭優勢轉移到「如何部署」：在哪裡、如何、為什麼使用 AI。Forward Deployed Engineer（FDE，前線部署工程師） 正是橋接企業真實業務流程與 AI 技術棧的關鍵角色，年薪可達百萬美元。FDE 的核心工作循環為 Audit → Evals → Deployment，透過深入現場理解工作流、判斷智慧該放在哪、再建置可衡量的生產級 Agent，將通用模型轉化為可量化的商業價值。 [詳細重點整理] 1. 智慧商品化與部署優勢  每家公司都能買到相同的前沿模型（Claude Code、Codex、Cursor、GitHub Copilot），差別只在於部署方式。當智慧成為自來水般可得，部署能力才是差異化所在。FDE 的職責是將通用的智慧，精準地應用到特定企業的業務情境中。 關鍵概念：智慧商品化（Intelligence Commoditization） 2. Palantir 的 FDE 藍圖  Palantir 是",
+    "url": "/notes/fde-million-dollar-ai-job"
+  },
+  {
     "id": "friendly-loner-inner-wisdom",
     "title": "待人友善，卻又喜歡獨來獨往的人",
     "category": "影片筆記",
