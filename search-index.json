@@ -1,5 +1,25 @@
 [
   {
+    "id": "self-improving-agents-evolve-harness",
+    "title": "自進化AI：改善Harness而非模型",
+    "category": "影片筆記",
+    "tags": [
+      "Harness",
+      "弱點挖掘",
+      "可編輯範圍",
+      "Held-out驗證",
+      "自進化"
+    ],
+    "description": "自進化 AI 的關鍵不在於重新訓練模型，而在於改善包裹模型的軟體層（Harness）。影片以真實的 Pull Request 為主線，展示完整的安全自改善迴圈",
+    "quote": "無法解釋自身改變的自進化系統不是自進化，而是漂移。",
+    "action": "建立自己的「可編輯範圍」，用最小、可回滾的變更驗證流程改善效果，確認安全後才正式採用。",
+    "image": "/images/影片筆記/self-improving-agents-evolve-harness.jpg",
+    "date": "2026-07-22",
+    "source_has_timestamps": true,
+    "body": "Self-Improving AI Agents | Evolving the Harness, Not the Model [核心摘要] 自進化 AI 的關鍵不在於重新訓練模型，而在於改善包裹模型的軟體層（Harness）。影片以一個真實的 Pull Request 為主線，展示完整的安全自改善迴圈：透過弱點挖掘（Weakness Mining）識別反覆失敗的叢集，由外部模型在受限的可編輯範圍（Editable Surface）內提出修復，再經過 Held-in / Held-out 雙重測試與嚴格的接受規則（Acceptance Rule）驗證後，以人工審核的 PR 形式落地。整個實驗最終只改了一個設定值——將 clamp 上限從 4,000 提升至 12,000 字元——卻完整證明了「不動模型、只改 Harness」的自進化路徑是可行的 。 [youtube](https://www.youtube.com/s//ytembeds//ss/k=ytembeds.base.KjNKUXigSn8.L.W.O/am=AAAAAABA/d=0/br=1/rs=AGKMywGcfDhqQ",
+    "url": "/notes/self-improving-agents-evolve-harness"
+  },
+  {
     "id": "practitioners-guide-to-graphs",
     "title": "圖資料結構與圖原生演算法實務指南",
     "category": "影片筆記",
