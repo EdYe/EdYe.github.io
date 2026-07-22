@@ -40,26 +40,6 @@
     "url": "/notes/fde-million-dollar-ai-job"
   },
   {
-    "id": "evaluating-ai-agents-numbers-drive-fixes",
-    "title": "評估AI Agent：從自信錯誤到真實修復決策",
-    "category": "影片筆記",
-    "tags": [
-      "領域Agent",
-      "六維評估框架",
-      "自信錯誤",
-      "可靠性雙指標",
-      "Schema Map"
-    ],
-    "description": "本影片示範如何為一個領域型 AI Agent（板球統計查詢機器人 CricIt）建立完整的評估管線。核心痛點在於：一個能正確回答簡單問題的 Agent，仍可能在",
-    "quote": "先問它錯的方式，再問它錯的次數。一個說『找不到答案』的 Agent 是你可以合作的工具；一個面不改色說 124 的 Agent 需要有人在背後盯著。",
-    "action": "採用 S-T-A-R 評估法則：依類別拆分正確率、追蹤軌跡而非只看結果、區分自信錯誤與安全放棄、重複測試找出不穩定性。",
-    "image": "/images/影片筆記/evaluating-ai-agents-numbers-drive-fixes.jpg",
-    "date": "2026-07-22",
-    "source_has_timestamps": true,
-    "body": "[核心摘要] 本影片示範如何為一個領域型 AI Agent（板球統計查詢機器人 CricIt）建立完整的評估管線。核心痛點在於：一個能正確回答簡單問題的 Agent，仍可能在其他問題上以「自信但錯誤」的方式幻覺答案，而這種錯誤最危險，因為使用者不會懷疑聽起來確定的答案。透過定義六項評估指標、分類測試資料集、引入重複執行與分層評分機制，作者將 Agent 的 pass rate 從 0.787 提升至 0.973，自信錯誤答案從 11 題降至 0 題，全程以可量化數據驅動每一次修復決策 。 [youtube](https://www.youtube.com/s//ytembeds//ss/k=ytembeds.base.8L0UK0zLZXQ.L.W.O/am=AAAABQ/d=0/br=1/rs=AGKMywGu0fQBzucTMjQC10NB9hvoNRMZ2w) [詳細重點整理] 1. 從通用 Agent 到領域 Agent 的構建  CricIt 基於系列影片中從零打造的通用編碼 Agent 框架 Gemma，以薄層配置方式生成：系統提示詞（板球評論員人格）、15 個唯讀查詢工具",
-    "url": "/notes/evaluating-ai-agents-numbers-drive-fixes"
-  },
-  {
     "id": "friendly-loner-inner-wisdom",
     "title": "待人友善，卻又喜歡獨來獨往的人",
     "category": "影片筆記",
