@@ -1,5 +1,25 @@
 [
   {
+    "id": "practitioners-guide-to-graphs",
+    "title": "圖資料結構與圖原生演算法實務指南",
+    "category": "影片筆記",
+    "tags": [
+      "圖資料結構",
+      "Schema優先提取",
+      "本體論標準化",
+      "個人化PageRank",
+      "子圖模式匹配"
+    ],
+    "description": "本演講系統性梳理圖資料結構與圖原生演算法的實務價值，提出從 Schema 優先提取、本體論標準化到圖原生演算法的完整實踐路徑，讓圖技術成為 AI 應用的互補工具。",
+    "quote": "💡你對圖資料結構與演算法的基礎理解越深，越多有趣的機會會自動浮現。",
+    "action": "🎯依 S-O-E 法則：Schema 優先定義結構、Ontology 標準化格式並用嵌入模型解析實體、Evaluate 依場景選擇 PPR／最短路徑／子圖匹配等圖原生演算法。",
+    "image": "/images/影片筆記/practitioners-guide-to-graphs.jpg",
+    "date": "2026-07-22",
+    "source_has_timestamps": true,
+    "body": "核心摘要 本演講由 Tim Ainge（Good Collective）於 AI Engineer 平台發表，系統性地梳理了圖（Graph）資料結構與圖原生演算法在 AI 應用中的實務價值。核心貢獻在於解決 AI 建構者面對圖技術時常陷入「期望膨脹→幻滅低谷」的痛點，提出一條從基礎圖概念→Schema 優先提取→本體論標準化→圖原生演算法（Personalized PageRank、最短路徑、子圖匹配）的完整實踐路徑，讓圖技術真正成為讓 AI 應用更聰明、更便宜、更可靠的互補工具 。 [youtube](https://www.youtube.com/s//ytembeds//ss/k=ytembeds.base.8L0UK0zLZXQ.L.W.O/am=AAAABQ/d=0/br=1/rs=AGKMywGu0fQBzucTMjQC10NB9hvoNRMZ2w) 詳細重點整理 1. 圖的幻滅低谷與價值主張  圖資料結構一直是電腦科學的強大基礎，但往往不是萬靈丹。許多開發者被 Obsidian vault 的圖形視覺化或 GraphRAG 的潛力吸引，急於導入圖資料庫，卻因未見即時回報而",
+    "url": "/notes/practitioners-guide-to-graphs"
+  },
+  {
     "id": "fde-million-dollar-ai-job",
     "title": "FDE：AI時代的百萬美元部署工程師",
     "category": "影片筆記",
