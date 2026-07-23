@@ -140,6 +140,26 @@
     "url": "/notes/friendly-loner-inner-wisdom"
   },
   {
+    "id": "ai-native-next-three-years",
+    "title": "AI原生化的下一個三年：誰擁有協調層",
+    "category": "AI筆記",
+    "tags": [
+      "AI原生",
+      "協調層",
+      "CRAFT方法論",
+      "成熟度模型",
+      "Reshuffle理論"
+    ],
+    "description": "公開分享 CRAFT 方法論六個月後的心得。我們對「協調」的判斷哪裡對了，哪裡該修正，以及決定未來三年走向的那個問題：誰擁有企業賴以運作的那一層。",
+    "quote": "三年後，「AI 原生」將不再是企業對外宣告的事，而是企業本來的樣子。",
+    "action": "",
+    "image": "/images/AI筆記/ai-native-next-three-years.jpg",
+    "date": "2026-07-21",
+    "source_has_timestamps": false,
+    "body": "AI 原生化的下一個三年（以及誰擁有協調層） 公開分享 CRAFT 方法論六個月後的心得。我們對「協調」的判斷哪裡對了，哪裡該修正，以及決定未來三年走向的那個問題：誰擁有企業賴以運作的那一層。 Skip Marshall 與 Chuck Griess 2026年7月21日  圖： 文章封面圖（原始圖片託管於 Substack CDN，因技術限制無法擷取顯示，圖片主題為抽象的科技／協調層意象） Skip：把飛機降落 我們從年初開始公開分享 CRAFT，過去十週，我們用十種不同的方式反覆論證同一個主張：AI 的價值在於協調（coordination），而非自動化（automation）。最終勝出的企業，是那個安裝了作業系統的企業，而不是買最多工具的企業。我們從類別主張、客戶服務框架、業主兼營運者優勢，以及兩篇針對「表面上毫無共同點、骨子裡卻完全相同」的企業所做的 Field Notes 深度案例，一路論證到現在。 感謝閱讀！免費訂閱以接收新文章並支持我們的工作。 回到第二季（Series 2），我們寫過一篇叫〈三個月後〉（Three Months In）的文章，回顧 CRAFT 作業系統運",
+    "url": "/notes/ai-native-next-three-years"
+  },
+  {
     "id": "stop-burning-tokens-domain-expertise",
     "title": "別再燒Token：自我優化需要領域專家",
     "category": "影片筆記",
