@@ -20,6 +20,26 @@
     "url": "/notes/team-four-human-nature-traps"
   },
   {
+    "id": "ai-presenter-flow-agent-elevenlabs",
+    "title": "打造長格式AI主持人的完整工作流",
+    "category": "AI筆記",
+    "tags": [
+      "角色生成",
+      "主提示詞",
+      "Agent自動分段",
+      "皮膚增強",
+      "語音克隆"
+    ],
+    "description": "本影片完整示範如何從零打造一位「長格式 AI 主持人」——具備一致的臉孔、一致的聲音，以及可連續講述數分鐘的完整表演。",
+    "quote": "💡「與其花十分鐘完美化第一張圖，不如生成三張圖從中挑選最強的那一張。」",
+    "action": "🎯依T-C-V-F法則：標記角色（Tag）、貼入完整台詞（Complete）、確保視覺一致（Visual Consistency）、修正拼接與替換語音（Fix & Fuse）。",
+    "image": "/images/AI筆記/ai-presenter-flow-agent-elevenlabs.jpg",
+    "date": "2026-07-23",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 本影片完整示範如何從零打造一位「長格式 AI 主持人」——具備一致的臉孔、一致的聲音，以及可連續講述數分鐘的完整表演。核心痛點在於：多數 AI 影片工具每次只能生成 10 秒短片，長篇對話需要手動拆分腳本並逐段重新撰寫 prompt。本工作流透過 Google Flow Agent 搭配一支「主提示詞（Master Prompt）」，讓 Agent 自動將完整台詞拆分為連續片段，一次生成整段影片，再用 ElevenLabs 進行語音克隆以確保聲音一致性，徹底解決手動分段與語音不連續的問題。 [詳細重點整理] 1. AI 角色生成：三種路徑  建立 AI 角色有三種方式： - Google Flow 內建角色預設：在專案中開啟 Character 區段，選擇預設會自動生成角色 prompt，可直接編輯或從頭撰寫  - Higsfield AI Influencer：選擇角色類型、性別、族群、年齡等參數，直接生成角色圖片，不需手寫 prompt  - Claude 角色提示詞產生器 + 任意圖像模型：透過免費 Claude 工具回答幾個角色問題後自動生成詳細 prompt，再",
+    "url": "/notes/ai-presenter-flow-agent-elevenlabs"
+  },
+  {
     "id": "self-improving-agents-evolve-harness",
     "title": "自進化AI：改善Harness而非模型",
     "category": "影片筆記",
