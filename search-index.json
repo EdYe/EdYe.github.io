@@ -40,6 +40,26 @@
     "url": "/notes/ai-presenter-flow-agent-elevenlabs"
   },
   {
+    "id": "ai-economist-best-worst-decade",
+    "title": "AI經濟學家：史上最好也最壞的十年",
+    "category": "AI筆記",
+    "tags": [
+      "金絲雀效應",
+      "任務導向分析",
+      "需求彈性",
+      "代理艦隊管理",
+      "智慧增強"
+    ],
+    "description": "Stanford經濟學家Erik Brynjolfsson研究揭示：自生成式AI廣泛採用以來，22-25歲從事AI高暴露職業的年輕勞工就業率已下降16%，首次以實證數據證明AI正在重塑勞動市場入門門檻",
+    "quote": "💡聽到 AI，不要想「人工智慧」，要想「放大意圖」（Amplifying Intention）——AI 放大的是你的主動性，若你沒有計畫，它什麼也做不了。",
+    "action": "🎯用 D-E-E 法則：定義問題（Define）、部署AI代理執行（Execute）、培養評估結果的領域判斷力（Evaluate）",
+    "image": "/images/AI筆記/ai-economist-best-worst-decade.jpg",
+    "date": "2026-07-23",
+    "source_has_timestamps": true,
+    "body": "Stanford 頂尖 AI 經濟學家：未來十年將是史上最好也最壞的時代 [核心摘要] Stanford 經濟學家 Erik Brynjolfsson 發表的論文 \"Canaries in the Coal Mine\" 揭示：自生成式 AI 廣泛採用以來，22-25 歲、從事 AI 高暴露職業的年輕勞工就業率已下降 16% 。這是首次大規模實證數據證明 AI 正在重塑勞動市場的入門門檻。核心洞察在於：AI 對就業的影響並非單純的「替代」，而是取決於任務結構與需求彈性——當效率提升降低成本，若需求曲線平坦（彈性高），反而會帶動更多就業 。未來工作者的核心價值將從「執行」轉移到「定義問題」與「評估結果」，成為 AI 代理艦隊的指揮官 。 [digitaleconomy.stanford](https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/) [詳細重",
+    "url": "/notes/ai-economist-best-worst-decade"
+  },
+  {
     "id": "self-improving-agents-evolve-harness",
     "title": "自進化AI：改善Harness而非模型",
     "category": "影片筆記",
