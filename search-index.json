@@ -1,5 +1,25 @@
 [
   {
+    "id": "team-four-human-nature-traps",
+    "title": "公司團隊運作的四個人性陷阱",
+    "category": "影片筆記",
+    "tags": [
+      "速度陷阱",
+      "核心圈陷阱",
+      "層級制度",
+      "冒牌者症候群",
+      "篝火時刻"
+    ],
+    "description": "根據 Google「高效創辦人計畫」（Effective Founders Project）全球 70 多國、數百家新創公司的數據研究，高達 65% 的新創公司失敗並非因",
+    "quote": "自信不等於勝任，缺乏自信反而是成長的訊號。最成功的創辦人，正是被不確定感驅動著不斷向前。",
+    "action": "用 D-A-R-E 法則（數據先行、直球對決、評估關係成本、擁抱懷疑）正視團隊中的人事問題，而非一再拖延。",
+    "image": "/images/影片筆記/team-four-human-nature-traps.jpg",
+    "date": "2026-07-23",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 根據 Google「高效創辦人計畫」（Effective Founders Project）全球 70 多國、數百家新創公司的數據研究，高達 65% 的新創公司失敗並非因為產品不佳或資金斷裂，而是因為「人」的問題 。Martin Gonzalez（現任 Google DeepMind 組織發展負責人）與 Josh Yellin（現任 Google DeepMind 產品營運負責人）透過大量一手數據分析，歸納出創辦人最常落入的四大陷阱：速度陷阱、核心圈陷阱、特立獨行心態陷阱、自信陷阱 。本集訪談深入剖析每個陷阱的行為科學根源，並介紹「篝火時刻」工作坊如何以單刀直入的方式協助團隊直面最棘手的人事難題。 [bonfiremoment](https://www.bonfiremoment.com/) [詳細重點整理] 1. Google 高效創辦人計畫與《篝火時刻》的起源  Josh Yellin 在 Google for Startups 加速器領導團隊時，發現加速器課程涵蓋機器學習、行銷策略、商業基礎，卻完全沒有人與文化的內容。Martin Gonzalez 當時在 Goog",
+    "url": "/notes/team-four-human-nature-traps"
+  },
+  {
     "id": "self-improving-agents-evolve-harness",
     "title": "自進化AI：改善Harness而非模型",
     "category": "影片筆記",
