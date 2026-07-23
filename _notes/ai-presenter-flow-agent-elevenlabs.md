@@ -121,3 +121,149 @@ Google Flow 大多數情況能準確還原台詞，但偶爾會出現重複單�
 
 - 原始 YouTube 影片：https://youtu.be/00UsxuaG-5w
 - 免費 Master Prompt + Claude 角色提示詞產生器：https://genaikeera.notion.site/ai-avatar-starter-kit
+
+***
+
+# AI虛擬人像入門套件（AI Avatar Starter Kit）| 打造你自己的 AI 虛擬人像
+
+🌸 **AI 虛擬人像入門套件**
+
+打造你自己的會說話 AI 虛擬人像所需的一切：角色生成器、Google Flow 代理（Agent）主提示詞，以及我實際使用的工具。
+
+▶️ 新來的嗎？先觀看完整教學影片，再到下方領取免費資源。
+
+▶ 在 YouTube 觀看第 03 集教學
+
+---
+
+## 🚀 快速開始 — 4 個步驟
+
+**建立角色（Create Character）**：使用以提示詞驅動的圖像生成器，或像 Higgsfield 這類專門工具，生成獨特的 AI 角色，接著強化皮膚質感以提升真實感。
+
+**生成影片（Generate Video）**：將角色與對白上傳至 Google Flow，搭配主提示詞（master prompt）自動生成連貫一致的影片片段。
+
+**組裝素材（Assemble Footage）**：將所有生成的片段匯入影片剪輯軟體，安排順序並剪去不必要的停頓或錯誤。
+
+**完成收尾（Finalize）**：視需要使用 ElevenLabs 等 AI 工具調整語音，接著匯出完成的長版影片。
+
+---
+
+## 1️⃣ 生成你的角色
+
+🖱️
+
+**開啟角色提示詞生成器 →**
+
+只要點選幾個選項，就能立即為你寫出一段精煉、可直接使用的角色提示詞！
+
+免費・直接在瀏覽器中開啟
+
+---
+
+## 2️⃣ AI 影片主提示詞（複製貼上即可使用）
+
+💡 **使用方式：** 將兩個佔位符 `[CHARACTER]`（角色）與 `[PASTE YOUR DIALOGUE]`（貼上你的對白）替換掉，接著在 Google Flow 中選取「代理模式（Agent Mode）」後，將整段貼上。其餘部分保持原樣即可。
+
+> **注意：** 以下主提示詞需完整複製貼上至 Google Flow 中使用，內容維持原文英文，以確保工具正確辨識指令。
+
+```text
+@[CHARACTER] Speaks the following dialogue exactly as written. Do not omit, paraphrase, reorder, or add any words. : [PASTE YOUR DIALOGUE HERE]
+
+## Instructions
+- Dialogue Delivery Style: [e.g. warm and conversational]
+- Split the dialogue into consecutive 10-second video segments while preserving every word in the exact order.
+- Do not shorten, paraphrase, skip, or modify any part of the dialogue.
+- Generate all segments as one seamless continuous performance.
+- Use natural lip sync, realistic facial expressions, eye contact, blinking, subtle breathing, and expressive but restrained hand gestures.
+- Ensure every segment connects seamlessly with the next.
+- No background music.
+
+## Visual Consistency
+Maintain absolute consistency with the reference image. Keep the subject's appearance, clothing, hairstyle, facial features, lighting, environment, furniture, props, and overall composition identical across every segment.
+
+## Camera Direction
+Use exactly two static shots in each 10-second segment. Each shot may use a different camera angle and/or shot size, but the camera must remain locked off with no pans, tilts, handheld movement, tracking shots, or dolly movement. Choose any two combinations from the following:
+
+Camera Angles
+- Front-facing
+- Left three-quarter
+- Slightly elevated front-facing
+- High three-quarter from above
+
+Shot Sizes
+- Medium shot
+- Medium close-up
+- Close-up
+
+Use a single clean cut between the two shots while maintaining uninterrupted dialogue, timing, facial expressions, hand gestures, and visual continuity.
+```
+
+**中文參考翻譯（僅供理解，實際使用請貼上方英文原文）：**
+
+`@[角色]` 逐字說出以下對白，不得省略、改寫、調換順序或增加任何字詞：`[貼上你的對白]`
+
+**指示（Instructions）**
+- 對白表達風格（Dialogue Delivery Style）：〔例如：溫暖且口語化〕
+- 將對白拆分為連續的 10 秒影片片段，並完整保留每個字詞的原始順序。
+- 不得縮短、改寫、跳過或修改對白的任何部分。
+- 將所有片段生成為一段無縫連貫的演出。
+- 使用自然的嘴型同步（lip sync）、真實的臉部表情、眼神接觸、眨眼、細微的呼吸動作，以及有表現力但克制的手勢。
+- 確保每個片段之間無縫銜接。
+- 不加背景音樂。
+
+**視覺一致性（Visual Consistency）**
+與參考圖片保持絕對一致。角色的外觀、服裝、髮型、五官、光線、環境、家具、道具與整體構圖，在每個片段中都必須完全相同。
+
+**運鏡指示（Camera Direction）**
+每個 10 秒片段須使用剛好兩個靜態鏡頭。每個鏡頭可使用不同的攝影角度與／或景別，但鏡頭必須固定不動，不得有平移、傾斜、手持晃動、跟拍或推軌移動。從以下選項中任選兩種組合：
+
+攝影角度（Camera Angles）
+- 正面
+- 左側四分之三側面
+- 略微仰角正面
+- 高角度四分之三俯視
+
+景別（Shot Sizes）
+- 中景
+- 中特寫
+- 特寫
+
+兩個鏡頭之間使用一次乾淨的轉場切換，並維持對白不中斷、節奏、臉部表情、手勢與視覺連貫性。
+
+---
+
+## 🛠️ 我使用的工具
+
+| 工具 | 用途 | 連結 |
+| --- | --- | --- |
+| Google Flow | 生成並動畫化你的 AI 虛擬人像影片 | 開啟 |
+| ChatGPT | 生成場景描述與替代圖像 | 開啟 |
+| ElevenLabs | 為角色提供自然的 AI 配音 | 開啟 |
+| Higgsfield | 透過人口統計預設值建立角色圖像 | 開啟 |
+| Topaz Bloom | 圖像放大與畫質強化 | 開啟 |
+
+---
+
+## 💡 專業提示
+
+💡
+
+生成多個角色變化版本。第一個結果不一定是最好的。
+
+清楚描述表達風格。語氣與節奏對最終演出效果有很大影響。
+
+在剪輯前先重新生成。這通常比在後期修正錯誤更快。
+
+---
+
+## 保持聯繫
+
+✉️
+
+當我發布新的 AI 影片製作資源時，會不定期收到更新通知。絕不濫發垃圾郵件。
+
+在此註冊
+
+---
+
+*原文來源：[AI Avatar Starter Kit | Build Your Own AI Avatar](https://genaikeera.notion.site/ai-avatar-starter-kit)*
