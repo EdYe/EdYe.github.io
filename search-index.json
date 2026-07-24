@@ -1,5 +1,25 @@
 [
   {
+    "id": "thinner-agents-smarter-substrate",
+    "title": "瘦代理 + 智慧基質：本體語意層架構",
+    "category": "AI筆記",
+    "tags": [
+      "本體論",
+      "語意層",
+      "瘦代理",
+      "執行軌跡",
+      "DRY原則"
+    ],
+    "description": "企業在規模化部署 AI Agent 時，每個團隊都從零開始重新連接資料來源，導致重複勞動、信任判斷缺失、且 Agent 無法跨團隊累積學習。",
+    "quote": "讓 Agent 變瘦，讓基質變聰明——智慧不應住在每個 Agent 裡，而應住在它們共同站立的土地上。",
+    "action": "當多個 Agent 重複連接相同資料來源時，停止在每個 Agent 中硬編碼資料連接邏輯，改為建立統一語意層：用業務術語定義概念映射，記錄每次呼叫成敗，讓系統依執行結果自動優化資料來源選擇",
+    "image": "/images/AI筆記/thinner-agents-smarter-substrate.jpg",
+    "date": "2026-07-24",
+    "source_has_timestamps": true,
+    "body": "Thinner Agents on a Smarter Substrate: The Ontology-based Semantic Layer — Emil Eifrem, Neo4j [核心摘要] 企業在規模化部署 AI Agent 時，每個團隊都從零開始重新連接資料來源，導致重複勞動、信任判斷缺失、且 Agent 無法跨團隊累積學習。Emil Eifrem 提出將智慧下沉至共享的基於本體論的語意層（Ontology-based Semantic Layer），由三根支柱構成——業務本體、技術本體、執行軌跡——讓 Agent 變「瘦」，專注業務邏輯，而資料發現、信任驗證、去重與自學習全部由底層基質承接，解決了 Agent 規模化的核心痛點 。 [youtube](https://www.youtube.com/?app=desktop&hl=ar) [詳細重點整理] 1. 開戶 Agent 的資料依賴困境  以銀行自動化開戶 Agent 為例，其運作包含兩大區塊：業務邏輯（意圖解析、Plan-Act 迴圈）與資料來源連接（如 DMV 車輛登記與護照驗證服務）。Agent 的成功高度",
+    "url": "/notes/thinner-agents-smarter-substrate"
+  },
+  {
     "id": "agentic-systems-need-ontology",
     "title": "Agentic 系統為何需要本體論",
     "category": "AI筆記",
