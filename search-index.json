@@ -20,6 +20,26 @@
     "url": "/notes/your-moat-is-your-data"
   },
   {
+    "id": "kill-multi-agent-pipeline",
+    "title": "為什麼殺掉多代理管線：ZS 製藥分析重建",
+    "category": "AI筆記",
+    "tags": [
+      "推理所有權缺失",
+      "上下文交接遺失",
+      "確定性代理分離",
+      "單代理推理所有權",
+      "知識圖譜控制平面"
+    ],
+    "description": "ZS Associates 原本打造一套模仿人類分析師行為的多代理管線，用於製藥商業分析，涵蓋訊號偵測、根因歸因、行動合成與展望預測，但各代理輸出前後矛盾。",
+    "quote": "不要模仿人類的步驟來設計 AI 的架構——讓架構從觀察中自然生長。",
+    "action": "拆分確定性與推理性任務、收斂至單一推理者，並用結構化知識圖譜約束代理的搜索空間",
+    "image": "/images/AI筆記/kill-multi-agent-pipeline.jpg",
+    "date": "2026-07-25",
+    "source_has_timestamps": true,
+    "body": "為什麼我們「殺掉」了多代理管線 — ZS Associates 的製藥分析系統重建實錄 來源影片：AI Engineer 頻道，講者 Subbiah Sethuraman（ZS AI 工程負責人）與 Abhilash Asokan（AI 工程總監） [youtube](https://www.youtube.com/?app=desktop&hl=ar) [核心摘要] ZS Associates 原本打造一套模仿人類分析師行為的多代理管線（Multi-Agent Pipeline），用於製藥商業分析——涵蓋訊號偵測、根因歸因、行動合成與展望預測。各代理各自推導出「正確的事實」，卻因缺乏端到端推理的所有權，導致最終輸出前後矛盾（例如：正確找出「保險覆蓋降級」為根因，卻建議「增派業務代表」的錯誤行動）。團隊遂推翻舊架構，改以三大原則重建：訊號�測前移為確定性管線、推理收斂至單一代理、知識圖譜作為控制平面。最終系統在 20 分鐘內完成原本分析師需 3–4 週的工作 。 [youtube](https://www.youtube.com/?app=desktop&hl=ar) [詳細重點整理]",
+    "url": "/notes/kill-multi-agent-pipeline"
+  },
+  {
     "id": "thinner-agents-smarter-substrate",
     "title": "瘦代理 + 智慧基質：本體語意層架構",
     "category": "AI筆記",
