@@ -1,5 +1,25 @@
 [
   {
+    "id": "agentic-systems-need-ontology",
+    "title": "Agentic 系統為何需要本體論",
+    "category": "AI筆記",
+    "tags": [
+      "神經符號AI",
+      "本體論",
+      "OWL",
+      "Pydantic",
+      "護欄設計"
+    ],
+    "description": "Frank Coyle 指出，Agent 系統的多數失敗——重複退款、付款寄錯對象、訂單狀態異常——都源自模型外部缺乏一層形式化本體論作為邏輯護欄，解法是神經符號 AI。",
+    "quote": "LLM 的幻覺不是 bug，是 feature——關鍵不在消滅它，而在用邏輯護欄引導它。",
+    "action": "在設計 Agent 工具呼叫迴圈時，於工具回傳結果與實際執行之間插入本體論驗證層，以 P-O-G 法則（Pydantic at the door、Ontology at the ledger、Guardrails before action）確保 Agent 通過驗證前不產生任何副作用",
+    "image": "/images/AI筆記/agentic-systems-need-ontology.jpg",
+    "date": "2026-07-24",
+    "source_has_timestamps": true,
+    "body": "Agentic 系統為何需要本體論 [核心摘要] Frank Coyle（UC Berkeley）指出，Agent 系統的多數失敗——重複退款、付款寄錯對象、訂單狀態出現「大概已出貨」——都源自同一個缺失：模型外部缺乏一層形式化本體論作為邏輯護欄。LLM 以機率方式推理，本質上會幻覺，再多的 prompt engineering 也無法填補這道鴻溝。解法是神經符號 AI（Neurosymbolic AI）：模型內部保持機率推理，外部用 RDFS、OWL 等標準定義實體型別、關係與約束，並以 Pydantic 驗證型別、本體論驗證結果，在 LLM 真正執行工具前攔截不合邏輯的行為。 [詳細重點整理] 1. 教育理念與背景  Frank Coyle 自述在 Berkeley 教學逾 35 年，早期職業生涯在神經科學領域，如今因 Agent AI 帶動認知科學復興而重新投入。他引用藝術家 Sister Corita Kent 的哲學：「沒有失敗，沒有成功，只有創造」，並強調手寫筆記的重要性——打字時大腦專注於鍵盤字母，手寫則能調動全部感官系統，加速學習。 關鍵概念：做中學  2. 兩條血脈：",
+    "url": "/notes/agentic-systems-need-ontology"
+  },
+  {
     "id": "team-four-human-nature-traps",
     "title": "公司團隊運作的四個人性陷阱",
     "category": "影片筆記",
