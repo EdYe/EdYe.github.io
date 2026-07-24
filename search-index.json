@@ -40,6 +40,26 @@
     "url": "/notes/kill-multi-agent-pipeline"
   },
   {
+    "id": "excellence-is-the-capacity-to-take-pain",
+    "title": "暴力改變預設值：Opendoor 重生法則",
+    "category": "影片筆記",
+    "tags": [
+      "真相優先於感受",
+      "反向招募",
+      "AI外骨骼",
+      "做市商定位",
+      "暴力改變預設值"
+    ],
+    "description": "Kaz Nejatian（Opendoor CEO、前 Shopify COO）以「暴力改變預設值」為核心哲學，接手一家距離破產僅數月的公司，",
+    "quote": "沒有公司決定失敗。它是一次一個善意的謊言，慢慢漂向失敗的。",
+    "action": "面對組織問題時，先確認真相而非安撫情緒，知道問題的那一刻就說出來（對事不對人），然後直接行動而非等待批准（T-T-T 法則）",
+    "image": "/images/影片筆記/excellence-is-the-capacity-to-take-pain.png",
+    "date": "2026-07-25",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Kaz Nejatian（Opendoor CEO、前 Shopify COO）以「暴力改變預設值」為核心哲學，接手一家距離破產僅數月的公司，透過三項原則完成重建：真相優先於感受、招募的人決定你打造的公司、以 AI 外骨骼放大每個人的產出。他揭露了企業衰敗的共通模式——由「專業寄生蟲」（顧問、中層官僚）把持、迴避真相、遠端文化導致決策變慢——並提出以「做市商」（Market Maker）定位重新定義 Opendoor 的商業本質 。 [youtube](https://www.youtube.com/watch?v=9ZlmsA4Bzk0) [詳細重點整理] 1. Opendoor 如何從死亡邊緣復活  Kaz 在第一天要求列出全部員工名單、每份合約、過去 12 個月所有支出。他發現，所有公司的失敗方式都驚人地相似：優秀人才流失、失去對創新的掌控、G&A（一般及行政費用）攀升、最終與客戶和合作夥伴對立。Opendoor 正是如此——一家由專業顧問營運、工程團隊被裁減、缺乏創造 alpha 意願的公司 。 [youtube](https://www.youtube.com/",
+    "url": "/notes/excellence-is-the-capacity-to-take-pain"
+  },
+  {
     "id": "thinner-agents-smarter-substrate",
     "title": "瘦代理 + 智慧基質：本體語意層架構",
     "category": "AI筆記",
