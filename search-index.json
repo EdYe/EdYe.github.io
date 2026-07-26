@@ -1,5 +1,25 @@
 [
   {
+    "id": "help-more-people-make-more-money",
+    "title": "想幫助更多人？就先賺更多錢",
+    "category": "影片筆記",
+    "tags": [
+      "社會創業",
+      "永續性陷阱",
+      "LIVE平台",
+      "成本結構套利",
+      "AI時代人性溢價"
+    ],
+    "description": "Po-Shen Loh（羅博深），Carnegie Mellon 數學教授兼美國奧林匹亞數學隊教練，提出社會創業的核心命題：若想行善，先賺錢。傳統慈善模式若在每",
+    "quote": "💡「If you want to do good, make money.」——不要等別人給你資源，自己創造資源再去改變世界。",
+    "action": "🎯依 P-M-L 法則：找到社會已願意付費解決的問題（Problem）、設計所有參與者都淨賺的商業模式（Model）、讓利潤回流使命形成自循環（Loop）。",
+    "image": "/images/影片筆記/help-more-people-make-more-money.jpg",
+    "date": "2026-07-26",
+    "source_has_timestamps": true,
+    "body": "影片筆記：Want to Help More People? Make More Money | Carnegie Mellon University Po-Shen Loh [核心摘要] Po-Shen Loh（羅博深），Carnegie Mellon 數學教授兼美國奧林匹亞數學隊教練，提出社會創業的核心命題：若想行善，先賺錢。傳統慈善模式若在每位受助者身上虧損，將永遠依賴外部捐款，影響力無法永續。他花十年時間打造「2+2=5」的雙贏局面，最終推出 LIVE 平台——以超過 50% 的利潤率營運，用獲利反哺教育使命，實現自我造血的社會創業閉環 。 [linkedin](https://www.linkedin.com/posts/eo-studiosocial-entrepreneurship-masterclass-with-activity-7483152014927876097-kHu3) [詳細重點整理] 1. 核心理念：行善之前先賺錢  一位慈善家告訴 Po-Shen Loh：不要開口要錢，去賺錢，再用錢行善。這句話顛覆了傳統非營利組織的募款邏輯。若每幫助一個人就虧一筆錢，",
+    "url": "/notes/help-more-people-make-more-money"
+  },
+  {
     "id": "ai-agents-vs-rules-vs-ml",
     "title": "AI 並非萬靈丹：四種決策方式怎麼選",
     "category": "AI筆記",
