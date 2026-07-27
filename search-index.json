@@ -40,6 +40,26 @@
     "url": "/notes/product-leaders-building-for-2028"
   },
   {
+    "id": "elite-performance-psychology",
+    "title": "精通導向：頂尖表現者的心理學",
+    "category": "心理學",
+    "tags": [
+      "精通導向",
+      "自我效能",
+      "社會認知理論",
+      "壓力卸載",
+      "差異化"
+    ],
+    "description": "Dr. Gio Valiante 以社會認知理論為基礎，指出頂尖表現者皆具備精通導向而非自我導向的動機。",
+    "quote": "頂尖表現者熱愛比賽本身勝過分數，熱愛比賽本身勝過擊敗對手——當你開始為報酬做事而非熱愛，你就開始輸了。",
+    "action": "奉行 A-A-A-A 法則：審計內在動機、將概念轉為可操作程序、以提問引導思考、將自信附著於可控的過程而非結果。",
+    "image": "/images/心理學/elite-performance-psychology.jpg",
+    "date": "2026-07-27",
+    "source_has_timestamps": true,
+    "body": "Dr. Gio Valiante：精英表現的心理學 核心摘要 Dr. Gio Valiante 以 社會認知理論 為基礎，指出頂尖表現者皆具備 精通導向 而非 自我導向 的動機。核心洞見在於：當動機從「熱愛過程」轉向「追求外在回報」，表現與幸福感會同時崩塌。解方是持續審計內在動機、將理論轉為可操作程序、並建立「每一桿後釋放壓力」的機制，讓你在壓力攀升時反而越打越自由。 詳細重點整理 1. 師承與起點  Dr. Valiante 回憶在佛羅里達大學第一天跌倒、書本散落一地，Dr. Frank Bahares 主動幫忙撿書，從此建立終身師徒關係。Bahares 是罕見的天才（SAT 只錯一題且是塗錯卡，三年完成博士），但真正影響他的是一句話：「沒有人在乎你知道多少，直到他們知道你有多在乎。」 關鍵概念：以善意為起點的師徒關係 2. 社會認知理論的演進  心理學歷經四個運動：行為主義（只看可觀察行為，以獎懲驅動）→ 人本主義（以人為中心，但過度強調自尊，導致 entitlement）→ 深度心理學（佛洛伊德，探索潛意識）→ 社會認知理論（Albert Bandura，1980 年代中期）。 ",
+    "url": "/notes/elite-performance-psychology"
+  },
+  {
     "id": "help-more-people-make-more-money",
     "title": "想幫助更多人？就先賺更多錢",
     "category": "影片筆記",
