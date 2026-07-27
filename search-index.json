@@ -1,5 +1,25 @@
 [
   {
+    "id": "delete-your-claude-md",
+    "title": "刪除 CLAUDE.md：提示詞死重量與過剩",
+    "category": "AI筆記",
+    "tags": [
+      "系統提示詞",
+      "CLAUDE.md",
+      "產品過剩",
+      "驗證優先",
+      "例行任務自動化"
+    ],
+    "description": "Claude Code 創造者 Boris Cherny 分享七個關鍵洞察：隨著模型智能提升，過去用來補償模型缺陷的系統提示詞已成為「死重量」，Anthropic 內部刪除了 80% 系統提示詞，模型反而更聰明。",
+    "quote": "💡每一行提示詞都有租金要付——不貢獻價值，就刪除。",
+    "action": "🎯D-R-V 法則：每六個月刪除 CLAUDE.md/Skills/Hooks 僅在犯錯時逐行加回、交付前先建立驗證器、以實證心態迭代任務。",
+    "image": "/images/AI筆記/delete-your-claude-md.jpg",
+    "date": "2026-07-28",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Claude Code 創造者 Boris Cherny 在 Y Combinator Startup School 2026 分享了七個關鍵洞察，核心主張是：隨著模型智能提升，過去用來補償模型缺陷的系統提示詞已成為「死重量」。Anthropic 內部刪除了 80% 的 Claude Code 系統提示詞，模型反而更聰明；Boris 公開建議使用者每六個月刪除 CLAUDE.md，僅在模型反覆犯錯時才逐行加回。此外，他揭示了「產品過剩」（Product Overhang）概念——模型能力與產品發揮之間的巨大鴻溝，正是下一個獨角獸的機會。Bun 的 53.5 萬行 Zig 程式碼在 11 天內被重寫為 Rust，驗證了「測試套件即裁判」的範式 。 [youtube](https://www.youtube.com/) [詳細重點整理] 1. 刪除 80% 系統提示詞  Opus 5 發布後，Anthropic 團隊刪除了 Claude Code 自身系統提示詞的 80%。原因是過去的提示詞在「修正」舊模型本應知道但不會做的行為，而 Opus 5 已具備這些能力，這些指令反而",
+    "url": "/notes/delete-your-claude-md"
+  },
+  {
     "id": "rich-focus-cash-flow",
     "title": "富人如何用資產管線思維致富",
     "category": "影片筆記",
