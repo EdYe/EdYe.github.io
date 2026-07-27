@@ -20,6 +20,26 @@
     "url": "/notes/rich-focus-cash-flow"
   },
   {
+    "id": "product-leaders-building-for-2028",
+    "title": "為 2028 超前部署：Eval 就是新 PRD",
+    "category": "影片筆記",
+    "tags": [
+      "可解釋性特徵",
+      "前沿產品與前沿模型共生",
+      "湧現能力跳躍",
+      "Eval驅動開發",
+      "人類判斷壟斷"
+    ],
+    "description": "本集訪談邀請 Dianne Penn（Anthropic AI 研究與 Labs 團隊產品負責人），深入解析 Anthropic 從 2023 年僅五名工程師的弱勢團隊，躍升為史上",
+    "quote": "💡你需要前沿產品才能擁有前沿模型——兩者共生，缺一不可。",
+    "action": "🎯將產品開發核心從寫 PRD 轉向建 Eval 集：每個模型迭代先建 eval、再測試、最後產品化。",
+    "image": "/images/影片筆記/product-leaders-building-for-2028.jpg",
+    "date": "2026-07-27",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 本集訪談邀請 Dianne Penn（Anthropic AI 研究與 Labs 團隊產品負責人），深入解析 Anthropic 從 2023 年僅五名工程師的弱勢團隊，躍升為史上成長最快公司的關鍵歷程。核心貢獻在於揭示 「Eval 驅動開發循環」（Eval-Driven Development Loop）如何取代傳統 PRD，讓產品在模型尚未就緒時就能前置部署、快速驗證，解決了 AI 產品開發中「模型能力不確定、產品迭代難以規劃」的核心痛點 。 [youtube](https://www.youtube.com/) [詳細重點整理] 1. 早期 Anthropic 的文化基石  2023 年加入時，整個產品團隊僅五名工程師，API 業務甚至只有一名工程師負責。公司當時的核心優勢不在技術規模，而在「使命、文化、價值觀」的深度踐行。一個代表性事件是 Golden Gate Claude：2024 年初基於可解釋性研究，團隊發現模型內部層存在表達特定主題的「特徵」，其中一項是金門大橋。調高該特徵後，Claude 會在每個回覆中執著於金門大橋。整個體驗在 24 小時內由工程、產",
+    "url": "/notes/product-leaders-building-for-2028"
+  },
+  {
     "id": "help-more-people-make-more-money",
     "title": "想幫助更多人？就先賺更多錢",
     "category": "影片筆記",
