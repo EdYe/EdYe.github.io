@@ -1,5 +1,25 @@
 [
   {
+    "id": "obsidian-sta-note-system",
+    "title": "Obsidian STA 筆記法：打造學術知識庫",
+    "category": "影片筆記",
+    "tags": [
+      "STA筆記系統",
+      "原子句",
+      "雙重連結驗證",
+      "結構化查詢",
+      "知識組織策略"
+    ],
+    "description": "本影片展示了如何以 Obsidian 為工具，仿照 Wikipedia 的組織邏輯，建立一套可擴展的個人學術知識庫。核心方法論為 STA 筆記系統。",
+    "quote": "💡「原子句會替你寫論文——因為寫作的本質，就是將已知斷言按邏輯順序組合。」",
+    "action": "🎯依 S-T-A 法則：Source 筆記存來源不可改、Topic 筆記擷取斷言附雙重連結、Argument 筆記獨立存放個人推想。",
+    "image": "/images/影片筆記/obsidian-sta-note-system.jpg",
+    "date": "2026-07-28",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 本影片展示了如何以 Obsidian 為工具，仿照 Wikipedia 的組織邏輯，建立一套可擴展的個人學術知識庫。核心方法論為 STA 筆記系統（Source-Topic-Argument），將筆記分為來源筆記、主題筆記與論證筆記三類，解決了傳統「摘要式筆記」無法規模化與無法重用於學術寫作的痛點。講者 Ilya Shabanov 憑此系統，提前 5 個月完成 PhD 並發表四篇第一作者論文 。 [youtube](https://www.youtube.com/) [詳細重點整理] 1. 為何需要資訊策略  一項 Nature 研究指出，約 78% 的博士生每週工作超過 40 小時，意即多數人靠「磨」的方式完成學位。引用孫子兵法「戰術無戰略，乃敗前之噪音」，強調 PhD 的本質是知識的競爭，因此需要一套知識組織策略，而非埋頭苦幹 。 [youtube](https://www.youtube.com/) 關鍵概念：知識組織策略（Knowledge Organization Strategy） 2. 以 Wikipedia 為藍圖  Wikipedia 沒有任何資料夾結構",
+    "url": "/notes/obsidian-sta-note-system"
+  },
+  {
     "id": "delete-your-claude-md",
     "title": "刪除 CLAUDE.md：提示詞死重量與過剩",
     "category": "AI筆記",
