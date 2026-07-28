@@ -20,6 +20,26 @@
     "url": "/notes/pm-stay-relevant-ai-era"
   },
   {
+    "id": "own-your-operating-system-craft-os",
+    "title": "我們告訴你要擁有自己的作業系統，這就是我們的",
+    "category": "AI筆記",
+    "tags": [
+      "CRAFT OS",
+      "擁有協調層",
+      "單點解決方案",
+      "Context Graph",
+      "MCP整合"
+    ],
+    "description": "CRAFT OS 原本是為了執行客戶專案而打造的。現在它也在運行我們自己，而第一個證據，是我們手上最無聊的一條工作流程：我們自己的團隊如何申請休假。",
+    "quote": "💡沒有人會為「申請週五休假」寫一篇案例研究。而這正是它是好證據的原因。",
+    "action": "",
+    "image": "/images/AI筆記/own-your-operating-system-craft-os.jpg",
+    "date": "2026-07-28",
+    "source_has_timestamps": false,
+    "body": "我們告訴你要擁有自己的作業系統。這就是我們的。 CRAFT OS 原本是為了執行客戶專案而打造的。現在它也在運行我們自己，而第一個證據，是我們手上最無聊的一條工作流程：我們自己的團隊如何申請休假。 作者：Skip Marshall 發布日期：2026 年 7 月 28 日 --- 我今年發表的每一篇文章，其實都在用不同方式講同一個論點：擁有你的協調層（coordination layer），而不是租用它。 一家掌握了你事業賴以運轉那一層的供應商，手上握著籌碼，而你發現這件事的時機，永遠是最糟的時候，不會是最好的時候。三週前我把話講得最直白：未來三年會贏的企業，是那些把這一層當作值得擁有之物的企業，而其他人還在到處挑工具。 這個論點很好。它也是一個站在外面很容易講的論點。我每週都對客戶講。我在六月主張過 [CRAFT 運行的是一門生意](https://businessandbuild.substack.com/p/how-craft-runs-the-business-not-just)，而不只是軟體交付，而那個主張一直以來大致上仍停留在「宣稱」的階段。到此為止，它不再只是宣稱了。 I",
+    "url": "/notes/own-your-operating-system-craft-os"
+  },
+  {
     "id": "obsidian-sta-note-system",
     "title": "Obsidian STA 筆記法：打造學術知識庫",
     "category": "影片筆記",
