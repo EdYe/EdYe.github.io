@@ -20,6 +20,26 @@
     "url": "/notes/phd-reality-check-5-challenges"
   },
   {
+    "id": "build-agentic-eval-step-by-step",
+    "title": "從零打造 Agentic Eval 實戰教學",
+    "category": "影片筆記",
+    "tags": [
+      "Agentic Eval",
+      "領域專業知識",
+      "地板天花板測試",
+      "Goldilocks原則",
+      "多次採樣"
+    ],
+    "description": "本影片由 Aakash Gupta 主持，邀請前 Meta Llama 模型 PM、現為 Gamow Labs 創辦人的 Daniel McKinnon，",
+    "quote": "💡Eval 不是用來證明模型很強，而是用來找到模型在哪裡會失敗。知道天花板在哪裡，才是評估的意義。",
+    "action": "🎯下次寫 AI 功能規格時先建立 Eval 而非 PRD，依 F-C-S-M 法則設計地板案例、天花板案例、多次採樣與中間題庫",
+    "image": "/images/影片筆記/build-agentic-eval-step-by-step.jpg",
+    "date": "2026-07-29",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 本影片由 Aakash Gupta 主持，邀請前 Meta Llama 模型 PM、現為 Gamow Labs 創辦人的 Daniel McKinnon，從零開始實機示範如何建構一個 Agentic Eval（代理式評估）。核心論點是：在 GenAI 時代，Eval 已取代 PRD 成為溝通產品規格的最佳方式，因為 AI 產品行為太多元，無法用文字完整描述，只能用「範例」來定義。而建構好 Eval 的關鍵不在工具，而在領域專業知識（Subject Matter Expertise）——Daniel 以臨床基因體學為例，示範從囊狀纖維化（簡單）到先天性心臟病雙基因遺傳（困難）的完整 Eval 建構流程 。 [youtube](https://www.youtube.com/) [詳細重點整理] 1. Eval 取代 PRD 的邏輯  傳統 PRD 大量篇幅描述產品在特定情境下如何運作，但 GenAI 產品需要「做所有事」，無法逐一描述。Eval 本質上就是模型的問答題（trivia question）——包含一個 prompt、一個正確或合理正確的答案、以及一套評分方式。它",
+    "url": "/notes/build-agentic-eval-step-by-step"
+  },
+  {
     "id": "pm-stay-relevant-ai-era",
     "title": "AI 時代產品經理的生存與進階法則",
     "category": "影片筆記",
