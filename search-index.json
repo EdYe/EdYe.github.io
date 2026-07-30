@@ -40,6 +40,26 @@
     "url": "/notes/labor-insurance-hidden-benefits"
   },
   {
+    "id": "agents-need-feature-flags",
+    "title": "Agent 需要 Feature Flag 與 Kill Switch",
+    "category": "AI筆記",
+    "tags": [
+      "Feature Flag",
+      "Kill Switch",
+      "Agent行為面",
+      "Middleware架構",
+      "Rollout Playbook"
+    ],
+    "description": "AI Agent 系統正在以 2008 年 Web 部署的方式上線——prompt 變更、工具授權、模型切換、記憶策略、自治升級全部一合併就 100% 生效，",
+    "quote": "2026 年是採用年，2027 年是控制年。你的 Agent 能發郵件、移動金錢、修改資料庫——它值得至少和你的 Web 應用一樣多的紀律，甚至更多。",
+    "action": "依 K-S-A-R 法則：Kill Switch 先行、Surface 分離、Audit 必備、Rollout 五步分階段上線",
+    "image": "/images/AI筆記/agents-need-feature-flags.jpg",
+    "date": "2026-07-30",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] AI Agent 系統正在以 2008 年 Web 部署的方式上線——prompt 變更、工具授權、模型切換、記憶策略、自治升級全部一合併就 100% 生效，無灰度、無分群、無回滾。本演講針對 Agent 獨有的六大行為面（Prompt、工具、模型、記憶、自治、子代理），提出對應的六類 Feature Flag 分類法與 Kill Switch 架構，解決 Agent 因缺乏安全部署基礎設施而導致的線上事故、合規風險與無法快速止血的痛點。 [youtube](https://www.youtube.com/watch?v=Gz7S1v1k664) [詳細重點整理] 1. 問題陳述：Agent 部署的「全有或全無」困境  當 prompt 變更一合併，100% 使用者立即看到新行為——沒有 Canary、沒有分群、沒有回滾按鈕。每一次發佈同時包含 prompt 改寫、新工具加入、模型替換、記憶策略變更、自治升級、系統指令編輯，全部全域即時生效。Web 團隊早在 2012 年就停止這種做法，而當時的變更風險遠低於 Agent 場景。典型失敗模式是「一個小的 prompt 微調",
+    "url": "/notes/agents-need-feature-flags"
+  },
+  {
     "id": "phd-reality-check-5-challenges",
     "title": "我以為博士生都很厲害直到我成為博士生",
     "category": "影片筆記",
