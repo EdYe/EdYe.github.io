@@ -40,6 +40,26 @@
     "url": "/notes/ray-dalio-ai-bubble-big-cycle"
   },
   {
+    "id": "never-hit-token-limit-again",
+    "title": "終結Token浪費：三層架構解方",
+    "category": "AI筆記",
+    "tags": [
+      "重複輸入",
+      "手動習慣",
+      "TokenSaver技能",
+      "Ringer多代理框架",
+      "三層架構"
+    ],
+    "description": "AI Token 消耗的真正元兇不是輸入文字，而是重複輸入——模型每回合重傳整段歷史。單日追蹤到 37.7 億 Token，96% 屬重複輸入，全片提出三層架構因應。",
+    "quote": "💡「你打字的訊息，只是整個呼叫中最微不足道的一部分。整理你的桌面，是你永遠擁有的工作。」",
+    "action": "🎯先落實 Level 1 九項手動習慣（尤其任務切換時開新對話），再安裝 Token Saver 技能自動化，視需求評估 Ringer 中介層攔截請求。",
+    "image": "/images/AI筆記/never-hit-token-limit-again.jpg",
+    "date": "2026-07-31",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] AI Token 消耗的真正元兇不是你輸入的文字，而是重複輸入（Reused Input）——模型在每次對話回合中重新傳送整段歷史對話。在一天內，追蹤器記錄到 37.7 億個 Token 流經 Codex 工作區，其中高達 96%（35.9 億）屬於重複輸入 。影片提出一套三層架構：Level 1 為九項手動習慣、Level 2 為 Token Saver 自動化技能、Level 3 為 Ringer 多代理攔截框架，目標是將 Token 使用效率提升 10 倍 。 [youtube](https://www.youtube.com/watch?v=Y8vAQ1FgNbM) [詳細重點整理] 核心問題：重複輸入的複利效應  LLM 的運作機制決定了每次「按下 Enter」時，整段對話歷史會被重新打包從頭傳送。第一則訊息成本等於你輸入的內容；第二則等於你輸入的加上第一次的回答與原始輸入；到第十則時，新輸入的文字已成為微不足道的捨入誤差 。 [youtube](https://www.youtube.com/watch?v=Y8vAQ1FgNbM) 關鍵概念：重複輸入（Reu",
+    "url": "/notes/never-hit-token-limit-again"
+  },
+  {
     "id": "agent-overprivilege-token-exchange",
     "title": "Agent 別再手握萬能鑰匙：用 Token Exchange 收斂權限",
     "category": "AI筆記",
