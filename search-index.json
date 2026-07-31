@@ -1,5 +1,45 @@
 [
   {
+    "id": "wayfinder-fog-frontier-destination",
+    "title": "Wayfinder：消除規劃戰爭迷霧",
+    "category": "影片筆記",
+    "tags": [
+      "Wayfinder",
+      "戰爭迷霧",
+      "票券系統",
+      "Issue Tracker",
+      "命名目的地"
+    ],
+    "description": "Wayfinder 是 Matt Pocock 開發的 AI 規劃技能（skill），核心解決了「大型工作無法在單一 agent session 內完成」的痛點。",
+    "quote": "💡Planning is no longer the AI bottleneck — the bottleneck is knowing when to start charting instead of charging.",
+    "action": "🎯將大型 AI 系統遷移拆解為 research／prototype／grilling 票券，用 GitHub issue 的 blocking 關係管理依賴，確保每個決策都有可追溯的一手來源。",
+    "image": "/images/影片筆記/wayfinder-fog-frontier-destination.jpg",
+    "date": "2026-07-31",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Wayfinder 是 Matt Pocock 開發的 AI 規劃技能（skill），核心解決了「大型工作無法在單一 agent session 內完成」的痛點。它將模糊的構想映射為 issue tracker 上的共享地圖（map），透過 決策票券（decision tickets） 逐一消除 戰爭迷霧（fog of war），直到通往目的地的路徑清晰可見。不同於傳統單 session 規劃工具，Wayfinder 能跨越多個 agent session 編排研究、原型、討論與任務，並在 GitHub、Linear、Jira 等任意 issue tracker 中追蹤所有決策與阻塞關係 。 [github](https://github.com/mattpocock/skills/blob/main/skills/engineering/wayfinder/SKILL.md) [詳細重點整理] 1. 現有規劃工具的侷限性  既有規劃工具（包含作者自建的 grill-with-docs 技能）過度綁定於單一 session，導致使用者被迫將大型工作手動拆成小塊以適應 AI",
+    "url": "/notes/wayfinder-fog-frontier-destination"
+  },
+  {
+    "id": "ray-dalio-ai-bubble-big-cycle",
+    "title": "Ray Dalio：AI泡沫與大循環警訊",
+    "category": "影片筆記",
+    "tags": [
+      "AI泡沫",
+      "資產配置",
+      "大循環週期",
+      "財富稅",
+      "地緣政治秩序"
+    ],
+    "description": "Ray Dalio 指出全球正處於 AI 投資泡沫的經典徵兆之中，同時疊加三大結構性危機：債務過高、貧富差距擴大、地緣政治秩序重組。",
+    "quote": "💡歷史證明，最成功的不是最聰明或最努力的人，而是最具適應力的人。",
+    "action": "🎯依 D-A-C 法則：Diversify 分散資產（硬貨幣佔5-15%）、Adapt 持續學習並將技能放入最高估值產業、Cycle 用客觀指標判斷所處週期位置。",
+    "image": "/images/影片筆記/ray-dalio-ai-bubble-big-cycle.jpg",
+    "date": "2026-07-31",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Ray Dalio 指出全球正處於 AI 投資泡沫的經典徵兆之中，同時疊加三大結構性危機：債務過高、貧富差距擴大、地緣政治秩序重組。這三股力量的匯流構成他所稱的「大循環」——一個平均約 80 年的世界秩序興衰週期。美國與英國正處於該週期的衰退期，面臨債務重整、資本外流與內部政治衝突的連鎖風險。Dalio 的核心貢獻在於將 500 年的歷史數據轉化為可量化的因果關係框架，讓投資人與決策者能以「體檢」式的客觀指標判斷所處位置，而非依賴短期新聞或情緒做出反應。 [詳細重點整理] 1. AI 泡沫的經典徵兆與崩解機制  Jeremy Grantham 認為這是美國史上最大的投資泡沫，Dalio 同意此判斷。泡沫的形成邏輯為：革命性新技術出現 → 眾人相信其必然成功 → 資金大量湧入但忽視價格 → 部分投資人借槓桿加碼。當利潤無法支撐估值，或外部事件迫使投資人拋售變現時，泡沫破裂。 以 1929 年大蕭條為例：當時首次出現家用電力、冰箱、汽車、飛機、廣播等革命性產品，人們對未來充滿信心，但過度借貸買股最終導致崩盤。2000 年網際網路泡沫亦然。 Dalio 以一張「AI 股票」為例",
+    "url": "/notes/ray-dalio-ai-bubble-big-cycle"
+  },
+  {
     "id": "agent-overprivilege-token-exchange",
     "title": "Agent 別再手握萬能鑰匙：用 Token Exchange 收斂權限",
     "category": "AI筆記",
