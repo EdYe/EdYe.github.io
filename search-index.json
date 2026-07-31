@@ -60,6 +60,26 @@
     "url": "/notes/never-hit-token-limit-again"
   },
   {
+    "id": "ai-engineering-discipline-not-less",
+    "title": "AI 需要更多工程紀律，而非更少",
+    "category": "AI筆記",
+    "tags": [
+      "工程紀律",
+      "不可變基礎設施",
+      "程式碼即快取",
+      "正式環境驗證",
+      "非確定性系統"
+    ],
+    "description": "如果你經歷過從手工打造的「寵物型伺服器」轉向不可變基礎設施的變革，你應該會對現在正在發生的事情感到一種奇特的熟悉感。",
+    "quote": "💡程式碼不再是資產，而是一個關於理解的物化視圖——在最新時有用，過時後可拋棄。",
+    "action": "🎯投資於短促、快速的回饋迴圈與工程紀律，因為這將帶來非連續性的回報。",
+    "image": "/images/AI筆記/ai-engineering-discipline-not-less.jpg",
+    "date": "2026-07-31",
+    "source_has_timestamps": false,
+    "body": "AI 需要更多工程紀律，而非更少 如果你經歷過從手工打造的「寵物型伺服器」轉向不可變基礎設施（Immutable Infrastructure）的那場變革，你應該會對現在正在發生的事情感到一種奇特的熟悉感。 作者：Charity Majors 發表日期：2026 年 6 月 15 日 --- 幾天前我寫了一篇文章，標題是〈[AI 樂觀者在與時間賽跑，AI 懷疑者在與熵賽跑](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against)〉。 我手上還有一大堆與 AI 相關的主題筆記，想要深入探討：AI 強制令（AI mandates）、溝通規範、程式碼審查（code review）、AI 藝術等等。可惜的是，上一篇文章收到太多有趣的回應，我得先處理完這些回應，才能繼續談其他主題。😉 有趣的回應大致分為兩類：第一類是針對技術層面的討論，第二類則是從倫理角度出發。我會分別回應這兩類。先從技術面談起，因為那比較容易。（補充：這裡是[倫理層面的回應](https://charitydotwtf.substa",
+    "url": "/notes/ai-engineering-discipline-not-less"
+  },
+  {
     "id": "agent-overprivilege-token-exchange",
     "title": "Agent 別再手握萬能鑰匙：用 Token Exchange 收斂權限",
     "category": "AI筆記",
