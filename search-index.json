@@ -1,5 +1,25 @@
 [
   {
+    "id": "agent-overprivilege-token-exchange",
+    "title": "Agent 別再手握萬能鑰匙：用 Token Exchange 收斂權限",
+    "category": "AI筆記",
+    "tags": [
+      "過度授權",
+      "萬能憑證",
+      "同意疲勞",
+      "Token Exchange",
+      "策略前置評估"
+    ],
+    "description": "AI Agent 被賦予單一萬能 API Key 後，能在無人監管下執行高風險操作（如刪除生產資料庫），造成真實事故。",
+    "quote": "💡最好的安全不是阻止一張已經存在的憑證被濫用，而是讓它根本不存在。",
+    "action": "🎯依 S-T-P 法則：Scope 限定工具呼叫權限、Token 鑄造短期臨時權杖、Policy 在憑證生成前先做策略評估。",
+    "image": "/images/AI筆記/agent-overprivilege-token-exchange.jpg",
+    "date": "2026-07-31",
+    "source_has_timestamps": true,
+    "body": "📝 筆記：It's 10pm. Do You Know Where Your Agents Are? [核心摘要] AI Agent 被賦予單一萬能 API Key 後，能在無人監管下執行高風險操作（如刪除生產資料庫），造成真實事故。Kim Maida 提出解法並非新技術，而是將 OAuth 2.0 的 Token Exchange（RFC 8693）規範整合至 Agent 執行路徑中：每一次工具呼叫都動態鑄造一個僅限該動作的短期權杖，經策略評估後才生成，確保高風險憑證根本不存在，同時讓 Human-in-the-Loop 擁有真正的策略性牙齒，適用於 CLI、MCP Server 及任何 OAuth Provider。 [詳細重點整理] 1. Agent 越權問題的現實危害  從 1960 至 1980 年代的公共服務宣導「晚上 10 點了，你知道你的孩子在哪嗎？」出發，類比現今 AI Agent 被賦予過多責任卻缺乏監管的現狀。Agent 經常拿著一組 API Key 就自由運作，而這在出事前看似無害。 關鍵概念：過度授權（Overprivilege） 2. Demo：夜班事件處",
+    "url": "/notes/agent-overprivilege-token-exchange"
+  },
+  {
     "id": "vitamin-d-hormone-sleep-fix",
     "title": "維生素D是荷爾蒙：失眠是腦幹化學缺損",
     "category": "影片筆記",
