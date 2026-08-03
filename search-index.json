@@ -1,5 +1,25 @@
 [
   {
+    "id": "ai-productivity-j-curve",
+    "title": "AI生產力J曲線：投資與價值的落差",
+    "category": "影片筆記",
+    "tags": [
+      "生產力J曲線",
+      "AI互補人類",
+      "組織重設計",
+      "Token成本",
+      "職業衝擊"
+    ],
+    "description": "史丹佛經濟學家 Erik Brynjolfsson 提出生產力 J 曲線理論，解釋 AI 投資與企業價值之間的落差：強大的技術需要伴隨流程改造、人才再培",
+    "quote": "💡AI 不是 Artificial Intelligence，而是 Amplifying Intention——放大你的意圖。",
+    "action": "🎯將工作拆解為任務原子單位，標記可交由 AI 處理與需人類意圖引導的部分，建立捕捉頂尖績效者做法的知識蒸餾機制，並在 agent 系統中內建 token 成本監控與預算預警。",
+    "image": "/images/影片筆記/ai-productivity-j-curve.jpg",
+    "date": "2026-08-03",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 史丹佛經濟學家 Erik Brynjolfsson 提出生產力 J 曲線理論，解釋 AI 投資與企業價值之間的落差：強大的技術需要伴隨流程改造、人才再培訓與無形投資才能兌現生產力紅利 。他指出，AI 的最大機會不在取代勞動力，而在重新設計工作結構——將職業拆解為任務單元，讓 AI 補人類之短、人類補 AI 之長。資料顯示 22-26 歲、從事高 AI 暴露職業的年輕工作者就業率已下降 16-17%，但同時小型企業與個人創業者正迎來前所未有的槓桿機會 。 [youtube](https://www.youtube.com/watch?v=u76xdhpF474) [詳細重點整理] 1. AI 生產力的 J 曲線滯後效應  許多組織在 AI 上投入巨資卻未見規模化回報，Brynjolfsson 稱之為「AI 悖論」。他提出生產力 J 曲線（Productivity J Curve）模型：強大技術要兌現全部效益，必須同步進行流程改造、勞動力再培訓、甚至發明新產品與服務——這些都是耗時的無形投資。在無形投資建置期間，產出不會立即提升；但一旦基礎到位，生產力便會加速攀升 。 [yo",
+    "url": "/notes/ai-productivity-j-curve"
+  },
+  {
     "id": "wayfinder-fog-frontier-destination",
     "title": "Wayfinder：消除規劃戰爭迷霧",
     "category": "影片筆記",
