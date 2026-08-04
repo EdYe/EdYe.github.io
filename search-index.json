@@ -1,5 +1,25 @@
 [
   {
+    "id": "rewire-brain-success",
+    "title": "重寫大腦：行為優先的神經可塑性法則",
+    "category": "心理學",
+    "tags": [
+      "神經可塑性",
+      "多巴胺",
+      "行為優先",
+      "壓力耐受",
+      "情緒傳染"
+    ],
+    "description": "人類大腦的唯一可自我重寫器官，透過神經可塑性（Neuroplasticity）實現改變，其關鍵入口是刻意進入不適與壓力狀態，並以行為（Behavior）作為控制面板...",
+    "quote": "💡放棄不是肌肉耗盡，而是神經燃料的閾值——而重置它的鑰匙，一直握在你自己的多巴胺手裡。",
+    "action": "🎯採用 B-R-D 法則：行為優先啟動、過程中自我獎勵每個微小里程碑、將多巴胺從外在獎勵解綁並綁定至過程本身",
+    "image": "/images/心理學/rewire-brain-success.jpg",
+    "date": "2026-08-04",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 人類大腦的唯一可自我重寫器官，透過神經可塑性（Neuroplasticity）實現改變，其關鍵入口是刻意進入不適與壓力狀態，並以行為（Behavior）作為控制面板，逆向驅動思想、感受與知覺的轉變。核心機制在於將多巴胺（Dopamine）從外在獎勵解綁，轉而綁定至過程中的微小里程碑（DPO：Duration-Path-Outcome），以持續緩衝正腎上腺素（Noradrenaline）引發的放棄反應，從而獲得近乎無限的專注力與能量 。 [blog.terabox](https://blog.terabox.com/insights/dr-andrew-huberman-neuroscience-focus-growth-mindset) [詳細重點整理] 1. DPO 與內在自我獎勵  所有獎勵本質上是內在的。將 Duration-Path-Outcome（DPO） 框架連結至內在獎勵系統——在過程中對每一個微小里程碑自我獎勵，告訴自己「我在正確的路徑上」，即可緩衝正腎上腺素帶來的放棄衝動（quit response）。自我獎勵的頻率越高，投入該目標的能量與專注力就越強，",
+    "url": "/notes/rewire-brain-success"
+  },
+  {
     "id": "becoming-rich-is-simple",
     "title": "投資已解決，心理障礙是致富關鍵",
     "category": "影片筆記",
