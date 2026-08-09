@@ -1,5 +1,25 @@
 [
   {
+    "id": "ontology-design-drop-principles",
+    "title": "本體設計是工藝：Ontology四大原則",
+    "category": "AI筆記",
+    "tags": [
+      "Ontology設計",
+      "衍生屬性",
+      "介面驅動工作流",
+      "安全原語",
+      "結構體"
+    ],
+    "description": "Palantir DevCon 5 剖析 Ontology 進階功能：衍生屬性、介面、結構體、安全原語與物件背書連結，提煉四大本體設計原則解決企業資料痛點。",
+    "quote": "💡「Ontology 設計是一門工藝（Tradecraft），而非單純的需求文件。本體即是你組織運作的軟體。」",
+    "action": "🎯依D-R-O-P法則設計本體：以領域驅動定義物件、重複三次即重構為介面、鎖定核心開放延伸、用PECS實現即插即用彈性。",
+    "image": "/images/AI筆記/ontology-design-drop-principles.jpg",
+    "date": "2026-08-09",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 本影片由 Palantir Group Lead Landon Carter 於 DevCon 5 主講，深入剖析 Ontology 語言的最新功能——衍生屬性（Derived Properties）、介面（Interfaces）、結構體（Structs）、安全原語（Security Primitives）與物件背書連結型態（Object-Backed Link Types）。核心貢獻在於將多年實戰經驗提煉為四大本體設計原則，解決企業資料模型在擴展性、語意精準度與安全粒度上的痛點，並展示如何將這些原語層層堆疊以達到子單元格安全與實體解析等深度資料建模能力 。 [youtube](https://www.youtube.com/watch?v=b2qsKzIfk) [詳細重點整理] 1. Ontology 演進歷程與設計原則總覽  Ontology 發展歷經三階段：Golden Tables（資料整合）→ 營運決策（透過 Actions、Logic、Functions 捕獲組織動態）→ AI-First（整合 LLM 與自動化）。Gotham 產品長期處理非結構化情報資料，",
+    "url": "/notes/ontology-design-drop-principles"
+  },
+  {
     "id": "rewire-brain-success",
     "title": "重寫大腦：行為優先的神經可塑性法則",
     "category": "心理學",
