@@ -40,6 +40,26 @@
     "url": "/notes/founder-scaling-slow-to-fast"
   },
   {
+    "id": "agentic-first-software-organization",
+    "title": "Agentic-First軟體組織建構法",
+    "category": "AI筆記",
+    "tags": [
+      "Agentic-First",
+      "DORA護欄效應",
+      "模式接縫",
+      "自我驗證迴圈",
+      "Token經濟學"
+    ],
+    "description": "本影片探討「Agentic-First 軟體組織」的建構方法，核心痛點在於：多數企業已導入 AI 編碼助手，卻未能實現可量化的產出與品質提升。",
+    "quote": "💡「AI 不會創造新問題，它只會放大你已經有的問題。」",
+    "action": "🎯依C-V-O法則：強制100%程式碼覆蓋率、建立check script讓Agent自驗證並由CI強制執行、對每一行AI生成程式碼負起所有權。",
+    "image": "/images/AI筆記/agentic-first-software-organization.jpg",
+    "date": "2026-08-09",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 本影片探討「Agentic-First 軟體組織」的建構方法，核心痛點在於：多數企業已導入 AI 編碼助手，卻未能實現可量化的產出與品質提升。Lean TECHniques 提出，當 Agent 承擔 SDLC 大部分工作時，DORA 研究所定義的軟體交付基本功（快速回饋、自動化測試、程式碼審查）不僅不變，反而更加重要——它們是防止 AI 失控的護欄。關鍵貢獻在於：透過 100% 程式碼覆蓋率、check script、agent.md 設定檔、品質閘道等機制，將 AI 速度優勢（2x–10x）轉化為整個 SDLC 的系統性增益，同時維持人類對不可逆動作的把關。 [詳細重點整理] 1. Agentic-First 的定義與核心差異  Chatbot 回應，Agent 行動。 傳統聊天機器人僅提供建議（「這裡可能有問題」），而 Agent 會實際執行修復——修改程式碼、拉取日誌分析、提交 Pull Request。這代表從「prompt 到 PR」的典範轉移。多數組織擁有 AI 工具，但極少數已針對 Agent 重新設計流程。 關鍵概念：Agentic-First（代理優先",
+    "url": "/notes/agentic-first-software-organization"
+  },
+  {
     "id": "rewire-brain-success",
     "title": "重寫大腦：行為優先的神經可塑性法則",
     "category": "心理學",
