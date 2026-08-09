@@ -20,6 +20,26 @@
     "url": "/notes/ontology-design-drop-principles"
   },
   {
+    "id": "founder-scaling-slow-to-fast",
+    "title": "先慢後快：創業規模化的四塊拼圖",
+    "category": "影片筆記",
+    "tags": [
+      "第一性原理問題探索",
+      "規模化拐點",
+      "互補性創始團隊",
+      "Pod Lead試煉法",
+      "AI民主化與可防禦性"
+    ],
+    "description": "Ali Hussain 在 Latch 歷經從不到 10 人擴展到 500+ 人的規模化洗禮後，於 2023 年創立 Tabs，打造財務與會計 AI 代理。",
+    "quote": "💡「速度不是來自跑得快，而是來自起跑前就準備好。」",
+    "action": "🎯依 S-L-O-W 法則規模化：先摸清問題與ICP（Space），組互補創始團隊（Leaders），內部試煉育才（Ownership），確認可複製產品楔子（Wedge）。",
+    "image": "/images/影片筆記/founder-scaling-slow-to-fast.jpg",
+    "date": "2026-08-09",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Ali Hussain 在 Latch 歷經從不到 10 人擴展到 500+ 人的規模化洗禮後，於 2023 年創立 Tabs，打造財務與會計 AI 代理。他的核心論點是：「為了成長，有時必須先慢下來，才能跑得快」——在規模化前，先把問題理解、產品核心、ICP（理想客戶輪廓）與團隊組合這四塊拼圖拼好，雖然痛苦，但能讓後續一切加速。Tabs 在三年內達成 5 倍 ARR 成長、200+ 客戶、$55M Series B，驗證了「慢→快」的規模化哲學 。 [tabs](https://www.tabs.com/blog/tabs-raises-55M-series-b-to-launch-the-first-ai-agents-for-billing-and-collections) [詳細重點整理] 1. 慢即是快：規模化的前置作業  規模化前必須完成三項前置工作：理解目標領域的根問題、確認有可重複銷售的核心產品（而非純服務）、以及明確界定 ICP。Ali 在創立 Tabs 時，花了近 6 個月與近千名財務專業人士對談，找出最痛的痛點，而非急著寫程式。第一個投資人曾說「你要",
+    "url": "/notes/founder-scaling-slow-to-fast"
+  },
+  {
     "id": "rewire-brain-success",
     "title": "重寫大腦：行為優先的神經可塑性法則",
     "category": "心理學",
