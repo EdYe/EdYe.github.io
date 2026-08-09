@@ -80,6 +80,26 @@
     "url": "/notes/agentic-first-software-organization"
   },
   {
+    "id": "agent-auth-authority-over-credentials",
+    "title": "Agent Auth協議：用權限取代憑證",
+    "category": "AI筆記",
+    "tags": [
+      "身份冒充",
+      "權限分離",
+      "D-A-I三層架構",
+      "能力模型",
+      "即時撤權"
+    ],
+    "description": "Agent Auth 協議解決 AI Agent 時代最迫切的安全痛點：Agent 不應假扮使用者使用其憑證，而應擁有獨立身份與細粒度權限控制。",
+    "quote": "💡「停止給 Agent 你的鑰匙，給它們一張有你簽名的通行證——上面寫清楚能去哪裡、能做什麼、何時失效。」",
+    "action": "🎯依A-R-C法則：給Agent權限（Authority）不給憑證、確保每個Agent可獨立撤銷（Revocable）、用細粒度Capability取代粗粒度Scope（Capability-based）。",
+    "image": "/images/AI筆記/agent-auth-authority-over-credentials.jpg",
+    "date": "2026-08-09",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Agent Auth 協議解決了 AI Agent 時代最迫切的安全痛點：當 Agent 代為存取 Gmail、行事曆等服務時，傳統做法是讓 Agent「假扮使用者」使用其憑證，等同把 CEO 密碼交給新員工。此協議提出三大核心能力——可發現性（Discovery）、授權（Authorization）、身份（Identity），讓 Agent 成為獨立的主體（Principal），擁有自己的私鑰與能力清單，實現細粒度權限控制、完整稽核日誌與即時撤銷，從根本上改變 Agent 的安全範式 。 [youtube](https://www.youtube.com/) [詳細重點整理] 1. Agent 安全盲區  AI 浪潮中人們過度興奮，卻鮮少思考安全性。當你對 Agent 說「讀取我的郵件」「發送 email」時，Agent 實際上以你的身份在操作——它假扮成你，而非以自身身份行事。這與網際網路早期如出一轍：先狂歡，後才意識資安問題 。 [youtube](https://www.youtube.com/) 關鍵概念：身份冒充（Identity Impersonation）",
+    "url": "/notes/agent-auth-authority-over-credentials"
+  },
+  {
     "id": "rewire-brain-success",
     "title": "重寫大腦：行為優先的神經可塑性法則",
     "category": "心理學",
