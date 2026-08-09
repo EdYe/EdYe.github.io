@@ -40,6 +40,26 @@
     "url": "/notes/founder-scaling-slow-to-fast"
   },
   {
+    "id": "eval-driven-agent-iteration",
+    "title": "評估驅動的AI Agent迭代法",
+    "category": "影片筆記",
+    "tags": [
+      "Evals",
+      "獨立評論代理",
+      "Vibing直覺式開發",
+      "Agent Trace分析",
+      "品質爬坡迴圈"
+    ],
+    "description": "Google YouTube 廣告團隊分享如何透過 Evals（評估系統）與 Prompts 的迭代迴圈，打造可靠的生產級 AI Agent。",
+    "quote": "💡別讓單一失敗綁架你的 Prompt——要看模式，不是看個案。",
+    "action": "🎯每次 Prompt 或模型變更後，先跑 Golden Set 確認無回歸，再透過 Trace 分析定位新問題",
+    "image": "/images/影片筆記/eval-driven-agent-iteration.jpg",
+    "date": "2026-08-09",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Google YouTube 廣告團隊分享如何透過 Evals（評估系統） 與 Prompts 的迭代迴圈，打造可靠的生產級 AI Agent。核心痛點在於生成式 AI 輸出具非確定性，單靠 Prompt 無法穩定控制行為。團隊提出一套從「直覺式快速迭代」到「規模化評估」的漸進策略，涵蓋工具優化、獨立評論代理、Agent Trace 日誌分析、LLM-as-Judge 校準，以及上線回歸判定，形成完整的品質爬坡（Hill Climbing）迴圈。 [詳細重點整理] 1. Agent 建置基礎與評估必要性  構建 Agent 困難且耗時，讓它在生產環境中可靠運行更難。生成式 AI 輸出非確定性高，同樣輸入可能一次成功、一次失敗，無法保證在真實場景中的行為表現，因此需要 Evals 作為規模化測量與品質管控的手段。 關鍵概念：非確定性管控 2. 工具優化與獨立評論代理  在進入大規模 Agent 評估前，應先建立扎實的基礎： - 優化一組聚焦且 LLM 友善的工具集，確保工具本身效能最佳化 - 建立獨立評論代理（Critique Agent）搭配修復迴圈（Remediatio",
+    "url": "/notes/eval-driven-agent-iteration"
+  },
+  {
     "id": "cpo-regrets-product-management-exists",
     "title": "CPO後悔產品管理職位存在",
     "category": "學習筆記",
