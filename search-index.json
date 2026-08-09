@@ -40,6 +40,26 @@
     "url": "/notes/founder-scaling-slow-to-fast"
   },
   {
+    "id": "cpo-regrets-product-management-exists",
+    "title": "CPO後悔產品管理職位存在",
+    "category": "學習筆記",
+    "tags": [
+      "問題映射",
+      "PM劇場",
+      "Verify Then Trust",
+      "手風琴模型",
+      "Messi原則"
+    ],
+    "description": "Whatnot CPO Tom Verrilli 提出一個反直覺命題：「我們後悔產品管理這個職位存在」。核心論點並非否定 PM 價值，而是反對將 PM 視為團隊",
+    "quote": "💡「你為什麼不想讓 Messi 在場上踢球，而非一直讓青訓營上場？」",
+    "action": "🎯依V-T-G法則：Verify Then Trust（先驗證再信任）、Think Both Scales（同時鍛鍊macro與micro思維）、Go Play the Accordion（策略與出貨交替進行）。",
+    "image": "/images/學習筆記/cpo-regrets-product-management-exists.jpg",
+    "date": "2026-08-09",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Whatnot CPO Tom Verrilli 提出一個反直覺命題：「我們後悔產品管理這個職位存在」。核心論點並非否定 PM 價值，而是反對將 PM 視為團隊標準配置。隨著 AI 工具（如 Hex Threads、Claude Code）大幅降低 IC 的數據分析與代碼理解門檻，傳統「六工程師配一 PM」的 HR 比例模型已過時。Whatnot 以 21 位 PM 支撐數十億美元 GMV，將 PM 從團隊映射轉為問題映射，並推動高階 PM 回歸 IC 工作。過去五年被獎勵的「PM 劇場」——對齊會議、利益相關人管理——正被淘汰，真正耐久的是系統思考、客戶洞察與技術理解三位一體的核心能力。 [youtube](https://www.youtube.com/watch?v=ruvis-VWg2s) [詳細重點整理] 1. 為何「後悔 PM 存在」  產品管理並非天生必要——歷史上，創辦人與 CEO 直接與工程、設計團隊溝通並共同執行。隨著網路企業以前所未有的速度擴張，委派執行細節給專人成為權宜之計，但這催生了「專業決策階層」的概念。Whatnot 的立場是：若工程師與設計",
+    "url": "/notes/cpo-regrets-product-management-exists"
+  },
+  {
     "id": "agentic-first-software-organization",
     "title": "Agentic-First軟體組織建構法",
     "category": "AI筆記",
