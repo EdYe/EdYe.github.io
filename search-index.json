@@ -1,5 +1,25 @@
 [
   {
+    "id": "uncle-bob-ai-era-software-fundamentals",
+    "title": "Uncle Bob談AI時代的軟體基本功",
+    "category": "AI筆記",
+    "tags": [
+      "確定性工具",
+      "代理生命週期隔離",
+      "上下文中間遺失",
+      "深度模組",
+      "CRAP分析"
+    ],
+    "description": "Robert C. Martin（Uncle Bob）提出在 AI 編碼代理時代，軟體基本功依然關鍵。他不再閱讀代理生成的程式碼，而是在代理周圍建立極端約束機制",
+    "quote": "💡「讓代理擁有程式碼，而我處理圍繞程式碼的一切，確保它們都沒問題。」",
+    "action": "🎯建立規格→編碼→清理→硬化→QA的多代理流水線，以確定性工具（測試、CRAP、變異測試）取代steering指引作為代理的主要約束",
+    "image": "/images/AI筆記/uncle-bob-ai-era-software-fundamentals.jpg",
+    "date": "2026-08-20",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Robert C. Martin（Uncle Bob）提出在 AI 編碼代理時代，軟體基本功依然關鍵。他不再閱讀代理生成的程式碼，而是在代理周圍建立極端約束機制——單元測試、Gherkin 驗收測試、QA 流程、CRAP 分析、變異測試——讓代理跑完一條「品質關卡隧道」。核心洞察是：確定性工具勝過 steering 提示詞，而多代理分工流水線能控制上下文視窗、避免「中間遺失」效應，同時保持遠超人類的生產力。 [詳細重點整理] 1. 浴袍吐槽與程式設計啟蒙  Uncle Bob 從 1964 年 12 歲開始寫程式，以插管方式操作一台三-bit 有限狀態機模型。超過半世紀的程式設計生涯中，他撰寫了《Clean Code》等經典著作，成為軟體工程領域最具影響力的聲音之一。他近年以「浴袍吐槽」影片系列聞名——清晨六點穿著浴袍在陽台上對 SQL 注入等技術問題進行即興批評。 關鍵概念：抽象層級的演化 2. 與 AI 代理的初次接觸與「狗屎問題」  Uncle Bob 在 2025 年底接觸早期 Grock 代理，要求其寫程式碼後發現：代理速度快但常留下混亂。若不清理便繼續指派任務",
+    "url": "/notes/uncle-bob-ai-era-software-fundamentals"
+  },
+  {
     "id": "ontology-design-drop-principles",
     "title": "本體設計是工藝：Ontology四大原則",
     "category": "AI筆記",
