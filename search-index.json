@@ -20,6 +20,26 @@
     "url": "/notes/uncle-bob-ai-era-software-fundamentals"
   },
   {
+    "id": "what-owning-the-layer-costs",
+    "title": "擁有協調層的真實代價",
+    "category": "AI筆記",
+    "tags": [
+      "協調層",
+      "自建vs租用",
+      "鷹架成本",
+      "受治理的自主性",
+      "營運者技能"
+    ],
+    "description": "兩個月來我一直告訴你要擁有自己的協調層（Coordination Layer）。這裡是我漏掉的部分：它實際上要付出什麼代價，以及為什麼「兩天就建好」並不",
+    "quote": "💡「租用點狀解決方案。如果你真要擁有什麼，那就擁有那個監看所有解決方案的層。」",
+    "action": "🎯在複製這個結論之前，先在自己企業算一遍帳：只有當你會建造足夠多同類系統來攤提鷹架成本，或協調本身就是你的產品時，才值得自建，否則先租用。",
+    "image": "/images/AI筆記/what-owning-the-layer-costs.jpg",
+    "date": "2026-08-11",
+    "source_has_timestamps": false,
+    "body": "擁有協調層的真實代價 兩個月來我一直告訴你要擁有自己的協調層（Coordination Layer）。這裡是我漏掉的部分：它實際上要付出什麼代價，以及為什麼「兩天就建好」並不代表你必須先是一家軟體公司才能做到。 作者：Skip Marshall 2026 年 8 月 11 日 我漏掉的部分 [上週](https://businessandbuild.substack.com/p/pto-was-the-easy-one-to-explain)結尾時我承諾了兩件事：這一切底下的架構，以及「建立一個你自己擁有的層」而非「租用一個層」實際上要付出什麼代價。這兩件事都在這篇裡，另外還有一件我早該說的事。「連結（Connect）而非隔離（Isolate）」在「該瞄準什麼目標」這個問題上是正確的提問方式，但它並沒有回答「如何用低成本抵達那裡」，也沒有回答「自己動手建造這條路對你來說是不是正確的選擇」。那是另一個問題，而在我告訴你要擁有自己協調層的這兩個月裡，我一直跳過它。 感謝閱讀！免費訂閱以接收新文章並支持我們的工作。  「自建 vs. 租用」從來就不該是一條放諸四海皆準的通則。 只有在你為它附",
+    "url": "/notes/what-owning-the-layer-costs"
+  },
+  {
     "id": "ontology-design-drop-principles",
     "title": "本體設計是工藝：Ontology四大原則",
     "category": "AI筆記",
