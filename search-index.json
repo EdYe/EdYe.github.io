@@ -20,6 +20,26 @@
     "url": "/notes/uncle-bob-ai-era-software-fundamentals"
   },
   {
+    "id": "ai-coordination-layer-ownership-split",
+    "title": "你擁有什麼，我們保留什麼",
+    "category": "AI筆記",
+    "tags": [
+      "協調層",
+      "所有權切分",
+      "參考架構",
+      "MCP介面",
+      "出場測試"
+    ],
+    "description": "企業導入 AI 協調層時，最少有人談但最重要的問題是：這一層由誰擁有。作者提出五個保存狀態的參考架構（脈絡層、書面意圖、決策紀錄、關卡、MCP介面），並主張客戶應擁有脈絡、規則、代理與基礎設施，供",
+    "quote": "一個用猜的代理，比完全沒有代理更糟，因為它猜得很有自信。",
+    "action": "評估任何 AI 供應商前，先問「你離開時帶走什麼」，並追問他們保留的東西若你不是客戶還值不值錢。",
+    "image": "/images/AI筆記/ai-coordination-layer-ownership-split.jpg",
+    "date": "2026-08-20",
+    "source_has_timestamps": false,
+    "body": "你擁有什麼，我們保留什麼 --- Skip：那句我只給了一行篇幅的話 一個月前，Chuck 和我寫了一篇談「企業所依賴的協調層（coordination layer）由誰擁有」的文章，而我在中段寫下了這句：  客戶擁有這一層：脈絡（context）、規則、代理（agents）、基礎設施。我們保留方法論、參考架構（reference architecture）、可重用元件，以及遙測模型（telemetry model）。 一句話。然後我就像處理一件雜務那樣，逕自跳到下一個想法。 它不是雜務。  感謝閱讀！ 免費訂閱以接收新文章並支持我們的工作。  輸入你的 email…  訂閱 那句話是這份電子報裡商業意涵最重的一句，而寫完之後的四週，我一直在它周圍打轉，卻沒有真正切進去。 我向你展示了我們自己的作業系統。我向你展示了底下的金流與業務管道（pipeline）。上週我告訴你，真正擁有其中任何一塊要付出什麼代價，以及這筆帳何時會翻轉。上面每一篇文章的結尾都承諾要談架構，而每一篇交付的都是架構旁邊的東西。 所以，架構在這裡。而我想把大部分篇幅交給 Chuck，因為有意思的部分是結構性的，而那是",
+    "url": "/notes/ai-coordination-layer-ownership-split"
+  },
+  {
     "id": "what-owning-the-layer-costs",
     "title": "擁有協調層的真實代價",
     "category": "AI筆記",
