@@ -1,5 +1,25 @@
 [
   {
+    "id": "coding-agents-dont-scale-themselves",
+    "title": "Coding Agent時代的團隊轉型心法",
+    "category": "AI筆記",
+    "tags": [
+      "黑暗工廠",
+      "上下文工程",
+      "人類觸碰次數",
+      "共享複用率",
+      "知識護城河"
+    ],
+    "description": "本演講核心論點為：Coding Agent 的 harness 與 loop 終將商品化，真正的競爭優勢不在技術本身，而在團隊、平台與組織的變革能力。",
+    "quote": "「停止建造東西，建造那個建造東西的東西。」—— 不是單一超級開發者會贏得比賽，而是在不同組織層級持續改善的團隊。",
+    "action": "🎯落實 S-S-O 法則：修系統而非修產出、共享複用而非單打獨鬥、優化花費與人才評估而非設限。",
+    "image": "/images/AI筆記/coding-agents-dont-scale-themselves.jpg",
+    "date": "2026-08-22",
+    "source_has_timestamps": true,
+    "body": "Coding Agents Don't Scale Themselves. Neither Do Your Teams. 講者： Patrick Debois（Tessl） 來源： AI Engineer 日期： 2026-08-22 --- [核心摘要] 本演講核心論點為：Coding Agent 的 harness 與 loop 終將商品化，真正的競爭優勢不在技術本身，而在團隊、平台與組織的變革能力。Patrick Debois 以 2009 年推動持續交付時遭遇的質疑為類比，指出「在我們這裡行不通」的抗拒訊號，實際反映的是組織尚未準備好，而非技術不可行。他提出從「修復 Agent 產出的程式碼」轉向「改善系統本身」的思維範式轉移，並追蹤兩個關鍵指標——人類觸碰次數與共享複用率——來衡量團隊在 Agent 時代的成熟度，最終指向將組織知識轉化為可複用資產，從持續交付邁向持續學習。 --- [詳細重點整理] 1. 「在我們這裡行不通」的訊號解讀  2009 年推動持續交付（Continuous Delivery）時，多數人認為這個想法瘋狂。如今推動黑暗工廠（Dark Factory）",
+    "url": "/notes/coding-agents-dont-scale-themselves"
+  },
+  {
     "id": "uncle-bob-ai-era-software-fundamentals",
     "title": "Uncle Bob談AI時代的軟體基本功",
     "category": "AI筆記",
