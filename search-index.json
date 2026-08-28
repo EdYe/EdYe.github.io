@@ -20,6 +20,26 @@
     "url": "/notes/why-most-cant-retire-at-57"
   },
   {
+    "id": "agentic-sdlc-at-uber",
+    "title": "Uber 代理式軟體工廠的六層基礎設施",
+    "category": "AI筆記",
+    "tags": [
+      "模型閘道",
+      "Token稅優化",
+      "情境圖譜",
+      "技能市集",
+      "驗證前移"
+    ],
+    "description": "Uber 在 agentic AI 軟體工廠的實踐中，已讓超過 70% 的 PR 由本地或雲端代理程式生成，每位工程師的程式碼產出年增一倍。",
+    "quote": "「能建不代表該建——當建置成本趨近於零，判斷力就是唯一稀缺的運算資源。」",
+    "action": "🎯依序檢視 G-M-S-C-K 五層是否就位：閘道、MCP 工具編排、技能市集、情境圖譜、知識迴圈。",
+    "image": "/images/AI筆記/agentic-sdlc-at-uber.jpg",
+    "date": "2026-08-28",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Uber 在 agentic AI 軟體工廠的實踐中，已讓超過 70% 的 PR 由本地或雲端代理程式生成，每位工程師的程式碼產出年增一倍。其核心貢獻在於建構六層基礎設施——模型閘道、MCP 閘道、代理化 DevPod、技能市集、情境圖譜與 Cortana 助理——系統性解決了代理程式在大型 monorepo 環境下的安全性、Token 消耗、上下文取得與工具編排等痛點，將原本分散於 20-30 套系統的工程知識收斂為統一、可歸因、可治理的代理程式執行平台。 [詳細重點整理] 1. 效能數據：70% PR 來自代理程式  Uber 擁有數千名工程師，分布於 12 個全球技術據點。過去一年在 agentic AI 的投入帶來三項關鍵成果：超過 70% 的 PR 由本地或雲端代理程式提交、每位工程師的程式碼行數年增一倍、完成超過 250 項自動化遷移，涵蓋 900 萬行程式碼。六年前將程式碼庫遷移至 monorepo 並採用 Bazel 的基礎工程，為此加速奠定了根基。 關鍵概念：Agentic SDLC（代理式軟體開發生命週期） 2. 模型閘道與 100 毫秒護欄預算  所",
+    "url": "/notes/agentic-sdlc-at-uber"
+  },
+  {
     "id": "coding-agents-dont-scale-themselves",
     "title": "Coding Agent時代的團隊轉型心法",
     "category": "AI筆記",
