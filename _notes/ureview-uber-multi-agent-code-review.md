@@ -8,6 +8,7 @@ description: 'Uber 因工程師數量龐大、PR 體積與數量暴增，首次�
 quote: '「與其消滅外迴圈，不如擴展它 — 將人類的責任從實作細節提升至架構與產品思維。」'
 action: '🎯依序建立 S-A-T 三層觀測：情緒分析定位缺陷類別、回應率驗證意見價值、代理軌跡調校執行效能。'
 source_has_timestamps: true
+source_raw: uReview
 ---
 # Building uReview：Uber 多代理程式碼審查引擎
 
