@@ -20,6 +20,26 @@
     "url": "/notes/ureview-uber-multi-agent-code-review"
   },
   {
+    "id": "ai-assisted-to-ai-native-frontier-team",
+    "title": "從 AI 輔助到 AI 原生：打造前沿開發團隊",
+    "category": "AI筆記",
+    "tags": [
+      "前沿開發",
+      "放手編碼",
+      "上下文修剪",
+      "先慢後快",
+      "決策速度瓶頸"
+    ],
+    "description": "AWS 資深首席工程師 Clare Liguori 揭示 Amazon 內部「前沿開發」實踐：50 個團隊長達一年的對照實驗證明，90% 使用相同工具，卻只有半數達到 4.5 倍以上部署速度提升。",
+    "quote": "「工具不是變數，工作方式才是——把 AI 撒在舊習慣上，只會得到舊速度。」",
+    "action": "🎯依 FIRST 法則落地：餵養 Agent 而非保姆、意圖先行寫規格、重構程式碼庫、測試左移建本地 Mock、持續修剪上下文。",
+    "image": "/images/AI筆記/ai-assisted-to-ai-native-frontier-team.png",
+    "date": "2026-08-29",
+    "source_has_timestamps": true,
+    "body": "從 AI 輔助到 AI 原生：打造前沿開發團隊 講者：Clare Liguori（AWS 資深首席工程師，Kuro/Kiro Agent 編碼助理）｜2026.08.28｜20:57 [核心摘要] AWS 資深首席工程師 Clare Liguori 揭示 Amazon 內部「前沿開發（Frontier Development）」實踐：50 個團隊長達一年的對照實驗證明，90% 使用相同工具，卻只有半數達到 4.5 倍以上部署速度提升。關鍵差異不在工具，而在是否刻意改變工作方式。她提出五大習慣——投資 Agent 上下文、先慢後快、餵養而非保姆式協作、意圖先行、測試左移——將 AI 從輔助提升為原生開發模式，並指出決策速度已取代寫程式碼成為新瓶頸。 [詳細重點整理] 1. AI 編碼的四階段演化  AI 編碼助理經歷四個階段：行內程式碼補全（寫下一行/下一個函式）→ 聊天問答（對程式碼提問）→ Vibe Coding（自然語言驅動生成）→ 前沿開發（Frontier Development）。Liguori 坦言在前三個階段，她個人僅感受到 10–20% 的生產力提升。但進入前沿開發階段",
+    "url": "/notes/ai-assisted-to-ai-native-frontier-team"
+  },
+  {
     "id": "why-most-cant-retire-at-57",
     "title": "為什麼多數人無法及時退休：57歲的黃金交會點",
     "category": "影片筆記",
