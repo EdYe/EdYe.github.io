@@ -40,6 +40,26 @@
     "url": "/notes/figma-org-adopt-coding-agents"
   },
   {
+    "id": "ai-native-org-run-on-skills",
+    "title": "AI 原生組織靠 Skills 運轉：治理與規模化",
+    "category": "AI筆記",
+    "tags": [
+      "技能治理鴻溝",
+      "代理式軟體堆疊",
+      "漸進式揭露",
+      "技能技術債",
+      "C-V-G法則"
+    ],
+    "description": "AI 原生組織的真正競爭力不在於模型能力，而在於「技能（Skills）」如何被結構化、治理與規模化。在代理式工作流中，唯一真正承載組織 know-how 的層級正是 skills。",
+    "quote": "「沒有治理的技能不是資產，而是另一種技術債；確定性從來不來自模型，而來自結構化的知識。」",
+    "action": "🎯依 C-V-G 法則落地：建立附 metadata 與 owner 的可搜尋技能目錄、做版本與生命週期管理讓 harness 自動拉取最新版、由 architects 與 infra／cyber leads 各自認領領域制定 policies。",
+    "image": "/images/AI筆記/ai-native-org-run-on-skills.png",
+    "date": "2026-08-29",
+    "source_has_timestamps": true,
+    "body": "AI-Native Organisations Run on Skills: How to Structure and Scale Them 講者： Imad Touil（QuantumBlack, Distinguished Engineer） 來源： AI Engineer, 2026-08-28 時長： 20:30 --- [核心摘要] AI 原生組織的真正競爭力不在於模型能力，而在於「技能（Skills）」如何被結構化、治理與規模化。在代理式工作流中，hooks 僅回應事件、sub-agents 只保護 context window、MCP servers 幾乎無人自建——唯一真正承載組織 know-how 的層級是 skills。若缺乏治理，skills 會演化為新一類技術債；若妥善治理，則讓知識變得可執行、可移植、成本低廉，並使工作流具備確定性。 --- [詳細重點整理] 1. 三個問題的舉手表態  以三個遞進問題開場：誰建過 skills？（多數人舉手）→ 誰在團隊內共享？（人數減少）→ 誰在組織層級治理與維護？（寥寥無幾）。這個遞減序列正是整場演講的核心問題意識。 關鍵",
+    "url": "/notes/ai-native-org-run-on-skills"
+  },
+  {
     "id": "ai-assisted-to-ai-native-frontier-team",
     "title": "從 AI 輔助到 AI 原生：打造前沿開發團隊",
     "category": "AI筆記",
