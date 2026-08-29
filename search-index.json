@@ -20,6 +20,26 @@
     "url": "/notes/ureview-uber-multi-agent-code-review"
   },
   {
+    "id": "figma-org-adopt-coding-agents",
+    "title": "Figma：讓組織採用編碼 Agent 而不產出垃圾",
+    "category": "AI筆記",
+    "tags": [
+      "心智膠帶負載",
+      "左移驗證",
+      "規劃優於提示",
+      "注意力感知溝通",
+      "P-V-M法則"
+    ],
+    "description": "Figma 推動 AI Agent 採用時發現一個反直覺現象：最強的工程師往往最晚採用，因為他們正是用「心智膠帶」撐起整個程式碼庫、最先看見 Agent 失敗模式的人。",
+    "quote": "「計畫給一週，Agent 給一夜。」",
+    "action": "🎯依 P-V-M 法則落地：規劃拆成可獨立驗證的小單元、把能確定化的檢查左移到工具與 Agent、所有溝通一律標記人寫 vs AI 寫。",
+    "image": "/images/AI筆記/figma-org-adopt-coding-agents.png",
+    "date": "2026-08-29",
+    "source_has_timestamps": true,
+    "body": "How to Get Your Org to Adopt Coding Agents (Without Shipping Garbage) 講者： Eyal Blum（Figma 軟體工程師） 場合： AI Engineer 大會，2026/08/28 時長： 17:42 --- [核心摘要] Figma 內部推動 AI Agent 採用時發現一個反直覺現象：最強的工程師往往最晚採用，因為他們是用「心智膠帶」撐起整個程式碼庫的人，最先看到 Agent 的失敗模式。Eyal 的解法不是說服他們用 AI，而是把這群懷疑者的抱怨轉化為「驗證路線圖」——當修復讓他們自己的工作變輕鬆，他們自然會跟上。整套方法論圍繞三件事：左移驗證、規劃優於提示、注意力感知溝通，核心痛點是「在不毀掉程式碼品質的前提下，讓組織規模化採用 Agent」。 --- [詳細重點整理] 1. AI 採用的三幕劇  組織與個人採用 AI 都會經歷三個階段： - 第一幕：隨手試用，簡單任務獲得 10x 加速，建立初步信任。 - 第二幕：把同樣做法套到更大的問題上，AI 大量出錯、產生 bug，信任崩塌。 - 第三幕：從失敗中建",
+    "url": "/notes/figma-org-adopt-coding-agents"
+  },
+  {
     "id": "ai-assisted-to-ai-native-frontier-team",
     "title": "從 AI 輔助到 AI 原生：打造前沿開發團隊",
     "category": "AI筆記",
