@@ -1,5 +1,25 @@
 [
   {
+    "id": "ureview-uber-multi-agent-code-review",
+    "title": "uReview：Uber 多代理程式碼審查引擎",
+    "category": "AI筆記",
+    "tags": [
+      "意見去重",
+      "代理軌跡",
+      "確定性路由",
+      "氣穴效應",
+      "外迴圈升維"
+    ],
+    "description": "Uber 因工程師數量龐大、PR 體積與數量暴增，首次審查等待時間從 2024 年的 3 小時惡化至 2026 年的 9 小時，使程式碼審查成為研發瓶頸。",
+    "quote": "「與其消滅外迴圈，不如擴展它 — 將人類的責任從實作細節提升至架構與產品思維。」",
+    "action": "🎯依序建立 S-A-T 三層觀測：情緒分析定位缺陷類別、回應率驗證意見價值、代理軌跡調校執行效能。",
+    "image": "/images/AI筆記/ureview-uber-multi-agent-code-review.png",
+    "date": "2026-08-29",
+    "source_has_timestamps": true,
+    "body": "Building uReview：Uber 多代理程式碼審查引擎 講者： Will Bond & Ameya Ketkar (Uber) 來源： AI Engineer 演講，2026 年 8 月 28 日 [核心摘要] Uber 因工程師數量龐大、PR 體積與數量暴增，首次審查等待時間從 2024 年的 3 小時惡化至 2026 年的 9 小時，使程式碼審查成為研發瓶頸。為此 Uber 自建 uReview 多代理審查系統，核心動機在於主流廠商不支援 Phabricator，且需讓 AI 代理在 內迴圈 中接受與人類完全一致的審查規則。系統每週產出約 25,000 條審查意見，67% 被開發者實際處理，成本較初始版本下降 60%，品質與準確度提升 70%，並將工程師的角色從實作細節審查提升至架構與產品思維層次。 [詳細重點整理] 1. 程式碼審查成為研發瓶頸  Uber 擁有數千名工程師、數百個團隊、12 個據點、6 個語言專屬 monorepo。過去 24 個月 PR 的數量與體積持續增長，首次審查時間從 2024 年的 3 小時惡化至 2026 年的 9 小時，程式碼審查正式成為",
+    "url": "/notes/ureview-uber-multi-agent-code-review"
+  },
+  {
     "id": "why-most-cant-retire-at-57",
     "title": "為什麼多數人無法及時退休：57歲的黃金交會點",
     "category": "影片筆記",
