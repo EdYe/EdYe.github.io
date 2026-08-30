@@ -148,7 +148,7 @@ uReview 每週發出約 25,000 條審查意見：
 
 ## [參考連結]
 
-- 原始 YouTube 影片：https://youtu.be/EL123UNokkI
+- 原始 YouTube 影片：[https://youtu.be/EL123UNokkI](https://youtu.be/EL123UNokkI)
 - 講者 Will Bond：[X](https://x.com/wbond) / [LinkedIn](http://linkedin.com/in/wbond)
 - 講者 Ameya Ketkar：[LinkedIn](https://www.linkedin.com/in/ameya-ketkar) / [Google Scholar](https://scholar.google.com/citations?user=6JO46GMAAAAJ&hl=en)
 
@@ -160,7 +160,7 @@ uReview 每週發出約 25,000 條審查意見：
 > **作者**：Shauvik Roy Choudhary、Sonal Mahajan（Staff Engineer）、Joseph Wang、Akshay Utture、Will Bond
 > **分類**：工程（Engineering）／資料（Data）／AI 與機器學習（AI / ML）
 
-![文章標題圖：uReview — Uber 的 AI 程式碼審查平台](https://tb-static.uber.com/prod/udam-assets/fe876c66-807e-54e8-aa41-f604ddb7e56f.png)
+<img src="https://tb-static.uber.com/prod/udam-assets/fe876c66-807e-54e8-aa41-f604ddb7e56f.png" width=500>
 
 ---
 
@@ -174,7 +174,7 @@ AI 程式碼審查的主要挑戰在於**誤報（false positives）**，其來�
 
 目前 uReview 分析了 Uber 每週約 65,000 個 diff（相當於 pull request）中超過 90% 的變更。與這項工具互動的工程師將其中 75% 的留言標記為「有用」，而我們也觀察到超過 65% 已發布的留言被實際處理。圖 1 展示了 uReview 抓到的一個「指標數值錯誤」的範例。
 
-![圖 1：uReview 抓到的指標數值錯誤（incorrect metric bug）](https://tb-static.uber.com/prod/udam-assets/a898698b-6e21-5e5e-ad71-b2d55fa5013c.png)
+<img src="https://tb-static.uber.com/prod/udam-assets/a898698b-6e21-5e5e-ad71-b2d55fa5013c.png" width=500>
 
 *圖 1：uReview 抓到的指標數值錯誤。*
 
@@ -184,7 +184,7 @@ AI 程式碼審查的主要挑戰在於**誤報（false positives）**，其來�
 
 uReview 是一套模組化、多階段的 GenAI 系統，用於在 Uber 的各個工程平台上自動化並強化程式碼審查。它以**提示鏈（prompt-chaining）**為基礎的架構，將程式碼審查任務拆解為四個較簡單的子任務——留言產生、過濾、驗證、去重複——讓每個子任務都能獨立演進。以下逐一說明。
 
-![圖 2：uReview 的處理流程（pipeline）](https://tb-static.uber.com/prod/udam-assets/b4413453-80e2-5d89-8aca-bec46d4c4841.png)
+<img src="https://tb-static.uber.com/prod/udam-assets/b4413453-80e2-5d89-8aca-bec46d4c4841.png" width=500>
 
 *圖 2：uReview 的流程管線（pipeline）。*
 
