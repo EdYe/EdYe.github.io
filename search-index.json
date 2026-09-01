@@ -1,5 +1,25 @@
 [
   {
+    "id": "dhh-agentic-engineering",
+    "title": "DHH：從 AI 懷疑者到 100% 代理派",
+    "category": "AI筆記",
+    "tags": [
+      "代理分水嶺",
+      "品味瓶頸",
+      "策略性模糊",
+      "計畫可攜性",
+      "溫度即創造力"
+    ],
+    "description": "DHH（Ruby on Rails 之父、37signals CTO）在 13 個月內從 AI 懷疑者翻轉為 100% 代理派：自 2025/11/24 Opus 4.5 起，Agent 從自動補全進化到自選路徑。",
+    "quote": "「無法認知此刻重量的人，才是活在妄想裡。」——不承認世界已經天翻地覆，才是真正的精神病。",
+    "action": "🎯依 P-P-R 法則實踐：Problem 只描述問題與期望結果、善用策略性模糊；Prototype 先做最小版本親自使用再迭代；Review 實作用 A 家模型、審查用 B 家獨立來源，不受信任的代碼一律在隔離 VM 執行。",
+    "image": "/images/AI筆記/dhh-agentic-engineering.jpg",
+    "date": "2026-09-01",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] DHH(Ruby on Rails 之父、37signals CTO)在 13 個月內從 AI 懷疑者翻轉為 100% 代理派：自 2025/11/24 Opus 4.5 起，Agent 從自動補全進化到自選路徑。他以零手寫程式碼、純品味導航，三個月打造出 Linux 發行版 Omarchy Quattro。核心翻轉：實作趨近免費，稀缺的只剩願景、品味與判斷力。 [youtube](https://www.youtube.com/watch?v=NYFGCESmikA) [詳細重點整理] 1. 三階段代理演化：從自動補全到全權委託  - 前代理時代：聊天機器人是好導師，但不改變「親手鑿程式碼」的工作本質 [lexfridman](https://lexfridman.com/dhh-2-transcript) - 2025/11/24 Opus 4.5 分水嶺：模型未必更聰明，躍進的是 harness——工具使用、自我檢查、儀器化電腦的能力，讓產出「近乎自己親手寫的」 [startuphub](https://www.startuphub.ai/ai-news/artif",
+    "url": "/notes/dhh-agentic-engineering"
+  },
+  {
     "id": "ureview-uber-multi-agent-code-review",
     "title": "uReview：Uber 多代理程式碼審查引擎",
     "category": "AI筆記",
