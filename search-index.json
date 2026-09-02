@@ -20,6 +20,26 @@
     "url": "/notes/semantic-layer-ontology-trusted-ai"
   },
   {
+    "id": "ai-native-sdlc-playbook",
+    "title": "AI 原生 SDLC 實戰手冊：六階段戰術集",
+    "category": "AI筆記",
+    "tags": [
+      "已提交產出物",
+      "意圖擷取",
+      "計畫模式",
+      "代理式審查",
+      "閉合迴圈"
+    ],
+    "description": "程式碼不再是瓶頸，瓶頸移轉到建置階段的左右兩側。AI 原生 SDLC 把六階段從線性流程改造成迴圈，每階段以提交一份版本控管產出物作結，下一階段讀取它。",
+    "quote": "迴圈持續運轉。人類判斷力，始終在它之上。——每個階段都提交一份下個階段可讀取的產出物；意圖、規格、計畫、diff 與審查發現，合起來就是稽核軌跡。",
+    "action": "🎯從相依圖中任一「黏土色」無前置條件的戰術起步：先把構想擷取成版本控管的 intent.md，用 CLAUDE.md 與技能固化制度知識，再以 hooks 把治理下放到代理行動的當下。",
+    "image": "/images/AI筆記/ai-native-sdlc-playbook.jpg",
+    "date": "2026-09-02",
+    "source_has_timestamps": false,
+    "body": "AI 原生 SDLC 實戰手冊（The AI-Native SDLC Playbook）  原文出處：[claude.com/blog/the-ai-native-sdlc-playbook](https://claude.com/blog/the-ai-native-sdlc-playbook)  作者：Louis Claxton  發布日期：2026 年 8 月 21 日  分類：企業 AI（Enterprise AI）、Claude Code  閱讀時間：5 分鐘 如何一階段一階段地，用 AI 徹底改造你的軟體開發生命週期。 --- 程式碼不再是瓶頸 各組織已經開始用 AI 以一年前無法想像的速度撰寫程式碼，然而圍繞在程式碼周邊的流程，卻沒有以同樣的速度改變。 許多工程團隊仍然沿用相同的核准關卡、審查、交接與政策，這些都在拖累使用 [Claude Code](https://claude.com/product/claude-code) 這類代理式（agentic）編碼方案所帶來的生產力提升。 軟體開發生命週期（SDLC, Software Development Lifecyc",
+    "url": "/notes/ai-native-sdlc-playbook"
+  },
+  {
     "id": "dhh-agentic-engineering",
     "title": "DHH：從 AI 懷疑者到 100% 代理派",
     "category": "AI筆記",
