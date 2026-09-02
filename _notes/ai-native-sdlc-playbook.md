@@ -40,7 +40,7 @@ source_raw: AI-native Software Development Life Cycle
 - **控管機制與現實脫節，變得難以維持。** 當程式碼是由人寫的，逐行手動審查是合理的；但一旦大部分 diff 都由代理產出，這種方式就跟不上了。
 - **治理成本上升**，因為例外狀況仍需要走每週或每月才開一次的會議與委員會流程。
 
-![建置不再是限制因素](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a8739a1b934ffe55bfc9715_44592f18.png)
+<img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a8739a1b934ffe55bfc9715_44592f18.png" width=600/>
 
 *圖說：建置不再是限制因素——圍繞在它周邊、以人類速度運行的步驟才是。人類速度的階段長度維持不變，而建置階段則壓縮到以小時計。*
 
@@ -68,7 +68,7 @@ AI 原生 SDLC（AI-native SDLC）是一個重新想像過的流程，它把舊�
 
 你也會聽到有人把這個轉變稱為代理式 SDLC（agentic SDLC）、AI SDLC，或單純叫做代理式軟體開發（agentic software development）——名稱不同，指的是同一件事。
 
-![AI 原生 SDLC 的循環流程圖](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a8858c2eccce183e7553cf2_53b010df.png)
+<img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a8858c2eccce183e7553cf2_53b010df.png" width=600/>
 
 *圖說：AI 原生 SDLC 的六階段迴圈架構。*
 
@@ -111,7 +111,7 @@ AI 原生 SDLC（AI-native SDLC）是一個重新想像過的流程，它把舊�
 
 一開始，你會手動提示每一個步驟；而終局狀態則是一個迴圈——每一份被接受的產出物都會觸發下一道關卡。人類的注意力集中在這些關卡上，審查代理標記出來的內容，而不是從零開始每一個階段。
 
-![戰術相依關係圖](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a8855c75344623fc81efcb8_5d5a3c05.png)
+<img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a8855c75344623fc81efcb8_5d5a3c05.png" width=600/>
 
 *圖說：戰術依所屬階段列出；箭頭則指出採用它們的順序。兩者並不相同。可以從任何一個「黏土色（clay）」戰術開始——沒有箭頭指向它，所以它不需要任何前置條件。對於其他任何戰術，指向它的箭頭就是必須先採用的戰術。*
 
@@ -1161,7 +1161,7 @@ Claude Security 以公開 beta 形式提供給 Claude Enterprise 組織。它需
 
 事故並不是 Claude Tag 唯一接手的工作。透過 MCP 在票證上被標記，或在頻道中被詢問時，Claude 都以相同方式分診工作。小而範圍明確的修正以 PR 形式走過審查關卡，任何更大的東西則寫成 `intent.md` 進入階段 1：規劃——到這個時候，迴圈就開始自我餵養了。參見：[Claude Tag 如何在 Anthropic 為 CI/CD 值班](https://claude.com/blog/ai-ci-cd-on-call)。
 
-![頻道就是稽核軌跡](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a8760aded54a2a8319cd5b9_fe6d780d.png)
+<img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a8760aded54a2a8319cd5b9_fe6d780d.png" width=600/>
 
 *圖說：頻道就是稽核軌跡：請求、診斷、人工授權與修正，全都留在事故被處理的地方。*
 
