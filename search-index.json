@@ -20,6 +20,26 @@
     "url": "/notes/semantic-layer-ontology-trusted-ai"
   },
   {
+    "id": "intent-md-ai-native-sdlc",
+    "title": "Claude Code 的 INTENT.MD：AI 原生 SDLC 工件鏈",
+    "category": "AI筆記",
+    "tags": [
+      "AI原生SDLC",
+      "intent.md",
+      "工件鏈",
+      "發佈閘門",
+      "事件驅動維護"
+    ],
+    "description": "Anthropic 發布《AI 原生 SDLC 指南》：代理壓縮建置成本（約 2 倍速）後，瓶頸已從程式碼移轉到交付流程本身。解法是以 intent.md 啟動「意圖→規格→計畫」工件鏈，靠 Hook、Evals 與發佈閘門治理全流程。",
+    "quote": "程式碼已不再是瓶頸——你的交付流程才是；AI 時代的競爭，是流程設計的競爭。",
+    "action": "🎯依 I-S-P-G 法則：Intent 先讓代理訪談你、把腦中意圖寫成 intent.md 才動工；Spec 意圖簽核後用 Hook 自動派生規格；Plan 把計畫逼問到「可獨立交接」的自足狀態；Gate 每次推進都過決定性閘門（Lint、測試、Evals、發佈核准）。",
+    "image": "/images/AI筆記/intent-md-ai-native-sdlc.jpg",
+    "date": "2026-09-02",
+    "source_has_timestamps": true,
+    "body": "影片資訊：Rob Shocks 頻道・2026-09-01・長度 16:21 [核心摘要] Anthropic 發布《AI 原生 SDLC 指南》：代理壓縮建置成本（約 2 倍速）後，瓶頸已從程式碼移轉到交付流程本身。解法是以 intent.md 啟動「意圖→規格→計畫」工件鏈，靠 Hook、Evals 與發佈閘門治理全流程，再以事件驅動實現代理自主維護，人類只留守關鍵審查點，解決 AI 產能爆發、流程卻跟不上的痛點。 [youtube](https://www.youtube.com/watch?v=LoMOPj-lO8U) [詳細重點整理] 1. AI 原生 SDLC 範式轉移  - 傳統 SDLC 為「規劃→設計→建置→測試→部署→維護」的循環，其中建置階段最耗時、最昂貴；代理（agent）出現後，這段被大幅壓縮，團隊速度提升約 2 倍。 - 核心命題翻轉：程式碼已不再是瓶頸，你的軟體交付流程才是——下一步是把代理擴散到其餘所有階段，持續壓縮每個環節的人力時間。 關鍵概念：瓶頸移轉（Bottleneck Shift） 2. Intent.md 發現階段  - 傳統規劃靠需求會議、",
+    "url": "/notes/intent-md-ai-native-sdlc"
+  },
+  {
     "id": "ai-native-sdlc-playbook",
     "title": "AI 原生 SDLC 實戰手冊：六階段戰術集",
     "category": "AI筆記",
