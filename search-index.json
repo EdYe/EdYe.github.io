@@ -1,5 +1,25 @@
 [
   {
+    "id": "semantic-layer-ontology-trusted-ai",
+    "title": "語意層與本體論：打造可信賴 AI 的地基",
+    "category": "AI筆記",
+    "tags": [
+      "可信賴AI",
+      "情境層",
+      "能力問題",
+      "語意壓縮",
+      "AI冰山"
+    ],
+    "description": "可信賴 AI 的瓶頸不在模型，而在語意基礎建設：LLM 參數層天生已剝除資料出處，檢索層（語意層＋知識圖譜）是補回情境與血脈的唯一機會。",
+    "quote": "模型是人人買得到的商品；你的 ontology 是組織的數位指紋——偷不走，更外包不得。AI 時代的護城河，不在你能買到什麼模型，而在你連得起什麼資料。",
+    "action": "🎯依 C-Q-O 法則：Case 挑一個答錯代價最高且 ROI 可證明的小用例；Questions 用該部門商業語言寫下 10–15 個能力問題；Ontology 只為這些問題建最小 ontology，接上檢索層、量測準確度後迭代。",
+    "image": "/images/AI筆記/semantic-layer-ontology-trusted-ai.jpg",
+    "date": "2026-09-02",
+    "source_has_timestamps": true,
+    "body": "影片資訊：《How Semantic Layers and Ontologies Create Trusted AI》— ThoughtSpot《The Data & AI Chief》Podcast 第 135 集（2026-04-22，53 分 20 秒）。主持人 Cindi Howson（ThoughtSpot 首席資料與 AI 策略長），來賓為 Jessica Talisman（The Ontology Pipeline 創辦人、前 Adobe 資深資訊架構師）與 Tony Seale（The Knowledge Graph Guys 創辦人）。 [youtube](https://www.youtube.com/watch?v=P7fRamgIWqI) [核心摘要] 可信賴 AI 的瓶頸不在模型，而在語意基礎建設：LLM 參數層天生已剝除資料出處，檢索層（語意層＋知識圖譜）是補回情境與血緌的唯一機會。企業應以能力問題驅動、從小用例建 ontology——它是組織的「數位指紋」，在 AI 商品化時代更是不可外包的唯一護城河 。 [youtube](https://www.you",
+    "url": "/notes/semantic-layer-ontology-trusted-ai"
+  },
+  {
     "id": "dhh-agentic-engineering",
     "title": "DHH：從 AI 懷疑者到 100% 代理派",
     "category": "AI筆記",
