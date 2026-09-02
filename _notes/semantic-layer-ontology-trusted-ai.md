@@ -14,7 +14,7 @@ source_raw: How Semantic Layers and Ontologies Create Trusted AI
 
 ## [核心摘要]
 
-可信賴 AI 的瓶頸不在模型，而在語意基礎建設：LLM 參數層天生已剝除資料出處，檢索層（語意層＋知識圖譜）是補回情境與血緌的唯一機會。企業應以能力問題驅動、從小用例建 ontology——它是組織的「數位指紋」，在 AI 商品化時代更是不可外包的唯一護城河 。 [youtube](https://www.youtube.com/watch?v=P7fRamgIWqI)
+可信賴 AI 的瓶頸不在模型，而在語意基礎建設：LLM 參數層天生已剝除資料出處，檢索層（語意層＋知識圖譜）是補回情境與血脈的唯一機會。企業應以能力問題驅動、從小用例建 ontology——它是組織的「數位指紋」，在 AI 商品化時代更是不可外包的唯一護城河 。 [youtube](https://www.youtube.com/watch?v=P7fRamgIWqI)
 
 ## [詳細重點整理]
 
@@ -72,11 +72,11 @@ source_raw: How Semantic Layers and Ontologies Create Trusted AI
 - 時代論：工業時代＝機器隱喻與箱子；AI 時代＝網路形狀，緊抓箱形思維者將被拋下 [34:26]
 - 關鍵概念：**語意壓縮（Semantic Compression）** [youtube](https://www.youtube.com/watch?v=P7fRamgIWqI)
 
-8. 補上出處缺口：資料血緌 [34:19]
+8. 補上出處缺口：資料血脈 [34:19]
 - LLM 雙層結構：參數層（出廠即以網路訓練，出處大多已被剝除）＋檢索層（RAG 等）——檢索層是注入 context 與 provenance 的唯一機會 [35:30]
-- 千年知識生態靠 provenance 演化（站在巨人肩膀上）；LLM 會抄襲且未必告知，接收其輸出若不保留出處，等於切斷知識演化血緌 [36:44]
+- 千年知識生態靠 provenance 演化（站在巨人肩膀上）；LLM 會抄襲且未必告知，接收其輸出若不保留出處，等於切斷知識演化血脈 [36:44]
 - 圖書資訊學已有數世紀的 scholarly communication 傳統；圖書館目錄本身就有 ontology 骨幹，連結 Wikipedia、Wikidata [37:37]
-- 核心主張：「你收到資訊的準確度，取決於該資訊來自 LLM 時的血緌／出處」[38:23]
+- 核心主張：「你收到資訊的準確度，取決於該資訊來自 LLM 時的血脈／出處」[38:23]
 - 關鍵概念：**資料出處（Provenance）** [youtube](https://www.youtube.com/watch?v=P7fRamgIWqI)
 
 9. Ontology 是你最有價值的 IP [39:27]
@@ -100,7 +100,7 @@ source_raw: How Semantic Layers and Ontologies Create Trusted AI
 **生活實踐建議**：
 - 在自家 MCP／RAG 工作流放入一份輕量 ontology（名詞＝概念、動詞＝關係），先讓內部問答 bot 通過「簡單 chatbot 測試」
 - 為 AI 諮詢／架構審查服務新增「語意資產健檢」項目：盤點各部門同詞異義（sales、customer 的定義衝突），並檢查 ontology 是否被第三方 SaaS 代管
-- 個人知識庫每則引用保留來源與日期；RAG 系統保留 citation 欄位，避免血緌斷裂、LLM 抄襲不自知的問題在自己的系統重演
+- 個人知識庫每則引用保留來源與日期；RAG 系統保留 citation 欄位，避免血脈斷裂、LLM 抄襲不自知的問題在自己的系統重演
 
 ## [參考連結]
 
