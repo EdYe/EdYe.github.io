@@ -66,7 +66,7 @@ DHH(Ruby on Rails 之父、37signals CTO)在 13 個月內從 AI 懷疑者翻轉�
 ## 6. 給程式設計師的建議 [1:10:24]
 
 - 不要預測任何事：連這領域最頂尖的人也不知道兩代模型後的世界長什麼樣 [zensoftware](https://zensoftware.cloud/articles/dhh-on-programming-with-ai-agents)
-- 知識不會囤積：去背包旅行一年，兩週就能追上前線——数千人同時在試錯與篩選，你只需來收割結果 [zensoftware](https://zensoftware.cloud/articles/dhh-on-programming-with-ai-agents)
+- 知識不會囤積：去背包旅行一年，兩週就能追上前線——數千人同時在試錯與篩選，你只需來收割結果 [zensoftware](https://zensoftware.cloud/articles/dhh-on-programming-with-ai-agents)
 - 只愛打字寫 code 機械部分的人會辛苦；愛「做出東西」的人不會。允許自己為舊工藝哀悼一陣子 [zensoftware](https://zensoftware.cloud/articles/dhh-on-programming-with-ai-agents)
 
 關鍵概念：**無囤積焦慮**

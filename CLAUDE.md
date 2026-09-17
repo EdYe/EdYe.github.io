@@ -25,7 +25,7 @@ bundle exec jekyll serve
 
 ## Skills
 
-`/add-note` 技能定義在 `.claude/skills/add-note/add-note.md`，負責單張筆記的完整新增流程（預檢→生成 Front Matter→複製圖片→更新搜尋索引→部署）。其他自訂技能查 `.claude/skills/` 目錄。
+`/add-note` 技能定義在 `.claude/skills/add-note/SKILL.md`，負責單張筆記的完整新增流程（預檢→生成 Front Matter→複製圖片→更新搜尋索引→部署）。其他自訂技能查 `.claude/skills/` 目錄。
 
 ---
 
@@ -68,7 +68,7 @@ quote: '💡啟發性金句內容（若無則省略此行）'
 action: '🎯行動建議一句話摘要（若無則省略此行）'
 source_has_timestamps: true 或 false
 ---
-（保留原始說明文件的完整正文，不修改）
+（保留原始說明文件的完整正文；唯一允許的修改是簡體字轉繁體）
 ```
 
 注意：
@@ -80,6 +80,36 @@ source_has_timestamps: true 或 false
 
 ## 禁止行為
 
-- 不得直接修改 `_notes/` 已存在且無 TODO 的檔案
+- 不得直接修改 `_notes/` 已存在且無 TODO 的檔案（例外：簡體字轉繁體，見下方「正文繁體化規則」）
 - 不得刪除任何圖片
 - 不得更改 `index.html` 的 Fuse.js 搜尋邏輯，除非明確指示
+
+---
+
+## 正文繁體化規則
+
+全站正文一律使用繁體中文。寫入 `_notes/` 前必須將正文中的簡體字逐字轉為繁體。
+
+**允許**：簡體字 → 對應繁體字的逐字轉換（如 `问题陈述` → `問題陳述`、`专业声誉` → `專業聲譽`）。
+
+**禁止**：
+- 改寫用詞（如 `模块` → `模組`、`软件` → `軟體`）—— 只做字形轉換，不做詞彙替換
+- 異體字正規化（如 `平台` → `平臺`、`了解` → `瞭解`、`解雇` → `解僱`、`啓發` → `啟發`）
+- 任何其他正文改動
+
+**不要使用 OpenCC / `opencc-js` 的 `cn→tw` 或 `s2twp` 做全文轉換**：它會把既有繁體字誤判為簡體，造成 `面對` → `麵對`、`只是` → `隻是` 這類錯誤。
+
+**檢查方式**（Big5 無法編碼的漢字即為簡體字候選）：
+
+```bash
+python3 - <<'EOF'
+import glob
+for p in sorted(glob.glob('_notes/*.md')+glob.glob('raw-notes/*.md')):
+    for c in set(open(p,encoding='utf-8').read()):
+        if '\u4e00'<=c<='\u9fff':
+            try: c.encode('big5')
+            except UnicodeEncodeError: print(p,c)
+EOF
+```
+
+已知誤報（為合法繁體字，不要轉換）：`肽`、`酶`、`啓`。

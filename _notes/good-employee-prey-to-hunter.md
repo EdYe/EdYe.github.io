@@ -27,7 +27,7 @@ source_has_timestamps: true
 核心論點在於：獵物是被環境決定命運的一方，而獵人則主動掌握資源、方向與時機。謝雲帆提出，員工應該像獵人一樣主動出擊——定期盤點自身技能、對外建立人脈網絡（包括與獵頭保持互動），而不是被動等待公司安排。關鍵概念：**主導權轉移**——把職涯決策權從組織手中拿回自己身上。 [youtube](https://www.youtube.com/watch?v=CQk7ymcXL4g)
 
 **4. 實務建議：如何累積市場價值 [約11:00-15:00]**
-演講後段轉向具體行動，例如定期了解外部薪資與職缺行情、建立個人品牌與专业声誉、在工作中主動創造可被外部證明的成果，而非只滿足內部績效指標。關鍵概念：**外部校準**——用市場標準檢視自己，而非只用公司內部的評價體系。 [growthhackers](https://growthhackers.tw/blog/weekly-6-agents-rewrite-your-job/)
+演講後段轉向具體行動，例如定期了解外部薪資與職缺行情、建立個人品牌與專業聲譽、在工作中主動創造可被外部證明的成果，而非只滿足內部績效指標。關鍵概念：**外部校準**——用市場標準檢視自己，而非只用公司內部的評價體系。 [growthhackers](https://growthhackers.tw/blog/weekly-6-agents-rewrite-your-job/)
 
 **5. 結語：重新奪回職涯主導權 [約15:00-16:23]**
 謝雲帆總結，唯一能對抗大環境淘汰風險的方式，就是持續投資自己、讓自己成為市場上「被尋找」的獵人，而不是被裁員時才驚覺自己毫無退路的獵物。 [youtube](https://www.youtube.com/watch?v=FgoGqibinTk&list=TLPQMDEwNzIwMja0Qka4WRlC2g&index=3)

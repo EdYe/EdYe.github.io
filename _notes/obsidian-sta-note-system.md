@@ -57,7 +57,7 @@ Obsidian 充當個人 Wikipedia 的「瀏覽器」，而筆記本身是硬碟上
 
 ### 5. Obsidian Bases：替代 Zotero 的利器 [~16:30]
 
-**Bases** 是 Obsidian 最被低估的功能，運作邏輽類似 Excel：行是筆記、列是屬性，可新增篩選器。例如建立一個 `papers` Base，篩選 `sources` 資料夾內所有檔案，顯示 author、journal、title 等欄位。進階用法包括按評分排序論文、建立閱讀清單、按年份分組。講者認為 Bases 的彈性與速度遠超 Zotero 的笨重介面，可完全取代後者 。 [youtube](https://www.youtube.com/)
+**Bases** 是 Obsidian 最被低估的功能，運作邏輯類似 Excel：行是筆記、列是屬性，可新增篩選器。例如建立一個 `papers` Base，篩選 `sources` 資料夾內所有檔案，顯示 author、journal、title 等欄位。進階用法包括按評分排序論文、建立閱讀清單、按年份分組。講者認為 Bases 的彈性與速度遠超 Zotero 的笨重介面，可完全取代後者 。 [youtube](https://www.youtube.com/)
 
 **關鍵概念：結構化查詢（Structured Query）**
 
