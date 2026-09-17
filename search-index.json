@@ -60,6 +60,26 @@
     "url": "/notes/craft-vs-anthropic-sdlc-playbook"
   },
   {
+    "id": "career-signal-decides-promotion",
+    "title": "決定升遷與淘汰的職涯訊號：定位重於努力",
+    "category": "影片筆記",
+    "tags": [
+      "職涯訊號",
+      "決策流",
+      "風險分布",
+      "執行壓縮",
+      "定位導向"
+    ],
+    "description": "決定升遷與淘汰的不是努力與績效，而是你的職位對組織發出的「訊號」——在壓力下，你的角色是否鄰近決策、降低不確定性。組織保護的不是努力，而是減少不確定性的人。",
+    "quote": "💡職涯不會因為失敗而崩塌，而是因為誤讀了系統正在回應的訊號——組織保護的不是努力，而是降低不確定性的人。",
+    "action": "🎯依 U-P-R 法則每季自檢：你在決策流的 Upstream 還是 downstream？壓力下被 Protected 還是 excluded？你 Reduce 風險還是吸收風險？",
+    "image": "/images/影片筆記/career-signal-decides-promotion.jpg",
+    "date": "2026-09-17",
+    "source_has_timestamps": true,
+    "body": "The Career Signal That Decides Who Gets Promoted (And Who Gets Replaced) [核心摘要] 決定升遷與淘汰的不是努力與績效，而是你的職位對組織發出的「訊號」——在壓力下，你的角色是否鄰近決策、降低不確定性。組織保護的不是努力，而是減少不確定性的人。多數專業人士持續優化「產出」這個已失效的訊號，導致高績效者仍被淘汰。解方是重新定位自己於決策流與風險分布中的位置。 [詳細重點整理] 1. 為何努力是錯誤的訊號  過去數十年，「努力 → 進步」的因果關係成立：績效、可靠度、經驗累積都能換取晉升與保護。但當組織變得更複雜、更自動化、更由壓力驅動時，領導層回應的訊號已悄然轉移——沒有公告、沒有備忘錄。許多優秀的專業人士並未停止表現，只是持續優化一個已不再被重視的訊號。 關鍵概念：訊號漂移（Signal Shift）——系統變化的速度快於信念的更新。 2. 職涯訊號的真正定義  職涯訊號不是績效、忙碌程度、工時或技能，而是你的角色在壓力下對組織傳達的訊息：領導層據此推斷你的槓桿、可取代性、與決策的距離、以及風險曝險。核心區分： -",
+    "url": "/notes/career-signal-decides-promotion"
+  },
+  {
     "id": "what-managers-say-behind-your-back",
     "title": "主管在你背後怎麼談論你",
     "category": "影片筆記",
