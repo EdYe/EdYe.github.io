@@ -40,6 +40,26 @@
     "url": "/notes/ontology-vs-metadata"
   },
   {
+    "id": "ontology-semantic-kinetic-dynamic-layers",
+    "title": "Ontology三層架構：語意、動作、動態層",
+    "category": "影片筆記",
+    "tags": [
+      "判斷標準",
+      "語意層",
+      "動作層",
+      "動態層",
+      "資料血緣"
+    ],
+    "description": "本影片用數學類比拆解 Palantir 式本體論三層架構：Semantic Layer（語意層）對應「數學定義」、Kinetic Layer（動作層）對應「函數...",
+    "quote": "💡Ontology 不是資料的集合，而是公司決策的作業系統——定義、動作、變化，缺一層就無法回答「為什麼」。",
+    "action": "🎯依 D-K-D 法則設計資料架構：依序檢查語意層統一定義、動作層函數關係、動態層變化與因果是否可追蹤。",
+    "image": "/images/影片筆記/ontology-semantic-kinetic-dynamic-layers.jpg",
+    "date": "2026-09-28",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 本影片用數學類比拆解 Palantir 式本體論三層架構：Semantic Layer（語意層）對應「數學定義」、Kinetic Layer（動作層）對應「函數」、Dynamic Layer（動態層）對應「微積分」。核心痛點是：企業只有資料蒐集而缺乏「判斷結構」，無法追蹤因果與變化。真正的關鍵不是知識圖譜的視覺化，而是 Data Lineage（資料血緣）。\\[[youtube](https://www.youtube.com/watch?v=Rp9GVf88sKQ)\\] [詳細重點整理] 1. Ontology 的本質：判斷標準  Ontology 聽起來困難，核心其實是「創造結構」——不是蒐集資料，而是建立幫助公司做決策的結構。更精確的定義是：一種用於設定判斷標準的資料結構，再擴大就是「建立在判斷標準資料結構之上的公司作業系統（Company OS）」。 - 關鍵概念：判斷標準的資料結構（Standard for Judgment） 2. Semantic Layer：數學的「定義」  用數學課類比：我們學自然數、整數、實數、虛數的定義，目的是「給予存在（give e",
+    "url": "/notes/ontology-semantic-kinetic-dynamic-layers"
+  },
+  {
     "id": "career-pathway-executive-management",
     "title": "晉升高階管理的職涯路徑：人才是唯一稀缺",
     "category": "影片筆記",
