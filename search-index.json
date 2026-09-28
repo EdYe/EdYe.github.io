@@ -20,6 +20,26 @@
     "url": "/notes/software-engineering-factory-engineering"
   },
   {
+    "id": "ontology-vs-metadata",
+    "title": "企業AI化兩大基礎：詮釋資料與本體論",
+    "category": "影片筆記",
+    "tags": [
+      "詮釋資料",
+      "本體論",
+      "事實圖資料庫",
+      "圖建模",
+      "概念清晰度"
+    ],
+    "description": "本片釐清企業 AI 化的兩大資料基礎：Metadata（詮釋資料） 描述資料的屬性，Ontology（本體論） 定義概念之間的關係與語意。LLM 本質上是「相似...",
+    "quote": "💡AI 找的是最相似的，不是最正確的——你要親手為它蓋一座事實的地基。",
+    "action": "🎯依「M-O-G 法則」落地：先做 Metadata 標準化，再定義本體論的概念與關係，最後依真實業務流程重做圖建模並以 AI 可消化的方式餵入。",
+    "image": "/images/影片筆記/ontology-vs-metadata.jpg",
+    "date": "2026-09-28",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 本片釐清企業 AI 化的兩大資料基礎：Metadata（詮釋資料） 描述資料的屬性，Ontology（本體論） 定義概念之間的關係與語意。LLM 本質上是「相似度驅動」而非「事實驅動」，幻覺難以根除；解法是在向量資料庫之上，附加一層以本體論建模的事實圖資料庫（Graph DB），讓 AI 從「找最像的」進化到「回答正確的」。落地順序：先把 Metadata 做好，本體論才有穩固地基 。[[youtube](https://www.youtube.com/watch?v=ve7AA01vplE)] [詳細重點整理] 1. 議題設定：LLM 懂不懂你的公司術語？  生成式 AI 擅長產出文字，卻未必理解企業內部的專有名詞與定義，這正是本體論近期受到關注的原因。來賓為 En-core 執行長 Sunyoung Kim，主持人為 Tony Ko 。[[youtube](https://www.youtube.com/watch?v=ve7AA01vplE)] 關鍵概念：企業知識語意落差 2. Metadata 是什麼：資料的資料  Metadata 是描述資料的資訊，例如姓名、電",
+    "url": "/notes/ontology-vs-metadata"
+  },
+  {
     "id": "career-pathway-executive-management",
     "title": "晉升高階管理的職涯路徑：人才是唯一稀缺",
     "category": "影片筆記",
