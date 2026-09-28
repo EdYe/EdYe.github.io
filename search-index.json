@@ -40,6 +40,26 @@
     "url": "/notes/ontology-vs-metadata"
   },
   {
+    "id": "ontology-vs-graph-db",
+    "title": "Ontology與Graph DB：為何必須一起用",
+    "category": "影片筆記",
+    "tags": [
+      "動態本體論",
+      "時空上下文",
+      "可解釋性",
+      "追溯性",
+      "執行後評估"
+    ],
+    "description": "企業資料長期只儲存「數值」本身，缺乏時間與空間的上下文，導致資料無法回答「該採取什麼行動」。本片主張：Ontology（本體論）負責定義資料的語意與關聯結構，G...",
+    "quote": "💡只儲存數值的企業，最終都要回頭重新整理一切；儲存上下文的企業，讓每一次決策都成為下一次決策的資產。",
+    "action": "🎯依 S-E-E 法則：結構化決策流程、執行並記錄環境、評估後回存本體。",
+    "image": "/images/影片筆記/ontology-vs-graph-db.jpg",
+    "date": "2026-09-28",
+    "source_has_timestamps": true,
+    "body": "Ontology vs. Graph DB：為什麼兩者必須一起用？ [核心摘要] 企業資料長期只儲存「數值」本身，缺乏時間與空間的上下文，導致資料無法回答「該採取什麼行動」。本片主張：Ontology（本體論）負責定義資料的語意與關聯結構，Graph DB 則是讓這些結構可視覺化、可追溯、可持續演化的儲存引擎。核心痛點解法是「動態本體論」——本體不是建一次就完工，而是隨新資料持續進化的活結構。 [詳細重點整理] 1. 為什麼談 Ontology 就必出現 Graph DB？ 當企業討論本體論時，最常見的疑問是「用了 ontology 是否就必須有 Graph DB？」近年產業進一步強調 動態本體論（Dynamic Ontology）：企業的資料與商業規則持續變動，本體必須被視為會呼吸、會移動的結構，而非一次性的交付物。這正是 Graph DB 被綁定討論的原因——它是能承載「持續變動結構」的儲存形式。[[youtube](https://www.youtube.com/watch?v=UYyqxUBNiQ)] 2. 資料缺上下文 = 無法決策  傳統資料儲存只記錄數值，不記錄語境。以設",
+    "url": "/notes/ontology-vs-graph-db"
+  },
+  {
     "id": "ontology-semantic-kinetic-dynamic-layers",
     "title": "Ontology三層架構：語意、動作、動態層",
     "category": "影片筆記",
