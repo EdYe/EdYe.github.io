@@ -1,5 +1,25 @@
 [
   {
+    "id": "software-engineering-factory-engineering",
+    "title": "軟體工程正在變成工廠工程",
+    "category": "影片筆記",
+    "tags": [
+      "軟體工廠",
+      "規格驅動開發",
+      "資料平面",
+      "技能迴圈",
+      "後設工程"
+    ],
+    "description": "Warp 創辦人 Zach Lloyd（前 Google Docs 首席工程師）提出核心論點：軟體工程正在從「手寫程式碼」轉變為「工廠工程」（Factory E...",
+    "quote": "💡你不只是在建產品，你是在建造那個建造產品的東西——所有人都會寫更少的程式碼，但會交付更多的產品。",
+    "action": "🎯依「I-T-S-M 法則」打造軟體工廠：Inputs 定義工作入口、Triage 先建分診 Agent、Spec 走雙規格由人類審規格、Monitor + Measure 持續監控並衡量產出效率。",
+    "image": "/images/影片筆記/software-engineering-factory-engineering.jpg",
+    "date": "2026-09-28",
+    "source_has_timestamps": true,
+    "body": "Software Engineering Is Becoming Factory Engineering — Zach Lloyd, Warp [核心摘要]   Warp 創辦人 Zach Lloyd（前 Google Docs 首席工程師）提出核心論點：軟體工程正在從「手寫程式碼」轉變為「工廠工程」（Factory Engineering）。每個具規模的專案都會擁有一座「軟體工廠」——由 Agent 自動執行分診、規格撰寫、實作、審查、驗證與監控，人類只在關鍵節點介入。工程師的角色從寫程式碼，變成設計與調校這座「生產產品的機器」。他本人六個月未寫一行程式碼，卻比以往更快地交付產品 。[[support.google](http://support.google)] [詳細重點整理] 1. 講者背景與開發正從互動走向自動化  Zach Lloyd 擁有 20 年以上工程資歷，曾任 Google Doc Suite 工程負責人。Warp 起家於終端機，現為開源 Agentic 開發環境，擁有超過 60,000 GitHub stars、800,000 活躍開發者。他仍頻繁交付產品，但過去",
+    "url": "/notes/software-engineering-factory-engineering"
+  },
+  {
     "id": "career-pathway-executive-management",
     "title": "晉升高階管理的職涯路徑：人才是唯一稀缺",
     "category": "影片筆記",
