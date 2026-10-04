@@ -1,5 +1,25 @@
 [
   {
+    "id": "poteto-spacex-thousands-of-prs",
+    "title": "Poteto 的大規模 Agent 協作工程方法論",
+    "category": "影片筆記",
+    "tags": [
+      "信任階梯",
+      "驗證迴圈",
+      "確定性腳本",
+      "環境經營",
+      "外圈內圈"
+    ],
+    "description": "本片的核心貢獻是提出一套可落地的「大規模 Agent 協作工程方法論」：以驗證（Verification）建立信任、以確定性腳本（CLI/codemod）分擔機...",
+    "quote": "💡讓「最容易的事」就是「正確的事」——模型永遠傾向走捷徑，你的工作是把捷徑鋪成正確的路。",
+    "action": "🎯依 T-V-E 法則：用驗證技能建立信任、每個 PR 觸發驗證迴圈，並把 Agent 的每次失敗轉成 lint 規則與慣例。",
+    "image": "/images/影片筆記/poteto-spacex-thousands-of-prs.jpg",
+    "date": "2026-10-04",
+    "source_has_timestamps": true,
+    "body": "🎬 影片重點筆記：Poteto 談如何在 SpaceX 每月交付數千個 PR --- [核心摘要] 本片的核心貢獻是提出一套可落地的「大規模 Agent 協作工程方法論」：以驗證（Verification）建立信任、以確定性腳本（CLI/codemod）分擔機械工作、以環境護欄（lint 規則、慣例式架構）讓錯誤不可能發生，再透過「外圈＋內圈」自動觸發機制與協調者 Agent，實現每月 2,500 個 PR 的交付規模。它解決的痛點是：開發者淪為 Agent 的微觀管理者與「肉身仲介」，無法真正規模化。 --- [詳細重點整理] 1. 從微觀管理到信任階梯  來賓 Poteto（pstack 作者）因一場「上月交付 2,500 個 PR 至正式環境」的演講在 X 上爆紅（約 300 萬觀看）。本集以該演講的 Q&amp;A 形式展開，核心框架是信任階梯：對 Agent 的信任越高，就能委派越複雜的任務、擴大到越多的 Agent。 關鍵概念：信任階梯 2. 旅程起點：Meta → 副專案 → Cursor  離開 Meta React 團隊後的休假期間，用 AI 寫 side proj",
+    "url": "/notes/poteto-spacex-thousands-of-prs"
+  },
+  {
     "id": "claude-code-11-levels-mastery",
     "title": "Claude Code 的 11 層基礎設施藍圖",
     "category": "影片筆記",
