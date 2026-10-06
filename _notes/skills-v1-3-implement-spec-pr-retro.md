@@ -4,7 +4,7 @@ date: 2026-10-06
 image: /images/影片筆記/skills-v1-3-implement-spec-pr-retro.jpg
 category: 影片筆記
 tags: [子代理編排, 任務圖, 合併風險, 詞彙表, 回顧]
-description: '本片介紹 Matt Pocock 的 Skills repo v1.3，核心貢獻是三個新 skill：implement-spec 用子代理自動編排多張 ticket，實現「離開鍵盤（AFK）」式的大型'
+description: '本片介紹 Matt Pocock 的 Skills repo v1.3，核心貢獻是三個新 skill：implement-spec 用子代理自動編排多張 tic'
 quote: '💡不要求證據，agent 就會說「應該可以」——驗證才是信任 agent 的唯一途徑。'
 action: '🎯R-R-R 法則：審 PR 先看 blast radius 與門的方向、空閒時抽樣跑 retro、ticket 編排從手動升級到確定性腳本。'
 source_has_timestamps: true
