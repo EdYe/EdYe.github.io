@@ -1,5 +1,25 @@
 [
   {
+    "id": "skills-v1-3-implement-spec-pr-retro",
+    "title": "Skills v1.3：implement-spec、pr 與 retro",
+    "category": "影片筆記",
+    "tags": [
+      "子代理編排",
+      "任務圖",
+      "合併風險",
+      "詞彙表",
+      "回顧"
+    ],
+    "description": "本片介紹 Matt Pocock 的 Skills repo v1.3，核心貢獻是三個新 skill：implement-spec 用子代理自動編排多張 ticket，實現「離開鍵盤（AFK）」式的大型",
+    "quote": "💡不要求證據，agent 就會說「應該可以」——驗證才是信任 agent 的唯一途徑。",
+    "action": "🎯R-R-R 法則：審 PR 先看 blast radius 與門的方向、空閒時抽樣跑 retro、ticket 編排從手動升級到確定性腳本。",
+    "image": "/images/影片筆記/skills-v1-3-implement-spec-pr-retro.jpg",
+    "date": "2026-10-06",
+    "source_has_timestamps": true,
+    "body": "Skills v1.3 筆記：/implement-spec、/pr、/retro [youtube](https://www.youtube.com/watch?v=BsJGo1wFTvQ) [核心摘要] 本片介紹 Matt Pocock 的 Skills repo v1.3，核心貢獻是三個新 skill：implement-spec 用子代理自動編排多張 ticket，實現「離開鍵盤（AFK）」式的大型工作落地；pr 提供結構化 PR 模板（摘要、證據、合併風險），解決人類 code review 瓶頸；retro 回顧 coding agent 的歷史 session，挖掘 agent 自己不會報告的隱性低效率。痛點：手動跑 ticket 迴圈太累、PR 難審、agent 的錯誤無人察覺。 [youtube](https://www.youtube.com/watch?v=BsJGo1wFTvQ) [詳細重點整理] 1. v1.3 總覽與三個新技能  v1.3 帶來三個關鍵 skill：implement-spec、PR、retro。其中 retro 在社群上反應最熱烈，被形容為",
+    "url": "/notes/skills-v1-3-implement-spec-pr-retro"
+  },
+  {
     "id": "poteto-spacex-thousands-of-prs",
     "title": "Poteto 的大規模 Agent 協作工程方法論",
     "category": "影片筆記",
