@@ -40,6 +40,26 @@
     "url": "/notes/harness-engineering-software-factory"
   },
   {
+    "id": "build-right-thing-product-engineering-part-2",
+    "title": "Build the Right Thing：產品工程（下）",
+    "category": "影片筆記",
+    "tags": [
+      "Jobs to be Done",
+      "三維需求",
+      "使用者回饋",
+      "Kano 模型",
+      "問題樹"
+    ],
+    "description": "本影片以研討會入場 App「Just Get In Workshop」為貫穿案例，示範產品工程師如何將「人臉辨識」這類功能請求，向下挖掘成 Jobs to be",
+    "quote": "💡使用者帶來的是解法，你的工作是問回問題——實作速度的來源，是知道哪個問題值得解決。",
+    "action": "🎯W-J-K 法則：收到功能請求先連問 Why 追到根源，再寫出 Job 工作敘述，最後用 Kano 分類決定工程投入的深度與可逆性。",
+    "image": "/images/影片筆記/build-right-thing-product-engineering-part-2.jpg",
+    "date": "2026-10-07",
+    "source_has_timestamps": true,
+    "body": "Build the Right Thing: Product Engineering (Part 2) — Kent C. Dodds [核心摘要] 本影片以研討會入場 App「Just Get In Workshop」為貫穿案例，示範產品工程師如何將「人臉辨識」這類功能請求，向下挖掘成 Jobs to be Done 的工作敘述，拆解功能性、社會性、情緒性三維需求，再用 Kano 模型決定優先級。核心貢獻：功能請求不等於使用者真正要的進步，工程師必須先理解問題，再選解法 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)] [詳細重點整理] 1. 功能請求的假象  產品進入快速疊代期，使用者不斷提出新需求。一位使用者要求加入「人臉辨識」——這是典型的解法式請求。正確的第一步不是實作，而是持續追問「為什麼」：它解決什麼問題？會衍生什麼新問題？若一味接受所有請求，產品會陷入無願景、無品味的高複雜度泥沼 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)] 關鍵概念：",
+    "url": "/notes/build-right-thing-product-engineering-part-2"
+  },
+  {
     "id": "build-right-thing-product-engineering-part-1",
     "title": "Build the Right Thing：產品工程（上）",
     "category": "影片筆記",

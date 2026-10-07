@@ -1,0 +1,88 @@
+---
+title: 'Build the Right Thing：產品工程（下）'
+date: 2026-10-07
+image: /images/影片筆記/build-right-thing-product-engineering-part-2.jpg
+category: 影片筆記
+tags: [Jobs to be Done, 三維需求, 使用者回饋, Kano 模型, 問題樹]
+description: '本影片以研討會入場 App「Just Get In Workshop」為貫穿案例，示範產品工程師如何將「人臉辨識」這類功能請求，向下挖掘成 Jobs to be'
+quote: '💡使用者帶來的是解法，你的工作是問回問題——實作速度的來源，是知道哪個問題值得解決。'
+action: '🎯W-J-K 法則：收到功能請求先連問 Why 追到根源，再寫出 Job 工作敘述，最後用 Kano 分類決定工程投入的深度與可逆性。'
+source_has_timestamps: true
+---
+# Build the Right Thing: Product Engineering (Part 2) — Kent C. Dodds
+
+## [核心摘要]
+
+本影片以研討會入場 App「Just Get In Workshop」為貫穿案例，示範產品工程師如何將「人臉辨識」這類功能請求，向下挖掘成 Jobs to be Done 的工作敘述，拆解功能性、社會性、情緒性三維需求，再用 Kano 模型決定優先級。核心貢獻：功能請求不等於使用者真正要的進步，工程師必須先理解問題，再選解法 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+## [詳細重點整理]
+
+### 1. 功能請求的假象 [00:00]
+
+產品進入快速疊代期，使用者不斷提出新需求。一位使用者要求加入「人臉辨識」——這是典型的解法式請求。正確的第一步不是實作，而是持續追問「為什麼」：它解決什麼問題？會衍生什麼新問題？若一味接受所有請求，產品會陷入無願景、無品味的高複雜度泥沼 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+**關鍵概念：問題樹**——每個解法都會長出新的子問題，若在深處才發現難題，早在根部就該換方向 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+### 2. Jobs to be Done 理論 [06:04]
+
+Clayton Christensen（著有《Competing Against Luck》）的核心主張：人們「僱用」產品，是為了在特定情境中取得進步。人臉辨識是「請求」，不是「工作（Job）」。真正的工作敘述是：「當 10 點有工作坊時，幫我快速入場，好讓我能學到產品工程內容，**而不錯過前 20 分鐘**。」[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+**關鍵概念：工作敘述**——格式為「當〔情境〕時，幫我〔進步〕，好讓我〔成果〕，而不〔排除項〕」。理解 Job 之後，平行排隊、NFC 徽章都成為比人臉辨識更輕量的候選解法 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+### 3. 三維需求拆解 [11:34]
+
+每個 Job 都要拆成三個維度，且各自對應不同的工程決策 ：[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+- **功能性**：狀態、資料庫、整合流程——人臉辨識需要臉部資料庫、加密、場地容量管理。
+- **社會性**：誰在使用現場？兩條隊伍（平行化）涉及工作人員與排隊人群的互動。
+- **情緒性**：使用者是否因會議方握有臉部資料而感到被監控？若是，工程師應主動否決此解法。
+
+React 的成功被用來佐證：它先以功能性獲勝（速度、組合性），2015–2016 後轉為社會性獲勝（生態系、求職市場），即使後續 SolidJS、Vue 在功能面追上，網路外部性已鎖定勝局 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+### 4. 使用者回饋的收集 [15:00]
+
+建立一個匯流頻道（Slack 頻道聚合 Reddit、X 等社群討論），讓回饋「淹沒」你。不相信「使用者錯誤」的存在（Don Norman 原則）：使用者誤用，代表系統該改——有時只是按鈕位置，有時需要系統對接的重新設計 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+### 5. 重複進步與大小僱用 [20:42]
+
+Jobs 理論中產品被僱用兩次：**大僱用**（付錢購買）與**小僱用**（每次實際使用）。漢堡好吃與否，看每一口是否被吃完。成功的定義是使用者持續獲得進步，而非一次性付費——所以「會議是否準時開場」才是這個 App 該追蹤的真正指標 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+### 6. 觀眾問答精華 [23:35]
+
+- **沒有指標時如何決定建什麼**：先用 Mom Test 驗證問題存在且重要，快速原型（AI 時代原型成本極低），觀察使用者實際操作 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+- **使用者永遠是對的嗎**：方向常對、解法常錯。使用者會帶著解方來（「我需要匯出 PDF 按鈕」），你要問出背後的工作，再用「上次遇到這痛點是何時、你當時怎麼做」去驗證普遍性 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+- **事故處理與 AI Agent**：Dodds 被機器人攻擊個人網站時，直接對 Agent 說「production is down, figure it out」，Agent 完成了診斷與修復。但若系統每分鐘損失百萬美元（如 PayPal 跨境交易），你必須理解架構才能快速引導 Agent 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+### 7. Kano 模型與功能排序 [33:14]
+
+源自 1984 年論文的品質模型，以「實作程度 × 滿意度」兩軸劃分功能類型，用外送 App 分類 ：[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+- **基本需求**：訂單正確送達。沒做滿之前無人滿意；做過頭也沒有額外價值。
+- **效能需求**：送達時間估計。做得越好、使用者越滿意，有可量測的梯度。
+- **魅力需求**：折扣、多人點餐。使用者沒預期，做一點點就帶來驚喜。
+- **無感需求**：沒人care的功能，只製造維護負擔。
+- **反感需求**：使用者主動討厭的功能，值得工程師直接反彈。
+
+### 8. 期望隨時間演進 [41:49]
+
+魅力需求會退化成基本需求——GPS 追蹤外送員曾是驚喜，如今是預設期待。這解釋了 Bun 的案例：瘋狂出貨新功能，卻缺少讓人從 Node 遷移過來的基礎功能 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+### 9. 優先級轉譯為工程決策 [45:03]
+
+Kano 分類直接對應架構策略：基本需求要做到極度可靠；效能需求要建立量測；魅力需求保持可逆、便宜實驗，直到價值明確。技術專業 × 產品判斷力的乘積，才是實作速度的真正來源 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
+
+## [結論與行動建議]
+
+**啟發金句**：「使用者帶來的是解法，你的工作是問回問題——實作速度的來源，是知道哪個問題值得解決。」
+
+**具體行動建議：W-J-K 法則**——收到任何功能請求時，先連問 **Why** 追到問題根源，再寫出 **Job** 工作敘述（含功能/社會/情緒三維度），最後用 **Kano** 分類決定工程投入的深度與可逆性。沒有 Job 敘述的任務，退回給 PM。
+
+**生活實踐建議**：
+
+- AI 應用開發場景：不要讓 Agent 直接「收到請求就實作」。在 MCP 工具或 Claude Code 工作流中，把 Job 敘述作為 ticket 的必填欄位，Agent 才能做出對的系統取捨。
+- 內容創作場景：觀眾留言「希望拍 OOS 測試」是解法；背後的 Job 可能是「買設備前想確認水下實拍效果」。理解 Job 後，深度對比、實測數據表都可能是更好的答案。
+- 產品管理場景：評估是否為單一大客戶加功能時，用 Mom Test 問其他客戶「上次遇到這問題是何時」，確認代表性。
+
+## [參考連結]
+
+[Build the Right Thing: Product Engineering (Part 2) — Kent C. Dodds](https://www.youtube.com/watch?v=s0hFne6EeOI)[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)]
