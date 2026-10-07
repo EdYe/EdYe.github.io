@@ -1,5 +1,25 @@
 [
   {
+    "id": "agentic-vs-vector-search-eval",
+    "title": "代理搜尋 vs 向量搜尋：Eval 實測",
+    "category": "影片筆記",
+    "tags": [
+      "評測飛輪",
+      "代理搜尋",
+      "向量搜尋",
+      "孤兒追蹤",
+      "評測四元件"
+    ],
+    "description": "Braintrust 開發者倡導者 Jess Wang 在 AI Engineer World''s Fair 2026 的演講，核心貢獻是一次完整、可複製的端對",
+    "quote": "💡向量搜尋給你「接近」正確程式碼的距離，代理搜尋才給你連接邏輯的結締組織。",
+    "action": "🎯D-T-S-E 法則：依序建立資料集、任務、評分、實驗，固定 harness 只變一個變數，用工具旗標而非純 prompt 控制行為。",
+    "image": "/images/影片筆記/agentic-vs-vector-search-eval.jpg",
+    "date": "2026-10-07",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Braintrust 開發者倡導者 Jess Wang 在 AI Engineer World's Fair 2026 的演講，核心貢獻是一次完整、可複製的端對端 Eval（評測）實作：在 Microsoft TypeScript Go 儲存庫上，以真實修復 PR 建立 bug 定位資料集，讓 Claude Code 分別使用 Agentic Search 與 Vector Search 找出程式缺陷，並用儲存庫自帶的測試套件評分。關鍵發現：兩者準確率相同，但 Vector Search 成本高出 4 倍——因為檢索回來的程式碼片段缺乏上下文，Agent 被迫不斷反覆搜尋，LLM 呼叫大量堆疊。 [詳細重點整理] 1. 別再靠「感覺」上線功能  許多團隊的出貨決策基於「PM 試了幾個 prompt 覺得不錯」或「工程團隊說準備好了」——這是 shipping on vibes。正確的語言應該是：「我跑了 200 個測試案例，94% 通過，所以出貨」，甚至能說出細微權衡：「這個功能提升準確率 5%，但語氣分數下降 5%」。 Eval 能回答的問題包括：哪個 LLM 最適合需",
+    "url": "/notes/agentic-vs-vector-search-eval"
+  },
+  {
     "id": "skills-v1-3-implement-spec-pr-retro",
     "title": "Skills v1.3：implement-spec、pr 與 retro",
     "category": "影片筆記",
