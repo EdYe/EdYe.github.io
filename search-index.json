@@ -20,6 +20,26 @@
     "url": "/notes/lifestyles-of-the-ai-native"
   },
   {
+    "id": "harness-engineering-software-factory",
+    "title": "Harness Engineering：如何打造軟體工廠",
+    "category": "影片筆記",
+    "tags": [
+      "軟體工廠",
+      "工具鏈工程",
+      "三層迴圈",
+      "控制平面",
+      "改進迴圈"
+    ],
+    "description": "本場演講（AI Engineer World''s Fair 2026）提出 Harness Engineering（工具鏈工程，近期亦被稱為 Loop Engi",
+    "quote": "💡「工廠生產產品，工程師建造工廠。真正的報酬不是更快出貨，而是更高的品質。」",
+    "action": "🎯A-A-M-M 法則：先建立自主性、再建立自動化，追蹤人工接管次數下降與機器發起 PR 上升，全程保持品質。",
+    "image": "/images/影片筆記/harness-engineering-software-factory.jpg",
+    "date": "2026-10-07",
+    "source_has_timestamps": true,
+    "body": "Harness Engineering: How to Build a Software Factory  --- [核心摘要] 本場演講（AI Engineer World's Fair 2026）提出 Harness Engineering（工具鏈工程，近期亦被稱為 Loop Engineering / 迴圈工程） 作為從「使用編碼代理」邁向「軟體工廠（Software Factory）」的核心紀律。工廠定義為：使用者拿到的一切產出皆由 Agent 生成，工程師的工作轉為建造並優化「工廠」本身。演講解構了三大支柱指標（自主性、自動化、品質）、三層迴圈架構（inner / outer / meta loop），以及實作順序：控制平面 → Agent 就緒基礎設施 → 改進迴圈，並以 Tessl 產品示範落地路徑 。 --- [詳細重點整理] 1. 適合對象與前提條件  此為進階主題：前提是你的團隊已在多工同時使用編碼代理，且 Agent 在簡單至中等複雜度任務上「經常做對事」。若仍處於 Agent 頻繁出錯的階段，先別急於工廠化。所有方法論皆 stack 中立，Tessl 只是使其變",
+    "url": "/notes/harness-engineering-software-factory"
+  },
+  {
     "id": "agentic-vs-vector-search-eval",
     "title": "代理搜尋 vs 向量搜尋：Eval 實測",
     "category": "影片筆記",
