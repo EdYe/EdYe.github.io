@@ -40,6 +40,26 @@
     "url": "/notes/harness-engineering-software-factory"
   },
   {
+    "id": "build-right-thing-product-engineering-part-1",
+    "title": "Build the Right Thing：產品工程（上）",
+    "category": "影片筆記",
+    "tags": [
+      "產品工程",
+      "下游性原則",
+      "使用者脈絡",
+      "媽媽測試",
+      "當責判斷"
+    ],
+    "description": "AI 正快速吃掉「實作」工作，唯一不會被自動化的是「知道該建造什麼」。這場工作坊以現場排隊入場的真實痛點為教材，示範工程師如何用 The Mom Test 驗證",
+    "quote": "💡把錯的東西建造得再完美，仍然是錯的東西——速度沒有判斷力，只是更快地建造出錯的東西。",
+    "action": "🎯1 + 4 法則：動手前先用 1 個問題定義痛點，再用事件、替代方案、代價、後果 4 個證據問題驗證，答不出具體內容就先別寫程式。",
+    "image": "/images/影片筆記/build-right-thing-product-engineering-part-1.jpg",
+    "date": "2026-10-07",
+    "source_has_timestamps": true,
+    "body": "📝 Build the Right Thing: Product Engineering (Part 1) — Kent C. Dodds [核心摘要] AI 正快速吃掉「實作」工作，唯一不會被自動化的是「知道該建造什麼」。這場工作坊以現場排隊入場的真實痛點為教材，示範工程師如何用 The Mom Test 驗證問題、用 Jobs-to-be-done 與 Kano Model 做產品判斷，把「把事情做對」的能力升級為「做對的事情」的產品工程判斷力。[[youtube](https://www.youtube.com/watch?v=fHTqOs5wQA)][[finance.biggo](https://finance.biggo.com/podcast/2b5eaeb54f514000)] [詳細重點整理] 1. 簡報開始前的瓶頸  工作坊開場前，場館外大排長龍的入場隊伍本身，成了整場工作站的活教材：一款名為「Just Get In the Workshop」的 App 構想就此誕生——讓與會者不用錯過演講的前 20 分鐘。Kent C. Dodds 用這個當下的挫折感，練習判斷",
+    "url": "/notes/build-right-thing-product-engineering-part-1"
+  },
+  {
     "id": "agentic-vs-vector-search-eval",
     "title": "代理搜尋 vs 向量搜尋：Eval 實測",
     "category": "影片筆記",
