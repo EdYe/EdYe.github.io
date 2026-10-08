@@ -1,5 +1,25 @@
 [
   {
+    "id": "software-factory-ai-coding-agents",
+    "title": "如何為 AI 編碼代理打造軟體工廠",
+    "category": "影片筆記",
+    "tags": [
+      "軟體工廠",
+      "四層堆疊",
+      "重現案例優先",
+      "外層執行框架",
+      "協調儲存庫"
+    ],
+    "description": "本片提出「軟體工廠」的四層技術堆疊：運算資源、開發環境、執行框架（harness）、控制平面／編排層，每一層都可以獨立選擇自建或採購。核心主張是：與其全押單一廠",
+    "quote": "💡貼出你的 token 用量，不然不算數——真實的工具信仰，是用行為證明的，不是跟風喊出來的。",
+    "action": "🎯R-P-R-95 法則：先產出重現案例、把 PR 拆成可審大小、把外層 harness 寫成 while 迴圈，只追求 95% 自動化。",
+    "image": "/images/影片筆記/software-factory-ai-coding-agents.jpg",
+    "date": "2026-10-08",
+    "source_has_timestamps": true,
+    "body": "如何為 AI 編碼代理打造軟體工廠  [核心摘要] 本片提出「軟體工廠」的四層技術堆疊：運算資源、開發環境、執行框架（harness）、控制平面／編排層，每一層都可以獨立選擇自建或採購。核心主張是：與其全押單一廠商的垂直整合雲端代理方案，工程師應該保有選擇權，在開放介面上混搭組合（composition over inheritance）。痛點在於：測試變快了，但審查與人力時間仍是瓶頸，必須靠「重現案例優先、垃圾 PR 當規格、95% 自動化」等方法論壓縮瓶頸。 [詳細重點整理] 1. 自建 vs 採購的光譜    軟體工廠的設計選項落在一條光譜上：一端是全部內部自建（Boundary 的做法），另一端是全部向廠商購買（Cursor Cloud Agents、Cognition、Devin 等全端雲端代理）。真正的答案是工程師要能在開放系統中把各層組合起來，而不是被迫連坐式採購。   關鍵概念：組合優於繼承（Composition over Inheritance） 2. Codex vs Claude 的模型選擇實戰    頂尖代理式開發者在一年前就已大規模轉向 Codex。兩位講者",
+    "url": "/notes/software-factory-ai-coding-agents"
+  },
+  {
     "id": "lifestyles-of-the-ai-native",
     "title": "AI 原生生活：從單一工作階段到代理艦隊",
     "category": "影片筆記",
