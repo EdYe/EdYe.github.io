@@ -1,5 +1,25 @@
 [
   {
+    "id": "what-it-takes-to-build-software-factory",
+    "title": "打造軟體工廠真正需要什麼",
+    "category": "影片筆記",
+    "tags": [
+      "軟體工廠",
+      "模型路由",
+      "驗證契約",
+      "延遲上下文",
+      "Agent Readiness"
+    ],
+    "description": "軟體工廠是「整個軟體生命週期的自主化」——從收集訊號、排序優先級、編排、執行、驗證到持續改進的完整迴圈，而不只是寫程式的 agent。Factory 為 EY、",
+    "quote": "💡人類應該決定軟體要做什麼，而不是怎麼做——怎麼做交給 agent。",
+    "action": "🎯3-A-R 法則：不綁定單一模型、給 agent 明確驗證契約、建立延遲上下文機制，並先做 codebase 健康檢查再導入 agent。",
+    "image": "/images/影片筆記/what-it-takes-to-build-software-factory.jpg",
+    "date": "2026-10-08",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 軟體工廠是「整個軟體生命週期的自主化」——從收集訊號、排序優先級、編排、執行、驗證到持續改進的完整迴圈，而不只是寫程式的 agent。Factory 為 EY、Adobe 等企業在生產環境運行此模式，核心挑戰在於：模型路由（省 25% 成本）、長時任務的驗證契約（validation contract）、以及延遲載入上下文（省 50%+ token）。人類的角色將上移至「決定做什麼，而非怎麼做」。 [詳細重點整理] 1. 軟體工廠的定義與範圍  軟體工廠 ≠ 只是 coding agent，也 ≠ 一群 coding agent（即使上千個）。寫程式是最簡單的部分，工程師大部分時間不只是在寫 code。真正的定義是：整個軟體開發生命週程的自主化運行，包含收集訊號（用戶回饋、日誌）、排序重要性、編排、執行、驗證、在生產環境測試、迭代、持續學習。 它也不是一份顧問報告——不能外包給顧問公司直接塞進組織中間，必須從零重組組織結構（rebuild from ground up）。 關鍵概念：軟體工廠（Software Factory）= 全生命週期自主化閉環 2. 為何現在才可行",
+    "url": "/notes/what-it-takes-to-build-software-factory"
+  },
+  {
     "id": "software-factory-ai-coding-agents",
     "title": "如何為 AI 編碼代理打造軟體工廠",
     "category": "影片筆記",
