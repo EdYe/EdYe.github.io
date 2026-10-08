@@ -20,6 +20,26 @@
     "url": "/notes/software-factory-ai-coding-agents"
   },
   {
+    "id": "how-to-stay-valuable-as-ai-changes-work",
+    "title": "Acemoglu：AI 改變工作時如何保持價值",
+    "category": "影片筆記",
+    "tags": [
+      "技術擴散",
+      "基準真相",
+      "親勞工 AI",
+      "隱性知識",
+      "能動性"
+    ],
+    "description": "MIT 經濟學家、2024 諾貝爾經濟學獎得主 Daron Acemoglu 的核心論點：AI 的真正問題不是能力不足，而是方向錯置——社會只把 AI 用於「自",
+    "quote": "💡把成本削減 5%，並不會讓你名留青史。",
+    "action": "🎯A-D-A 法則：別押注基礎模型而去蓋利基應用、經營高品質資料與第一線隱性知識、劃出與 AI 的界線以維持能動性。",
+    "image": "/images/影片筆記/how-to-stay-valuable-as-ai-changes-work.jpg",
+    "date": "2026-10-08",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] MIT 經濟學家、2024 諾貝爾經濟學獎得主 Daron Acemoglu 的核心論點：AI 的真正問題不是能力不足，而是方向錯置——社會只把 AI 用於「自動化（取代人）」，卻忽略「創造新任務、提升人的生產力」這條更大的機會。自動化本身沒錯，錯在只做自動化：這會消滅工作卻不創造有意義的新工作。他主張「瓶頸不在基礎模型，而在應用」，並指出未來價值將流向高品質資料、利基應用與人類的創造力。 [詳細重點整理] 1. AI 的經濟影響被高估：擴散比想像中慢  2024 年 Acemoglu 估計 AI 未來 10 年僅讓美國 GDP 增加約 1%，且只有 5% 的任務能被完全自動化。到了 2026 年，因代理式 AI 的快速發展，他會把數字調得比 5% 略高，但仍認為大眾誇大了自動化的速度。原因在於：把自動化整合進組織非常困難，新技術的擴散需要大量互補性投資與調整，既難且慢。這不代表 AI 不是變革性技術，而是對「經濟改變的速度」必須腳踏實地。 關鍵概念：技術擴散理論 2. 為什麼程式開發進展最快  程式開發是 AI 進展最快的職業，原因有三：在辦公室完成、不需與真實世界互動",
+    "url": "/notes/how-to-stay-valuable-as-ai-changes-work"
+  },
+  {
     "id": "lifestyles-of-the-ai-native",
     "title": "AI 原生生活：從單一工作階段到代理艦隊",
     "category": "影片筆記",
