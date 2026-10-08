@@ -60,6 +60,26 @@
     "url": "/notes/how-to-stay-valuable-as-ai-changes-work"
   },
   {
+    "id": "claude-code-ai-software-factory",
+    "title": "用 Claude Code 建立 AI 軟體工廠",
+    "category": "影片筆記",
+    "tags": [
+      "AI 軟體工廠",
+      "多代理人品質閘門",
+      "檔案式狀態管理",
+      "可觀測性",
+      "閉環式交付"
+    ],
+    "description": "本片示範以 Claude Code 在既有專案內建置可重複執行的「AI 軟體工廠」：將功能需求自動流經規格、實作、多面向審查、修正與核准合併。核心價值不是追逐大",
+    "quote": "💡真正的 AI 開發槓桿，不是讓 Agent 寫更多程式，而是把「需求、驗證、決策與回饋」變成可重複運轉的系統。",
+    "action": "🎯F-G-O 法則：先固定 Spec→Build→Review→Approve 端到端流程、對高風險變更強制人工核准、讓每個 job 都可觀測可追查。",
+    "image": "/images/影片筆記/claude-code-ai-software-factory.jpg",
+    "date": "2026-10-08",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 本片示範以 Claude Code 在既有專案內建置可重複執行的「AI 軟體工廠」：將功能需求自動流經規格、實作、多面向審查、修正與核准合併。核心價值不是追逐大型框架，而是建立可理解、可調整、可觀測且保留人類關卡的自有開發流程，並用 Git worktree 支援多功能平行開發。[[youtube](https://www.youtube.com/watch?v=ctoaIC4LHmI)] 詳細重點整理 1. 軟體工廠的 Agent 工作流  AI 軟體工廠把功能需求視為可控管的生產單位。基本流程是： Feature request → Spec writer → Builder → Security / UX / UI / Code review → 修正迴圈 → Approver → Merge 或人工審核 - 規格 Agent 將自然語言需求轉為可實作、可驗收的規格。 - Builder Agent 依規格在獨立分支上完成實作。 - 不同審查 Agent 從安全、UX、UI 與程式品質切割檢查，降低單一 Agent 自我審核的盲點。 - Approver Agent",
+    "url": "/notes/claude-code-ai-software-factory"
+  },
+  {
     "id": "lifestyles-of-the-ai-native",
     "title": "AI 原生生活：從單一工作階段到代理艦隊",
     "category": "影片筆記",
