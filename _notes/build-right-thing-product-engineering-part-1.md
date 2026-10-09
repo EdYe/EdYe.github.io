@@ -17,13 +17,13 @@ AI 正快速吃掉「實作」工作，唯一不會被自動化的是「知道�
 
 ## [詳細重點整理]
 
-### 1. 簡報開始前的瓶頸 
+### 1. 簡報開始前的瓶頸
 
 工作坊開場前，場館外大排長龍的入場隊伍本身，成了整場工作站的活教材：一款名為「**Just Get In the Workshop**」的 App 構想就此誕生——讓與會者不用錯過演講的前 20 分鐘。Kent C. Dodds 用這個當下的挫折感，練習判斷「一個問題是否值得用軟體解決」。
 
 **關鍵概念：產品工程（Product Engineering）** —— 當 AI 讓程式碼產出愈來愈便宜，工程師的稀缺價值從「實作速度」移轉到「知道該建造什麼」的判斷力。
 
-### 2. 完成的實作仍是失敗的工作 [13:59]
+### 2. 完成的實作仍是失敗的工作
 
 「把東西建造對」（building the thing right）是「建造對的東西」（building the right thing）的**下游**。解決方案再完美，若是解決了一個不存在的問題，沒有人會使用它——兩者都重要，但只要在「對的東西」上失敗，整體就是失敗。做對的事優先，再把事做對。
 
@@ -35,13 +35,13 @@ AI 正快速吃掉「實作」工作，唯一不會被自動化的是「知道�
 
 **關鍵概念：使用者脈絡（Customer Context）**
 
-### 4. 建造工作環境，並看超越你的 ticket 
+### 4. 建造工作環境，並看超越你的 ticket
 
 工程師的工作不是關 ticket 而已。當 coding agent 承擔更多實作時，工程師要負責的是代理賴以運作的**系統環境**：API、資料實體、UI 元件等工作件（primitives）。壞的 primitives 會強迫產出壞的結果，無論 prompt 多好——「AI 不會修好你的架構，它只會繞過它」。
 
 **關鍵概念：工作件思維（Primitives）**
 
-### 5. Just Get In the Workshop：建造之前先改變問題 
+### 5. Just Get In the Workshop：建造之前先改變問題
 
 工作站命名了三大框架：早期驗證用 **The Mom Test**、拆解需求用 **Jobs Theory**（jobs-to-be-done）、排優先序用 **Kano Model**。本段深入展開第一項。[[ai](https://ai.engineer/talks/_fHTqOs5wQA-build-right-thing-product-engineering-part-1)]
 
