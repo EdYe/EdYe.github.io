@@ -1,5 +1,25 @@
 [
   {
+    "id": "three-ai-jobs-explode-next-five-years",
+    "title": "AI 時代將爆發的三種工程師職位",
+    "category": "AI筆記",
+    "tags": [
+      "規格執行型工作",
+      "後設技能",
+      "領域複利",
+      "代理友善程式碼庫",
+      "前進部署工程師"
+    ],
+    "description": "Stanford 講師 Mihail Eric 指出：AI 正在消滅「規格明確、純執行」的工程師工作（如基層 QA、顧問、初階資料分析師），但同時催生三種爆發性",
+    "quote": "💡代理是全世界最積極的實習生——它們會精確執行你的指令，但需要你的監督。",
+    "action": "🎯D-C-A 法則：拆解任務與依賴、掌握何時啟動與切換代理、投資測試與建置系統讓程式碼庫對代理友善。",
+    "image": "/images/AI筆記/three-ai-jobs-explode-next-five-years.jpg",
+    "date": "2026-10-09",
+    "source_has_timestamps": false,
+    "body": "--- [核心摘要] Stanford 講師 Mihail Eric 指出：AI 正在消滅「規格明確、純執行」的工程師工作（如基層 QA、顧問、初階資料分析師），但同時催生三種爆發性新職位——前進部署工程師、AI 平台工程師、AI 功能工程師。頂尖工程師的定位已從「寫程式的人」轉變為「AI 代理團隊的 Scrum Master」，核心價值在於任務拆解、跨 Agent 脈絡切換，以及打造 Agent 友善的程式碼庫 。 --- [核心摘要] Stanford 講師 Mihail Eric 指出：AI 正在消滅「規格明確、純執行」的工程師工作（如基層 QA、顧問、初階資料分析師），但同時催生三種爆發性新職位——前進部署工程師、AI 平台工程師、AI 功能工程師。頂尖工程師的定位已從「寫程式的人」轉變為「AI 代理團隊的 Scrum Master」，核心價值在於任務拆解、跨 Agent 脈絡切換，以及打造 Agent 友善的程式碼庫 。 --- [詳細重點整理] 1. AI 正在取代軟體工程師 單一價值 = 高風險：如果你的工作內容只是「手放鍵盤上、把 Jira/Linear 票消化掉」，這",
+    "url": "/notes/three-ai-jobs-explode-next-five-years"
+  },
+  {
     "id": "what-it-takes-to-build-software-factory",
     "title": "打造軟體工廠真正需要什麼",
     "category": "影片筆記",
