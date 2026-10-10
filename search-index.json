@@ -156,7 +156,7 @@
     "image": "/images/影片筆記/build-right-thing-product-engineering-part-2.jpg",
     "date": "2026-10-07",
     "source_has_timestamps": true,
-    "body": "Build the Right Thing: Product Engineering (Part 2) — Kent C. Dodds [核心摘要] 本影片以研討會入場 App「Just Get In Workshop」為貫穿案例，示範產品工程師如何將「人臉辨識」這類功能請求，向下挖掘成 Jobs to be Done 的工作敘述，拆解功能性、社會性、情緒性三維需求，再用 Kano 模型決定優先級。核心貢獻：功能請求不等於使用者真正要的進步，工程師必須先理解問題，再選解法 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)] [詳細重點整理] 1. 功能請求的假象  產品進入快速疊代期，使用者不斷提出新需求。一位使用者要求加入「人臉辨識」——這是典型的解法式請求。正確的第一步不是實作，而是持續追問「為什麼」：它解決什麼問題？會衍生什麼新問題？若一味接受所有請求，產品會陷入無願景、無品味的高複雜度泥沼 。[[youtube](https://www.youtube.com/watch?v=s0hFne6EeOI)] 關鍵概念：",
+    "body": "Build the Right Thing: Product Engineering (Part 2) — Kent C. Dodds [核心摘要] 本影片以研討會入場 App「Just Get In Workshop」為貫穿案例，示範產品工程師如何將「人臉辨識」這類功能請求，向下挖掘成 Jobs to be Done 的工作敘述，拆解功能性、社會性、情緒性三維需求，再用 Kano 模型決定優先級。核心貢獻：功能請求不等於使用者真正要的進步，工程師必須先理解問題，再選解法 。 [詳細重點整理] 1. 功能請求的假象 產品進入快速疊代期，使用者不斷提出新需求。一位使用者要求加入「人臉辨識」——這是典型的解法式請求。正確的第一步不是實作，而是持續追問「為什麼」：它解決什麼問題？會衍生什麼新問題？若一味接受所有請求，產品會陷入無願景、無品味的高複雜度泥沼 。 關鍵概念：問題樹——每個解法都會長出新的子問題，若在深處才發現難題，早在根部就該換方向 。 2. Jobs to be Done 理論 Clayton Christensen（著有《Competing Against Luck》）的核心",
     "url": "/notes/build-right-thing-product-engineering-part-2"
   },
   {
@@ -176,7 +176,7 @@
     "image": "/images/影片筆記/build-right-thing-product-engineering-part-1.jpg",
     "date": "2026-10-07",
     "source_has_timestamps": true,
-    "body": "📝 Build the Right Thing: Product Engineering (Part 1) — Kent C. Dodds [核心摘要] AI 正快速吃掉「實作」工作，唯一不會被自動化的是「知道該建造什麼」。這場工作坊以現場排隊入場的真實痛點為教材，示範工程師如何用 The Mom Test 驗證問題、用 Jobs-to-be-done 與 Kano Model 做產品判斷，把「把事情做對」的能力升級為「做對的事情」的產品工程判斷力。[[youtube](https://www.youtube.com/watch?v=fHTqOs5wQA)][[finance.biggo](https://finance.biggo.com/podcast/2b5eaeb54f514000)] [詳細重點整理] 1. 簡報開始前的瓶頸  工作坊開場前，場館外大排長龍的入場隊伍本身，成了整場工作站的活教材：一款名為「Just Get In the Workshop」的 App 構想就此誕生——讓與會者不用錯過演講的前 20 分鐘。Kent C. Dodds 用這個當下的挫折感，練習判斷",
+    "body": "📝 Build the Right Thing: Product Engineering (Part 1) — Kent C. Dodds [核心摘要] AI 正快速吃掉「實作」工作，唯一不會被自動化的是「知道該建造什麼」。這場工作坊以現場排隊入場的真實痛點為教材，示範工程師如何用 The Mom Test 驗證問題、用 Jobs-to-be-done 與 Kano Model 做產品判斷，把「把事情做對」的能力升級為「做對的事情」的產品工程判斷力。 [詳細重點整理] 1. 簡報開始前的瓶頸 工作坊開場前，場館外大排長龍的入場隊伍本身，成了整場工作站的活教材：一款名為「Just Get In the Workshop」的 App 構想就此誕生——讓與會者不用錯過演講的前 20 分鐘。Kent C. Dodds 用這個當下的挫折感，練習判斷「一個問題是否值得用軟體解決」。 關鍵概念：產品工程（Product Engineering） —— 當 AI 讓程式碼產出愈來愈便宜，工程師的稀缺價值從「實作速度」移轉到「知道該建造什麼」的判斷力。 2. 完成的實作仍是失敗的工作 「把東西建造對」",
     "url": "/notes/build-right-thing-product-engineering-part-1"
   },
   {
