@@ -1,5 +1,25 @@
 [
   {
+    "id": "context-graph-enterprise-ai-brain",
+    "title": "情境圖譜：企業 AI 的真正大腦架構",
+    "category": "AI筆記",
+    "tags": [
+      "情境圖譜",
+      "同步層",
+      "技能優先",
+      "衍生情境",
+      "來源繫結"
+    ],
+    "description": "只靠 MCP 即時查詢無法回答跨資料集的分析型問題（如「上週有哪些客戶不高興？」），因為底層 API 不支援語意式即時查詢，且平台沒有誘因提供。解方是建構「情境",
+    "quote": "💡工具不等於情境——你的公司大腦不是你接了多少工具，而是你的資料、你的流程、和你追蹤每一個答案的能力。",
+    "action": "🎯S-S-P 法則：技能優先編碼公司流程、語意查詢資料才策略性同步、每筆資料綁定來源與失效條件。",
+    "image": "/images/AI筆記/context-graph-enterprise-ai-brain.jpg",
+    "date": "2026-10-10",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 只靠 MCP 即時查詢無法回答跨資料集的分析型問題（如「上週有哪些客戶不高興？」），因為底層 API 不支援語意式即時查詢，且平台沒有誘因提供。解方是建構「情境圖譜」（context graph）：以同步層快取語意資料、以 MCP 處理即時查詢、用技能（skills）封裝公司流程，再透過路由器與摘要器整合，並強制保留資料來源以確保每個決策可追溯。 [詳細重點整理] 1. 情境圖譜的定義與組成元件 [00:00:12] 情境圖譜指的不是圖資料結構中的節點與邊，而是「公司的大腦」。其組成包含： - 第三方資料（NetSuite、Jira 等外部系統） - 結構化情境（含每次必傳給 agent 的靜態文件） - 記憶（使用過程中被要求記住或 agent 自行記住的內容） - 技能（skills）：情境圖譜中最關鍵的元件，代表公司專屬的流程與原則 講者背景：Merge 為連接基礎設施公司，擁有 400+ 企業客戶（OpenAI、Ramp、Netflix、Perplexity），三項產品為 Unified、Agent Handler 與 Gateway。 關鍵概念：情境圖譜（Con",
+    "url": "/notes/context-graph-enterprise-ai-brain"
+  },
+  {
     "id": "three-ai-jobs-explode-next-five-years",
     "title": "AI 時代將爆發的三種工程師職位",
     "category": "AI筆記",
