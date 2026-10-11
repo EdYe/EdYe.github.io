@@ -1,16 +1,16 @@
 ---
-name: note-to-video
+name: image-to-video
 description: 把一張視覺筆記圖片轉成旁白影片（YouTube 16:9 + Shorts 9:16），使用者自錄聲音、全免費工具。Use when the user wants to turn a note image into a video, or re-render a video after recording voice.
 user-invocable: true
 argument-hint: "<圖片路徑或 slug> [--rerender]"
 ---
 
-# /note-to-video - 視覺筆記轉影片
+# /image-to-video - 視覺筆記轉影片
 
 ## 使用方式
 ```
-/note-to-video raw-notes/你目前的工作有未來嗎.png     # 新影片：產生旁白稿 + 暫用配音版影片
-/note-to-video job-future-video --rerender             # 使用者錄完音後重新合成
+/image-to-video raw-notes/你目前的工作有未來嗎.png     # 新影片：產生旁白稿 + 暫用配音版影片
+/image-to-video job-future-video --rerender             # 使用者錄完音後重新合成
 ```
 
 渲染器是 `scripts/make-video.py`（只依賴 ffmpeg；暫用配音需 edge-tts）。範例專案：`~/Movies/job-future-video/`。
