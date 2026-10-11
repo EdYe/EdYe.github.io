@@ -12,12 +12,22 @@ Jekyll + GitHub Pages 的視覺筆記圖片展示網站，部署於 `https://EdY
 # 重建 Fuse.js 搜尋索引（每次新增或修改 _notes/ 後執行）
 node scripts/rebuild-index.js
 
-# 批次處理 raw-notes/ 底下所有未處理的檔案
+# 批次處理 raw-notes/ 底下所有未處理的檔案（--force 重新處理已處理過的）
 ./scripts/batch-convert.sh
 
 # 本地預覽（需安裝 github-pages gem）
 bundle exec jekyll serve
 ```
+
+沒有測試或 lint；驗證方式是執行 `rebuild-index.js` 確認筆數與分類統計正確。
+
+## 架構
+
+- **首頁是純前端渲染**：`index.html` 不使用 Liquid 迴圈，而是 `fetch('/search-index.json')` 後用 JS 產生卡片、標籤雲、分類篩選與 Fuse.js 搜尋。因此 `search-index.json`（已 commit）是首頁唯一資料來源，沒重建索引的筆記不會出現在 Gallery。
+- **筆記頁由 Jekyll 產生**：`_notes/` 是 collection，輸出到 `/notes/:name`，套用 `_layouts/note.html`（`_config.yml` 設了預設 layout 與 `future: true`）。
+- **`rebuild-index.js` 自帶簡易 Front Matter 解析器**，只認單行 `key: value` 與 `[a, b]` 陣列，不支援多行 YAML。Front Matter 的值必須寫在同一行。
+- **`batch-convert.sh` 會把本檔當成 prompt 使用**：它對每個 raw note 執行 `claude -p "請讀取 CLAUDE.md 的格式規範…"`，所以修改下方格式規範會直接影響批次輸出。這個腳本會另外寫入 `source_raw: <原始檔名>` 欄位，用來判斷是否已處理過；完成後也會自動重建索引並 `git add . && commit && push`。腳本只檢查 `.jpeg/.jpg/.png` 圖片，不包含 `.webp`。
+- `raw-notes/` 的內容已加入 gitignore，並在 `_config.yml` 排除，不會部署，只是本機輸入區。圖片放在 `images/<category>/<slug>.<ext>`。
 
 ## Git
 
