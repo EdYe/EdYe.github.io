@@ -13,7 +13,7 @@
 輸出：<專案資料夾>/out/<版本>.mp4 與 RECORDING.md（錄音稿）。
 需要：ffmpeg（含 libass）；暫用配音需要 edge-tts（pip install edge-tts，或以 EDGE_TTS 環境變數指定路徑）。
 """
-import json, os, re, shutil, subprocess, sys
+import hashlib, json, os, re, shutil, subprocess, sys
 from pathlib import Path
 
 FPS = 30
@@ -49,7 +49,8 @@ def prepare_audio(proj, ver, seg_id, text, voice):
                 if (p := proj / "voice" / ver / f"{seg_id}.{ext}").exists()), None)
     human = src is not None
     if not human:
-        src = proj / "tts" / ver / f"{seg_id}.mp3"
+        tag = hashlib.md5(f"{voice}|{text}".encode()).hexdigest()[:8]
+        src = proj / "tts" / ver / f"{seg_id}-{tag}.mp3"
         src.parent.mkdir(parents=True, exist_ok=True)
         if not src.exists():
             tts(text, voice, src)
@@ -83,7 +84,7 @@ def ass_time(t):
 
 def write_ass(path, W, H, title, cues, total, vertical):
     size = 70 if vertical else 58
-    margin = 250 if vertical else 45
+    margin = 420 if vertical else 45
     head = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {W}
