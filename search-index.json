@@ -1,5 +1,25 @@
 [
   {
+    "id": "build-your-first-software-factory",
+    "title": "打造第一座軟體工廠前必看",
+    "category": "影片筆記",
+    "tags": [
+      "軟體工廠",
+      "牙膏管擠壓效應",
+      "六角形架構",
+      "Agent艦隊",
+      "證據驅動自主"
+    ],
+    "description": "軟體工廠（Software Factory）是「從 issue 到合併上線」的可重複自動化流程：由 chief-of-staff agent 接收需求、派生 a",
+    "quote": "💡你的注意力是那條牙膏管——不要再站在中段寫 code，站到兩端去：前面把決策拉出來，後面把驗證做出來。",
+    "action": "🎯T-E-L 法則：先備齊型別約束、證據產線與 lint 強制架構，再憑證據（而非感覺）逐級調升 agent 工廠的自主層級。",
+    "image": "/images/影片筆記/build-your-first-software-factory.jpg",
+    "date": "2026-10-12",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 軟體工廠（Software Factory）是「從 issue 到合併上線」的可重複自動化流程：由 chief-of-staff agent 接收需求、派生 agent 艦隊寫碼、CI 驗證、agent 自動 review 到部署。核心痛點在於——工程師的價值已被「擠壓」出 coding 中段，必須移往前端規格與後端驗證。對 solo 工程師而言，搭建一座工廠只需數天、甚至數小時。 [詳細重點整理] 1. 什麼是軟體工廠  軟體工廠的定義（引用 Addy Osmani）：圍繞軟體工作的可重複流程。以 OpenAI 內部工廠為例，輸入是 issue tracker 或 production incident，接著自動觸發一連串流程：程式碼由 agent 撰寫、CI 自動觸發、review 由 agent 自動執行、自動部署、PR 被一路「保姆式照顧」到 rollout 完成。整個迴圈從 feature request 到可交付軟體無需人工介入。 核心主張：這些基礎元件（primitives）都已經存在，人們正在找出讓它運作的方法——這不是火箭科學。Solo 工程師或小團隊可",
+    "url": "/notes/build-your-first-software-factory"
+  },
+  {
     "id": "context-graph-enterprise-ai-brain",
     "title": "情境圖譜：企業 AI 的真正大腦架構",
     "category": "AI筆記",
