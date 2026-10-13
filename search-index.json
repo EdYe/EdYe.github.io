@@ -1,5 +1,25 @@
 [
   {
+    "id": "evaluating-shipping-ai-agents",
+    "title": "Agent 評估與部署：Traces 才是真相",
+    "category": "影片筆記",
+    "tags": [
+      "持續改善",
+      "非確定性",
+      "人類瓶頸",
+      "訊號偵測",
+      "回歸評估"
+    ],
+    "description": "Agent 具有非確定性，程式碼不再是行為的唯一真相來源，Traces（追蹤資料）才是。本影片示範完整的自動改善迴圈：從零可觀測性 → 加入追蹤 → 用 eva",
+    "quote": "💡程式碼不再是你的 agent 在做什麼的真相來源——traces 才是；而在 agent 的速度下，人類必須從迴圈中退出來，讓軟體自己爬那座山。",
+    "action": "🎯T-E-S-F 法則：先上線 traces、定義 evals 並建回歸評估、在規模上偵測 signals，再讓 coding agent 自動開修復 PR，人只做批准者。",
+    "image": "/images/影片筆記/evaluating-shipping-ai-agents.jpg",
+    "date": "2026-10-13",
+    "source_has_timestamps": true,
+    "body": "從 Vibes 到正式環境：AI Agent 的評估與部署（201 進階場）— Laurie Voss, Arize AI [核心摘要] Agent 具有非確定性，程式碼不再是行為的唯一真相來源，Traces（追蹤資料）才是。本影片示範完整的自動改善迴圈：從零可觀測性 → 加入追蹤 → 用 evals 壓縮行為 → 用 Signal 在規模上偵測模式 → 自動產生修復 PR，解決「人類成為瓶頸」的痛點，讓軟體在 agent 速度下自我改善 。 [詳細重點整理] 1. 從 101 到持續改善 此為 201 進階場次，接續早上 101 課程（手動、小規模的 observability → traces → evals → 改善流程）。本場焦點轉向「如何在 agent 規模下自動關閉軟體開發生命週期的迴圈」，形式為前 15 分鐘概念講解加上全程實作 workshop，參與者需準備可運作的 coding agent 與預先安裝 skills 的 repo。關鍵概念：持續改善（Continuous Improvement）。 2. Traces 是唯一真相來源  傳統軟體可透過讀程式碼預測行為；",
+    "url": "/notes/evaluating-shipping-ai-agents"
+  },
+  {
     "id": "build-your-first-software-factory",
     "title": "打造第一座軟體工廠前必看",
     "category": "影片筆記",
