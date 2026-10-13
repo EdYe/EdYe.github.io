@@ -60,6 +60,26 @@
     "url": "/notes/evaluating-shipping-ai-agents"
   },
   {
+    "id": "death-of-the-code-review",
+    "title": "Code Review 之死：人工審查成為新瓶頸",
+    "category": "影片筆記",
+    "tags": [
+      "人工審查瓶頸",
+      "審查效率斷崖",
+      "多重審查共識",
+      "迴圈上的人類",
+      "審查系統化"
+    ],
+    "description": "AI agent 讓開發者產出 741% 更多的程式碼，但實際出貨的軟體只增加 30%——瓶頸已從「寫程式」轉移到「人工 code review」。本場演講以 ",
+    "quote": "💡未來幾年的贏家不是產出最多程式碼的團隊，而是能用證據說明為什麼信任自己出貨東西的團隊。",
+    "action": "🎯R-H-E 法則：停止逐個審 PR，把人類判斷投入 Review Harness，將「好」的定義、公司脈絡與領域知識編碼為規則與評測，再放量給 agent。",
+    "image": "/images/影片筆記/death-of-the-code-review.jpg",
+    "date": "2026-10-13",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] AI agent 讓開發者產出 741% 更多的程式碼，但實際出貨的軟體只增加 30%——瓶頸已從「寫程式」轉移到「人工 code review」。本場演講以 Cisco、METR、Cognition、OpenAI、Bun 等大量實證數據證明：「審得更用力」與「完全不審」都不可行，code review 正被重建為一套由人類設計規則、機器執行的工程系統（review harness），人類角色從引擎升級為飛行員。 [詳細重點整理] 1. 新瓶頸：人工審查  Agent 產生程式碼的速度暴增，但人類審查速度完全不變。三位經濟學家追蹤 100,000 名 GitHub 開發者並比對 telemetry：啟用自主 agent 的開發者寫了 741% 更多的程式碼，出貨軟體卻只多 30%。研究直指 review 是瓶頸——通往 production 的路徑仍經過人類。產生程式碼突然變得極便宜，但「判斷能否信任它」仍然極其昂貴，尤其涉及高爆炸半徑（blast radius）的敏感程式碼。 關鍵概念：人工審查瓶頸（Human Review Bottleneck） 2. 生成不再是瓶頸",
+    "url": "/notes/death-of-the-code-review"
+  },
+  {
     "id": "build-your-first-software-factory",
     "title": "打造第一座軟體工廠前必看",
     "category": "影片筆記",
