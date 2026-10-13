@@ -1,5 +1,25 @@
 [
   {
+    "id": "from-vibes-to-production-workshop",
+    "title": "從憑感覺到生產：AI Agent 評估工作坊",
+    "category": "影片筆記",
+    "tags": [
+      "可觀測性",
+      "憑感覺問題",
+      "LLM評審",
+      "錯誤分析",
+      "元評估"
+    ],
+    "description": "這場工作坊示範如何把「憑感覺上線」的 AI agent 轉成可量測、可迭代的生產系統。核心貢獻是建立一條完整閉環：埋點→取得 trace→親自讀資料→分類失敗→",
+    "quote": "💡你無法評估你看不見的東西——在寫下任何一個 eval 之前，先讀你的 trace。",
+    "action": "🎯R-E-I-A 法則：先讀 trace 找失敗根因、依面向分層寫評估器、以資料集一次改一個變數實驗，再用人工黃金資料集元評估校準裁判。",
+    "image": "/images/影片筆記/from-vibes-to-production-workshop.jpg",
+    "date": "2026-10-13",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 這場工作坊示範如何把「憑感覺上線」的 AI agent 轉成可量測、可迭代的生產系統。核心貢獻是建立一條完整閉環：埋點→取得 trace→親自讀資料→分類失敗→三層評估（程式碼／LLM 評審／人工）→元評估校準裁判→資料集與實驗迭代，解決非確定性輸出無法用傳統單元測試驗證、也無法在 CI 中執行的痛點 。  --- [詳細重點整理] 1. 心智模型：eval 與 trace 的本質  - eval 是 AI 的測試，trace 是 AI 的日誌：eval 對應單元測試，trace 對應 log。因為輸出永遠非確定性，所以要發明新名稱。 - trace 的組成單位是跨度：樹狀結構，一次 LLM 呼叫、一次工具呼叫、一整輪 agent 回合各是一個 span，記錄輸入、輸出、耗時與 token 數。trace 告訴你「發生了什麼」，eval 告訴你「結果好不好」。 - 關鍵概念：Observability（可觀測性） 2. 憑感覺問題（Vibes Problem） - 目前最普遍的 AI 上線方式是「跑三次查詢、看起來不錯就上線」，隨後在沒測過的輸入上失敗。 - 單元測試在此",
+    "url": "/notes/from-vibes-to-production-workshop"
+  },
+  {
     "id": "every-company-needs-a-lab-team",
     "title": "每家公司都需要像實驗室團隊一樣運作",
     "category": "影片筆記",
