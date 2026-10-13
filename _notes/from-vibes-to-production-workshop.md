@@ -1,5 +1,5 @@
 ---
-title: '從憑感覺到生產：AI Agent 評估工作坊'
+title: '從憑感覺到生產：AI Agent 評估工作坊（101 入門）'
 date: 2026-10-13
 image: /images/影片筆記/from-vibes-to-production-workshop.jpg
 category: 影片筆記

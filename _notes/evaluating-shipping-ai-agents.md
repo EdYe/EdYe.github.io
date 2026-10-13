@@ -1,5 +1,5 @@
 ---
-title: 'Agent 評估與部署：Traces 才是真相'
+title: 'Agent 評估與部署：Traces 才是真相（201 進階）'
 date: 2026-10-13
 image: /images/影片筆記/evaluating-shipping-ai-agents.jpg
 category: 影片筆記

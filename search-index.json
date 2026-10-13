@@ -1,7 +1,7 @@
 [
   {
     "id": "from-vibes-to-production-workshop",
-    "title": "從憑感覺到生產：AI Agent 評估工作坊",
+    "title": "從憑感覺到生產：AI Agent 評估工作坊（101 入門）",
     "category": "影片筆記",
     "tags": [
       "可觀測性",
@@ -41,7 +41,7 @@
   },
   {
     "id": "evaluating-shipping-ai-agents",
-    "title": "Agent 評估與部署：Traces 才是真相",
+    "title": "Agent 評估與部署：Traces 才是真相（201 進階）",
     "category": "影片筆記",
     "tags": [
       "持續改善",
