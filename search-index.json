@@ -1,5 +1,25 @@
 [
   {
+    "id": "ai-coding-team-development",
+    "title": "AI Coding 時代團隊開發的三層次演進模型",
+    "category": "影片筆記",
+    "tags": [
+      "人機混合團隊",
+      "Spec鷹架",
+      "認知負荷",
+      "第一性原理",
+      "執行與決策分離"
+    ],
+    "description": "這場 Keynote 的核心貢獻，是提出 AI Coding 時代團隊開發的三層次演進模型：一個人用 AI（spec 當鷹架而非藍圖）→ 一個人指揮 Agent",
+    "quote": "💡AI 替你實作了，你反而要更瞭解整個專案——AI 強在執行，人強在全盤決策與對齊。",
+    "action": "🎯S-S-S 法則：spec 當鷹架拆小用完即收，實作全派給 Agent、人只鎖死驗證／介面／use case，少看程式碼多監督驗證。",
+    "image": "/images/影片筆記/ai-coding-team-development.jpg",
+    "date": "2026-10-15",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 這場 Keynote 的核心貢獻，是提出 AI Coding 時代團隊開發的三層次演進模型：一個人用 AI（spec 當鷹架而非藍圖）→ 一個人指揮 Agent Team（人只觀察、Agent 專注做事）→ 一群人＋一群 Agent（執行團隊交給 AI，人組成決策團隊）。解決的痛點：傳統「人管人」的分工模式在 AI Agent 加入後徹底失效——認知負荷沒有因為自動化而減少，反而爆增；唯有徹底切分「執行」與「決策」，才能真正釋放 AI Native 團隊的產能。 [詳細重點整理] 1. 開場與講者介紹  團隊開發的定義已經改變：過去是一群人的分工合作，現在必須把「一群 AI Agent」納入合作模式計算。講者陳宜昌（YC），Noopher AI 創辦人，前聯發科 AI 研究院資深技術經理，帶領開發台灣第一個繁體中文語言模型 Breeze 系列，並以 TASTE 技術獲選 ICLR 2026。8 年機器學習研發經驗，發表論文 8 篇以上（ICLR、ACL、Interspeech）。   關鍵概念：人機混合團隊（Human + Agent Team） 2. 一個人＋AI：從聊",
+    "url": "/notes/ai-coding-team-development"
+  },
+  {
     "id": "from-vibes-to-production-workshop",
     "title": "從憑感覺到生產：AI Agent 評估工作坊（101 入門）",
     "category": "影片筆記",
