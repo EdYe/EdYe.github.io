@@ -94,7 +94,7 @@ source_raw: Think In Systems The Skill Most People Never Learn
 
 **12. 工具十二：過度修正與振盪** 
 
-- 旅館淋浴：熱水還在管子裡跑，你把閥門轉到底；延遲的熱水湧出燙到你，你又猛轉回去——在用過時資訊操作的系統中，於兩個極端間擺盪。MIT 著名的供應鏈課堂練習（啤酒遊戲）證明：數百位理性成年人只靠對延遲資訊做出合理反應，就會產生劇烈的繁榮與蕭梺擺盪 。
+- 旅館淋浴：熱水還在管子裡跑，你把閥門轉到底；延遲的熱水湧出燙到你，你又猛轉回去——在用過時資訊操作的系統中，於兩個極端間擺盪。MIT 著名的供應鏈課堂練習（啤酒遊戲）證明：數百位理性成年人只靠對延遲資訊做出合理反應，就會產生劇烈的繁榮與蕭條擺盪 。
 - 問題不在修正的方向，在修正的幅度與兩次修正之間的不耐煩。解法是工程師的做法：**調低增益（gain）**——半步修正，並等完一整段延遲後再修正下一次。預算淋浴的家庭把兩個支出類別各砍四分之一、排定六週後檢視、中間什麼都不碰，第一次沒有出現大爆發。
 - 關鍵概念：**增益**
 
@@ -139,7 +139,7 @@ source_raw: Think In Systems The Skill Most People Never Learn
 
 **18. 工具十八：Cynefin 分類 [57:10]**
 
-- 用共同行事曆搶救出問題的婚姻，是拿錯世界的方法打錯世界的問題。五個世界獎勵完全不同的做法 ：[[ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/53032103/4c78692d-26dd-467b-bf6b-27cdbd9277b8/Think-In-Systems-The-Skill-Most-People-Never-Learn-Full-Course-.zh-TW.md?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Checksum-Mode=ENABLED&X-Amz-Credential=ASIA2F3EMEYEYXFFF5CB%2F20261015%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261015T230110Z&X-Amz-Expires=1327&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA8aCXVzLWVhc3QtMSJHMEUCIEIovw5kwPxY1QjjBkyc2dC7VSvra3Nkj7bdMSwBX3yDAiEAtbceuPF8UGhUN3e9tX4GbLIkTYFbmuo6kbDQP3YBockqiQUI1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDCmIG878dlWHcL5gpCrdBJmXGPTsMaa8P1agQRct%2BVqb6GzD8ptzyHYg8JmardYjNCuu7HlJTyQvK4%2B5N9ujMPlaZgZi0nRIl6J4f%2FSYS4W6u3tgqkIT%2F%2B4bRC8GnJxREU0pV9eJBTtNrvq7F%2Fu6xfZ6ena3L%2FcmoXpz9VihSQnMoluYgBjxzS5Ae2thugQn%2B5%2BLiwZARFzMR90uzNFhE5vGp7rx%2BYOAurJosYB0sRzYpB8vBclM9VY8Eg4a7V46y2%2B%2FWEpvEFBL86JHd6bnMY4c1gkE6ts6slFXfS5No6fG6rev2tKr%2FSJkADzzbE1naV%2BFe0zONgr8Pc1mvJxNlM8u0R%2Fa4FO7dUal73cPTfCUFt1KPliCa3X0ZMPEhVY3JoAyjK%2BnD1t4tPV3eBaNpaigZA0Qi85PylAIHekWog4Np1D4VT7BIWznqbNj9AJyMzH%2FqznSzRVwsoZjF8khElD7KXamG9B%2Bf8xP4PsuPGTUKbM%2Fd%2BLto5DN2iecAVxn8Puu02xb%2BeBbLsR5i3ja3QvttkSF5Ml7tbTn68FOtEI91ISpzg1wFGkxKwaooQPUYR59SxOJYy0bZEDcW4VKOZxutpYWi8i5IfAw3N4FjYkEnBSVkhz40%2BIjvKATzN18P1u51D4%2FRCzABtrUbmH6BpqH7RYcAYf%2B%2B3rOCQM4JOlpt9UVDbHX6gtXUcbWDNXbNMcEIOQp3D4gCIGA9lp0eZsB6CFVaixcKi6eMLBxOzLJSQ1zq5v0uBEmQ0627KmcznME7tzOv4rK9PseSVzqNBDge%2FvSrKCfamh1vBqAbO21F6g%2BuOAN%2Bku%2FRdoGMJKlxdYGOpgBFXApVvUR79%2BzsomrM2Tv4CyhascOW2hTRWY%2BwGK92OsRemnn2dZ%2FyAtYzlPZa0RBGAnvMJpObpeFLR6rrtbWWq9jHsoxEgPmzF3h7ol8lkYDY6bCJCR3YYQklgbmxEjLhsCvdArpL8h4ANjlSz6LxlYfkmsIe1vzeCakYJMMqCOsiRKvwRl8S6cRJ29n86GOgE8j3scc4Is%3D&X-Amz-SignedHeaders=host&x-id=GetObject&X-Amz-Signature=0f213fea496289bb65fbccaf043e04e7e66adb4da169f6f053fbd1de85704d9f)]
+- 用共同行事曆搶救出問題的婚姻，是拿錯世界的方法打錯世界的問題。五個世界獎勵完全不同的做法：
 
 
 | 世界              | 判斷問題        | 正確做法             |
@@ -158,7 +158,7 @@ source_raw: Think In Systems The Skill Most People Never Learn
 
 **19. 工具十九：槓桿階梯（Leverage Ladder）**
 
-- 寫下代表性著作的科學家（Donella Meadows）在職涯尾聲發表的文章，把系統中介入的每個位置從最弱到最強排名——我們本能做的幾乎每件事都落在最底層 ：[[ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/53032103/4c78692d-26dd-467b-bf6b-27cdbd9277b8/Think-In-Systems-The-Skill-Most-People-Never-Learn-Full-Course-.zh-TW.md?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Checksum-Mode=ENABLED&X-Amz-Credential=ASIA2F3EMEYEYXFFF5CB%2F20261015%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261015T230110Z&X-Amz-Expires=1327&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA8aCXVzLWVhc3QtMSJHMEUCIEIovw5kwPxY1QjjBkyc2dC7VSvra3Nkj7bdMSwBX3yDAiEAtbceuPF8UGhUN3e9tX4GbLIkTYFbmuo6kbDQP3YBockqiQUI1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDCmIG878dlWHcL5gpCrdBJmXGPTsMaa8P1agQRct%2BVqb6GzD8ptzyHYg8JmardYjNCuu7HlJTyQvK4%2B5N9ujMPlaZgZi0nRIl6J4f%2FSYS4W6u3tgqkIT%2F%2B4bRC8GnJxREU0pV9eJBTtNrvq7F%2Fu6xfZ6ena3L%2FcmoXpz9VihSQnMoluYgBjxzS5Ae2thugQn%2B5%2BLiwZARFzMR90uzNFhE5vGp7rx%2BYOAurJosYB0sRzYpB8vBclM9VY8Eg4a7V46y2%2B%2FWEpvEFBL86JHd6bnMY4c1gkE6ts6slFXfS5No6fG6rev2tKr%2FSJkADzzbE1naV%2BFe0zONgr8Pc1mvJxNlM8u0R%2Fa4FO7dUal73cPTfCUFt1KPliCa3X0ZMPEhVY3JoAyjK%2BnD1t4tPV3eBaNpaigZA0Qi85PylAIHekWog4Np1D4VT7BIWznqbNj9AJyMzH%2FqznSzRVwsoZjF8khElD7KXamG9B%2Bf8xP4PsuPGTUKbM%2Fd%2BLto5DN2iecAVxn8Puu02xb%2BeBbLsR5i3ja3QvttkSF5Ml7tbTn68FOtEI91ISpzg1wFGkxKwaooQPUYR59SxOJYy0bZEDcW4VKOZxutpYWi8i5IfAw3N4FjYkEnBSVkhz40%2BIjvKATzN18P1u51D4%2FRCzABtrUbmH6BpqH7RYcAYf%2B%2B3rOCQM4JOlpt9UVDbHX6gtXUcbWDNXbNMcEIOQp3D4gCIGA9lp0eZsB6CFVaixcKi6eMLBxOzLJSQ1zq5v0uBEmQ0627KmcznME7tzOv4rK9PseSVzqNBDge%2FvSrKCfamh1vBqAbO21F6g%2BuOAN%2Bku%2FRdoGMJKlxdYGOpgBFXApVvUR79%2BzsomrM2Tv4CyhascOW2hTRWY%2BwGK92OsRemnn2dZ%2FyAtYzlPZa0RBGAnvMJpObpeFLR6rrtbWWq9jHsoxEgPmzF3h7ol8lkYDY6bCJCR3YYQklgbmxEjLhsCvdArpL8h4ANjlSz6LxlYfkmsIe1vzeCakYJMMqCOsiRKvwRl8S6cRJ29n86GOgE8j3scc4Is%3D&X-Amz-SignedHeaders=host&x-id=GetObject&X-Amz-Signature=0f213fea496289bb65fbccaf043e04e7e66adb4da169f6f053fbd1de85704d9f)]
+- 寫下代表性著作的科學家（Donella Meadows）在職涯尾聲發表的文章，把系統中介入的每個位置從最弱到最強排名——我們本能做的幾乎每件事都落在最底層：
 
 
 | 階層     | 內容           | 例子                 |
