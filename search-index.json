@@ -1,5 +1,25 @@
 [
   {
+    "id": "claude-code-30-hidden-features",
+    "title": "Claude Code 30 個隱藏最深功能",
+    "category": "影片筆記",
+    "tags": [
+      "提示詞暫存",
+      "背景執行",
+      "訊息佇列",
+      "Kill Ring",
+      "代理檢視"
+    ],
+    "description": "Claude Code 官方文件中藏有上百個功能，多數使用者只用到冰山一角。本影片實測全部功能後，精選 30 個最實用的隱藏技巧，涵蓋四大類痛點：提示詞編輯中斷",
+    "quote": "",
+    "action": "",
+    "image": "/images/影片筆記/claude-code-30-hidden-features.jpg",
+    "date": "2026-10-18",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Claude Code 官方文件中藏有上百個功能，多數使用者只用到冰山一角。本影片實測全部功能後，精選 30 個最實用的隱藏技巧，涵蓋四大類痛點：提示詞編輯中斷（暫存、外部編輯器）、工作時的等待浪費（背景執行、訊息佇列）、輸入框操作效率（kill ring 復原、路徑批次刪除），以及對話與模型管理（回溯還原、代理檢視）。核心貢獻是將終端機工作流壓縮到零切換、零等待 。 [詳細重點整理] 一、提示詞編輯類 1. 暫存提示詞   寫到一半想先問別的事，按 Ctrl + S（stash），輸入框清空、右下角出現 stash 圖示。送出問題後，暫存文字自動回到輸入框，無需任何額外按鍵。關鍵概念：提示詞暫存（Prompt Stash） 。 2. 外部編輯器編輯    按 Ctrl + E 用系統預設編輯器（Nano / VS Code / Vim）打開提示詞，讀取的是終端機的 EDITOR 環境變數。Nano 以 Ctrl + X → Y → Enter 存檔回填；Vim 則是 Esc → :wq → Enter。通用替代方案：先按 Ctrl + X 再按 Ctrl + S（Bas",
+    "url": "/notes/claude-code-30-hidden-features"
+  },
+  {
     "id": "think-in-systems",
     "title": "系統思考：反覆出現的問題由結構製造",
     "category": "影片筆記",
