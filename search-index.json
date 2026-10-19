@@ -1,5 +1,25 @@
 [
   {
+    "id": "felix-rieseberg-ai-ambition",
+    "title": "頂尖 1% AI 使用者的差異在企圖心",
+    "category": "AI筆記",
+    "tags": [
+      "企圖心",
+      "高度",
+      "深度",
+      "廣度",
+      "自我效能"
+    ],
+    "description": "Anthropic Claude 應用程式首席工程師 Felix Rieseberg 觀察到：頂尖 1% 的 AI 使用者與一般人的差異不在工具，而在「企圖心（",
+    "quote": "💡你解不開的，往往不是你不會解，而是你不知道它其實有解。",
+    "action": "🎯依A-D-R法則：交付任務前檢查高度（成果還是任務）、深度（專家工具與外部驗證）、廣度（跨領域視角），三者過關再送出。",
+    "image": "/images/AI筆記/felix-rieseberg-ai-ambition.jpg",
+    "date": "2026-10-19",
+    "source_has_timestamps": false,
+    "body": "【核心摘要】 Anthropic Claude 應用程式首席工程師 Felix Rieseberg 觀察到：頂尖 1% 的 AI 使用者與一般人的差異不在工具，而在「企圖心（Ambition）」。他將其拆解為三個可操作層次——高度（Altitude）：要求結果而非任務；深度（Depth）：讓 Agent 以頂尖專家的工具、目標與驗證方式工作；廣度（Range）：引入跨領域視角找出「未知的未知」。三者共同指向自我效能（Self-efficacy）：當模型能力每幾週躍進一次，你敢要求多少，決定你能獲得多少。 --- 【詳細重點整理】 1. 開場：遲到學生的啟示 1939 年，學生 George Dantzig 遲到進統計課，把黑板上兩道題當作業抄下，隔天交卷——那其實是兩道從未被解開的統計難題，他解開了，只因為他不知道它們無解。Felix Rieseberg（Claude App、Claude Code 桌面版與 Cowork 的工程負責人）在 X 上發表的文章《How to Be More Ambitious: A Tutorial for Humans with Models》累積超過",
+    "url": "/notes/felix-rieseberg-ai-ambition"
+  },
+  {
     "id": "claude-code-30-hidden-features",
     "title": "Claude Code 30 個隱藏最深功能",
     "category": "影片筆記",
