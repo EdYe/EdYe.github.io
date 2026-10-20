@@ -1,5 +1,25 @@
 [
   {
+    "id": "claude-full-access-changes-everything",
+    "title": "給 AI 完整資料存取權，勝過設計複雜代理",
+    "category": "影片筆記",
+    "tags": [
+      "完整存取權",
+      "對抗式審查",
+      "模型體驗",
+      "品味蒸餾",
+      "同理心"
+    ],
+    "description": "Anthropic Claude 工程負責人 Felix Rieseberg（Claude Cowork 打造者）提出反直覺的工作法：與其設計複雜的代理（age",
+    "quote": "💡真正的限制，不是模型能做什麼，而是我們相信什麼是可能的。",
+    "action": "🎯依A-A-A法則：給 Claude 原始資料與工具完整存取、產出後以對抗式審查驗證批評、把真正希望的結果直接當任務交付。",
+    "image": "/images/影片筆記/claude-full-access-changes-everything.jpg",
+    "date": "2026-10-21",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Anthropic Claude 工程負責人 Felix Rieseberg（Claude Cowork 打造者）提出反直覺的工作法：與其設計複雜的代理（agent）與角色提示，不如給模型完整資料存取權與專業工具，讓它自行判斷。核心痛點在於：多數人仍把 AI 當「摘要機器」，浪費了新智慧的能力過剩。解方是對抗式審查、以「模型體驗」設計工作流程，並用同理心取代執行力作為創業護城河 。 [詳細重點整理] 1. 從工程師到「Claude 的輸送帶」    Felix 團隊約一週半打造出 Claude Cowork，如今他幾乎不寫程式。他曾親手挑當機（crash）資料、搬到 Claude 面前請它修，隨後意識到自己「只是 Claude 的輸送帶」——真正的解法是讓 Claude 存取所有當機資料，自行判斷哪些該修、哪些不該修。前期建置成本高，但一旦設好，AI 的實質價值就從此湧現。 2. 工程領導的一天：原型驅動    日常大部分時間在做原型（prototyping）：先思考點子、放幾晚判斷好壞，再叫 Claude 做出所有變化版本，之後人工評審。傳統的隱性成本決策（維護成本、時",
+    "url": "/notes/claude-full-access-changes-everything"
+  },
+  {
     "id": "felix-rieseberg-ai-ambition",
     "title": "頂尖 1% AI 使用者的差異在企圖心",
     "category": "AI筆記",
