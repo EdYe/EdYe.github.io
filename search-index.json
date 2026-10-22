@@ -1,5 +1,25 @@
 [
   {
+    "id": "revised-rules-of-engineering-management",
+    "title": "ZIRP 管理慣例在 AI 時代全面失效",
+    "category": "影片筆記",
+    "tags": [
+      "零利率",
+      "持久當責團隊",
+      "領域脈絡",
+      "駕馭模糊性",
+      "可驗證性"
+    ],
+    "description": "ZIRP（零利率）時代塑造了 2010 年代的管理慣例：管理者被禁止做技術決策、工程師被隔離於業務之外。Will Larson 指出這些慣例在 AI 時代全面失",
+    "quote": "💡實作軟體所需的時間正趨近於零，但做軟體仍然非常非常困難——困難已經從寫，移到了決定。",
+    "action": "🎯依3R法則：重回程式碼細節（Reskill）、解決公司最痛的業務問題（Relevance）、打造持久當責小團隊累積領域脈絡（Root）。",
+    "image": "/images/影片筆記/revised-rules-of-engineering-management.jpg",
+    "date": "2026-10-22",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] ZIRP（零利率）時代塑造了 2010 年代的管理慣例：管理者被禁止做技術決策、工程師被隔離於業務之外。Will Larson 指出這些慣例在 AI 時代全面失效——實作成本趨近於零後，價值移向領域脈絡、模糊決策與持久當責的團隊；未來的工程高階主管將從第一線經理而非中階官僚誕生 。 [詳細重點整理] 1. 職涯起點：Yahoo 的自製技術棧與「伺服器黑市」 Will 從肯塔基州小型私立學校資工系畢業（該屆僅 4 人畢業），經日本 JET 計畫教英文一年後，因撰寫 Yahoo BOSS 教學文章獲得約聘工作，2009 年進入 Yahoo。Yahoo 是開源浪潮之前的公司，所有環節皆自行分支維護：Y Apache（自行分支的 Apache）、YPHP（自行分支的 PHP）、YUI、以 Perl 撰寫的 Y inst 套件安裝器，甚至有 Kafka 前身的日誌複寫工具。創辦人 David Filo 堅持親自核准每台伺服器，原意是促進課責，實際卻催生了工程師私藏 30 台報廢專案伺服器的「黑市」——激勵機制的反效果：問責制度若無配套，只會創造地下經濟而非效率。 2. Digg v",
+    "url": "/notes/revised-rules-of-engineering-management"
+  },
+  {
     "id": "claude-full-access-changes-everything",
     "title": "給 AI 完整資料存取權，勝過設計複雜代理",
     "category": "影片筆記",
