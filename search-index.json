@@ -1,5 +1,25 @@
 [
   {
+    "id": "stop-prompting-model-as-coordinator",
+    "title": "模型即協調者：AI 時代工程範式的根本轉移",
+    "category": "影片筆記",
+    "tags": [
+      "模型即協調者",
+      "瓶頸根除法",
+      "測試時運算",
+      "信任校準",
+      "核准疲勞"
+    ],
+    "description": "Anthropic Claude Code 負責人 Boris 與 AMD 高層 Mark 的對談，揭示 AI 時代工程範式的根本轉移：模型即協調者（Model",
+    "quote": "💡與模型的關係，就是從微管理演進為信任一位資深工程師——給目標、給 Context、設好護欄，然後放手讓它工作。",
+    "action": "🎯依 B-B-G 法則：每次只攻一個瓶頸交給 Claude、放手實驗再優化成本、用 Evals 與自動分類器取代人工點 Yes。",
+    "image": "/images/影片筆記/stop-prompting-model-as-coordinator.jpg",
+    "date": "2026-10-27",
+    "source_has_timestamps": true,
+    "body": "Stop Prompting — Head of Claude Code Uses Opus 5.5 + Graphs + Harness [核心摘要] Anthropic Claude Code 負責人 Boris 與 AMD 高層 Mark 的對談，揭示 AI 時代工程範式的根本轉移：模型即協調者（Model as Coordinator）。當模型智慧超越人類，價值不再來自更好的 Prompt，而是來自「把 AI 放在每個流程的中心」。Anthropic 透過逐一根除瓶頸，達成每工程師程式產出 8 倍提升；並以「信任漸增 → 平行擴展 → 自動化驗證」的路徑，從 1 個 Agent 走向數千個 Agent 的規模化協作。 [詳細重點整理] 1. 指數曲線與 Claude Code 的誕生  模型能力遵循縮放定律持續上升，甚至加速中。Anthropic 預見模型將從補全單行程式碼，進化到寫整個函式、檔案、功能乃至整個專案，年底前甚至能建構整個事業。Claude Code 前六個月表現不佳，直到 2025 年 5 月的 Opus 4 才真正開始發揮作用，自此產品成長曲線轉為指數型。最新",
+    "url": "/notes/stop-prompting-model-as-coordinator"
+  },
+  {
     "id": "power-of-pull-finding-pmf",
     "title": "拉力是本就存在於待辦清單上的急迫專案",
     "category": "影片筆記",
