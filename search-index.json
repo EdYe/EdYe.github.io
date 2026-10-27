@@ -20,6 +20,26 @@
     "url": "/notes/stop-prompting-model-as-coordinator"
   },
   {
+    "id": "build-ai-code-review-agent",
+    "title": "如何自建 AI Code Review Agent",
+    "category": "影片筆記",
+    "tags": [
+      "審驗瓶頸",
+      "碎形無限Bug",
+      "模型反轉",
+      "即時更新資料集",
+      "模型分層"
+    ],
+    "description": "Greptile 每天審閱 GitHub 上約 1% 的 Pull Request，本影片揭露自建 AI Code Review Agent 的完整藍圖。",
+    "quote": "💡審查者能證明 bug 的存在，卻永遠無法證明 bug 的不存在——所以你的防線必須靠資料集與反轉來補足盲區。",
+    "action": "🎯依「問・據・反・脈・測・省」六字訣：指名 bug 類型、建事故資料集、Claude 寫 GPT 審、先建知識庫、sandbox 端到端測試、長尾換便宜模型。",
+    "image": "/images/影片筆記/build-ai-code-review-agent.jpg",
+    "date": "2026-10-27",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Greptile 每天審閱 GitHub 上約 1% 的 Pull Request，本影片揭露自建 AI Code Review Agent 的完整藍圖。核心痛點：樸素的「sandbox + webhook + agent」架構會漏抓災難性 bug（僅千分之一的 PR 含重大 bug）、每個 PR 花費 3–25 美元、且產生大量 nitpick 註解。解方是六項系統性修正：精準提問、歷史事故資料集、模型反轉、程式碼庫上下文、自主測試與模型成本分層。 [詳細重點整理] 1. Greptile 規模與自建動機  數千家公司每日使用 Greptile，約占 GitHub 全部 PR 的 1%，涵蓋 Nvidia 的 CUDA 到 Coinbase 的錢包程式碼庫。部分企業需求過於特殊時，Greptile 會免費協助他們自建——既累積領域知識，也學習未來客戶樣貌。人們青睞它的三件事：codebase context（2023 年起他們原本就是 codebase 索引公司）、能在 sandbox 中實際執行程式碼並用 computer use 測試、以及高效的推理預算分配。 關鍵",
+    "url": "/notes/build-ai-code-review-agent"
+  },
+  {
     "id": "ai-writes-code-whats-left-for-engineers",
     "title": "AI 寫程式後的瓶頸：定義什麼是「好」",
     "category": "影片筆記",
