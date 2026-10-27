@@ -4,7 +4,7 @@ date: 2026-10-27
 image: /images/影片筆記/stop-prompting-model-as-coordinator.jpg
 category: 影片筆記
 tags: [模型即協調者, 瓶頸根除法, 測試時運算, 信任校準, 核准疲勞]
-description: 'Anthropic Claude Code 負責人 Boris 與 AMD 高層 Mark 的對談，揭示 AI 時代工程範式的根本轉移：模型即協調者（Model'
+description: 'Anthropic Claude Code 負責人 Boris 與 AMD 高層 Mark 的對談，揭示 AI 時代工程範式的根本轉移：模型即協調者'
 quote: '💡與模型的關係，就是從微管理演進為信任一位資深工程師——給目標、給 Context、設好護欄，然後放手讓它工作。'
 action: '🎯依 B-B-G 法則：每次只攻一個瓶頸交給 Claude、放手實驗再優化成本、用 Evals 與自動分類器取代人工點 Yes。'
 source_has_timestamps: true
@@ -64,7 +64,7 @@ Anthropic Claude Code 負責人 Boris 與 AMD 高層 Mark 的對談，揭示 AI 
 
 - 關鍵概念：**測試時運算**
 
-### 8. 謙遪課題：讓 Claude 開車 
+### 8. 謙遜課題：讓 Claude 開車 
 
 Boris 自述反覆學到同一課：他手動用 Profiler 除錯時，新同事直接請 Claude 處理，**20 分鐘內找到他找不到的正解**。與模型的關係應從「微管理」演進為「與資深工程師共事」——給 Context、給目標、設定**護欄**後放手，信任度越低檢查越頻繁。AMD 也有對照案例：資深團隊數週未解的晶片 Bug，被初級工程師用平行 Agent 流程破解，當場折服所有資深工程師。
 

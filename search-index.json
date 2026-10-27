@@ -10,7 +10,7 @@
       "信任校準",
       "核准疲勞"
     ],
-    "description": "Anthropic Claude Code 負責人 Boris 與 AMD 高層 Mark 的對談，揭示 AI 時代工程範式的根本轉移：模型即協調者（Model",
+    "description": "Anthropic Claude Code 負責人 Boris 與 AMD 高層 Mark 的對談，揭示 AI 時代工程範式的根本轉移：模型即協調者",
     "quote": "💡與模型的關係，就是從微管理演進為信任一位資深工程師——給目標、給 Context、設好護欄，然後放手讓它工作。",
     "action": "🎯依 B-B-G 法則：每次只攻一個瓶頸交給 Claude、放手實驗再優化成本、用 Evals 與自動分類器取代人工點 Yes。",
     "image": "/images/影片筆記/stop-prompting-model-as-coordinator.jpg",
