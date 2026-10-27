@@ -20,6 +20,26 @@
     "url": "/notes/stop-prompting-model-as-coordinator"
   },
   {
+    "id": "ai-writes-code-whats-left-for-engineers",
+    "title": "AI 寫程式後的瓶頸：定義什麼是「好」",
+    "category": "影片筆記",
+    "tags": [
+      "審查成本不對稱",
+      "約束理論",
+      "本質複雜度",
+      "產品工程師",
+      "訓練梯斷裂"
+    ],
+    "description": "AI coding agent 已讓「寫程式」近乎免費，但瓶頸並未消失，只是不斷後移：先卡在 code review，接著將移向維運與資安。",
+    "quote": "💡程式碼是規格的有損投影——誰寫下 spec，誰就是真正的程式設計師。",
+    "action": "🎯依 S-D-E 法則：把對「好」的判斷寫成 spec 與規則、可便宜驗證的工作全委派給 agent、用 production 加模型評分的 eval 衡量真正交付。",
+    "image": "/images/影片筆記/ai-writes-code-whats-left-for-engineers.jpg",
+    "date": "2026-10-27",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] AI coding agent 已讓「寫程式」近乎免費，但瓶頸並未消失，只是不斷後移：先卡在 code review，接著將移向維運與資安。Laurie Voss（npm 共同創辦人、Arize AI 開發者關係負責人）論證：agent 無法取代的最終瓶頸，是「找出人們真正要什麼」與「定義什麼叫做好」。他將這個倖存的職位命名為產品工程師（Product Engineer）——懂使用者、會寫 spec、讓 agent 負責打字的人 。 [詳細重點整理] 1. 超越 AI 工程師  Swyx 三年前提出「AI 工程師的崛起」，主張打造 AI 產品需要的是工程師而非研究員。但真正的變革不只發生在 AI 工程師身上——所有工程師職位都正在被一種新職位取代，而這不是所有人都樂見的消息。核心驅動力：agent 讓寫程式的成本崩塌至近乎零，但寫完程式之後的所有環節（review、部署、維運）並未同步變快，瓶頸因此移轉 。 關鍵概念：AI 工程師（AI Engineer）此一框架已不足以描述正在發生的全面性職位重組。 2. 程式碼免費化，瓶頸移轉至 Code Review  - 啟用自主",
+    "url": "/notes/ai-writes-code-whats-left-for-engineers"
+  },
+  {
     "id": "power-of-pull-finding-pmf",
     "title": "拉力是本就存在於待辦清單上的急迫專案",
     "category": "影片筆記",
