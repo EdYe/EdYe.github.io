@@ -1,5 +1,25 @@
 [
   {
+    "id": "herdr-ai-native-terminal",
+    "title": "Herdr：為 AI 代理打造的終端機多工器",
+    "category": "影片筆記",
+    "tags": [
+      "AI原生終端機",
+      "工作階段持久化",
+      "代理狀態篩選",
+      "多代理協作",
+      "Git工作樹"
+    ],
+    "description": "Herdr 是一款「AI 原生」的終端機多工管理器，定位為 tmux 的現代化繼任者：它以背景伺服器架構讓終端機、視窗、窗格與 AI 代理工作階段永久存活（de",
+    "quote": "💡不要害怕 AI——它不會取代你，它會讓你變得更好；你缺的從來不是技能，是時間。",
+    "action": "🎯用 D-G-P 法則：把代理丟進 Herdr 分離執行、用 Ctrl+B G 加狀態篩選巡視進度、讓主控代理透過 hook 指揮子代理，你只處理受阻項目。",
+    "image": "/images/影片筆記/herdr-ai-native-terminal.jpg",
+    "date": "2026-11-09",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Herdr 是一款「AI 原生」的終端機多工管理器，定位為 tmux 的現代化繼任者：它以背景伺服器架構讓終端機、視窗、窗格與 AI 代理工作階段永久存活（detach 後不中斷、重開機後自動復原），並內建代理狀態通知（完成／受阻／工作中）、依狀態篩選、代理可透過 API/技能反過來操控 Herdr，甚至讓不同機器上的代理彼此對話。它解決的痛點是：多代理並行工作時的監控、協調與跨裝置接續問題。 [詳細重點整理] 1. 開場：AI 原生的終端機   Herdr 像 tmux 一樣在一台機器上啟動、開窗格、跑多個 AI 代理，再從任何裝置（如筆電）連回，體驗如從未離開。它是滑鼠優先的終端機，但同時保留完整的鍵盤快捷鍵。核心差異在於代理完成、卡住或出錯時會主動發出通知（toast + 音效 + 圖示），並可依狀態快速篩選工作階段。   關鍵概念：AI 原生終端機（AI-native terminal） 2. 安裝與首次設定    到 [herdr.dev](http://herdr.dev) 取得安裝指令，支援 macOS、Linux 與 Windows（PowerShell ",
+    "url": "/notes/herdr-ai-native-terminal"
+  },
+  {
     "id": "become-top-1-percent-with-ai",
     "title": "善用 AI 成為 1% 的超級人才",
     "category": "影片筆記",
