@@ -1,5 +1,25 @@
 [
   {
+    "id": "build-better-software-factory-claude-code",
+    "title": "用 Claude Code 打造 V2 軟體工廠",
+    "category": "影片筆記",
+    "tags": [
+      "代理式流水線",
+      "風險分級路由",
+      "確定性關卡",
+      "人機協作",
+      "確定性骨幹"
+    ],
+    "description": "這支影片示範如何用 Claude Code 打造 V2 版「軟體工廠」：以 GitHub issues 為輸入、PR 為輸出，由單一協調者平行派發多個子代理（受",
+    "quote": "💡軟體工廠的可靠性不是來自更聰明的代理，而是來自代理繞不過的確定性骨幹。",
+    "action": "🎯用 D-S-G 法則：狀態轉移交給腳本、每份狀態檔只有單一寫入者、便宜的確定性關卡放在昂貴的代理審查之前。",
+    "image": "/images/影片筆記/build-better-software-factory-claude-code.jpg",
+    "date": "2026-11-10",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 這支影片示範如何用 Claude Code 打造 V2 版「軟體工廠」：以 GitHub issues 為輸入、PR 為輸出，由單一協調者平行派發多個子代理（受理、規格、建置、審查、核准），並以 shell 腳本構成確定性骨幹貫穿整條流水線。核心貢獻在於解決「代理式開發不可靠、不可觀測」的痛點——透過關卡測試、風險分級路由（Haiku/Sonnet）、成本耗時追蹤與可重啟的耐用性設計，讓代理流程從 Demo 級走向可長期運維的工程系統。 [詳細重點整理] 1. V2 工廠的整體流程設計 V2 相較 V1 的升級：新增 Fable 受理步驟、Haiku 動態路由、更多確定性測試、GitHub issues 為輸入、PR 為輸出、單一協調者平行處理多工作。完整流水線為：受理→ 規格撰寫→ 建置→ 確定性關卡→ 多審查者平行審查→ 核准者→ 自動合併或人工審查。 關鍵概念：代理式流水線——把軟體開發拆解為多個專責子代理串接的生產線。 2. 受理步驟：用 Fable 做前期把關  Fable 在流水線最前端評估功能是否值得做：界定範圍、評估風險、可拒絕功能或向人類索取更多資訊。風",
+    "url": "/notes/build-better-software-factory-claude-code"
+  },
+  {
     "id": "herdr-ai-native-terminal",
     "title": "Herdr：為 AI 代理打造的終端機多工器",
     "category": "影片筆記",
