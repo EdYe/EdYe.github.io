@@ -31,21 +31,15 @@ agent: general-purpose
 ## 執行步驟
 
 1. **預檢驗證（Pre-flight）**
-   - 執行 `git status` 確認 git 認證正常，若失敗則提示使用者修復後再繼續
    - raw-notes/<檔名>.md（說明文件）
    - 依序檢查圖片副檔名：.jpeg → .jpg → .png → .webp
-   - 若找不到任何圖片，記錄錯誤並跳過此筆記（批次模式時繼續處理下一篇）
+   - 若找不到任何圖片，回報錯誤並停止
 
 2. **讀取說明文件**
    - 完整讀取 raw-notes/<檔名>.md 的內容
 
 3. **依照 CLAUDE.md 格式規範生成 Front Matter**
-   - 從「核心摘要」提取 description（截斷至 80 字）
-   - 從「詳細重點整理」章節標題提取 tags（3-5個）
-   - 依自動判斷邏輯決定 category
-   - 從「💡啟發性金句」提取 quote（若有）
-   - 從「🎯具體行動建議」提取 action 一句摘要（若有）
-   - 判斷是否含 [MM:SS] 時間戳 → source_has_timestamps
+   - 欄位與提取規則（description、tags、category、quote、action、source_has_timestamps）一律依 CLAUDE.md「原始說明文件格式規範」
 
 4. **建立 _notes/<英文檔名>.md**
    - 英文檔名使用小寫+連字號（從標題語意轉換）
@@ -76,14 +70,13 @@ agent: general-purpose
    標題：<title>
    分類：<category>
    標籤：<tags>
-   網址：https://你的帳號.github.io/notes/<英文檔名>
+   網址：https://EdYe.github.io/notes/<英文檔名>
    約 60 秒後上線。
    ```
 
 ## 錯誤處理
 - 若 git 認證失敗（push 被拒絕、OAuth 過期），暫停並提示使用者執行 `! git push` 手動修復，修復後從中斷處繼續
-- 若單篇筆記處理失敗（檔案缺失、格式錯誤），跳過該筆記並記錄原因，繼續處理其餘筆記
-- 批次處理結束後，顯示摘要表格：已處理 / 已跳過 / 失敗，含各筆記的錯誤原因
+- 若筆記處理失敗（檔案缺失、格式錯誤），停止並回報原因
 
 ## 其他注意事項
 - 若英文檔名已存在於 _notes/，詢問是否覆蓋
