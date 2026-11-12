@@ -81,7 +81,7 @@ for md_file in "$RAW_DIR"/*.md; do
     printf "請輸出完整的 Jekyll .md 檔案內容：\n"
     printf "1. Front Matter（依照 CLAUDE.md 規範，包含 title/date/image/category/tags/description，以及 quote/action/source_has_timestamps，並加入 source_raw: %s）\n" "$base"
     printf "2. 空一行\n"
-    printf "3. 原始說明文件完整正文（不修改任何文字）\n"
+    printf "3. 原始說明文件完整正文（唯一允許的修改是簡體字轉繁體，依 CLAUDE.md「正文繁體化規則」）\n"
   } > "$TMPFILE"
 
   # 傳入 temp file 內容給 claude（stderr 分開捕捉，避免污染輸出）
