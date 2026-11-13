@@ -1,5 +1,5 @@
 ---
-title: '舊提示詞正在讓 Claude 變差'
+title: '成本與品質不必二選一'
 date: 2026-11-13
 image: /images/影片筆記/your-old-prompts-making-claude-worse.jpg
 category: 影片筆記
