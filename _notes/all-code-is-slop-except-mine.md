@@ -4,7 +4,7 @@ date: 2026-11-15
 image: /images/影片筆記/all-code-is-slop-except-mine.jpg
 category: 影片筆記
 tags: [寫程式機器, 倒金字塔信任, 程式碼庫花園, 確定性檢查, 驗證黃金時代]
-description: 'AI 代理人時代，軟體工程師的核心工作不再是「寫更多程式碼」，而是打造一個能讓你信任代理人產出的環境。講者（SpaceX SI / Grokbot 負責人 La'
+description: 'AI 代理人時代，軟體工程師的核心工作不再是「寫更多程式碼」，而是打造一個能讓你信任代理人產出的環境。講者（SpaceX SI / Grokbot 負責人 Lauren Tan...'
 quote: '💡把垃圾自動化，只會得到更多垃圾——先把內圈修好，再放大規模。'
 action: '🎯用 D-L-C 法則：每次糾正代理人就改成 lint 規則、型別或測試，把程式碼庫當花園照料，並把大部分 token 預算投在驗證。'
 source_has_timestamps: true
