@@ -1,5 +1,25 @@
 [
   {
+    "id": "all-code-is-slop-except-mine",
+    "title": "打造讓你信任代理人產出的環境",
+    "category": "影片筆記",
+    "tags": [
+      "寫程式機器",
+      "倒金字塔信任",
+      "程式碼庫花園",
+      "確定性檢查",
+      "驗證黃金時代"
+    ],
+    "description": "AI 代理人時代，軟體工程師的核心工作不再是「寫更多程式碼」，而是打造一個能讓你信任代理人產出的環境。講者（SpaceX SI / Grokbot 負責人 La",
+    "quote": "💡把垃圾自動化，只會得到更多垃圾——先把內圈修好，再放大規模。",
+    "action": "🎯用 D-L-C 法則：每次糾正代理人就改成 lint 規則、型別或測試，把程式碼庫當花園照料，並把大部分 token 預算投在驗證。",
+    "image": "/images/影片筆記/all-code-is-slop-except-mine.jpg",
+    "date": "2026-11-15",
+    "source_has_timestamps": true,
+    "body": "All Code Is Slop (Except Mine) — Lauren Tan [核心摘要] AI 代理人時代，軟體工程師的核心工作不再是「寫更多程式碼」，而是打造一個能讓你信任代理人產出的環境。講者（SpaceX SI / Grokbot 負責人 Lauren Tan \"Potato\"）分享如何透過「倒金字塔」投資法——從程式碼庫、靜態分析、執行期驗證到形式驗證——把代理人產出的「垃圾程式碼（slop）」變成黃金，實現一個月 11,000 個 PR 上正式環境、回退率僅 0.5% 的高品質高速出貨。 [詳細重點整理] 1. 痛點：代理人讓人人都成為「寫程式機器」 有代理人之前，工程產出數量差異極大，只有少數像 Brett Taylor（一個週末重寫 Google Maps）這樣的「寫程式機器」能產出誇張的程式碼量。現在有了代理人，任何人都能成為寫程式機器，但數量暴增帶來品質崩壞的風險——講者上個月把 3,000 個 PR 送上正式環境，很多還是在睡覺時完成的。軟體工程的「玩法」變成：在大幅提升生產力的同時，維持甚至提升程式碼品質。 關鍵概念：寫程式機器（Code Machin",
+    "url": "/notes/all-code-is-slop-except-mine"
+  },
+  {
     "id": "your-old-prompts-making-claude-worse",
     "title": "成本與品質不必二選一",
     "category": "影片筆記",
