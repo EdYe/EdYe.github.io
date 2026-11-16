@@ -1,5 +1,25 @@
 [
   {
+    "id": "software-engineering-after-code-becomes-cheap",
+    "title": "程式碼變便宜後，軟體工程重心轉向驗證",
+    "category": "影片筆記",
+    "tags": [
+      "驗證",
+      "軟體工廠",
+      "決策引擎",
+      "主權企業",
+      "模型系統"
+    ],
+    "description": "Microsoft 執行長 Satya Nadella 提出：當 AI 讓程式碼生成變得極度廉價，軟體工程的重心將從「寫程式」轉移到驗證與規格——程式碼從輸入變...",
+    "quote": "💡在程式碼生成變得便宜的世界裡，真正變難的是驗證。",
+    "action": "🎯用 S-V-O 法則：把心力移到規格與意圖、把每次失敗轉成測試並用不同模型家族交叉評審、確保上下文與模型分離到能隨時替換模型。",
+    "image": "/images/影片筆記/software-engineering-after-code-becomes-cheap.jpg",
+    "date": "2026-11-17",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Microsoft 執行長 Satya Nadella 提出：當 AI 讓程式碼生成變得極度廉價，軟體工程的重心將從「寫程式」轉移到驗證與規格——程式碼從輸入變成輸出。工程師的價值不減反增，但工作層次改變：打造軟體工廠、掌握自主的模型系統與上下文層，成為企業的主權策略。不掌控自身 AI 基礎設施的公司，正犯下重大策略錯誤。 [詳細重點整理] 1. 開源轉型與「敘事對上事實」    Satya 回顧 Microsoft 從擁抱閉源到全力投入開源的歷程（VS Code、GitHub 收購、TypeScript 開源）。他強調即使在他上任前，Microsoft 對 Linux 已有可觀貢獻，但敘事對上事實——印象一旦形成就需要極大努力扭轉。若做一次開源貢獻清算，Microsoft 會名列前茅，而許多從開源獲益最多的公司幾乎零貢獻。 2. VS Code 與公開打造的文化轉變 \\[00:04:15\\]   VS Code 免費、開源、與社群共同打造，5–10 年後無所不在。這是刻意為之的策略，更是 Microsoft 第一次實踐公開打造：PM 每天把社群回饋當作產品打造依據，而非",
+    "url": "/notes/software-engineering-after-code-becomes-cheap"
+  },
+  {
     "id": "ontology-everything-you-need-to-know",
     "title": "本體論從哲學到 AI 工程的演變脈絡",
     "category": "影片筆記",
