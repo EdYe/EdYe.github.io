@@ -60,6 +60,26 @@
     "url": "/notes/ontology-everything-you-need-to-know"
   },
   {
+    "id": "ai-will-take-your-job-by-2027",
+    "title": "AI 將在 2027 年奪走多數知識工作",
+    "category": "影片筆記",
+    "tags": [
+      "遞迴式自我開發",
+      "擴增智慧",
+      "汰換週期",
+      "主權科技",
+      "相互保證繁榮"
+    ],
+    "description": "前 Google X 主管 Mo Gawdat 斷言：AI 奪走多數知識工作的時程點就在 2027 年，且人類會在 AI 失控之前先被自己的貪婪與戰爭終結。真正...",
+    "quote": "💡我們害怕的不是 AI，我們害怕的是變成 Donald Trump 的 AI。",
+    "action": "🎯A-S-D-A-C-E 法則：保持敏捷、用 AI 借智商、多 AI 辯論查證、學一項類比技能、投資人際連結、堅守倫理。",
+    "image": "/images/影片筆記/ai-will-take-your-job-by-2027.png",
+    "date": "2026-11-17",
+    "source_has_timestamps": true,
+    "body": "AI Will Take Your Job by 2027 | Former Google X Executive (Mo Gawdat) 核心摘要 前 Google X 主管 Mo Gawdat 斷言：AI 奪走多數知識工作的時程點就在 2027 年，且人類會在 AI 失控之前先被自己的貪婪與戰爭終結。真正該問的不是「如何阻止 AI」，而是「我如何準備」。他的解方是六項技能：敏捷、擴增智慧、辯論、類比技能、人際連結與倫理，並主張用「汰換週期」的創業機會，而非被動等待取代。 詳細重點整理 1. 開場警告：三條被打破的 AI 紅線 Mo Gawdat 在科技業 27 年，歷經 IBM、Microsoft，最後在 Google 主導最機密專案。他指出業界原本有三條不成文規定：不要把 AI 放上開放網路、不要教 AI 寫程式、不要讓 AI 接受其他 AI 的提示——如今三條全被跨越，對安全專家而言「這簡直是瘋了」。他認為 AI 取代所有工作在技術上完全成立，但經濟現實會阻止其發生。 關鍵概念：炒作悖論（Paradox of Hype）——技術人看到的 AI 圖像與新聞呈現的完全不同，前者談的",
+    "url": "/notes/ai-will-take-your-job-by-2027"
+  },
+  {
     "id": "all-code-is-slop-except-mine",
     "title": "打造讓你信任代理人產出的環境",
     "category": "影片筆記",
