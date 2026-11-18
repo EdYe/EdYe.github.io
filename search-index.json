@@ -1,5 +1,25 @@
 [
   {
+    "id": "instagram-head-ai-loops",
+    "title": "Instagram 負責人如何用 AI 迴圈經營組織",
+    "category": "影片筆記",
+    "tags": [
+      "學習者心態",
+      "回饋迴圈",
+      "共享記憶",
+      "決策授權",
+      "二階偏好"
+    ],
+    "description": "Instagram 負責人 Adam Mosseri 揭露他如何用自建 AI 系統經營一個月活 30 億的組織：核心不是用了多強的模型，而是建立讓 AI 自我進...",
+    "quote": "💡模型開箱即用時就是網路的平均水準；你建立的每一個迴圈，都在把它從「平均」蒸餾成「你」。",
+    "action": "🎯用 L-L-C 法則：比對 AI 草稿與你的定稿並把差異餵回、每月替換或升級一個工作流、用軌跡而非位置評估工具與人才。",
+    "image": "/images/影片筆記/instagram-head-ai-loops.jpg",
+    "date": "2026-11-18",
+    "source_has_timestamps": true,
+    "body": "頻道：Silicon Valley Girl｜來賓：Adam Mosseri（Instagram 負責人）｜長度：44:39 --- [核心摘要] Instagram 負責人 Adam Mosseri 揭露他如何用自建 AI 系統經營一個月活 30 億的組織：核心不是用了多強的模型，而是建立讓 AI 自我進步的迴圈（loop）。他自建「Desk」指揮中心整合會議、郵件與訊息，用「Roger」追蹤承諾、用「Custodian」統一所有 AI 工具的共享記憶。影片同時闡述他的管理哲學：決策授權、以「軌跡而非位置」看人、以及用二階偏好對抗淺層指標優化 。 --- [詳細重點整理] 1. 學習者心態：技術每月都在變  想讓 AI 為你所用，必須擁抱學習者心態（learner's mindset）。模型與工具的能力每六個月就大幅不同，Adam 用來把工作做好的工具幾乎每月都在替換。這不是「學會一件事就永遠用下去」的模式，而是一種持續演進、有時累人但令人興奮的做法 。 關鍵概念：學習者心態 2. Roger：追蹤沒被兌現的承諾  帶大團隊最常見的痛點：你要求某件事，對方說「好」，然後永遠沒下文。A",
+    "url": "/notes/instagram-head-ai-loops"
+  },
+  {
     "id": "what-is-product-engineering",
     "title": "產品工程：讓工程師共同承擔產品成果",
     "category": "影片筆記",
