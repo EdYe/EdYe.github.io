@@ -20,6 +20,26 @@
     "url": "/notes/mattpocock-skills-21000-line-feature"
   },
   {
+    "id": "google-harness2-self-improving-agent",
+    "title": "Google Harness²：自我改進的 AI Agent 架構",
+    "category": "AI筆記",
+    "tags": [
+      "Model-Harness 分離",
+      "Propose-Probe-Compose",
+      "雙層遞迴",
+      "證據支持教訓",
+      "零重訓練增益"
+    ],
+    "description": "Google Research 開源了 Harness²，核心貢獻是證明 AI Agent 的效能瓶頸往往不在模型本身，而在包裹模型的 Harness（設定環境）。在不更換模型、不重新訓練的前提下...",
+    "quote": "💡廚師不變，翻新廚房就能多拿 11.8 分——你等的下一個模型，可能不如你今天就能改寫的設定檔。",
+    "action": "🎯P-P-C 法則：面對表現不佳的 Agent，先 Propose 多個設定修改，再 Probe 平行實測比較，最後 Compose 保留有效組合。",
+    "image": "/images/AI筆記/google-harness2-self-improving-agent.jpg",
+    "date": "2026-11-19",
+    "source_has_timestamps": false,
+    "body": "Google Harness²：自我改進的 AI Agent 架構 [核心摘要] Google Research 開源了 Harness²，核心貢獻是證明 AI Agent 的效能瓶頸往往不在模型本身，而在包裹模型的 Harness（設定環境）。在不更換模型、不重新訓練的前提下，僅讓 Agent 自己改寫系統提示、記憶、技能檔案等八個組成部分，就能在辦公、專業與實驗室任務上提升 4.5 至 11.8 個百分點，解決了「每次都要等更強新模型」的痛點 。 [詳細重點整理] 1. 同一顆大腦，更好的廚房 Agent 由兩部分組成：Model（模型） 是大腦，Harness（工具架構） 是包圍大腦的一切——指令、規則、記憶、工具、技能與輔助 Agent。以廚師比喻：廚師再強，廚房雜亂照樣端出爛菜。傳統做法是人們把廚房「設計一次、永久使用」，但真實工作會不斷丟來沒人預料過的新任務，Google 稱之為 Open World（開放世界） 問題 。 - 關鍵概念：Model-Harness 分離 2. 三組基準測試的實測數據 以 Gemini 5 與 Gemini 3 Flash 兩種模型、四種模型",
+    "url": "/notes/google-harness2-self-improving-agent"
+  },
+  {
     "id": "output-vs-outcome-metrics",
     "title": "產出指標與成果指標：別淪為功能工廠",
     "category": "影片筆記",
