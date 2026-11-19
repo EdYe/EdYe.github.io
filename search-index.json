@@ -1,5 +1,25 @@
 [
   {
+    "id": "mattpocock-skills-21000-line-feature",
+    "title": "用 mattpocock skills 交付兩萬行功能",
+    "category": "影片筆記",
+    "tags": [
+      "領域建模",
+      "情境測試",
+      "原型迭代",
+      "聰明區與笨區",
+      "retro 回顧"
+    ],
+    "description": "Matt Pocock 完整示範如何用其開源的 skills 系列，在 Claude Code 上交付一個 21,000 行的縮圖圖表編輯功能。核心貢獻在於展示...",
+    "quote": "💡你給代理的模糊空間越多，它就越有可能選到糟糕的選項 — 人類的價值在於把決策空間壓到零。",
+    "action": "🎯G-S-R 法則：開工先拷問鎖定領域語言，中場壓縮成規格與工單後 AFK 執行，收工用 retro 把審查意見變成 lint 規則與 skill issue。",
+    "image": "/images/影片筆記/mattpocock-skills-21000-line-feature.jpg",
+    "date": "2026-11-19",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Matt Pocock 完整示範如何用其開源的 skills 系列，在 Claude Code 上交付一個 21,000 行的縮圖圖表編輯功能。核心貢獻在於展示一套「人機分工」工作流：人類主導前期領域建模（grill-with-docs 拷問）與後期品味審查（retro 回顧），把中間的規格、工單與實作全部壓縮進代理的決策真空區，解決「AI 寫碼品質不可控、方向漂移」的痛點。 [詳細重點整理] 1. 技能選擇決策樹  新工作開始時先問：我要的東西本質上是一個 diff。diff 很小就 one-shot；diff 大就用 grill-with-docs；如果比想像大很多再轉向 wayfinder（把拷問延伸到多個 session）。本次功能（縮圖產生器中直接繪製圖表）明顯偏大，故選 grill-with-docs。執行環境為個人 home repo + Claude Ultra（Opus 5.5、medium effort），多數 skill 開源於 [aihero.dev/skills](http://aihero.dev/skills)。 關鍵概念：diff 評估 —",
+    "url": "/notes/mattpocock-skills-21000-line-feature"
+  },
+  {
     "id": "output-vs-outcome-metrics",
     "title": "產出指標與成果指標：別淪為功能工廠",
     "category": "影片筆記",
