@@ -8,7 +8,7 @@ description: 'Google Research 開源了 Harness²，核心貢獻是證明 AI Age
 quote: '💡廚師不變，翻新廚房就能多拿 11.8 分——你等的下一個模型，可能不如你今天就能改寫的設定檔。'
 action: '🎯P-P-C 法則：面對表現不佳的 Agent，先 Propose 多個設定修改，再 Probe 平行實測比較，最後 Compose 保留有效組合。'
 source_has_timestamps: false
-source_raw: Google Harness²: NEW Self-Improving AI Agent
+source_raw: 'Google Harness²: NEW Self-Improving AI Agent'
 ---
 # Google Harness²：自我改進的 AI Agent 架構
 
