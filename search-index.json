@@ -1,5 +1,25 @@
 [
   {
+    "id": "how-to-actually-code-with-ai",
+    "title": "Matt Pocock：戰術交給 AI，戰略由你",
+    "category": "影片筆記",
+    "tags": [
+      "戰略型程式設計",
+      "詞彙表",
+      "上下文視窗",
+      "單向門",
+      "深模組"
+    ],
+    "description": "AI agent 極擅長「戰術性」寫程式、極不擅長「戰略性」思考，因此開發者的新職責是經營 agent 的運作環境：用共通詞彙表與 ADR 建立溝通、用「gri...",
+    "quote": "💡與其等下一個模型來解決你的所有問題，何不直接把你的問題都解決掉？——策略性程式設計的全部，就是比旁邊的人多在乎一點點。",
+    "action": "🎯下一個功能照走 G-S-I-R-R 迴圈：Grill 盤問對齊 → Spec 寫規格 → Implement 平行工單 → Review 雙軌審查 → Retro 意見回流成自動化檢查。",
+    "image": "/images/影片筆記/how-to-actually-code-with-ai.jpg",
+    "date": "2026-11-21",
+    "source_has_timestamps": true,
+    "body": "How to Actually Code with AI (ft. Matt Pocock) — 結構化筆記 來源：NetworkChuck｜長度 02:02:36｜上傳 2026-11-20 [核心摘要] AI agent 極擅長「戰術性」寫程式、極不擅長「戰略性」思考，因此開發者的新職責是經營 agent 的運作環境：用共通詞彙表與 ADR 建立溝通、用「grill → spec → ticket → review → retro」迴圈出貨、用深模組與自動化檢查約束 agent，逐步爬上信任階梯。痛點：vibe coding 會讓程式碼庫持續惡化，而你不修正環境、只換更強的模型也無解 。 [詳細重點整理] 1. 戰術 vs 戰略：AI 時代的新分工  引用 John Ousterhout《A Philosophy of Software Design》：戰術型程式設計是打贏眼前戰鬥的中士，戰略型是打贏整場戰爭的將軍。AI 在基準測試中只針對單一任務計分，重心百分之百是戰術；戰略錯誤通常要九個月後才反噬，所以模型天生不會在乎長期。結論：戰術交給 AI，戰略由你掌握 。 關鍵概念：戰術",
+    "url": "/notes/how-to-actually-code-with-ai"
+  },
+  {
     "id": "druckenmiller-not-playing-right-now",
     "title": "Druckenmiller：總經反轉下的主動退場",
     "category": "影片筆記",
