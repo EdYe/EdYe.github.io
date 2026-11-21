@@ -20,6 +20,26 @@
     "url": "/notes/how-to-actually-code-with-ai"
   },
   {
+    "id": "dhh-ai-16-hour-days",
+    "title": "DHH：Agent 時代，Linux 逆襲作業系統",
+    "category": "影片筆記",
+    "tags": [
+      "代理原生作業系統",
+      "應用可得性護城河",
+      "品味即護城河",
+      "零協調成本",
+      "氛圍之戰"
+    ],
+    "description": "AI agent 時代徹底翻轉了作業系統競爭格局：macOS 與 Windows 圍繞滑鼠點擊設計的架構不適合 agent，而 Linux 歷來的「缺點」（終端...",
+    "quote": "💡未來已經來臨，只是分布得不均勻。——William Gibson（DHH 唯一願意背書的預測框架）",
+    "action": "🎯依 V-C-C 法則實踐：Vision 先定完美終點再讓 agent 規劃路徑；Craft 死磕最後 2% 的細節打磨；Cost 一個 200 美元訂閱就足以驅動發行版級專案，別拿資源當藉口。",
+    "image": "/images/影片筆記/dhh-ai-16-hour-days.jpg",
+    "date": "2026-11-21",
+    "source_has_timestamps": true,
+    "body": "Why AI Has DHH Working 16-Hour Days — 結構化筆記 基本資訊：a16z 頻道｜長度 52:15｜來賓：David Heinemeier Hansson（DHH，Ruby on Rails / Basecamp / HEY 創辦人）｜上傳：2026-11-20 [核心摘要] AI agent 時代徹底翻轉了作業系統競爭格局：macOS 與 Windows 圍繞滑鼠點擊設計的架構不適合 agent，而 Linux 歷來的「缺點」（終端機依賴、純文字設定檔、詳盡錯誤訊息）恰恰是 agent 最愛的三樣東西 。DHH 據此打造 Omarchy——一個他自己沒寫過一行程式碼、全由 agent 開發的 Linux 發行版，並宣告「原始碼護城河已死」：小團隊兼職兩個半月就能做出與數萬人大廠抗衡的產品。他每天工作 16 小時，是因為完美主義者與品味之間的摩擦力消失了 。 [詳細重點整理] 1. DHH 的背景與轉向  30 年網路軟體資歷，23 年經營 Basecamp（史上最早的 SaaS 之一），從中抽出 Ruby on Rails，被用於打造 Twitter、",
+    "url": "/notes/dhh-ai-16-hour-days"
+  },
+  {
     "id": "druckenmiller-not-playing-right-now",
     "title": "Druckenmiller：總經反轉下的主動退場",
     "category": "影片筆記",
