@@ -27,7 +27,7 @@ bundle exec jekyll serve
 - **筆記頁由 Jekyll 產生**：`_notes/` 是 collection，輸出到 `/notes/:name`，套用 `_layouts/note.html`（`_config.yml` 設了預設 layout 與 `future: true`）。
 - **`rebuild-index.js` 自帶簡易 Front Matter 解析器**，只認單行 `key: value` 與 `[a, b]` 陣列，不支援多行 YAML。Front Matter 的值必須寫在同一行。
 - **`batch-convert.sh` 會把本檔當成 prompt 使用**：它對每個 raw note 執行 `claude -p "請讀取 CLAUDE.md 的格式規範…"`，所以修改下方格式規範會直接影響批次輸出。這個腳本會另外寫入 `source_raw: <原始檔名>` 欄位，用來判斷是否已處理過；完成後也會自動重建索引並 `git add . && commit && push`。腳本只檢查 `.jpeg/.jpg/.png` 圖片，不包含 `.webp`。
-- `raw-notes/` 的內容已加入 gitignore，並在 `_config.yml` 排除，不會部署，只是本機輸入區。圖片放在 `images/<category>/<slug>.<ext>`。
+- `raw-notes/` 的 `.md/.png/.jpg/.jpeg` 已加入 gitignore（`.webp` 沒有），整個目錄在 `_config.yml` 排除，不會部署，只是本機輸入區。圖片放在 `images/<category>/<slug>.<ext>`。
 
 ## Git
 
