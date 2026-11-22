@@ -1,5 +1,25 @@
 [
   {
+    "id": "anthropic-top-1-percent-ai-users",
+    "title": "Anthropic 研究：頂尖 1% 如何用 AI",
+    "category": "影片筆記",
+    "tags": [
+      "指令清晰度",
+      "交辦四要素",
+      "回饋式修正",
+      "審閱吞吐量",
+      "設定排毒"
+    ],
+    "description": "Anthropic 兩項大規模研究（23.5 萬人、40 萬次 Claude 工作階段 + 內部員工使用調查）揭示了頂尖 AI 使用者與一般人的六大差異：清楚溝...",
+    "quote": "💡最會用 AI 的人，就是最會管理的人——有了 AI，每個人都是主管，而 AI 只看得到你給它的脈絡。",
+    "action": "🎯W-R-G-D 法則：每則提示詞依序涵蓋 Work（要做什麼）、Reason（為什麼）、Guardrails（不可碰什麼）、Done（完成長什麼樣）；出錯時先 /rewind 修提示詞，再考慮提高 effort level。",
+    "image": "/images/影片筆記/anthropic-top-1-percent-ai-users.jpg",
+    "date": "2026-11-22",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Anthropic 兩項大規模研究（23.5 萬人、40 萬次 Claude 工作階段 + 內部員工使用調查）揭示了頂尖 AI 使用者與一般人的六大差異：清楚溝通、善於回饋修正、讓產出易於審閱、把「一直沒做的工作」自動化、讓決策對 AI 可見、以及保持設定精簡。核心洞見是——未來職場最重要的技能是「管理 AI」，如同管理一位能力強但只看得到你給的脈絡的員工。 [詳細重點整理] 1. 課題一：清楚溝通是最大分水嶺  - 40 萬次 Claude Code 工作階段研究中，新手僅 15% 的時間獲得「經過驗證的成果」，專家則是兩倍以上。 - Anthropic 判定「專家」的標準不是職稱，而是：描述需求有多精確、要求 AI 檢查什麼、以及是你在糾正 AI 還是被 AI 糾正。甚至在寫程式任務上，主管得分高於工程師，因為主管習慣清楚說明「要完成什麼」。 - 關鍵概念：指令清晰度（Prompt Clarity）——隨模型能端到端完成任務，「知道要什麼並講清楚」將成為跨職業的核心技能。 2. 四點交辦框架（主管心智模型） 每次交辦任務給 Claude，走過四個要素（建議用語音轉文字",
+    "url": "/notes/anthropic-top-1-percent-ai-users"
+  },
+  {
     "id": "how-to-actually-code-with-ai",
     "title": "Matt Pocock：戰術交給 AI，戰略由你",
     "category": "影片筆記",
