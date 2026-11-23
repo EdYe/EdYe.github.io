@@ -20,6 +20,26 @@
     "url": "/notes/software-factory-anti-slop"
   },
   {
+    "id": "eisman-ai-concentration-risk",
+    "title": "Eisman：AI 兩家公司倒，美國就衰退",
+    "category": "影片筆記",
+    "tags": [
+      "誘因",
+      "集中風險",
+      "護城河",
+      "鎬與鏟",
+      "指數投資"
+    ],
+    "description": "Steve Eisman（2008 年金融危機的預測者、《大賣空》原型人物）指出：當前美國股市與經濟已高度依賴 AI 單一敘事，而整條供應鏈的頂端竟只繫於 Anthropic 與...",
+    "quote": "💡如果 Anthropic 和 OpenAI 明天破產，美國隔天就會陷入衰退。",
+    "action": "🎯I-M-C 法則：評估投資時依序檢查 Incentive（誘因）、Moat（護城河）、Concentration（集中度），任一出現警訊就是風險所在。",
+    "image": "/images/影片筆記/eisman-ai-concentration-risk.jpg",
+    "date": "2026-11-24",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] Steve Eisman（2008 年金融危機的預測者、《大賣空》原型人物）指出：當前美國股市與經濟已高度依賴 AI 單一敘事，而整條供應鏈的頂端竟只繫於 Anthropic 與 OpenAI 兩家公司——若這兩家破產，美國隔天就會陷入衰退。他主張 AI 產業「沒有護城河」，末日論是為了換取監管保護的陰謀，並給出散戶投資人的務實對策：買指數、別買房、押注「鎬與鏟」。 [詳細重點整理] 1. 誘因勝過道德：2007 年拉斯維加斯的那場晚餐  2007 年與次貸 CDO 管理人 Wing 的晚宴，揭示了金融危機的核心機制：華爾街創造了一個每年發放約 6,000 億美元次級房貸的產業，所有參與者（放款機構、投行、基金管理人）的誘因都放在「量」而非「品質」——只要持續放寬承銷標準（從 2002 年的 750 億美元一路放大），短期就能獲利，而損失是之後才會浮現的。Merrill Lynch 甚至把自己創造的證券化商品，透過「獨立管理人」的名義包裝回頭賣給客戶。 關鍵概念：誘因永遠勝過道德（Incentives beat ethics）——當一個系統獎勵量而非質，它必然一路衝到崩潰",
+    "url": "/notes/eisman-ai-concentration-risk"
+  },
+  {
     "id": "outcome-debt",
     "title": "成果債：產品版的技術債",
     "category": "影片筆記",
