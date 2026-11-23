@@ -1,5 +1,25 @@
 [
   {
+    "id": "software-factory-anti-slop",
+    "title": "軟體工廠不出 Slop 的 12 條規則",
+    "category": "影片筆記",
+    "tags": [
+      "前推力",
+      "回壓",
+      "預期痛苦",
+      "反Slop宣言",
+      "人類審查"
+    ],
+    "description": "「12 Factor Factories」主張：軟體工廠本身不會失敗，失敗的是在工廠裡踩雷的做法。將傳統軟體工廠代理化的核心不是模型，而是前推力（讓工作自動開始）與回壓...",
+    "quote": "💡AI 無法取代人類的判斷，它只能放大我們的判斷——在某些情況下，也會放大我們判斷力的缺乏。",
+    "action": "🎯P-P-A 法則：Plan 先規劃難改的決策、Press 建立前推力與回壓讓代理自主爬坡、Audit 對利害重大的產出保持人類審查。",
+    "image": "/images/影片筆記/software-factory-anti-slop.jpg",
+    "date": "2026-11-24",
+    "source_has_timestamps": true,
+    "body": "[核心摘要] 「12 Factor Factories」主張：軟體工廠本身不會失敗，失敗的是在工廠裡踩雷的做法。將傳統軟體工廠代理化的核心不是模型，而是前推力（讓工作自動開始）與回壓（讓代理自主爬坡到高品質）的交互作用。演講以 SlopCodeBench 實證數據證明：無人看管的模型無法隨時間維護程式碼庫品質，並發表反 Slop 宣言，強調人類判斷與審查是 AI 時代的最後防線。 [詳細重點整理] 1. 從脈絡工程到軟體工廠 Dex Horthy（Human Layer 前執行長，已加入 Factory）一年前推行脈絡工程概念，本次演講延續其「提煉恆久不變原則」的方法論，從代理設計延伸到軟體工廠架構設計 。 2. 爛產出的實證數據 SlopCodeBench（威斯康辛大學實驗室）是遠未飽和的基準：GPT-5.5 僅 15%、Astra 16.3%。Pharos 研究顯示：30% 的 PR 未經審查就合併，每個 PR 的事故更多、每位開發者的 bug 更多——代理化生產放大了品質風險 。 關鍵概念：爛產出 —— 產出心力少於接收者理解成本的內容。 3. 軟體工廠不會失敗，雷區才會 標準軟",
+    "url": "/notes/software-factory-anti-slop"
+  },
+  {
     "id": "outcome-debt",
     "title": "成果債：產品版的技術債",
     "category": "影片筆記",
