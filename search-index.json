@@ -1,5 +1,25 @@
 [
   {
+    "id": "how-anthropic-builds-software-2026",
+    "title": "Anthropic 2026 年如何打造軟體",
+    "category": "影片筆記",
+    "tags": [
+      "Rust遷移",
+      "影子流量",
+      "變更分類器",
+      "常駐代理",
+      "代理協作面試"
+    ],
+    "description": "Anthropic 平台工程負責人 Katelyn Lesse 揭露 2026 年內部開發實況：一支小團隊以代理驅動的「大躍進式」遷移，在五、六個月內將核心 API 層從 Python 單體",
+    "quote": "💡在一個充滿非確定性的世界裡，只要你能讓東西可驗證，你就處於非常、非常好的位置。",
+    "action": "🎯以 A-V-A 法則（野心、驗證、常駐代理）重塑開發流程：用影子比對建立信任，讓代理接管機械化工作。",
+    "image": "/images/影片筆記/how-anthropic-builds-software-2026.jpg",
+    "date": "2026-11-26",
+    "source_has_timestamps": true,
+    "body": "How Anthropic builds software in 2026 with Katelyn Lesse  [核心摘要] Anthropic 平台工程負責人 Katelyn Lesse 揭露 2026 年內部開發實況：一支小團隊以代理驅動的「大躍進式」遷移，在五、六個月內將核心 API 層從 Python 單體改寫成 Rust，靠影子流量與可驗證性取代逐行程式碼審查；招募上逐步淘汰程式面試、PM 可直接推送正式環境，工程師的角色從「寫程式」位移到「定義可驗證的意圖 + 跨團隊協調 + 提高野心」。 [詳細重點整理] 1. Claude 平台架構總覽 請求路徑為：驗證服務（authn/authz）→ 核心 API 服務（多區域、多雲 CPU 叢集，執行 tokenization、計費、安全檢查）→ GPU/TPU 推論層。所有自家人員應用（Claude Code、Desktop）都跑在與外部客戶相同的 Messages API 之上；且 API 允許請求開啟長達約一小時，屬於無狀態、每回合都得回傳整個對話狀態的特殊形態。   關鍵概念：吃自己的狗糧——內部應用與外部客戶共用同一套",
+    "url": "/notes/how-anthropic-builds-software-2026"
+  },
+  {
     "id": "roadmap-shield",
     "title": "路線圖護盾：當產品路線圖反過來阻礙你",
     "category": "影片筆記",
